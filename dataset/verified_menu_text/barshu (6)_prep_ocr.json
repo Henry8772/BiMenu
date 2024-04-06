@@ -1,0 +1,106 @@
+[
+    {
+        "chinese_name": [
+            "椒盐",
+            "软",
+            "壳",
+            "蟹"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "SOFT",
+            "SHELL",
+            "CRAB"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鱿鱼"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "SQUID"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "排骨"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "SPARE",
+            "RIBS"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒",
+            "盐藕",
+            "片"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "LOTUS",
+            "ROOT"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "芦笋"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "ASPARAGUS"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "平菇"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "OYSTER",
+            "MUSHROOM"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    }
+]

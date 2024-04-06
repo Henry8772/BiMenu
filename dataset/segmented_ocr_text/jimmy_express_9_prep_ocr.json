@@ -1,0 +1,88 @@
+[
+    {
+        "chinese_name": [
+            "干锅",
+            "鸡"
+        ],
+        "english_name": [
+            "Dry",
+            "Pot",
+            "Beef",
+            "Brisket"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "牛腩"
+        ],
+        "english_name": [
+            "Dry",
+            "Pot",
+            "Lamb",
+            "Brisket"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "羊",
+            "腩"
+        ],
+        "english_name": [
+            "Dry",
+            "Pot",
+            "Pork",
+            "Intestines"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "肥肠"
+        ],
+        "english_name": [
+            "Dry",
+            "Pot",
+            "Pork",
+            "Tripe"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "猪肚"
+        ],
+        "english_name": [
+            "Dry",
+            "Pot",
+            "Pork",
+            "Shank"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "猪手"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

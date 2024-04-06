@@ -1,0 +1,190 @@
+[
+    {
+        "chinese_name": [
+            "东风",
+            "螺",
+            "片",
+            "辣炒",
+            "老干妈",
+            "炒",
+            "酱"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Sliced",
+            "Whelks",
+            "in",
+            "Spicy",
+            "Chilli",
+            "Oil",
+            "In",
+            "Big",
+            "Grandma's",
+            "Chilli",
+            "Sauce",
+            "XO",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白灼",
+            "东风",
+            "螺"
+        ],
+        "english_name": [
+            "Blanched",
+            "whelks",
+            "with",
+            "Soy",
+            "Sauce",
+            "Dip"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "粉丝",
+            "煲"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Vermicelli",
+            "in",
+            "Hot",
+            "Pot",
+            "with",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "椒盐",
+            "香辣",
+            "甜",
+            "辣"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蛏",
+            "子",
+            "豉",
+            "汁",
+            "炒",
+            "辣炒",
+            "酱",
+            "炒",
+            "白灼"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "King",
+            "Prawn",
+            "in",
+            "Shell",
+            "with",
+            "Salt",
+            "and",
+            "Pepper",
+            "In",
+            "Dried",
+            "Spicy",
+            "Chilli",
+            "In",
+            "Sweet",
+            "Chilli",
+            "Sauce",
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "小",
+            "龙虾"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Razor",
+            "Clams",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce",
+            "In",
+            "Spicy",
+            "Chilli",
+            "Sauce",
+            "With",
+            "XO",
+            "Sauce",
+            "Blanched"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "Fried",
+                "Crayfish",
+                "in",
+                "Spicy",
+                "Chilli",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "我们",
+            "会",
+            "加收",
+            "服务",
+            "费"
+        ],
+        "english_name": [
+            "Wecharge",
+            "a",
+            "service",
+            "charge",
+            "on",
+            "all",
+            "customers"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

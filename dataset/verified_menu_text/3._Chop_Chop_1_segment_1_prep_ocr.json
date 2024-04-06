@@ -1,0 +1,93 @@
+[
+    {
+        "chinese_name": [
+            "雙拼",
+            "燒",
+            "味"
+        ],
+        "english_name": [
+            "Two",
+            "Signature",
+            "Meats"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "三",
+            "拼",
+            "燒",
+            "味"
+        ],
+        "english_name": [
+            "Three",
+            "Signature",
+            "Meats"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "燒",
+            "味",
+            "飯"
+        ],
+        "english_name": [
+            "One",
+            "Signature",
+            "Meat",
+            "with",
+                "rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "三",
+            "拼",
+            "燒",
+            "味",
+            "飯"
+        ],
+        "english_name": [
+            "Three",
+            "Signature",
+            "Meats",
+            "with",
+                "rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雙拼",
+            "燒",
+            "味",
+            "飯"
+        ],
+        "english_name": [
+            "Two",
+            "Signature",
+            "Meats",
+            "with",
+            "rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+    
+]

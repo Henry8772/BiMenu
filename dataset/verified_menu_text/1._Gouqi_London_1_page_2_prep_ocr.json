@@ -1,0 +1,205 @@
+[
+    {
+        "chinese_name": [
+            "素菜",
+            "点心",
+            "四",
+            "步",
+            "曲"
+        ],
+        "english_name": [
+            "Steamed",
+            "Vegetarian",
+            "Dim",
+            "Sum",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲍鱼",
+            "烧卖"
+        ],
+        "english_name": [
+            "Pork",
+            "and",
+            "Prawn",
+            "Siu",
+            "Mai",
+            "with",
+            "Abalone"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雪菜",
+            "章鱼",
+            "饺"
+        ],
+        "english_name": [
+            "Octopus",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "水晶",
+            "虾",
+            "饺"
+        ],
+        "english_name": [
+            "Black",
+            "Truffle",
+            "Har",
+            "Gau"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲜虾",
+            "带子",
+            "饺"
+        ],
+        "english_name": [
+            "Prawn",
+            "and",
+            "Scallop",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "碧绿",
+            "菠菜",
+            "饺"
+        ],
+        "english_name": [
+            "Prawn",
+            "and",
+            "Spinach",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "帝王",
+            "蟹",
+            "酱",
+            "饺"
+        ],
+        "english_name": [
+            "XO",
+            "King",
+            "Crab",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "叉烧包"
+        ],
+        "english_name": [
+            "Iberico",
+            "Char",
+            "Siu",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "上海",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红油",
+            "抄手"
+        ],
+        "english_name": [
+            "Pork",
+            "and",
+            "Prawn",
+            "Dumpling",
+            "in",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "怀旧",
+            "珍珠鸡"
+        ],
+        "english_name": [
+            "Lotus",
+            "Leaf",
+            "Rice",
+            "with",
+            "Chicken",
+            "and",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "凤爪"
+        ],
+        "english_name": [
+            "Chicken",
+            "Feet",
+            "with",
+            "Black",
+            "Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "chinese_name": [
+            "西式",
+            "干",
+            "牛",
+            "丝"
+        ],
+        "english_name": [
+            "Crispy",
+            "Shredded",
+            "Beefin",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "黑椒",
+            "椒",
+            "姜葱",
+            "沙"
+        ],
+        "english_name": [
+            "Satay",
+            "Sauce",
+            "Beef",
+                "in",
+                "Black",
+                "Pepper",
+                "Black",
+                "Bean",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onions",
+                "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羊肉",
+            "黑椒",
+            "豉",
+            "椒",
+            "姜葱",
+            "咖",
+            "沙爹"
+        ],
+        "english_name": [
+            "Sliced",
+            "Lamb",
+            "in",
+            "Black",
+            "Pepper",
+            "Black",
+            "Bean",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions",
+            "Curry",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    }
+]

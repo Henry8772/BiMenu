@@ -1,0 +1,102 @@
+[
+    {
+        "chinese_name": [
+            "香菜",
+            "拌",
+            "肚丝"
+        ],
+        "english_name": [
+            "Pig's",
+            "Tripe",
+            "with",
+            "Coriander"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "皮蛋",
+            "豆腐"
+        ],
+        "english_name": [
+            "Century",
+            "Egg",
+            "with",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "东北",
+            "五彩",
+            "拉皮"
+        ],
+        "english_name": [
+            "Crystal",
+            "Noodle",
+            "with",
+            "Pork",
+            "and",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "夫妻肺片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "and",
+            "Ox",
+            "Tongue",
+            "in",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "椒",
+            "鸡"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Sichuan",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜泥白肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "with",
+            "Garlic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

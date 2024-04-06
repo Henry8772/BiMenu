@@ -1,0 +1,322 @@
+[
+    {
+        "chinese_name": [
+            "盘"
+        ],
+        "english_name": [
+            "APPETIZERS"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鲜鱿"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Squid"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C12"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "春卷",
+            "肉"
+        ],
+        "english_name": [
+            "Crispy",
+            "Spring",
+            "Rolls"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Meat",
+                "Veg",
+                "4pcs"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香酥",
+            "鸭"
+        ],
+        "english_name": [
+            "Aromatic",
+            "Crispy",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Quarter",
+                "pancakes"
+            ],
+            [
+                "Hal",
+                "pancakes"
+            ],
+            [
+                "Whole",
+                "pancakes"
+            ],
+            [
+                "C17"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "豆腐"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Tofu",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C13"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海草"
+        ],
+        "english_name": [
+            "Crispy",
+            "Seaweed",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "虾片"
+        ],
+        "english_name": [
+            "Prawn",
+            "Crackers"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "鸡",
+            "串"
+        ],
+        "english_name": [
+            "Satay",
+            "Chicken",
+            "Vegetarian",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "VG",
+                "on",
+                "Skewers"
+            ],
+            [
+                "CHICKEN",
+                "DISHES"
+            ],
+            [
+                "D"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "虾"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕噜",
+            "鸡"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Cantonese",
+                "Style"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宫保鸡丁"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Home",
+            "Kung",
+            "Po",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "D"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西式",
+            "干",
+            "鸡丝"
+        ],
+        "english_name": [
+            "Crispy",
+            "Shredded",
+            "Chicken",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Cantonese",
+                "Sauce"
+            ],
+            [
+                "D6"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "片",
+            "黑椒",
+            "豉",
+            "椒",
+            "姜葱",
+            "咖",
+            "沙"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Black",
+            "Pepper",
+            "Black",
+            "Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ginger",
+                "and",
+                "Spring",
+                "Onions",
+                "Curry",
+                "Satay",
+                "Sauce"
+            ],
+            [
+                "D3"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "鸡",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Cashew",
+            "Nuts"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "柠檬",
+            "鸡"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Honey",
+            "and",
+            "Lemon",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

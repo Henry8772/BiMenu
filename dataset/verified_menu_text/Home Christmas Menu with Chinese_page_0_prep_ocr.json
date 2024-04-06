@@ -1,0 +1,62 @@
+[
+
+    {
+        "chinese_name": [
+            "咕噜",
+            "鸡"
+        ],
+        "english_name": [
+           "Sweet and Sour Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "叉烧"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "扬州",
+            "炒饭"
+        ],
+        "english_name": ["Yeung",
+        "Chow",
+        "Fried",
+        "Rice"],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

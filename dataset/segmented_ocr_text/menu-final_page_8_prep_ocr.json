@@ -1,0 +1,202 @@
+[
+    {
+        "chinese_name": [
+            "时价"
+        ],
+        "english_name": [
+            "Market",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱿鱼",
+            "芹菜",
+            "炒",
+            "酱",
+            "香辣",
+            "蒜",
+            "心",
+            "炒",
+            "椒盐",
+            "甜",
+            "辣",
+            "白灼"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "Fried",
+                "Squid",
+                "with",
+                "Celery",
+                "In",
+                "XO",
+                "Sauce",
+                "In",
+                "Spicy",
+                "Sauce",
+                "With",
+                "Garlic",
+                "Sprout",
+                "Salt",
+                "and",
+                "Pepper",
+                "In",
+                "Sweet",
+                "Chilli",
+                "Sauce",
+                "Blanched"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "花枝",
+            "片",
+            "白灼",
+            "酱",
+            "炒"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Blanched",
+                "Sliced",
+                "Cuttlefish",
+                "with",
+                "Chilli",
+                "and",
+                "Spring",
+                "Onion",
+                "Dip",
+                "in",
+                "OX",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "老虎",
+            "虾",
+            "姜葱",
+            "椒盐",
+            "香辣",
+            "麻辣"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Tiger",
+            "Prawn",
+            "in",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion",
+            "Salt",
+            "and",
+            "Pepper",
+            "with",
+            "Dried",
+            "Spicy",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Spicy",
+                "Chilli",
+                "Sauce",
+                "with",
+                "Sichuan",
+                "Peppercorn"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣炒",
+            "田螺"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Winkle",
+            "in",
+            "Spicy",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "龙虾",
+            "泡饭"
+        ],
+        "english_name": [
+            "Soaked",
+            "Cooked",
+            "Rice",
+            "with",
+            "Lobster"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "喝",
+            "中国",
+            "茶",
+            "的",
+            "客人",
+            "们",
+            "茶",
+            "位",
+            "是",
+            "每位"
+        ],
+        "english_name": [
+            "Chinese",
+            "Tea",
+            "will",
+            "be",
+            "charged",
+            "at",
+            "per",
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

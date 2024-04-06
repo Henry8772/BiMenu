@@ -1,0 +1,126 @@
+[
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "虾球",
+            "炒蛋"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Foo",
+            "Young"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Cantonese",
+                "Style"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "马来",
+            "盏",
+            "牛肉",
+            "炒",
+            "通",
+            "菜"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Tong",
+            "Choi",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shrimp",
+                "Paste",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "嫩",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Home",
+            "Pan",
+            "Fried",
+            "Soft",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "青椒",
+            "豆腐皮"
+        ],
+        "english_name": [
+            "Beancurd",
+            "Sheet",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Green",
+                "Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "四季豆"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Green",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Minced",
+                "Pork"
+            ],
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request"
+            ],
+            [
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

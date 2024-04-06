@@ -1,0 +1,321 @@
+[
+    {
+        "chinese_name": [
+            "饭"
+        ],
+        "english_name": [
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "N1"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒饭"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Fried",
+                "Rice"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咸鱼",
+            "鸡",
+            "粒",
+            "炒饭"
+        ],
+        "english_name": [
+            "Salted",
+            "Fish",
+            "and",
+            "Chicken",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄金",
+            "腊味",
+            "炒饭"
+        ],
+        "english_name": [
+            "Chinese",
+            "Sausage",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "N12"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "扬州",
+            "炒饭"
+        ],
+        "english_name": [
+            "Yeung",
+            "Chow",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "N4"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "滑蛋",
+            "虾球",
+            "炒饭"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Fried",
+            "Rice",
+            "in",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "N13"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "炒饭"
+        ],
+        "english_name": [
+            "Home",
+            "Special",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四宝",
+            "炒饭"
+        ],
+        "english_name": [
+            "Chef's",
+            "Special",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "N14"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "生",
+            "炒",
+            "牛肉",
+            "饭"
+        ],
+        "english_name": [
+            "Minced",
+            "Beef",
+            "with",
+            "Lettuce",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "N6"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红",
+            "米海",
+            "鲜",
+            "蛋白",
+            "炒饭"
+        ],
+        "english_name": [
+            "Mixed",
+            "Seafood",
+            "and",
+            "Egg",
+            "White"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "Red",
+                "Rice"
+            ],
+            [
+                "N15"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "三鲜",
+            "炒饭"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mixed",
+                "Seafood",
+                "Fried",
+                "Rice",
+                "in"
+            ],
+            [
+                "XO",
+                "Sauce"
+            ],
+            [
+                "N7"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "海鲜",
+            "炒饭"
+        ],
+        "english_name": [
+            "Mixed",
+            "Seafood",
+            "and",
+            "Black"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Truffle",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "HOME"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "杂",
+            "菜",
+            "炒饭"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetable",
+            "Fried",
+            "Rice",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "N"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "N"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白饭"
+        ],
+        "english_name": [
+            "Boiled",
+            "Rice",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

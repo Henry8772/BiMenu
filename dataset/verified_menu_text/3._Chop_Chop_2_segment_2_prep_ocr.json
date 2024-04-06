@@ -1,0 +1,54 @@
+[
+    {
+        "chinese_name": [
+            "榨菜",
+            "火",
+            "鴨",
+            "絲",
+            "炆",
+            "米粉"
+        ],
+        "english_name": [
+            "Braised",
+            "Rice",
+            "Vermicelli",
+            "Noodles",
+            "with",
+                "duck",
+                "and",
+                "chinese",
+                "preserved",
+                "vegetables",
+                "Zha",
+                "tsai"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "XO",
+            "醬",
+            "炒",
+            "烏",
+            "冬"
+        ],
+        "english_name": [
+            "Stir",
+                "Fried",
+                "Japanese",
+                "Udon",
+                "Noodles",
+                "in",
+                "XO",
+                "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+    
+]

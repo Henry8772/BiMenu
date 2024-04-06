@@ -1,0 +1,385 @@
+[
+    {
+        "chinese_name": ["蒜蓉蒸帶子"],
+        "english_name": [
+            "Steamed",
+            "Fresh",
+            "Scallop",
+            "with",
+            "Garlic",
+            "Soya",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["蒜蓉蒸蟶子"],
+        "english_name": [
+            "Steamed",
+            "Razor",
+            "Clam",
+            "with",
+            "Garlic",
+            "Soya",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "each"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["豉椒青口"],
+        "english_name": [
+            "Mussels",
+            "in",
+            "Black",
+            "Bean",
+            "and",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["椒鹽軟殼蟹"],
+        "english_name": [
+            "Deep",
+                "Fried",
+                "Soft",
+                "Shell",
+                "Crab",
+                "with",
+                "Garlic",
+            "in",
+            "Spicy",
+            "Salt",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["香茜蝦"],
+        "english_name": [
+            "Fried",
+            "King",
+            "Prawn",
+            "Wrapped",
+            "with",
+            "Coriander"
+        
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+                
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["芝麻蝦"],
+        "english_name": [
+            "Sesame",
+            "Prawns",
+            "on",
+            "Toast"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["蒜蓉煎巨蝦"],
+        "english_name": [
+            "Grilled",
+            "Gigantic",
+            "King",
+            "Prawns",
+            "with",
+            "Garlic",
+            "and",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["白灼基圍蝦"],
+        "english_name": [
+            "Boiled",
+            "King",
+            "Prawns",
+            "with",
+            "Soya",
+            "Sauce",
+            "Dip",
+            "in",
+            "shell"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["椒鹽基圍蝦"],
+        "english_name": [
+            "Fried",
+            "King",
+            "Prawn",
+            "in",
+            "Spicy",
+            "Salt",
+            "and",
+            "Pepper",
+            "in",
+            "shell"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鳳尾",
+            "蝦"
+        ],
+        "english_name": [
+            "Butterfly",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海鮮生菜包"
+        ],
+        "english_name": [
+            "Minced",
+            "Seafood",
+            "Wrapped",
+            "in",
+            "Lettuce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "串燒",
+            "沙",
+            "嗲",
+            "蝦"
+        ],
+        "english_name": [
+            "Satay",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "串燒",
+            "沙",
+            "嗲",
+            "雞或",
+            "牛"
+        ],
+        "english_name": [
+            "Satay",
+            "Chicken",
+            "or",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["燻雞絲"],
+        "english_name": [
+            "Smoked",
+            "Shredded",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["京都排骨"],
+        "english_name": [
+            "Barbecued",
+            "Pork",
+            "Spare",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["椒監排骨"],
+        "english_name": [
+            "Pork",
+            "Spare",
+            "Ribs",
+            "with",
+            "Garlic",
+            "in",
+            "Spicy",
+            "Salt",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Grilled",
+                "Pork",
+                "Dumpling"
+            ],
+            [
+                "pieces"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["生煎窩貼"],
+        "english_name": [
+            "Grilled",
+                "Pork",
+                "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["素菜鬆"],
+        "english_name": [
+            "Minced",
+            "Mixed",
+            "Vegetable",
+            "Wrapped",
+            "in",
+            "Lettuce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["越南春卷"],
+        "english_name": [
+            "Vietnamese",
+            "Spring",
+            "Rolls",
+            "with",
+            "minced",
+            "pork",
+            "meat"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["鴛鴱拌海蜇"],
+        "english_name": [
+            "Jelly",
+            "Fish",
+            "with",
+            "Smoked",
+            "Chicken",
+            "and",
+            "Shredded",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["涼拌海蜇"],
+        "english_name": [
+            "Jelly",
+            "Fish",
+            "with",
+            "Cucumber"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["海蜇拌燻蹄"],
+        "english_name": [
+            "Pork",
+            "Knuckle",
+            "Slice",
+            "with",
+            "Jelly",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["潮州图水鴨"],
+        "english_name": [
+            "Chiu",
+            "Chow",
+            "Marinade",
+            "Duck",
+            "with",
+            "Preserved",
+            "Cabba",
+            "alf"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            
+        ],
+        "raw_text": null
+    }
+]

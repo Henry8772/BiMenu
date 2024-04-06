@@ -1,0 +1,255 @@
+[
+    {
+        "chinese_name": [
+            "幹鍋"
+        ],
+        "english_name": [
+            "Dry",
+            "Wok"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dry",
+                "Wok",
+                "is",
+                "a",
+                "typical",
+                "Huanese",
+                "way",
+                "of",
+                "serving",
+                "cooked",
+                "food",
+                "in",
+                "a",
+                "small",
+                "wok"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "幹鍋",
+            "手撕",
+            "包菜"
+        ],
+        "english_name": [
+            "Dry",
+            "Wok",
+            "Pork",
+            "Belly",
+            "and",
+            "Hand",
+            "Torn",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+            [
+                "Thinly",
+                "sliced",
+                "pork",
+                "belly",
+                "and",
+                "hand",
+                "torn",
+                "cabbage",
+                "tossed",
+                "with",
+                "fresh",
+                "garlic",
+                "and",
+                "chilli",
+                "in",
+                "spicy",
+                "Sichuan",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干鍋",
+            "仔雞"
+        ],
+        "english_name": [
+            "Dry",
+            "Wok",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "tender",
+                "pieces",
+                "of",
+                "soft",
+                "marinated",
+                "chicken",
+                "with",
+                "fresh",
+                "garlic",
+                "mixed",
+                "peppers",
+                "chilli",
+                "and",
+                "celery",
+                "in",
+                "spicy",
+                "Sichuan",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干鍋",
+            "藕片"
+        ],
+        "english_name": [
+            "Dry",
+            "Wok",
+            "Sliced",
+            "Lotus",
+            "Root"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "crunchy",
+                "sliced",
+                "lotus",
+                "roots",
+                "with",
+                "fresh",
+                "garlic",
+                "mixed",
+                "peppers",
+                "chilli",
+                "and",
+                "celery",
+                "in",
+                "spicy",
+                "Sichuan",
+                "sauce"
+                
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干鍋",
+            "羊肉"
+        ],
+        "english_name": [
+            "Dry",
+            "Wok",
+            "Lamb"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "tender",
+                "pieces",
+                "of",
+                "marinated",
+                "lamb",
+                "with",
+                "fresh",
+                "garlic",
+                "mixed",
+                "peppers",
+                "chilli",
+                "and",
+                "celery",
+                "in",
+                "spicy",
+                "Sichuan",
+                "sauce"
+            ]
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干鍋",
+            "大腸"
+        ],
+        "english_name": [
+            "Dry",
+            "Wok",
+            "Sliced",
+            "Pig",
+            "Intestines"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "An",
+                "offal",
+                "dish",
+                "Stir",
+                "fried",
+                "marinated",
+                "pig",
+                "intestines",
+                "with",
+                "fresh",
+                "garlic",
+                "mixed",
+                "peppers",
+                "chilli",
+                "and",
+                "celery",
+                "in",
+                "spicy",
+                "Sichuan",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "大腸"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Pig",
+            "Intestines"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "An",
+                "offal",
+                "dish",
+                "Deep",
+                "fried",
+                "pig",
+                "intestines",
+                "served",
+                "with",
+                "hoi",
+                "sin",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    }
+]

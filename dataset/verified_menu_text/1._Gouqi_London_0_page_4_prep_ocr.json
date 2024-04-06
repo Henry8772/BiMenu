@@ -1,0 +1,232 @@
+[
+    {
+        "chinese_name": [
+            "至尊",
+            "点心",
+            "八",
+            "部曲"
+        ],
+        "english_name": [
+            "Supreme",
+            "Royal",
+            "Dim",
+            "Sum",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "素",
+            "点心",
+            "四",
+            "步",
+            "曲"
+        ],
+        "english_name": [
+            "Steamed",
+            "Vegetarian",
+            "Dim",
+            "Sum",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "凉拌",
+            "香酥",
+            "鸭",
+            "沙律"
+        ],
+        "english_name": [
+            "Crispy",
+            "Aromatic",
+            "Duck",
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炭烧",
+            "深海",
+            "八爪鱼"
+        ],
+        "english_name": [
+            "Chargrilled",
+            "Octopus",
+            "with",
+            "Sweet",
+            "Soy",
+            "and",
+            "Golden",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "软",
+            "壳",
+            "蟹"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Softshell",
+            "Crab",
+            "with",
+            "Curry",
+            "Leaf",
+            "Dressing"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "韭菜",
+            "鸡",
+            "锅贴"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Chicken",
+            "and",
+            "Chive",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金不换",
+            "盐",
+            "酥",
+            "鸡"
+        ],
+        "english_name": [
+            "Five",
+            "Spice",
+            "Crispy",
+            "Chicken",
+            "with",
+            "Thai",
+            "Basil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "百花",
+            "椒盐",
+            "鲜鱿"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Squid",
+            "Stuffed",
+            "with",
+            "Minced",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芝麻",
+            "虾",
+            "多",
+            "士"
+        ],
+        "english_name": [
+            "Sesame",
+            "Prawn",
+            "Toast"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "脆皮",
+            "自制",
+            "豆腐"
+        ],
+        "english_name": [
+            "Crispy",
+            "Home",
+            "Made",
+            "Tofu",
+            "with",
+            "Crushed",
+            "Olive"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["(v)"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羊肚菌",
+            "素",
+            "春卷"
+        ],
+        "english_name": [
+            "Morel",
+            "Mushroom",
+            "Spring",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "鸳鸯",
+            "茄"
+        ],
+        "english_name": [
+            "Golden",
+            "Aubergine",
+            "with",
+            "Osmanthus",
+            "and",
+            "Cherry",
+            "Tomato"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "(v)"
+            ]
+        ],
+        "raw_text": null
+    }
+]

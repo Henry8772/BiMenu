@@ -1,0 +1,424 @@
+[
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "鮮魷",
+            "姜蔥",
+            "鮮魷",
+            "四川",
+            "鮮魷",
+            "橄",
+            "鹽",
+            "鮮魷",
+            "油爆",
+            "全",
+            "丁",
+            "蔥燒",
+            "帶子"
+        ],
+        "english_name": [
+            "15Q",
+            "Squid",
+            "with",
+            "Green",
+            "Pepper",
+            "and",
+            "Black",
+            "Bean",
+            "Sauce",
+            "spicy",
+            "77Q",
+            "Squid",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "44Q",
+                "Squid",
+                "with",
+                "Szechuen",
+                "Style",
+                "spicy"
+            ],
+            [
+                "38Q",
+                "Squid",
+                "Salt",
+                "Pepper",
+                "and",
+                "Spicy"
+            ],
+            [
+                "Quick",
+                "Fried",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Sauteed",
+                "Scallop",
+                "with",
+                "Spring",
+                "Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "油爆",
+            "帶子",
+            "蘑菇",
+            "鮮魷",
+            "腰果",
+            "鮮魷",
+            "沙爹",
+            "鮮魷",
+            "蠔油",
+            "鮮魷"
+        ],
+        "english_name": [
+            "0A"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Quick",
+                "Fried",
+                "Scallop"
+            ],
+            [
+                "Squid",
+                "with",
+                "Mushrooms"
+            ],
+            [
+                "47Q"
+            ],
+            [
+                "48Q",
+                "Squid",
+                "with",
+                "Cashewnuts"
+            ],
+            [
+                "Squid",
+                "in",
+                "Satay",
+                "Sauce",
+                "spicy"
+            ],
+            [
+                "Squid",
+                "in",
+                "Oyster",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雞",
+            "類"
+        ],
+        "english_name": [
+            "POULTRY"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "檸檬",
+            "雞"
+        ],
+        "english_name": [
+            "Lemon",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "幹炒",
+            "雞肉",
+            "絲",
+            "鉤",
+            "塌",
+            "雞"
+        ],
+        "english_name": [
+            "112C",
+            "Deep",
+            "Fried",
+            "Shredded",
+            "Chicken",
+            "in",
+            "Chilli",
+            "Sauce",
+            "spicy"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Grilled",
+                "Chicken",
+                "Peking",
+                "Style"
+            ],
+            [
+                "in",
+                "garlic",
+                "ginger",
+                "spring",
+                "onion",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "醬爆",
+            "腰果",
+            "雞丁"
+        ],
+        "english_name": [
+            "90A"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Diced",
+                "Chicken",
+                "with",
+                "Cashewnuts",
+                "in"
+            ],
+            [
+                "Yellow",
+                "Bean",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "杏仁",
+            "醬爆",
+            "雞丁"
+        ],
+        "english_name": [
+            "Diced",
+            "Chicken",
+            "with",
+            "Almonds",
+            "in",
+            "Yellow",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "dash",
+                "of",
+                "Cointreau"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "雞丁",
+            "豉",
+            "椒",
+            "雞丁"
+        ],
+        "english_name": [
+            "Diced",
+            "Chicken",
+            "with",
+            "Green",
+            "Pepper",
+            "in",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "115C"
+            ],
+            [
+                "Diced",
+                "Chicken",
+                "with",
+                "Green",
+                "Pepper",
+                "and",
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "雞"
+        ],
+        "english_name": [
+            "44C",
+            "Chicken",
+            "Szechuen",
+            "Style",
+            "spicy"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "雞"
+        ],
+        "english_name": [
+            "116C",
+            "Chicken",
+            "in",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕噜",
+            "雞"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蘑菇",
+            "雞"
+        ],
+        "english_name": [
+            "47C",
+            "Chicken",
+            "with",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "雞",
+            "菠蘿",
+            "雞丁",
+            "姜蔥",
+            "雞"
+        ],
+        "english_name": [
+            "96C",
+            "Chicken",
+            "in",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "with",
+                "Pineapple"
+            ],
+            [
+                "Chicken",
+                "with",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion"
+            ],
+            [
+                "77C"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "雞丁"
+        ],
+        "english_name": [
+            "48C"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Diced",
+                "Chicken",
+                "with",
+                "Cashewnuts"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "甜",
+            "辣",
+            "雞丁"
+        ],
+        "english_name": [
+            "Diced",
+            "Chicken",
+            "with",
+            "Water",
+            "Chestnuts",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sweet",
+                "Chilli",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    }
+]

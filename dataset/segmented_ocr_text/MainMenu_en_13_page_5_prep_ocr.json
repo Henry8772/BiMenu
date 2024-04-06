@@ -1,0 +1,505 @@
+[
+    {
+        "chinese_name": [
+            "老",
+            "地方"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大",
+            "酒楼"
+        ],
+        "english_name": [
+            "A",
+            "PLUS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Oriental",
+                "Restaurant"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "素",
+            "主菜"
+        ],
+        "english_name": [
+            "VEGETARIAN",
+            "MAIN",
+            "COURSES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Sweet",
+                "and",
+                "Sour"
+            ],
+            [
+                "Mixed",
+                "Vegetable"
+            ],
+            [
+                "Curry"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Mixed",
+                "Vegetable"
+            ],
+            [
+                "Satay"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Mixed",
+                "Vegetable"
+            ],
+            [
+                "Black",
+                "Bean",
+                "Sauce"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu",
+                "Mixed",
+                "Vegetable"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Black",
+                "Pepper",
+                "Sauce"
+            ],
+            [
+                "Cantonese",
+                "Style"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Szechuan",
+                "Style"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Mixed",
+                "Vegetable"
+            ],
+            [
+                "Salt",
+                "and",
+                "Pepper"
+            ],
+            [
+                "Chicken",
+                "Tofu"
+            ],
+            [
+                "Aubergine"
+            ],
+            [
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Mixed",
+                "Vegetable"
+            ],
+            [
+                "Garlic",
+                "Sauce"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Mixed",
+                "Vegetable"
+            ],
+            [
+                "Chicken",
+                "Beef",
+                "Tofu"
+            ],
+            [
+                "Cashew",
+                "Nuts"
+            ],
+            [
+                "Mixed",
+                "Vegetable"
+            ],
+            [
+                "SPECIAL",
+                "VEGETARIAN",
+                "DISHES"
+            ],
+            [
+                "Vegetarian",
+                "Deep",
+                "Fried",
+                "Shredded",
+                "Beef",
+                "Chicken"
+            ],
+            [
+                "Spicy",
+                "Mixed",
+                "Vegetable",
+                "and",
+                "Tofu"
+            ],
+            [
+                "Mixed",
+                "Vegetables",
+                "and",
+                "Tofu",
+                "in",
+                "Garlic",
+                "Sauce"
+            ],
+            [
+                "Vegetarian",
+                "Mapo",
+                "Tofu"
+            ],
+            [
+                "Mustard",
+                "Leaf",
+                "with",
+                "Garlic",
+                "Sauce"
+            ],
+            [
+                "Pak",
+                "Choi",
+                "with",
+                "Garlic",
+                "Sauce"
+            ],
+            [
+                "Broccoli",
+                "with",
+                "Garlic",
+                "Sauce"
+            ],
+            [
+                "Lettuce",
+                "with",
+                "Garlic",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐",
+            "咕嚕",
+            "什",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐",
+            "咖喱",
+            "什",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "嗲",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐",
+            "沙",
+            "嗲",
+            "什",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐",
+            "豉",
+            "椒",
+            "什",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐",
+            "四川",
+            "什",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "素雞",
+            "豆腐",
+            "椒鹽",
+            "茄子"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "薑蔥",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐",
+            "薑蔥",
+            "什",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐",
+            "蒜蓉",
+            "什",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "素雞",
+            "素",
+            "牛",
+            "豆腐",
+            "腰果",
+            "什",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "乾",
+            "牛",
+            "絲",
+            "齋",
+            "乾",
+            "雞絲"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "什",
+            "菜",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "什",
+            "菜",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "素",
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "芥菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "小白菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "西蘭",
+            "花"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "生菜"
+        ],
+        "english_name": [
+            "Page"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

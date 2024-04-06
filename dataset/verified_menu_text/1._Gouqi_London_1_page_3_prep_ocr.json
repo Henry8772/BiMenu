@@ -1,0 +1,207 @@
+[
+    {
+        "chinese_name": [
+            "羊肚菌",
+            "鲜味",
+            "饺"
+        ],
+        "english_name": [
+            "Morel",
+            "Mushroom",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "(v)"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "杂菌",
+            "饺"
+        ],
+        "english_name": [
+            "Wild",
+            "Mushroom",
+            "Dumpling",
+            "with",
+            "Black",
+            "Truffle"
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "桃",
+            "胶",
+            "杞子",
+            "饺"
+        ],
+        "english_name": [
+            "Yam",
+            "and",
+            "Goji",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": ["(v)"],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金箔",
+            "斋",
+            "鸡",
+            "饺"
+        ],
+        "english_name": [
+            "Gold",
+            "Leaf",
+            "Beancurd",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "千",
+            "丝",
+            "和",
+            "牛",
+            "卷"
+        ],
+        "english_name": [
+            "Kataifi",
+            "Wagyu",
+            "Beef",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "山楂",
+            "鹿",
+            "肉酥"
+        ],
+        "english_name": [
+            "Charcoal",
+            "Venison",
+            "Puff"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "鲜虾",
+            "饺"
+        ],
+        "english_name": [
+            "Crispy",
+            "Prawn",
+            "Wonton"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羊肚菌",
+            "素",
+            "春卷"
+        ],
+        "english_name": [
+            "Morel",
+            "Mushroom",
+            "Spring",
+            "Roll"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "韭菜",
+            "鸡",
+            "锅贴"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Chicken",
+            "and",
+            "Chive",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金",
+            "网",
+            "脆皮",
+            "鳗鱼",
+            "肠粉"
+        ],
+        "english_name": [
+            "Crispy",
+            "Eel",
+            "Cheung",
+            "Fun"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲜虾",
+            "肠粉"
+        ],
+        "english_name": [
+            "Prawn",
+            "Cheung",
+            "Fun"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲜",
+            "菌",
+            "肠粉"
+        ],
+        "english_name": [
+            "Mushroom",
+            "Cheung",
+            "Fun"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["(v)"]
+        ],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "chinese_name": [
+            "老",
+            "泡椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "with",
+            "Pickled"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Red",
+                "Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "胗",
+            "孜然",
+            "泡椒"
+        ],
+        "english_name": [
+            "Chicken",
+            "Gizzard",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Cumin",
+                "Pickled",
+                "Chilli"
+            ],
+            [
+                "J23"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "重庆",
+            "辣子",
+            "鸡",
+            "无"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Chicken",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dried",
+                "Chilli",
+                "Boneless"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大盆",
+            "花菜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Cauliflower",
+            "with",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "J24"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "肥肠",
+            "鸡"
+        ],
+        "english_name": [
+            "Fried",
+            "Chicken",
+            "with",
+            "Intestines",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dried",
+                "Chilli"
+            ],
+            [
+                "J20"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "地",
+            "三鲜"
+        ],
+        "english_name": [
+            "Aubergine",
+            "with",
+            "Potato",
+            "and",
+            "Sauteed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Green",
+                "Peppers",
+                "V"
+            ],
+            [
+                "J25"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羊肉",
+            "蔥爆",
+            "孜然"
+        ],
+        "english_name": [
+            "Sliced",
+            "Lamb",
+            "with",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Comin",
+                "L"
+            ],
+            [
+                "J21"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咸蛋",
+            "黄",
+            "焗",
+            "豆腐"
+        ],
+        "english_name": [
+            "Fried",
+            "Beancurd",
+            "Coated",
+            "with",
+            "Salty"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Duck",
+                "Egg",
+                "Yolk",
+                "V"
+            ],
+            [
+                "J22"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "筋",
+            "头",
+            "巴",
+            "脑"
+        ],
+        "english_name": [
+            "Beef",
+            "Offal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金针菇",
+            "玉",
+            "子",
+            "豆腐"
+        ],
+        "english_name": [
+            "Egg",
+            "Tofu",
+            "with",
+            "Enoki",
+            "Mushroom",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

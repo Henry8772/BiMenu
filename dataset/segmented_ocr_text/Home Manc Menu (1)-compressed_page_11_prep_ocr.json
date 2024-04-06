@@ -1,0 +1,334 @@
+[
+    {
+        "chinese_name": [
+            "三鲜",
+            "玉",
+            "子",
+            "豆腐"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Egg",
+                "Tofu",
+                "with",
+                "Mixed"
+            ],
+            [
+                "Seafood",
+                "in",
+                "XO",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "主廚"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "推荐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Mapo",
+            "Beancurd"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Minced",
+                "Beef"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "主厨"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "推荐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "虫草",
+            "花生",
+            "炒",
+            "羊肉",
+            "片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Lamb",
+            "With",
+            "Cordyceps"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Militaris"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "野",
+            "山椒",
+            "猪手"
+        ],
+        "english_name": [
+            "Trotters",
+            "with",
+            "Wild",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "J29"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芥兰",
+            "炒",
+            "墨鱼",
+            "滑"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Squid",
+            "with",
+            "Chinese",
+            "Kale"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "J30"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "野菌",
+            "炒",
+            "和尚",
+            "鱼"
+        ],
+        "english_name": [
+            "Fried",
+            "Monk",
+            "Fish",
+            "with",
+            "Black"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Truffle",
+                "and",
+                "Wild",
+                "Mushroom"
+            ],
+            [
+                "J35"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "碧绿",
+            "翡翠",
+            "炒",
+            "三鲜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Mixed",
+            "Seafood",
+            "with",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "J36"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芥兰",
+            "炒",
+            "腊味"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chinese",
+            "Sausage",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chinese",
+                "Kale"
+            ],
+            [
+                "J31"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙律",
+            "虾球"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "King",
+            "Prawn",
+            "Balls"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Salad",
+                "Cream"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "炒",
+            "斑",
+            "球"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Fish",
+            "with",
+            "Ginger",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spring",
+                "Onions"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "云",
+            "耳",
+            "翡翠",
+            "炒",
+            "墨鱼",
+            "滑"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Cuttlefish",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mixed",
+                "Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "野菌",
+            "炒",
+            "牛柳"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "Tenderloin",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black",
+                "Truffle",
+                "and",
+                "Wild",
+                "Mushroom"
+            ],
+            [
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

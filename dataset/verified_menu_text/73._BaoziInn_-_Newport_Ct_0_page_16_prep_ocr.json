@@ -1,0 +1,302 @@
+[
+    {
+        "chinese_name": ["担担面"],
+        "english_name": [
+            "DAN",
+            "DAN",
+            "NOODLES",
+            "WITH",
+            "MINCED",
+            "PORK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Noodles",
+                "with",
+                "minced",
+                "pork",
+                "sesame",
+                "sauce",
+                "chilli",
+                "oil",
+                "and",
+                "Sichuan",
+                "peppercorns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["素担担面"],
+        "english_name": [
+            "VEGETARIAN",
+            "DAN",
+            "DAN",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Noodles",
+                "with",
+                "Sichuan",
+                "preserved",
+                "mustard",
+                "greens",
+                "sesame",
+                "sauce",
+                "chilli",
+                "oil",
+                "and",
+                "Sichuan",
+                "peppercorns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["炸酱面"],
+        "english_name": [
+            "ZHA",
+            "JIANG",
+            "NOODLES",
+            "WITH",
+            "PORK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sweet",
+                "and",
+                "savoury",
+                "noodles",
+                "with",
+                "minced",
+                "pork",
+                "carrots",
+                "beans",
+                "sprout",
+                "cucumbers",
+                "and",
+                "yellow",
+                "bean",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["素炸酱面"],
+        "english_name": [
+            "ZHA",
+            "JIANG",
+            "NOODLES",
+            "WITHOUT",
+            "PORK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sweet",
+                "and",
+                "savoury",
+                "noodles",
+                "with",
+                "carrots",
+                "beans",
+                "sprout",
+                "cucumbers",
+                "and",
+                "yellow",
+                "bean",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["鸡肉炒面"],
+        "english_name": [
+            "CHICKEN",
+            "FRIED",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "egg",
+                "noodles",
+                "with",
+                "chicken",
+                "onions",
+                "and",
+                "bean",
+                "sprout"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["大虾炒面"],
+        "english_name": [
+            "KING",
+            "PRAWN",
+            "FRIED",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "egg",
+                "noodles",
+                "with",
+                "prawns",
+                "onions",
+                "and",
+                "beans",
+                "sprout"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["素招牌炒面"],
+        "english_name": [
+            "BAOZIINN",
+            "MIXED",
+            "VEGETABLES",
+            "FRIED",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "egg",
+                "noodles",
+                "with",
+                "seasonal",
+                "mixed",
+                "vegetables",
+                "carrot",
+                "green",
+                "beans",
+                "cauliflower",
+                "onions",
+                "and",
+                "beans",
+                "sprout"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["鸡肉炒饭"],
+        "english_name": [
+            "CHICKEN",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "rice",
+                "with",
+                "chicken",
+                "eggs",
+                "sweetcorn",
+                "carrots",
+                "and",
+                "spring",
+                "onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["大虾炒饭"],
+        "english_name": [
+            "KING",
+            "PRAWN",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "rice",
+                "with",
+                "king",
+                "prawns",
+                "eggs",
+                "sweetcorn",
+                "carrots",
+                "and",
+                "spring",
+                "onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["招牌炒饭"],
+        "english_name": [
+            "BAOZIINN",
+            "SPECIAL",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "rice",
+                "with",
+                "pork",
+                "prawns",
+                "eggs",
+                "barbeque",
+                "pork",
+                "Char",
+                "Siu",
+                "and",
+                "sweetcorn"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["素招牌炒饭"],
+        "english_name": [
+            "BAOZIINN",
+            "MIXED",
+            "VEG",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "rice",
+                "with",
+                "seasonal",
+                "mixed",
+                "vegetables",
+                "eggs",
+                "sweetcorn",
+                "carrots",
+                "and",
+                "spring",
+                "onion"
+            ]
+        ],
+        "raw_text": null
+    }
+    
+]

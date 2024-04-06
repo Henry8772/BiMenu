@@ -1,0 +1,52 @@
+[
+    {
+        "chinese_name": [
+            "酸菜",
+            "鱼"
+        ],
+        "english_name": [
+            "Fish",
+            "with",
+            "Pickled",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鱼"
+        ],
+        "english_name": [
+            "Spicy",
+            "Hot",
+            "Poached",
+            "Fish",
+            "Fillet"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "双色",
+            "剁椒鱼头"
+        ],
+        "english_name": [
+            "Steamed",
+            "Fish",
+            "Head",
+            "with",
+            "Mixed",
+            "Peppers"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    }
+]

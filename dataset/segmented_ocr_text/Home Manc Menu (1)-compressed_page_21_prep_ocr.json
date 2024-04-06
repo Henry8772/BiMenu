@@ -1,0 +1,540 @@
+[
+    {
+        "chinese_name": [
+            "微辣",
+            "中",
+            "辣",
+            "重",
+            "辣"
+        ],
+        "english_name": [
+            "Mild",
+            "Medium",
+            "Extra",
+            "Spicy"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "最少",
+            "种",
+            "起",
+            "做",
+            "锅底",
+            "费",
+            "以上",
+            "免",
+            "锅底",
+            "费"
+        ],
+        "english_name": [
+            "Minimum",
+            "items",
+            "per",
+            "pot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R26"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "基围虾"
+        ],
+        "english_name": [
+            "Shelled",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R15"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "木耳"
+        ],
+        "english_name": [
+            "Black",
+            "Fungus"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "猪手"
+        ],
+        "english_name": [
+            "Pig",
+            "Trotter"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羊肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Lamb"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R3"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香菇"
+        ],
+        "english_name": [
+            "Chinese",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "丸"
+        ],
+        "english_name": [
+            "Fish",
+            "Ball"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "魔芋",
+            "丝"
+        ],
+        "english_name": [
+            "Konjax",
+            "Strip"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R29"
+            ],
+            [
+                "Bean",
+                "Curd",
+                "Sticks"
+            ],
+            [
+                "R30"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腐皮",
+            "卷"
+        ],
+        "english_name": [
+            "Seafood",
+            "Tofu",
+            "Curds"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R17"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛肚"
+        ],
+        "english_name": [
+            "Honeycomb",
+            "Tripe"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R5"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豆腐",
+            "鱼"
+        ],
+        "english_name": [
+            "Fish",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R18"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛腩"
+        ],
+        "english_name": [
+            "Beef",
+            "Brisket"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "冻",
+            "豆腐"
+        ],
+        "english_name": [
+            "Frozen",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "Tofu"
+            ],
+            [
+                "R32"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "脆皮",
+            "香肠"
+        ],
+        "english_name": [
+            "Crispy",
+            "Sausage"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛",
+            "百叶"
+        ],
+        "english_name": [
+            "Beef",
+            "Tripe"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R7"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "包菜"
+        ],
+        "english_name": [
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豆腐皮"
+        ],
+        "english_name": [
+            "Beancurd",
+            "Sheet"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "五花肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "Belly"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R8"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大白菜"
+        ],
+        "english_name": [
+            "Chinese",
+            "Leaves"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "年糕",
+            "条"
+        ],
+        "english_name": [
+            "Rice",
+            "Cake"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Wings"
+            ],
+            [
+                "R35"
+            ],
+            [
+                "Chicken",
+                "Gizzard"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "肥肠"
+        ],
+        "english_name": [
+            "Intestine"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金针菇"
+        ],
+        "english_name": [
+            "Enoki",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "午餐肉"
+        ],
+        "english_name": [
+            "Pork",
+            "Luncheon"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "土豆"
+        ],
+        "english_name": [
+            "Sliced",
+            "Potato"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R23"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红烧肉"
+        ],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "Belly"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "莲藕",
+            "片"
+        ],
+        "english_name": [
+            "Lotus",
+            "Roots"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "菠菜"
+        ],
+        "english_name": [
+            "Chinese",
+            "Spinach"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tong",
+                "Choi"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱿鱼",
+            "须"
+        ],
+        "english_name": [
+            "Squid"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "R12"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宽",
+            "粉"
+        ],
+        "english_name": [
+            "Soybean",
+            "Sheet"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼片"
+        ],
+        "english_name": [
+            "Fish",
+            "Fillet"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海带",
+            "结"
+        ],
+        "english_name": [
+            "Sliced",
+            "Kelp"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "小白菜"
+        ],
+        "english_name": [
+            "Siu",
+            "Pak",
+            "Choi"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蟹",
+            "肉棒"
+        ],
+        "english_name": [
+            "Crab",
+            "Sticks"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

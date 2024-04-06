@@ -1,0 +1,393 @@
+[
+    {
+        "chinese_name": [
+            "河畔",
+            "熱",
+            "拼"
+        ],
+        "english_name": [
+            "River",
+                "View",
+                "Mixed",
+                "Hors",
+                "Doeuvres"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Satay",
+                "Beef",
+                "Satay",
+                "Deep",
+                "Fried",
+                "Wun",
+                "Tun",
+                "Crispy",
+                "Seaweed",
+                "Deep",
+                "Fried",
+                "Prawn",
+                "Paste",
+                "Barbecued",
+                "Spare",
+                "Ribs"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海鮮",
+            "熱",
+            "拼"
+        ],
+        "english_name": [
+            "Seafood",
+                "Mixed",
+                "Hors",
+                "D'oeuvres"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Prawn",
+                "Satay",
+                "Deep",
+                "Fried",
+                "Squid",
+                "Toasted",
+                "Sesame",
+                "Prawn",
+                "Butterfly",
+                "Prawn",
+                "Crispy",
+                "Seaweed",
+                "Crab",
+                "Sticks",
+                "in",
+                "Breadcrumb"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雞",
+            "沙爹"
+        ],
+        "english_name": [
+            "Chicken",
+            "Satay"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛",
+            "沙爹"
+        ],
+        "english_name": [
+            "Beef",
+            "Satay"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "沙爹"
+        ],
+        "english_name": [
+            "Prawn",
+            "Satay"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "多",
+            "士"
+        ],
+        "english_name": [
+            "Toasted",
+            "Sesame",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "帶子"
+        ],
+        "english_name": [
+            "Steamed",
+            "Scallop"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "珊瑚龍鳳卷"
+        ],
+        "english_name": [
+            "Dragon",
+            "and",
+            "Phoenix",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "涼拌",
+            "鴨",
+            "絲"
+        ],
+        "english_name": [
+            "Shredded",
+            "Duck",
+            "with",
+            "Jelly",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "吉列",
+            "蝦"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Prawns",
+            "in",
+            "Breadcrumbs"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "燻",
+            "雞絲"
+        ],
+        "english_name": [
+            "Smoked",
+            "Shredded",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "露",
+            "筍"
+        ],
+        "english_name": [
+            "Fried",
+            "Asparagus",
+            "with",
+            "Chilli",
+            "and",
+            "Salt"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒸雞",
+            "鍋貼"
+        ],
+        "english_name": [
+            "Steamed",
+            "Chicken",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "吉列",
+            "蟹",
+            "條"
+        ],
+        "english_name": [
+            "Crabsticks",
+            "in",
+            "Breadcrumbs"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金錢",
+            "帶子"
+        ],
+        "english_name": [
+            "Scallops",
+            "in",
+            "Crispy",
+            "Crumbs"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "鳳尾",
+            "蝦"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Butterfly",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "黑椒",
+            "有",
+            "頭",
+            "大蝦"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "in",
+            "Shell",
+            "with",
+            "Black",
+            "Pepper",
+            "in",
+            "Chilli",
+            "and",
+            "Salt"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "鍋貼"
+        ],
+        "english_name": [
+            "Grilled",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "羊肉"
+        ],
+        "english_name": [
+            "Crispy",
+            "Lamb",
+            "Fillet"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雞肉",
+            "生菜",
+            "包"
+        ],
+        "english_name": [
+            "Lettuce",
+            "Wrapped",
+            "Minced",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海鮮",
+            "生菜",
+            "包"
+        ],
+        "english_name": [
+            "Lettuce",
+            "Wrapped",
+            "Minced",
+            "Seafood"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干",
+            "貝鬆"
+        ],
+        "english_name": [
+            "Crispy",
+            "Seaweed"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "雲吞"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Wun",
+            "Tun"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

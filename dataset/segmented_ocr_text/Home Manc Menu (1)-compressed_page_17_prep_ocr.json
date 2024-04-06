@@ -1,0 +1,179 @@
+[
+    {
+        "chinese_name": [
+            "黄",
+            "焖",
+            "鸡煲"
+        ],
+        "english_name": [
+            "Braised",
+            "Chicken",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "手撕",
+            "包菜"
+        ],
+        "english_name": [
+            "Griddle",
+            "Cooked",
+            "Sliced",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Pork"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "啫",
+            "啫",
+            "海鳗",
+            "煲"
+        ],
+        "english_name": [
+            "Conger",
+            "Eel",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "L19"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "支",
+            "竹",
+            "羊",
+            "腩",
+            "煲"
+        ],
+        "english_name": [
+            "Braised",
+            "Lamb",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "L15"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "斑",
+            "楠",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "Fish",
+            "and",
+            "Tofu",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "HOME"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "啫",
+            "啫",
+            "鸡煲"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Chicken",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "上",
+            "汤",
+            "野菌",
+            "什",
+            "菜",
+            "煲"
+        ],
+        "english_name": [
+            "Wild",
+            "Mushroom",
+            "and",
+            "Mixed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vegetable",
+                "Hot",
+                "Pot"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咸鱼",
+            "鸡",
+            "茄子",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "Salted",
+            "Fish",
+            "Chicken",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "and",
+                "Tofu",
+                "Hot",
+                "Pot"
+            ],
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

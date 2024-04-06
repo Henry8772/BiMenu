@@ -1,0 +1,125 @@
+[
+    {
+        "chinese_name": [
+            "常菜"
+        ],
+        "english_name": [
+            "HOME",
+            "TRADITIONAL"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "DISHESE"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "鱼"
+        ],
+        "english_name": [
+            "Fish",
+            "with",
+            "Pickled",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鱼"
+        ],
+        "english_name": [
+            "Spicy",
+            "Hot",
+            "Poached",
+            "Fish",
+            "Fillet"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "双色",
+            "剁椒鱼头"
+        ],
+        "english_name": [
+            "Steamed",
+            "Fish",
+            "Head",
+            "with",
+            "Mixed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Peppers",
+                "t"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "加",
+            "面"
+        ],
+        "english_name": [
+            "With",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "毛血旺"
+        ],
+        "english_name": [
+            "Spicy",
+            "Hot",
+            "Poached",
+            "Offal"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "主廚"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "推荐"
+        ],
+        "english_name": [
+            "Spicy"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

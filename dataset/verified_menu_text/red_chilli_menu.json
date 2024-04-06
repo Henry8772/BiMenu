@@ -1,0 +1,1997 @@
+[
+    {
+        "chinese_name": [
+            "三鲜酸辣汤"
+        ],
+        "english_name": [
+            "Three Delicacies Seafood Hot & Sour Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King Prawn, Calamari, Scollop, Vinegar, Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡片蘑菇汤"
+        ],
+        "english_name": [
+            "Sliced Chicken & Mushroom Light Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken & Mushroom"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香茜海鲜豆腐汤"
+        ],
+        "english_name": [
+            "Assorted Seafood & Beancurd Light Soup with Coriander"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Assorted Seafood, Beancurd & Coriander"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼片青瓜豆腐汤"
+        ],
+        "english_name": [
+            "Sliced Basa Fish Fillet, Cucumber & Beancurd Light Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Basa Fish Fillet, Cucumber & Beancurd"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "紫菜蛋花汤"
+        ],
+        "english_name": [
+            "Seaweed & Egg Light Soup "
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seaweed & Egg"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "番茄蛋花汤"
+        ],
+        "english_name": [
+            "Tomato & Egg Light Soup "
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tomato & Egg"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西京酸辣汤"
+        ],
+        "english_name": [
+            "Beijing Style Hot & Sour Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chilli Sauce, Potato Starch, with or without Ham & Shrimps"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡蓉粟米羹"
+        ],
+        "english_name": [
+            "Minced Chicken & Sweet Corn Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Minced Chicken, Sweet Corn & Potato Starch"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "云吞汤"
+        ],
+        "english_name": [
+            "Wonton Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Dumpling, Chinese Cabbage, Corianda"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "老火炖汤（每日例汤）"
+        ],
+        "english_name": [
+            "Chef Special Light Soup of the Day"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Temporary special"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "老北京疙瘩汤"
+        ],
+        "english_name": [
+            "Beijing Style Eggs, Tomatoes & Doughball in Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Eggs, Tomatoes, Chinese Cabbage, Spring Onion & Doughball"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "砂锅玉米炖排骨"
+        ],
+        "english_name": [
+            "Stewed Spare Ribs & Sweet Corn (on the Cob) Soup in Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spare Ribs & Sweet Corn (on the Cob)"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "北京烤鸭(限量供应)"
+        ],
+        "english_name": [
+            "Beijing Roast Duck (Limited Supply) (Served with Pancakes, Shredded Cucumber, Spring Onion and Hoi-sin Sauce)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Duck, Pancakes, Shredded Cucumber, Spring Onion and Hoi-sin Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香酥鸭"
+        ],
+        "english_name": [
+            "Aromatic Crispy Duck (Served with Pancakes, Shredded Cucumber, Spring Onion and Hoi-sin Sauce)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Duck, Pancakes, Shredded Cucumber, Spring Onion and Hoi-sin Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛柳卷"
+        ],
+        "english_name": [
+            "Fillet Steak Roll"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fillet Steak,Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "春卷"
+        ],
+        "english_name": [
+            "Spring Rolls"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pancake, Stuffing of Pork & Shrimps or Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐鸡翅"
+        ],
+        "english_name": [
+            "Salt & Pepper Chicken Wings"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt, Pepper, Chicken Wings, Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐排骨"
+        ],
+        "english_name": [
+            "Salt & Pepper Spare Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt, Pepper, Spare Ribs, Onion, Potato Starch"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐吊筒仔"
+        ],
+        "english_name": [
+            "Salt & Pepper Baby Squid"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt, Pepper, Baby Squid, Onion, Potato Starch"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐鲜鱿"
+        ],
+        "english_name": [
+            "Salt & Pepper Calamari"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt, Pepper, Calamari, Onion, Potato Starch"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "生菜包"
+        ],
+        "english_name": [
+            "Lettuce Wrap"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Lettuce, Stuffing of Diced Chicken or Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙爹鸡串"
+        ],
+        "english_name": [
+            "Chicken Skewer with Peanut Satay Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken, Peanut Satay Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "招牌小吃拼盘(两人起点)"
+        ],
+        "english_name": [
+            "House Special Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spring Rolls(Pork & Shrimps), Sesame Prawn Toast, Salt & Pepper Ribs, Chicken Skewer with Satay Sauce, Crispy Seaweed"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "素食小吃拼盘"
+        ],
+        "english_name": [
+            "Vegetarian Special Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vegetable Spring Rolls, Salt & Pepper Beancurd, Crispy Seaweed, Veggie Chicken Skewer with Peanut Satay Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糖醋鸡片"
+        ],
+        "english_name": [
+            "Crispy Sliced Chicken with Sliced Green & Red Pepper in Sweet & Vinegar"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken, Potato Starch, Green & Red Pepper, Sugar, Vinegar"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宫保鸡丁"
+        ],
+        "english_name": [
+            "GongBao Diced Chicken with Peanuts & Dried Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken, Sichuan Pepper Corn, Peanuts & Dried Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "歌乐山辣子鸡"
+        ],
+        "english_name": [
+            "Geleshan Dry Fried Diced Chicken with Pepper Corn & Dried Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken, Sichuan Pepper Corn, Spring Onion, Dried Chilli, Sesame"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "柠檬鸡排"
+        ],
+        "english_name": [
+            "Deep-Fried Chicken Breast Fillet with Honey & Lemon Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken Breast, Lemon, Lemon Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大千子鸡"
+        ],
+        "english_name": [
+            "Painter Daqian Recipe Chicken with Dried Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken, Dried Chilli, Green & Red Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香蛋酥鸡"
+        ],
+        "english_name": [
+            "Deep Fried Sliced Chicken Breast served with Sweet & Spicy Galic Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken Breast, Sweet & Spicy Sauce, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西式炸鸡柳丝"
+        ],
+        "english_name": [
+            "Crispy Shredded Chicken with Cantonese Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken, Cantonese Sauce, Green & Red Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "三杯鸡"
+        ],
+        "english_name": [
+            "Stewed Chicken with Three Cups Sauce (Salt, Sugar, Rice Wine)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken, Three Cups Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱鸡排"
+        ],
+        "english_name": [
+            "Deep-Fried Chicken Breast Fillet with Curry Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken Breast, Curry Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄焖鸡"
+        ],
+        "english_name": [
+            "Stewed Chicken in Brown Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken, Green & Red Pepper, Ginger"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酱爆鸭片"
+        ],
+        "english_name": [
+            "Fried Sliced Duck with Leeks & Hoi-sin Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Duck, Leeks, Hoi-sin Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "铁板豉椒鸭片"
+        ],
+        "english_name": [
+            "Sizzling Sliced Duck with Green & Red Pepper in Black Bean Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Duck, Green & Red Pepper, Black Bean Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮羊/牛肉"
+        ],
+        "english_name": [
+            "Spicy Hot Poached Beef/Mutton in Chilli Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef/Mutton, Garlic, Corianda, Sichuan Pepper Corn, Chilli Oil"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京葱爆羊/牛肉"
+        ],
+        "english_name": [
+            "Beijing Hot Wok Sliced Beef or Mutton with Spring Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef or Mutton, Spring Onion, Soy Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芫爆羊/牛肉"
+        ],
+        "english_name": [
+            "Hot Wok Sliced Beef or Mutton with Coriander"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef or Mutton, Coriandar"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "孜然羊/牛肉"
+        ],
+        "english_name": [
+            "Stir Fried Hot Roast Sliced Mutton or Beef with Onion, Cumin & Coriander"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mutton or Beef, with Onion, Cumin & Coriander"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "铁板牛柳(配豉椒汁，中式汁，姜葱汁，黑椒汁)"
+        ],
+        "english_name": [
+            "Sizzling Premium Beef Fillet Steak (in Black Bean Sauce with Green & Red Pepper, Cantonese Sauce, Ginger & Spring Onion or Black Pepper Sauce)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Premium Beef Fillet Steak"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "火焰牛柳粒"
+        ],
+        "english_name": [
+            "Diced Beef Fillet Steak with Shallots Flambèed with Whiskey"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef Fillet Steak, Whiskey"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "锅仔番茄炖牛腩"
+        ],
+        "english_name": [
+            "Home Recipe Stewed Beef Brisket & Tomato in Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef Brisket, Carrots, Mushroom, Tomato"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸汤肥牛/肥羊"
+        ],
+        "english_name": [
+            "Poached Supreme Snow-Flake Beef (or Lamb), Enoki Mushrooms with Green & Red Chilli in Chinese Sauerkraut Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Supreme Snow-Flake Beef (or Lamb), Enoki Mushrooms, Green & Red Chilli, Chinese Sauerkraut"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "外婆の红烧肉"
+        ],
+        "english_name": [
+            "Braised Pork Belly in Brown Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Belly, Brown Sauce, Broccoli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "锅包肉"
+        ],
+        "english_name": [
+            "Crispy Double Cooked Sweet Pork Slices"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork, Sugar, Ginger, Carrot"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香肉丝"
+        ],
+        "english_name": [
+            "Sauteed Shredded Pork with Black Fungus in Sweet & Spicy Garlic Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork, Carrot, Bamboo Shoot, Black Fungus, Sugar, Chilli Oil, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮猪肉片"
+        ],
+        "english_name": [
+            "Spicy Hot Poached Sliced Pork in Chilli Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork, Lettuce, Garlic, Chilli, Sichuan Pepper Corn"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糖醋里脊"
+        ],
+        "english_name": [
+            "Crispy Fried Pork Tenderloin with Sweet Vinegar"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork, Carrot, Bamboo Shoot, Sugar, Vinegar"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京酱肉丝（配鸭饼）"
+        ],
+        "english_name": [
+            "Sauteed Shredded Pork in Hoi-sin Sauce (Served with Pancakes)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork, Spring Onion, Hoi-sin Sauce, Pancake"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "冬菜扣肉"
+        ],
+        "english_name": [
+            "Braised Sliced Pork Belly with Preserved Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Belly, Pak Choi, Preserved Cabbage"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "山城回锅肉"
+        ],
+        "english_name": [
+            "Sauteed Sliced Pork Belly with Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Belly, Mangetout, Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糖醋/红烧排骨"
+        ],
+        "english_name": [
+            "Braised Spare Ribs with Sweet Vinegar or in Brown Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spare Ribs, Sweet Vinegar or Brown Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香糯粉蒸肉"
+        ],
+        "english_name": [
+            "Steamed Sliced Pork Belly Coated with Crumbled Sticky Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Belly, Sticky Rice"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "农家炒肉丝"
+        ],
+        "english_name": [
+            "Stir-Fried Shredded Pork Tenderloin with Sliced Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork, Green & Red Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红烧元蹄"
+        ],
+        "english_name": [
+            "Brasied Pig's Joint"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pig's Joint, Pak Choi"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炒软壳蟹 (金沙／椒盐 )"
+        ],
+        "english_name": [
+            "Stir Fried Soft Shell Crab (Garlic & Salt / Salt & Pepper)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Soft Shell Crab, Potato Starch"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣基围虾（连壳或去壳）"
+        ],
+        "english_name": [
+            "Fried King Prawns (with or without shell) with Green & Red Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King Prawn, Green & Red Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咸蛋黄酥炸白虾（连壳或去壳）"
+        ],
+        "english_name": [
+            "Fried King Prawns (with or without shell) with Salty Duck Egg Yolk"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King Prawn, Salty Duck Egg Yolk, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "油焖大虾（连壳或去壳）"
+        ],
+        "english_name": [
+            "Sauteed King Prawns (with Shell or without Shell) with Ginger & Spring Onion in Sweet Tomato Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King Prawn, Ginger & Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白灼基围虾/虾球"
+        ],
+        "english_name": [
+            "Scalded King Prawns (with Shell or without Shell) Served with Premium Soy Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King Prawn, Soy Sauce, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉粉丝蒸大虾"
+        ],
+        "english_name": [
+            "Steamed King Prawns (Shell on) & Vermicelli in Garlic Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King Prawn, Vermicelli, Garlic, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "虾肉京白"
+        ],
+        "english_name": [
+            "Stir-Fried King Prawns with Chinese Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King Prawn, Chinese Cabbage"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛柳粒炒虾球"
+        ],
+        "english_name": [
+            "Stir-Fried Beef Fillet Steak & King Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef Fillet Stea, King Prawn, Green & Red Pepper, Black Fungus"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西芹炒鲜贝"
+        ],
+        "english_name": [
+            "Stir-Fried Scallops with Celery & Chopped Red Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Scallops, Celery, Chopped Red Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "铁板鱿鱼"
+        ],
+        "english_name": [
+            "Sizzling Grilled Calamari with Onion, Cumin & Chilli Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Calamari, Onion, Cumin, Chilli Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "爆炒鱿鱼卷"
+        ],
+        "english_name": [
+            "Sauteed Fried Calamari with Chilli, Garlic & Spring Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Calamari, Chilli, Garlic & Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "铁板海鲜玉子豆腐"
+        ],
+        "english_name": [
+            "Sizzling Japanese Egg Tofu with Assorted Seafood"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Japanese Egg Tofu, King Prawns, Scollop, Calamari, Pak Choi"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干煸四季豆"
+        ],
+        "english_name": [
+            "Stir-Fried French Bean with Chilli & Minced Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "French Bean, Chilli, Minced Pork"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川麻婆豆腐(配牛肉碎)"
+        ],
+        "english_name": [
+            "Sichuan Spicy Mapo Recipe Beancurd (with or without Minced Beef)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beancurd, Chilli, with or without Minced Beef"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "五花肉干锅花菜"
+        ],
+        "english_name": [
+            "Griddle Cooked Cauliflower in Chilli Sauce (with or without Sliced Pork Belly)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Cauliflower, Chilli, Pork Belly"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮豆腐"
+        ],
+        "english_name": [
+            "Spicy Hot Poached Beancurd in Chilli Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beancurd, Lettuce, Chilli, Sichuan Pepper Corn, Coriandar"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅田鸡腿"
+        ],
+        "english_name": [
+            "Griddle Cooked Frog's Leg with Onion & Red Pepper in Chilli Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Frog's Leg, Onion, Red Pepper, Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "泡椒田鸡"
+        ],
+        "english_name": [
+            "Sautéed Frog's Leg with Pickled Peppers"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Frog's Leg, with Pickled Peppers"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄焖田鸡腿"
+        ],
+        "english_name": [
+            "Braised Frog's Leg in Brown Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Frog's Leg, Ginger, Mushroom, Brown Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "老干妈酱炒田鸡腿"
+        ],
+        "english_name": [
+            "Stir-Fried Frog's Leg in the Godmother Chilli Bean Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Frog's Leg, Godmother Chilli Bean Sauce, Celery"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸菜白肉冻豆腐"
+        ],
+        "english_name": [
+            "Pork Belly & Frozen Beancurd with Preserved Chinese Leaves Stew"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Belly, Frozen Beancurd, Preserved Chinese Leaves"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咸蛋黄焗豆腐"
+        ],
+        "english_name": [
+            "Fried Beancurd Coated with Salty Duck Egg Yolk"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beancurd, Salty Duck Egg Yolk, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糖醋脆皮素鱼"
+        ],
+        "english_name": [
+            "Crispy Veggie Fish with Sweet & Vinegar"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Glunten, Sugar, Pea, Vinegar"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣烧斋鸭"
+        ],
+        "english_name": [
+            "Stir-Fried Veggie Duck with Chilli & Spring Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Gluten, Chilli, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "荷塘小炒"
+        ],
+        "english_name": [
+            "Stir-Fried Tofu, Straw Mushroom, Red Pepper, Baby Corn & Black Fungus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tofu, Straw Mushroom, Red Pepper, Baby Corn & Black Fungus"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京味烧茄子"
+        ],
+        "english_name": [
+            "Beijing Style Braised Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Aubergine, Green & Red Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "砂锅粉丝白菜豆腐"
+        ],
+        "english_name": [
+            "Poached Beancurd, Chinese Cabbage & Vermicelli in Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beancurd, Chinese Cabbage & Vermicelli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香茄子煲"
+        ],
+        "english_name": [
+            "Braised Aubergine with Sweet & Spicy Sauce in Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Aubergine"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "铁板豉椒茄子"
+        ],
+        "english_name": [
+            "Sizzling Aubergine with Green & Red Pepper in Black Bean Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Aubergine, Green & Red Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "地三鲜"
+        ],
+        "english_name": [
+            "Stir-Fried Potatoes, Aubergine, Green Pepper & Red Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Potatoes, Aubergine, Green Pepper & Red Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "葱油烧素烩"
+        ],
+        "english_name": [
+            "Stir-Fried Tofu, Straw Mushroom, Red Pepper, Baby Corn & Black Fungus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                " Tofu, Straw Mushroom, Red Pepper, Baby Corn & Black Fungus"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "尖椒土豆丝"
+        ],
+        "english_name": [
+            "Sauteed Shredded Potato with Sliced Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Potato, Red Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "铁板豉椒茄子"
+        ],
+        "english_name": [
+            "Sizzling Aubergine with Green & Red Pepper in Black Bean Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Aubergine, Green & Red Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "地三鲜"
+        ],
+        "english_name": [
+            "Stir-Fried Potatoes, Aubergine, Green Pepper & Red Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Potatoes, Aubergine, Green Pepper & Red Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "葱油烧素烩"
+        ],
+        "english_name": [
+            "Stir-Fried Tofu, Straw Mushroom, Red Pepper, Baby Corn & Black Fungus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                " Tofu, Straw Mushroom, Red Pepper, Baby Corn & Black Fungus"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "尖椒土豆丝"
+        ],
+        "english_name": [
+            "Sauteed Shredded Potato with Sliced Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Potato, Red Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "冬菇扒棠菜"
+        ],
+        "english_name": [
+            "Braised Pak Choi with Chinese Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pak Choi, Chinese Mushrooms"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腊味炒饭"
+        ],
+        "english_name": [
+            "Diced Chinese Dried Bacon & Chinese Sun-dried Sausage Fried Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chinese Dried Bacon, Chinese Sun-dried Sausage, Egg, Spring Onion, Rice"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "扬州炒饭"
+        ],
+        "english_name": [
+            "Yangzhou Fried Rice with Diced Ham & Shrimps, Sweetcorn, Pea, Carrot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ham, Shrimps, Sweetcorn, Pea, Carrot, Egg, Rice, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咸鱼鸡粒炒饭"
+        ],
+        "english_name": [
+            "Diced Salted Fish and Chicken Fried Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salted Fish, Chicken, Egg, Rice, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "火焰酱油炒饭"
+        ],
+        "english_name": [
+            "Honeycomb-like Fried Rice with Soy Sauce Flambèed with Whiskey"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Egg, Rice, Soy Sauce, Whiskey, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "翡翠虾仁炒饭"
+        ],
+        "english_name": [
+            "Jade Fried Rice with Diced King Prawns & Vegetable"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Egg, Rice, King Prawns, Vegetables, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "生炒牛肉饭"
+        ],
+        "english_name": [
+            "Minced Beef & Lettuce Fried Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef, Lettuce, Egg, Rice, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "火腿泡菜炒饭"
+        ],
+        "english_name": [
+            "Fried Rice with Diced Ham & Kimchi (Pickled Vegetables)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Egg, Rice, Ham, Kimchi (Pickled Vegetables)"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豆腐肉碎炒饭"
+        ],
+        "english_name": [
+            "Minced Pork & Beancurd Fried Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork, Beancurd, Egg, Rice, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡蛋炒饭"
+        ],
+        "english_name": [
+            "Egg Fried Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Egg, Rice, Spring Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "飘香白饭"
+        ],
+        "english_name": [
+            "Jasmine Boiled Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Jasmine, Rice"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芽菜炒软面/米粉"
+        ],
+        "english_name": [
+            "Fried Soft Noodles or Vermicelli (with Beansprout, Leek & Onion)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Soft Noodles or Vermicelli, Beansprout, Leek & Onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "星洲炒米粉"
+        ],
+        "english_name": [
+            "Singapore Style Vermicelli (with or without Ham & Shrimps)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vermicelli, Vegetables, Sesame, with or without Ham & Shrimps"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干炒牛河"
+        ],
+        "english_name": [
+            "Stir-Fried Rice Noodles with Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Rice Noodles, Spring Onion, Beansprout, Beef"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡蛋炒河粉"
+        ],
+        "english_name": [
+            "Stir-Fried Rice Noodles with Egg"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Rice Noodles, Beansprout, Spring Onion, Egg"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "素炒河粉"
+        ],
+        "english_name": [
+            "Sautéed-Fried Rice Noodles with Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Rice Noodles, Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "秘制炒面"
+        ],
+        "english_name": [
+            "Chow Mein (Fried Soft Noodles)"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Soft Noodles, Vegetables, with or without Meat"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "番茄鸡蛋卤面"
+        ],
+        "english_name": [
+            "Braised Tomatoes & Egg on Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tomatoes, Egg, Noodles"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川担担面"
+        ],
+        "english_name": [
+            "Sichuan Dandan Noodles with Minced Pork & Chilli Sauce in Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Noodles, Pork, Chilli, Spring Onion, Sesame Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "馄饨汤面"
+        ],
+        "english_name": [
+            "Wonton Noodles Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Wonton, Noodles, Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红油抄手"
+        ],
+        "english_name": [
+            "Meat Dumplings in Spicy Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Meat Dumplings, Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红烧牛腩面"
+        ],
+        "english_name": [
+            "Braised Beef Brisket with Noodles in Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef Brisket, Noodles, Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "猪脚面"
+        ],
+        "english_name": [
+            "Braised Pig's Feet on Noodles in Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pig's Feet, Noodles, Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "青岛芝麻煎饺"
+        ],
+        "english_name": [
+            "Pan-Fried Minced Pork Dumplings with Sesame, Spring Onion & Ginger"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Dumplings, Sesame"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京味锅贴"
+        ],
+        "english_name": [
+            "Guotie - Shallow Pan Fried Beijing Style Minced Pork Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Dumplings"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "菜肉生煎包"
+        ],
+        "english_name": [
+            "Delicious Pan Fried Minced King Prawns & Minced Pork with Chinese Mushroom, Ginger & Spring Onion Buns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                " Minced King Prawns & Minced Pork with Chinese Mushroom, Ginger & Spring Onion Buns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "灌汤小笼包"
+        ],
+        "english_name": [
+            "Xiaolongbao - Steamed Juicy Minced Pork Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork Dumplings"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "北京水饺"
+        ],
+        "english_name": [
+            "Poached Beijing Style Minced Pork & Minced King Prawns Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork & Minced King Prawns Dumplings"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京东肉饼"
+        ],
+        "english_name": [
+            "Jing Dong Recipe Roast Dough Stuffed with Minced Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dough, Minced Pork, Spring Onion, Ginger"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "北京葱油饼"
+        ],
+        "english_name": [
+            "Beijing Style Pan Fried Spring Onion Bread"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spring Onion, Dough, Lard"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香煎土豆饼"
+        ],
+        "english_name": [
+            "Chinese Crispy Hash Brown"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Potato, Flour"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "刈包（GUÀ BAO）"
+        ],
+        "english_name": [
+            "Braised Pork Belly in Steamed Bun"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Steamed Bun, Pork Belly, Lettuce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金银小馒头"
+        ],
+        "english_name": [
+            "Steamed Bun with Golden Crispy & White Soft Skin Served with Condensed Milk"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Bun, Condensed Milk"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "寿桃包"
+        ],
+        "english_name": [
+            "Birthday Peach-Shaped Steamed Buns with Sweet Paste Filling"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Steamed Buns, Sweet Paste"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "松软香甜豆沙包"
+        ],
+        "english_name": [
+            "Home-Made Style Steamed Buns with Sweet Red Bean Paste Filling"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Red Bean, Dough"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金丝香蕉球"
+        ],
+        "english_name": [
+            "Deep-Fried Banana Balls Coasted with Condensed Milk & Crispy Golden Shredded Potato"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Banana, Potato Starch, Potato, Condensed Milk"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雪糕糯米糍"
+        ],
+        "english_name": [
+            "Glutinous Rice Balls Stuffed with Ice Cream"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Glutinous Rice Flour, Ice Cream"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芒果布丁"
+        ],
+        "english_name": [
+            "Mango Pudding"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mango, Pudding Powder"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金黄南瓜饼"
+        ],
+        "english_name": [
+            "Sweet Pumpkin Glutinous Rice Pie"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pumpkin, Glutinous Rice Flour, Red Bean, Breadcrumbs"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椰汁西米露"
+        ],
+        "english_name": [
+            "Sweet Sago Cream with Coconut Milk"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sago, Coconut Milk"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "陈皮红豆沙"
+        ],
+        "english_name": [
+            "Orange Flavoured Sweet Red Bean Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Orange Peel, Red Bean"
+            ]
+        ],
+        "raw_text": null
+    }
+]

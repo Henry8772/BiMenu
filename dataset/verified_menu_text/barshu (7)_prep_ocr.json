@@ -1,0 +1,231 @@
+[
+    {
+        "chinese_name": [
+            "四川風味泡菜"
+
+        ],
+        "english_name": [
+            "SICHUANESE",
+            "PICKLED",
+            "VEGETABLES"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "野",
+            "山椒",
+            "凤爪"
+        ],
+        "english_name": [
+            "HOUSE",
+            "PICKLED",
+            "CHILLI",
+            "WITH",
+            "CHICKEN",
+            "FEET"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "口味",
+            "草原",
+            "肚"
+        ],
+        "english_name": [
+            "CHEF",
+            "SPECIAL",
+            "BEEF",
+            "TRIPE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜泥白肉"
+        ],
+        "english_name": [
+            "THIN",
+                "SLICED",
+                "PORK",
+                "ROLLS",
+                "IN",
+            "SPICY",
+            "GARLICKY",
+            "SAUCE"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡丝",
+            "荞面"
+        ],
+        "english_name": [
+            "BUCKWHEAT",
+                "NOODLES",
+                "WITH",
+            "CHICKEN",
+            "SLIVERS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四喜",
+            "烤",
+            "麸"
+        ],
+        "english_name": [
+            "MARINATED",
+            "BRAN",
+            "DOUGH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "擂",
+            "茄子"
+        ],
+        "english_name": [
+            "POUNDED",
+            "AUBERGINES"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "花椒",
+            "鸡丁"
+        ],
+        "english_name": [
+            "AROMATIC",
+            "CHICKEN",
+            "WITH",
+            "SICHUAN",
+            "PEPPER"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "虾"
+        ],
+        "english_name": [
+            "FISH",
+            "FRAGRANT",
+            "PRAWNS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜汁",
+            "菠菜"
+        ],
+        "english_name": [
+            "GINGER",
+            "JUICE",
+            "SPINACH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "皮蛋"
+        ],
+        "english_name": [
+            "PRESERVED",
+                "DUCK",
+                "EGGS",
+                "WITH",
+            "GREEN",
+            "PEPPERS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "口水",
+            "鸡"
+        ],
+        "english_name": [
+            "MOUTHWATERING",
+            "SICHUAN",
+            "CHICKEN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "巴山",
+            "拍",
+            "黄瓜"
+        ],
+        "english_name": [
+            "BARSHU",
+            "SMACKED",
+            "CUCUMBERS"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

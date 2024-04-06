@@ -1,0 +1,262 @@
+[
+    {
+        "chinese_name": [
+            "汤"
+        ],
+        "english_name": [
+            "P"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A1"
+            ],
+            [
+                "A7"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡肉",
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
+            "Chicken",
+            "and",
+            "Sweetcorn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A2"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "豆腐",
+            "羹"
+        ],
+        "english_name": [
+            "Mixed",
+            "Seafood",
+            "and",
+            "Tofu",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "B"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芥菜",
+            "咸蛋",
+            "肉片",
+            "汤"
+        ],
+        "english_name": [
+            "Mustard",
+            "Green",
+            "with",
+            "Salted",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "and",
+                "Pork",
+                "Soup"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蟹柳",
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
+            "Crab",
+            "Meat",
+            "and",
+            "Sweetcorn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A3"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
+            "Sweet",
+            "Corn",
+            "Soup",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A4"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芥菜",
+            "鸭",
+            "丝",
+            "豆腐",
+            "汤"
+        ],
+        "english_name": [
+            "Mustard",
+            "Green",
+            "with",
+            "Duck",
+            "Blood"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "and",
+                "Tofu",
+                "Soup"
+            ],
+            [
+                "A10"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西京",
+            "汤",
+            "斋"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Sour",
+            "Soup",
+            "Veg",
+            "V",
+            "VG",
+            "U"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A5"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "三",
+            "丝",
+            "丝",
+            "羹"
+        ],
+        "english_name": [
+            "Duck",
+            "and",
+            "Vegetables",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "老",
+            "火",
+            "汤"
+        ],
+        "english_name": [
+            "Home",
+            "Traditional",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M",
+                "L"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "云吞",
+            "汤"
+        ],
+        "english_name": [
+            "Home",
+            "Won",
+            "Ton",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A6"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香菜",
+            "鱼片",
+            "汤"
+        ],
+        "english_name": [
+            "Coriander",
+            "Fish",
+            "Fillet",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

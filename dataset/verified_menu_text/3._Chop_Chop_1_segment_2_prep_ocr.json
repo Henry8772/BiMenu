@@ -1,0 +1,169 @@
+[
+    {
+        "chinese_name": [
+            "黑椒",
+            "蘆筍",
+            "龍蝦"
+        ],
+        "english_name": [
+            "Black",
+            "Pepper",
+            "Lobster",
+            "with",
+                "asparagus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "鱸魚"
+        ],
+        "english_name": [
+            "Steamed",
+            "Whole",
+            "Seabass",
+            "with",
+                "ginger",
+                "and",
+                "spring",
+                "onions",
+                "in",
+                "soy",
+                "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "蒸",
+            "大蝦",
+            "配",
+            "粉絲"
+        ],
+        "english_name": [
+            "Steamed",
+            "Garlic",
+            "Tiger",
+            "Prawns",
+                "with",
+                "glass",
+                "noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "天婦羅",
+            "蝦",
+            "配",
+            "芥末",
+            "蛋黃醬"
+        ],
+        "english_name": [
+            "Tempura",
+            "Prawns",
+            "with",
+            "wasabi",
+            "mayonaise"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "XO",
+            "醬",
+            "蓮藕",
+            "炒",
+            "海鮮"
+        ],
+        "english_name": [
+            "Stir",
+                "Fried",
+                "Seafood",
+                "and",
+                "Lotus",
+                "Root",
+                "in",
+                "XO",
+                "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "火",
+            "腩",
+            "豆腐"
+        ],
+        "english_name": [
+            "Braised",
+            "Tofu",
+            "with",
+            "roast",
+            "pork",
+            "belly"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "柱",
+            "候",
+            "炖",
+            "牛腩"
+        ],
+        "english_name": [
+            "Stewed",
+            "Beef",
+            "Brisket",
+            "in",
+            "Chu",
+            "Hou",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "芥蘭",
+            "豆腐"
+        ],
+        "english_name": [
+            "Kai",
+            "Lan",
+            "and",
+            "Tofu",
+            "in",
+                "black",
+                "bean",
+                "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

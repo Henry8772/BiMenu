@@ -1,0 +1,286 @@
+[
+    {
+        "chinese_name": [
+            "头",
+            "盘",
+            "凉"
+        ],
+        "english_name": [
+            "APPETISER",
+            "COLD"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "日本",
+            "牡丹",
+            "虾",
+            "塔塔"
+        ],
+        "english_name": [
+            "Botan",
+            "Prawn",
+            "Tartare",
+            "with",
+            "Mango",
+            "and",
+            "Pink",
+            "Grapefruit"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "米",
+            "酒酿",
+            "鲜",
+            "带子"
+        ],
+        "english_name": ["Fresh",
+        "Scallop",
+        "with",
+        "Rice",
+        "Wine",
+        "and",
+        "Szechuan",
+        "Yellow",
+        "Pepper",
+        "Sauce"],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "米酒",
+            "酿",
+            "生蚝"
+        ],
+        "english_name": [
+            
+
+            "Fresh",
+            "Oyster",
+            "with",
+            "Rice",
+            "Wine",
+            "and",
+            "Szechuan",
+            "Yellow",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼子",
+            "芥末",
+            "海鲜",
+            "筒"
+        ],
+        "english_name": [
+            "Seafood",
+            "Spring",
+            "Roll",
+            "with",
+            "Green",
+            "Mustard",
+            "and",
+            "Pistachio"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "凉拌",
+            "麻辣",
+            "牛",
+            "柳丝"
+        ],
+        "english_name": [
+            "Ma",
+            "La",
+            "Beef",
+            "Tenderloin",
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "甜酸",
+            "醉鸡",
+            "卷",
+            "拌",
+            "粉皮"
+        ],
+        "english_name": [
+            "Drunken",
+            "Chicken",
+            "Roll",
+            "with",
+            "Mung",
+            "Bean",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "翠玉",
+            "瓜",
+            "莲藕",
+            "沙律"
+        ],
+        "english_name": [
+            "Lotus",
+            "Root",
+            "Salad",
+            "with",
+            "Courgette",
+            "and",
+            "Black",
+            "Fungus"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄",
+            "炆",
+            "汤",
+            "一级",
+            "官燕"
+        ],
+        "english_name": [
+            "Royal",
+            "Superior",
+            "One",
+            "Cup",
+            "Bird's",
+            "Nest",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金腿",
+            "竹笙",
+            "燕窝",
+            "汤"
+        ],
+        "english_name": [
+            "Double",
+            "Boiled",
+            "Bird's",
+            "Nest",
+            "Soup",
+            "with",
+            "Bamboo",
+            "Fungus",
+            "and",
+            "Jinhua",
+            "Ham"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金汤",
+            "佛跳墙"
+        ],
+        "english_name": [
+            "Monk",
+            "Jumps",
+            "Over",
+            "The",
+            "Wall"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "药膳",
+            "桃",
+            "胶",
+            "火",
+            "鸭汤"
+        ],
+        "english_name": [
+            "Double",
+            "Boiled",
+            "Herbal",
+            "Duck",
+            "Soup",
+            "with",
+            "Peach",
+            "Gum"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "酸辣"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Sour",
+            "Soup",
+            "with",
+            "Seafood"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡茸",
+            "蛋白",
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
+            "Sweet",
+            "Corn",
+            "Soup",
+            "with",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            
+        ],
+        "raw_text": null
+    }
+]

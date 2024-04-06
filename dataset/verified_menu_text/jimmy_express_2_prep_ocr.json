@@ -1,0 +1,186 @@
+[
+    {
+        "chinese_name": [
+            "咖喱",
+                "鸡饭"
+        ],
+        "english_name": [
+            "Chicken",
+                "Curry",
+                "with",
+                "Rice"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "牛腩",
+            "饭"
+        ],
+        "english_name": [
+            "Beef",
+            "Brisket",
+            "Curry",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "羊",
+            "腩",
+            "饭"
+        ],
+        "english_name": [
+            "Lamb",
+            "Brisket",
+            "Curry",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛腩",
+            "饭"
+        ],
+        "english_name": [
+            "Beef",
+            "Brisket",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "云吞",
+            "汤面"
+        ],
+        "english_name": [
+            "Won",
+            "Ton",
+            "Noodle",
+            "Soup"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛腩",
+                "饭"
+        ],
+        "english_name": [
+            "Beef",
+                "Brisket",
+                "with",
+                "Rice"
+        ],
+        "chinese_description": [
+
+            [
+                "牛腩",
+                "羊",
+                "腩",
+                "汤面"
+            ],
+            [
+                "牛腩",
+                "汤面"
+            ]
+        ],
+        "english_description": [
+
+            [
+                "BEEF",
+                "LAMB",
+                "BRISKET"
+            ],
+            [
+                "NOODLE",
+                "SOUP"
+            ],
+            [
+                "Beef",
+                "Brisket",
+                "Noodle",
+                "Soup"
+            ]
+        ],
+        "raw_text": null
+    },
+
+    {
+        "chinese_name": [
+            "咖喱",
+            "牛腩",
+            "汤面"
+        ],
+        "english_name": [
+            "Curry",
+            "Beef",
+            "Brisket",
+            "Noodle",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "羊",
+            "腩",
+            "汤面"
+        ],
+        "english_name": [
+            "Curry",
+            "Lamb",
+            "Brisket",
+            "with",
+            "Noodle",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "云吞",
+            "汤面"
+        ],
+        "english_name": [
+            "Won",
+            "Ton",
+            "Noodle",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

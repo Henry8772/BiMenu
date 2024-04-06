@@ -1,0 +1,385 @@
+[
+    {
+        "chinese_name": [
+            "人",
+            "什锦",
+            "拼盘",
+            "春卷",
+            "多",
+            "士",
+            "海草",
+            "椒盐",
+            "鸡"
+        ],
+        "english_name": [
+            "OK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "per",
+                "head"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Home",
+            "Mixed",
+            "Appetizer",
+            "Minimum",
+            "persons",
+            "Spare",
+            "Ribs",
+            "in",
+            "OK",
+            "Sauce",
+            "Crispy",
+            "Spring",
+            "Rolls",
+            "Sesame",
+            "Prawn",
+            "Toast",
+            "Crispy",
+            "Seaweed",
+            "Salt",
+            "and",
+            "Pepper",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C2"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "人",
+            "点心",
+            "拼盘",
+            "笋尖",
+            "虾",
+            "饺",
+            "皇",
+            "黃",
+            "蒸",
+            "烧卖",
+            "香煎",
+            "锅贴",
+            "翡翠",
+            "罗汉",
+            "斋",
+            "饺",
+            "海草"
+        ],
+        "english_name": [
+            "per",
+            "head"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Home",
+            "Dim",
+            "Sum",
+            "Appetizer",
+            "Minimum",
+            "persons",
+            "Prawn",
+            "Dumplings",
+            "Prawn",
+            "and",
+            "Meat",
+            "Dumplings",
+            "Grilled",
+            "Pork",
+            "Dumplings",
+            "Mixed",
+            "Vegetable",
+            "Dumplings",
+            "Crispy",
+            "Seaweed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C3"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "人",
+            "点心",
+            "炸",
+            "拼",
+            "墨鱼",
+            "饼",
+            "鲜虾",
+            "炸",
+            "腐皮",
+            "卷",
+            "南瓜",
+            "饼",
+            "明虾",
+            "饺",
+            "海草"
+        ],
+        "english_name": [
+            "per",
+            "head"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "Home",
+                "Fried",
+                "Dim",
+                "Sum",
+                "Appetizer",
+                "Minimum",
+                "persons",
+                "Deep",
+                "Fried",
+                "Cuttlefish",
+                "Cake",
+                "Deep",
+                "Fried",
+                "King",
+                "Prawn",
+                "Roll",
+                "Pan",
+                "Fried",
+                "Pumpkin",
+                "Cake",
+                "Deep",
+                "Fried",
+                "King",
+                "Prawn",
+                "Dumplings",
+                "Crispy",
+                "Seaweed"
+            ],
+            [
+                "C4"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Home",
+            "Fried",
+            "Dim",
+            "Sum",
+            "Appetizer",
+            "Minimum",
+            "persons",
+            "Deep",
+            "Fried",
+            "Cuttlefish",
+            "Cake",
+            "Deep",
+            "Fried",
+            "King",
+            "Prawn",
+            "Roll",
+            "Pan",
+            "Fried",
+            "Pumpkin",
+            "Cake",
+            "Deep",
+            "Fried",
+            "King",
+            "Prawn",
+            "Dumplings",
+            "Crispy",
+            "Seaweed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C4"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "人",
+            "斋",
+            "拼盘",
+            "椒盐",
+            "豆腐",
+            "斋",
+            "春卷",
+            "海草",
+            "斋",
+            "云吞",
+            "椒盐",
+            "斋",
+            "鸡"
+        ],
+        "english_name": [
+            "per",
+            "head"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Home",
+            "Vegetarian",
+            "Appetizer",
+            "V",
+            "Minimum",
+            "persons",
+            "Salt",
+            "and",
+            "Pepper",
+            "Tofu",
+            "Vegetable",
+            "Spring",
+            "Rolls",
+            "Crispy",
+            "Seaweed",
+            "Vegetable",
+            "Won",
+            "Ton",
+            "Salt",
+            "and",
+            "Pepper",
+            "Mock",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C5"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "虾",
+            "多",
+            "士"
+        ],
+        "english_name": [
+            "Sesame",
+            "Prawn",
+            "Toast"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C9"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "骨"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Spare",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红烧",
+            "骨"
+        ],
+        "english_name": [
+            "Barbecue",
+            "Spare",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C7"
+            ],
+            [
+                "OK"
+            ],
+            [
+                "Spare",
+                "Ribs",
+                "in",
+                "OK",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鸡"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鸡翅"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Chicken",
+            "Wings"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spicy"
+            ],
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request"
+            ]
+        ],
+        "raw_text": null
+    }
+]

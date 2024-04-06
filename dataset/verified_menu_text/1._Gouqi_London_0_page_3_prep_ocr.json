@@ -1,0 +1,133 @@
+[
+    {
+        "chinese_name": [
+            "凉拌",
+            "香酥",
+            "鸭",
+            "沙律"
+        ],
+        "english_name": [
+            "Crispy",
+            "Aromatic",
+            "Duck",
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "果木",
+            "京",
+            "式",
+            "片",
+            "皮",
+            "鸭"
+        ],
+        "english_name": [
+            "Legendary",
+            "Peking",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "药膳",
+            "桃",
+            "胶",
+            "火",
+            "鸭汤"
+        ],
+        "english_name": [
+            "Double",
+            "Boiled",
+            "Herbal",
+            "Duck",
+            "Soup",
+            "with",
+            "Peach",
+            "Gum"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雪菜",
+            "火",
+            "鴨",
+            "丝",
+            "煎",
+            "面"
+        ],
+        "english_name": [
+            "Fried",
+            "Noodle",
+            "with",
+            "Shredded",
+            "Duck",
+            "and",
+            "Pickle",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酱",
+            "火",
+            "鸭",
+            "粒",
+            "黄金",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "XO",
+            "Golden",
+                "Egg",
+                "Fried",
+                "Rice",
+                "with",
+                "Duck",
+                "in",
+                "XO",
+                "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芒果",
+            "黑",
+            "芝麻",
+            "与",
+            "百香果"
+        ],
+        "english_name": [
+            "Mango",
+            "Black",
+            "Sesame",
+            "and",
+            "Passion",
+            "Fruit"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

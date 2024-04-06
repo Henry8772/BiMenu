@@ -1,0 +1,91 @@
+[
+    {
+        "chinese_name": ["南方虾饺"],
+        "english_name": [
+            "SOUTHERN",
+            "PRAWN",
+            "DUMPLING"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["韭菜虾饺"],
+        "english_name": [
+            "PRAWN",
+            "CHIVES",
+            "DUMPLING"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["鸡肉潮州粉"],
+        "english_name": [
+            "CHICKEN",
+            "CHIU",
+            "CHOW",
+            "DUMPLING"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["斋饺"],
+        "english_name": [
+            "VEGETABLE",
+            "DUMPLING"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["斋大头菜饺"],
+        "english_name": [
+            "VEGETABLE",
+            "KOHLRABI",
+            "DUMPLING"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["斋潮州粉果"],
+        "english_name": [
+            "VEGETARIAN",
+            "CHIU",
+            "CHOW",
+            "DUMPLING"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["港式虾饺"],
+        "english_name": [
+            "HAR",
+            "GAU"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["韭菜虾饺"],
+        "english_name": [
+            "PRAWN",
+            "and",
+            "CHIVES",
+            "DUMPLING"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

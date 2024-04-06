@@ -1,0 +1,73 @@
+[
+
+    {
+        "chinese_name": [
+            "鱼香",
+            "肉丝"
+        ],
+        "english_name": [
+            "Sea",
+            "Spiced",
+            "Shredded",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "蒸",
+            "豆腐"
+        ],
+        "english_name": [
+            "Steam",
+            "Tofu",
+            "with",
+            "Diced",
+            "Hot",
+            "Red",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "滋味",
+            "兔"
+        ],
+        "english_name": [
+            "Delicious",
+            "Fried",
+            "Diced",
+            "Rabbit"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "花椒",
+            "美",
+            "蛙"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Pepper",
+            "Corn",
+            "Fried",
+            "Frog",
+            "Leg"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

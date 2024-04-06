@@ -1,0 +1,182 @@
+[
+    {
+        "chinese_name": [
+            "毛氏",
+            "红烧肉"
+        ],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "Belly",
+            "in",
+            "Soy"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "锅",
+            "包",
+            "肉"
+        ],
+        "english_name": [
+            "Crispy",
+            "Pork",
+            "Chop",
+            "in",
+            "Fruity",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "肥肠"
+        ],
+        "english_name": ["Intestine with Dried Chilli"],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "回锅肉"
+        ],
+        "english_name": [
+            "Intestine",
+            "with",
+            "Dried",
+            "Chilli",
+            "Sichuan",
+            "Style",
+            "Double",
+            "Cooked",
+            "Pork",
+            "Belly"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "尖椒",
+            "肥肠"
+        ],
+        "english_name": [
+            "Intestine",
+            "with",
+            "Green",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "蔥爆",
+            "孜然"
+        ],
+        "english_name": [
+            "Sliced",
+                "Beef",
+                "with",
+                "Spring",
+                "Onions",
+                "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "肉丝"
+        ],
+        "english_name": [
+            "Shredded",
+            "Pork",
+            "in",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京",
+            "酱肉",
+            "丝"
+        ],
+        "english_name": [
+            "Shredded",
+            "Pork",
+            "in",
+            "Soybean",
+            "Paste",
+            "Sauce",
+                "Served",
+                "with",
+                "Pancakes"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "牛肉"
+        ],
+        "english_name": [
+            "Spicy",
+            "Hot",
+            "Poached",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "鱿鱼",
+            "须"
+        ],
+        "english_name": [
+            "Fried",
+            "Squid",
+            "with",
+            "Dried",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    }
+]

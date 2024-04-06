@@ -1,0 +1,49 @@
+[
+    {
+        "chinese_name": [
+            "秘",
+            "制",
+            "猪蹄"
+        ],
+        "english_name": ["Pig Feet Cooked in Secret Home Sauce"],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "肉末",
+            "茄子"
+        ],
+        "english_name": [
+            "Braised",
+            "Aubergine",
+            "with",
+            "Mince",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咸蛋",
+            "黄",
+            "炆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "Cooked",
+            "with",
+            "Salted",
+            "Egg",
+            "Yolk"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

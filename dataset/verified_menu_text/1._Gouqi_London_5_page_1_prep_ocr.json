@@ -1,0 +1,159 @@
+[
+    {
+        "chinese_name": [
+            "凉拌",
+            "香酥",
+            "鸭",
+            "沙律"
+        ],
+        "english_name": [
+            "Crispy",
+            "Aromatic",
+            "Duck",
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "软",
+            "壳",
+            "蟹"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Softshell",
+            "Crab",
+            "with",
+            "Curry",
+            "Leaf",
+            "Dressing"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "九层",
+            "塔",
+            "三杯",
+            "鸡煲"
+        ],
+        "english_name": [
+            "Taiwanese",
+            "Three",
+            "Cup",
+            "Chicken",
+            "Pot",
+            "with",
+            "Sweet",
+            "Basil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金",
+            "蒜",
+            "安格斯",
+            "黑椒",
+            "牛柳",
+            "粒"
+        ],
+        "english_name": [
+            "Angus",
+            "Tenderloin",
+            "Beef",
+            "with",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炭烤",
+            "百香果",
+            "银",
+            "鳕",
+            "鱼"
+        ],
+        "english_name": [
+            "Chargrilled",
+            "Silver",
+            "Cod",
+            "with",
+            "Yellow",
+            "Bean",
+            "Sauce",
+            "and",
+                "Passion",
+                "Fruit"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "时令",
+            "蔬菜"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Vegetable"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄金",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Golden",
+            "Egg",
+            "Fried",
+            "Rice"
+            
+        ],
+        "chinese_description": [],
+        "english_description": ["(v)"],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "茉莉花",
+            "苹果",
+            "和",
+            "紫苏"
+        ],
+        "english_name": [
+            "Jasmine",
+            "Parfait",
+            "with",
+            "Apple",
+            "and",
+            "Shiso",
+            "Sorbet"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    }
+]

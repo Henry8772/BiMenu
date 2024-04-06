@@ -1,0 +1,250 @@
+[
+    {
+        "chinese_name": [
+            "餐"
+        ],
+        "english_name": [
+            "VEGETARIAN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "MAIN",
+                "DISHES"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Mapo",
+            "Beancurd",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Szechuan",
+                "Sauce",
+                "V"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炒",
+            "杂",
+            "菜",
+            "炒",
+            "蒜蓉",
+            "沙爹"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Mixed",
+            "Vegetables",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Wok",
+                "Fried",
+                "Garlic",
+                "Curry",
+                "Satay",
+                "V",
+                "VG"
+            ],
+            [
+                "H6"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "菜",
+            "豆腐"
+        ],
+        "english_name": [
+            "Spicy",
+            "Tofu",
+            "with",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "VG"
+            ],
+            [
+                "H"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "鸡",
+            "椒",
+            "姜葱",
+            "嚕",
+            "咖喱"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Chicken",
+            "in",
+            "Black",
+            "Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ginger",
+                "and",
+                "Spring",
+                "Onions",
+                "Sweet",
+                "and",
+                "Sour",
+                "Curry"
+            ],
+            [
+                "Sauce",
+                "V",
+                "VG"
+            ],
+            [
+                "H3"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "天妇罗",
+            "椒盐",
+            "杂",
+            "菜"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Vegetable",
+            "Tempura"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "VG"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豆腐",
+            "豉",
+            "椒",
+            "姜蔥",
+            "咕噜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beancurd",
+            "in",
+            "Black",
+            "Bean",
+            "Ginger"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "and",
+                "Spring",
+                "Onions",
+                "Sweet",
+                "and",
+                "Sour",
+                "V",
+                "VG"
+            ],
+            [
+                "H4"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "牛",
+            "丝",
+            "盐",
+            "香辣"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Shredded",
+            "Beef",
+            "Sa",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spicy",
+                "V",
+                "VG"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "天妇罗",
+            "酥炸",
+            "茄子"
+        ],
+        "english_name": [
+            "Aubergine",
+            "Tempura",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request"
+            ],
+            [
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

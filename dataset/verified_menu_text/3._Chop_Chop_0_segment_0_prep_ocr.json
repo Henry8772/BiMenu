@@ -1,0 +1,45 @@
+[
+    {
+        "chinese_name": [
+            "蝦片"
+        ],
+        "english_name": [
+            "Prawn",
+            "Crackers"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香酥",
+            "鴨"
+            
+        ],
+        "english_name": [
+            "Aromatic",
+            "Crispy",
+            "Duck"
+        ],
+        "chinese_description": [
+            ["配",
+            "鴨",
+            "皮,",
+            "蔥絲,",
+            "黃瓜",
+            "條"]
+        ],
+        "english_description": [
+            [
+                "with",
+                "pancakes",
+                "spring",
+                "onions",
+                "and",
+                "cucumber"
+            ]
+        ],
+        "raw_text": null
+    }
+]

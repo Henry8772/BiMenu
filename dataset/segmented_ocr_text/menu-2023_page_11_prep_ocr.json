@@ -1,0 +1,370 @@
+[
+    {
+        "chinese_name": [
+            "廚師",
+            "推介"
+        ],
+        "english_name": [
+            "WING'S",
+            "SPECIAL",
+            "RECOMMENDATIONS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sliced",
+                "Chicken",
+                "in",
+                "Sweet",
+                "and",
+                "Tangy",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香甜",
+            "汁",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Yin",
+            "Yan",
+            "Sea",
+            "Bass"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seasonal",
+                "price"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸳鸯",
+            "鱸魚"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "一半",
+            "薑蔥",
+            "蒸",
+            "另一",
+            "半",
+            "煎",
+            "封"
+        ],
+        "english_name": [
+            "Half",
+            "of",
+            "the",
+            "Fish",
+            "steamed",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion",
+            "Other",
+            "Half",
+            "Pan",
+            "Fried",
+            "with",
+            "Soya"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seasonal",
+                "price"
+            ],
+            [
+                "Yin",
+                "Yan",
+                "Dover",
+                "Sole"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鴛鴦",
+            "龍",
+            "利",
+            "魚"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "一半",
+            "薑蔥",
+            "另一",
+            "半",
+            "四川"
+        ],
+        "english_name": [
+            "Half",
+            "of",
+            "the",
+            "Fish",
+            "steamed",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion",
+            "Other",
+            "half",
+            "Szechuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "鱸魚",
+            "片",
+            "半",
+            "只",
+            "全",
+            "只"
+        ],
+        "english_name": [
+            "Seasonal",
+            "price"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Sliced",
+                "Sea",
+                "Bass",
+                "Half",
+                "or",
+                "Whole"
+            ],
+            [
+                "Yin",
+                "Yan",
+                "Pak",
+                "Far",
+                "Tofu",
+                "and",
+                "Aubergine",
+                "Pieces"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "煎",
+            "釀",
+            "雙",
+            "寶",
+            "百花",
+            "豆腐",
+            "茄子"
+        ],
+        "english_name": [
+            "Tofu",
+            "and",
+            "Aubergine",
+            "Stuffed",
+            "with",
+            "Pak",
+            "Far",
+            "Prawn",
+            "Meat",
+            "in",
+            "Garlic",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Yin",
+                "Yan",
+                "King",
+                "Prawns",
+                "Pieces"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鴛鴦",
+            "大蝦",
+            "炸",
+            "大蝦",
+            "四川",
+            "蝦"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Butterfly",
+            "Crispy",
+            "King",
+            "Prawns",
+            "partnered",
+            "with",
+            "Stir",
+            "Fried",
+            "King",
+            "Prawns",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Szechuan",
+                "Sauce"
+            ],
+            [
+                "Three",
+                "Treasures",
+                "Pieces"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "煎",
+            "釀",
+            "三寶",
+            "百花",
+            "豆腐",
+            "茄子",
+            "和",
+            "青椒"
+        ],
+        "english_name": [
+            "Green",
+            "Pepper",
+            "Tofu",
+            "Aubergine",
+            "with",
+            "Pak",
+            "Far",
+            "Prawn",
+            "Meat",
+            "Stuffing",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sizzling",
+                "Chicken",
+                "in",
+                "Sweet",
+                "Fruit",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鐵板",
+            "果汁",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Yin",
+            "Yan",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鴛鴦",
+            "炒飯",
+            "一半",
+            "白汁",
+            "另一",
+            "半",
+            "茄汁"
+        ],
+        "english_name": [
+            "Half",
+            "of",
+            "Fried",
+            "Rice",
+            "with",
+            "White",
+            "Sauce",
+            "other",
+            "Half",
+            "Tomato",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King",
+                "Prawn",
+                "in",
+                "Creamy",
+                "White",
+                "Sauce",
+                "on",
+                "Egg",
+                "Fried",
+                "Rice"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白汁",
+            "大蝦",
+            "雞蛋",
+            "炒飯"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

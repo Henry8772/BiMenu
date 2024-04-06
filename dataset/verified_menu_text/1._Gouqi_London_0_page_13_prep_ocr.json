@@ -1,0 +1,168 @@
+[
+
+    {
+        "chinese_name": [
+            "金汤",
+            "佛跳墙",
+            "烩",
+            "饭"
+        ],
+        "english_name": [
+            "Monk",
+            "Jumps",
+            "Over",
+            "the",
+            "Wall",
+            "with",
+            "Crispy",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干炒",
+            "安格斯",
+            "牛",
+            "河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Ho",
+            "Fun",
+            "with",
+            "Angus",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "三",
+            "虾",
+            "炒",
+            "冬粉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Vermicelli",
+            "Noodle",
+            "with",
+            "Spanish",
+            "Red",
+            "Shrimp"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "银芽",
+            "什",
+            "菌",
+            "擔",
+            "仔",
+            "面"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Danzi",
+            "Noodle",
+            "with",
+            "King",
+            "Mushroom",
+            "and",
+            "Bean",
+            "Sprout"
+            
+        ],
+        "chinese_description": [],
+        "english_description": ["(v)"],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金银",
+            "贝",
+            "大",
+            "富豪",
+            "炒饭"
+        ],
+        "english_name": [
+            "Dried",
+            "and",
+            "Fresh",
+            "Scallop",
+            "Fried",
+            "Rice",
+            "with",
+            "XO",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羊肚菌",
+            "梅菜",
+            "糯米",
+            "饭"
+        ],
+        "english_name": [
+            "Mui",
+            "Choi",
+            "Glutinous",
+            "Fried",
+            "Rice",
+            "with",
+            "Morel",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄金",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Golden",
+            "Egg",
+            "Fried",
+            "Rice"
+            
+        ],
+        "chinese_description": [],
+        "english_description": ["(v)"],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "丝苗",
+            "白饭"
+        ],
+        "english_name": [
+            "Steamed",
+            "Jasmine",
+            "Rice"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["(v)"]
+        ],
+        "raw_text": null
+    }
+]

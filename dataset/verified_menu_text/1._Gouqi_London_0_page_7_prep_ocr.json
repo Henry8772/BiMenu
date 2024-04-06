@@ -1,0 +1,229 @@
+[
+    {
+        "chinese_name": [
+            "日本",
+            "和",
+            "牛",
+            "伴",
+            "秘",
+            "制",
+            "酱汁"
+        ],
+        "english_name": [
+            "A4",
+            "Slow",
+                "Cooked",
+                "A4",
+                "Wagyu",
+                "with",
+                "Chef's",
+                "Special",
+                "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "金汤",
+            "和",
+            "牛",
+            "卷"
+        ],
+        "english_name": [
+            "A4",
+                "Wagyu",
+                "Roll",
+                "in",
+                "Golden",
+                "Hot",
+                "and",
+                "Sour",
+                "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金",
+            "蒜",
+            "安格斯",
+            "黑椒",
+            "牛柳",
+            "粒"
+        ],
+        "english_name": [
+            "Angus",
+            "Tenderloin",
+            "Beef",
+            "with",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "双",
+            "笋",
+            "爆",
+            "安格斯",
+            "牛肉",
+            "片"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Angus",
+            "Tenderloin",
+            "Beef",
+            "with",
+            "Asparagus",
+            "and",
+            "Bamboo",
+            "Shoot"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炭烧",
+            "羊",
+            "马鞍",
+            "伴",
+            "特制",
+            "酱汁"
+        ],
+        "english_name": [
+            "Rack",
+            "of",
+            "Lamb",
+            "with",
+            "Chef's",
+            "Special",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "唐",
+            "舍",
+            "红烧",
+            "黑",
+            "豚",
+            "肉"
+        ],
+        "english_name": [
+            "Braised",
+            "Iberico",
+            "Pork",
+            "with",
+            "Tiger",
+            "Peppers",
+            "and",
+            "Shiitake",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "彩椒",
+            "咕噜",
+            "肉"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Iberico",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "风沙",
+            "脆皮",
+            "鸡"
+        ],
+        "english_name": [
+            "Spicy",
+            "Crispy",
+            "Chicken",
+            "with",
+            "Cashew",
+            "Nut",
+            "Dried",
+            "Chilli",
+            "and",
+            "Golden",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "九层",
+            "塔",
+            "三杯",
+            "鸡煲"
+        ],
+        "english_name": [
+            "Taiwanese",
+            "Three",
+            "Cup",
+            "Chicken",
+            "Pot",
+            "with",
+            "Sweet",
+            "Basil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "爆",
+            "鸡丁"
+        ],
+        "english_name": [
+            "Kung",
+            "Pao",
+            "Chicken",
+            "with",
+            "Dried",
+            "Chilli",
+            "and",
+            "Cashew",
+            "Nut"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

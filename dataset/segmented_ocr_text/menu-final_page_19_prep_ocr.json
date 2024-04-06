@@ -1,0 +1,206 @@
+[
+    {
+        "chinese_name": [
+            "丝瓜",
+            "炒蛋",
+            "蒜蓉",
+            "炒蛋"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Luffa",
+            "with",
+            "Scrambled",
+            "Egg",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红烧肉",
+            "末",
+            "茄子"
+        ],
+        "english_name": [
+            "Braised",
+            "Minced",
+            "Pork",
+            "with",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "有机",
+            "花菜"
+        ],
+        "english_name": [
+            "Stir",
+            "fried",
+            "pork",
+            "with",
+            "organic",
+            "chinese"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "cauliflower",
+                "in",
+                "spicy",
+                "chilli",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "土豆",
+            "丝",
+            "醋溜",
+            "酸辣"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Shredded",
+            "Potato",
+            "in",
+            "Sour",
+            "Sauce",
+            "Chilli",
+            "and",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "茭白",
+            "笋",
+            "炒肉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Shredded",
+            "Pork",
+            "with",
+            "Slices",
+            "of",
+            "Water",
+            "Bamboo"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炒",
+            "地",
+            "三鲜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Potato",
+            "Aubergine",
+            "and",
+            "Green",
+            "Pepper",
+            "in",
+            "Sweet",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "上",
+            "汤娃",
+            "娃菜"
+        ],
+        "english_name": [
+            "Chinese",
+            "Cabbage",
+            "Cooked",
+            "in",
+            "Ham",
+            "and",
+            "Prawn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大白菜",
+            "蒜蓉",
+            "醋溜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chinese",
+            "cabbage",
+            "in",
+            "Garlic",
+            "in",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "我们",
+            "会",
+            "加收",
+            "服务",
+            "费"
+        ],
+        "english_name": [
+            "Wecharge",
+            "a",
+            "service",
+            "charge",
+            "on",
+            "all",
+            "customers"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

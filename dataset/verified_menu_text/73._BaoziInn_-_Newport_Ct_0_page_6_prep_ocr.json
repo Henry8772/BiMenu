@@ -1,0 +1,88 @@
+[
+    {
+        "chinese_name": ["烧卖拼盘"],
+        "english_name": [
+            "Siu",
+            "Mai",
+            "Platter",
+            "pcs"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["原味虾烧麦"],
+        "english_name": [
+            "PRAWN",
+            "SHAOMAI"
+
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["辣味虾烧麦"],
+        "english_name": [
+            "SPICY",
+            "PRAWN",
+            "SHAOMAI"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["辣味奥尔良鸡肉烧麦"],
+        "english_name": [
+            "ORLEANS",
+            "CHICKEN",
+            "SHAO",
+            "MAI"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["虾仁玉米烧麦"],
+        "english_name": [
+            "PRAWN",
+            "WITH",
+            "SWEET",
+            "CORN",
+            "SHAO",
+            "MAI"
+
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["鸡肉香菇烧麦"],
+        "english_name": [
+            "CHICKEN",
+            "MUSHROOM",
+            "SHAOMAI"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["猪肉三鲜烧卖"],
+        "english_name": [
+            "SAN",
+            "XIAN",
+            "SHAO",
+            "MAI"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "chinese_name": [
+            "青",
+            "花",
+            "椒",
+            "螺",
+            "片"
+        ],
+        "english_name": [
+            "SLICED",
+            "WHELK",
+            "WITH",
+            "SICHUAN",
+            "PEPPER"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香菜",
+            "拌",
+            "木耳"
+        ],
+        "english_name": [
+            "CLOUD",
+            "EAR",
+            "FUNGUS",
+            "WITH",
+            "CORIANDER"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "巴山",
+            "春卷"
+        ],
+        "english_name": [
+            "BARSHU",
+            "SPRING",
+            "ROLLS"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "夫妻",
+            "肺",
+            "片"
+        ],
+        "english_name": [
+            "MAN",
+            "AND",
+            "WIFE",
+            "OFFAL",
+            "SLICES"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糖醋",
+            "排骨"
+        ],
+        "english_name": [
+            "SWEET",
+            "AND",
+            "SOUR",
+            "SPARE",
+            "RIBS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    }
+]

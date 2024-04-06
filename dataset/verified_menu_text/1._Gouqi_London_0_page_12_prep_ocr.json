@@ -1,0 +1,176 @@
+[
+    {
+        "chinese_name": [
+            "溫泉",
+            "蛋",
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Mapo",
+            "Tofu",
+            "with",
+            "Minced",
+            "Beef",
+            "and",
+            "Poached",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "珍",
+            "菌",
+            "玉",
+            "子",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "Claypot",
+            "Silken",
+            "Egg",
+            "Tofu",
+            "with",
+            "Wild",
+            "Mushroom",
+            "and",
+            "Vegetable"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "柱",
+            "候",
+            "火",
+            "腩",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "Claypot",
+            "Silken",
+            "Egg",
+            "Tofu",
+            "and",
+            "Roast",
+            "Pork",
+            "Belly",
+            "with",
+            "Chu",
+            "Hou",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "绿",
+            "耳",
+            "仙霞"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Cloud",
+            "Fungus",
+            "Lily",
+            "Bulb",
+            "Gai",
+            "Lan",
+            "Shiitake",
+            "and",
+            "Macadamia"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "茄子",
+            "煲"
+        ],
+        "english_name": [
+            "Braised",
+                "Yu",
+                "Xiang",
+                "Aubergine",
+                "in",
+                "Claypot"
+                
+        ],
+        "chinese_description": [],
+        "english_description": [
+            "(v)"
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "干",
+            "扣",
+            "娃娃",
+            "菜"
+        ],
+        "english_name": [
+            "Poached",
+            "Chinese",
+            "Cabbage",
+            "with",
+            "Superior",
+            "Dried",
+            "Shrimps",
+            "in",
+            "Superior",
+            "Stock"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白菜",
+            "苗"
+        ],
+        "english_name": [
+            "Baby",
+            "Pak",
+            "Choi"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+
+    {
+        "chinese_name": [
+            "香港",
+            "芥兰"
+        ],
+        "english_name": [
+            "Hong",
+            "Kong",
+            "Gai",
+            "Lan"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+
+]

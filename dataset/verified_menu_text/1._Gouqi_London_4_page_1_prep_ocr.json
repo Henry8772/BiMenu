@@ -1,0 +1,180 @@
+[
+    {
+        "chinese_name": [
+            "米",
+            "酒酿",
+            "吉拉多",
+            "生蚝"
+        ],
+        "english_name": [
+            "Fresh",
+            "Gillardeau",
+            "Oyster",
+            "with",
+            "Rice",
+            "wine",
+            "and",
+            "Szechuan",
+            "Yellow",
+                "Pepper",
+                "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲟",
+            "龙鱼",
+            "子",
+            "北京",
+            "烤鸭"
+        ],
+        "english_name": [
+            "Legendary",
+            "Peking",
+            "Duck",
+            "with",
+            "Oscietra",
+            "Caviar"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄",
+            "炆",
+            "汤",
+            "一级",
+            "官燕"
+        ],
+        "english_name": [
+            "Royal",
+            "Superior",
+            "One",
+            "Cup",
+            "Birds",
+            "Nest",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蚝",
+            "皇",
+            "南非",
+            "溏",
+            "心",
+            "鲍鱼",
+            "扣",
+            "花",
+            "胶"
+        ],
+        "english_name": [
+            "Braised",
+            "Whole",
+            "South",
+            "African",
+            "Abalone",
+            "and",
+            "Fish",
+            "Maw",
+            "with",
+                "Supreme",
+                "Oyster",
+                "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "慢",
+            "煮",
+            "日本",
+            "和",
+            "牛"
+        ],
+        "english_name": [
+            "A4",
+            "Slow",
+                "Cooked",
+                "Japanese",
+                "A4",
+                "Wagyu",
+                "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "苏格兰",
+            "蓝",
+            "龙虾",
+            "炆",
+            "生",
+            "面"
+        ],
+        "english_name": [
+            "Scottish",
+            "Blue",
+            "Lobster",
+            "Noodle",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "美点",
+            "映",
+            "双",
+            "辉"
+        ],
+        "english_name": [
+            "Double",
+            "Delight",
+            "of",
+            "Asian",
+            "Dessert"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香槟",
+            "杨枝",
+            "甘露"
+        ],
+        "english_name": [
+            "Champagne",
+            "Mango",
+            "Cream",
+            "with",
+            "Sago"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "chinese_name": [
+            "三鮮",
+            "炒麵"
+        ],
+        "english_name": [
+            "Seafood",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大蝦",
+            "炒麵"
+        ],
+        "english_name": [
+            "Prawn",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛",
+            "炒麵"
+        ],
+        "english_name": [
+            "Spicy",
+            "Beef",
+            "with",
+            "Chilli",
+            "and",
+            "Black",
+            "Bean",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "星洲",
+            "炒米"
+        ],
+        "english_name": [
+            "Singapore",
+                "Fried",
+                "Rice",
+                "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雞絲",
+            "炒麵"
+            
+        ],
+        "english_name": [
+            "Shredded",
+            "Chicken",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豆芽",
+            "撈麵"
+        ],
+        "english_name": [
+            "Fried",
+                "Soft",
+                "Noodles",
+                "with",
+                "Beansprouts"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "牛",
+            "河"
+        ],
+        "english_name": [
+            "Fried",
+            "Ho",
+            "Fun",
+            "with",
+            "Beef",
+            "and",
+            "Beansprouts"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛",
+            "河"
+        ],
+        "english_name": [
+            "Fried",
+                "Ho",
+                "Fun",
+                "with",
+                "Beef",
+                "and",
+                "Green",
+                "Peppers",
+                "with",
+                "Chilli",
+            "in",
+            "Black",
+            "Bean",
+            "Sauc"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "麵"
+        ],
+        "english_name": [
+            "River",
+            "View",
+            "House",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雜",
+            "菜",
+            "麵"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "仔",
+            "炒飯"
+        ],
+        "english_name": [
+            "Shrimps",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "生",
+            "炒",
+            "牛肉",
+            "飯"
+        ],
+        "english_name": [
+            "Minced",
+            "Beef",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "菠蘿",
+            "雞",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Diced",
+            "Chicken",
+            "and",
+            "Pineapple",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "楊",
+            "洲",
+            "炒飯"
+        ],
+        "english_name": [
+            "Special",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蛋炒飯"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白飯"
+        ],
+        "english_name": [
+            "Steamed",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "荷葉",
+            "飯"
+        ],
+        "english_name": [
+            "Baked",
+            "Rice",
+            "with",
+            "seafood",
+            "and",
+            "meat",
+            "wrapped",
+            "in",
+            "lotus",
+            "leaves"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

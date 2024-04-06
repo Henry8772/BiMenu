@@ -1,0 +1,289 @@
+[
+    {
+        "chinese_name": [
+            "齋",
+            "湯類"
+        ],
+        "english_name": [
+            "Sweet",
+            "Corn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Hot",
+            "and",
+            "Sour",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "冬菇",
+            "酸辣",
+            "羹"
+        ],
+        "english_name": [
+            "Chinese",
+            "Mushroom",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雙",
+            "菇",
+            "雜",
+            "菜羹"
+        ],
+        "english_name": [
+            "Tofu",
+            "and",
+            "Spinach",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "菠菜",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "點心",
+            "及",
+            "頭",
+            "盤"
+        ],
+        "english_name": [
+            "VEGETARIAN",
+            "DIM",
+            "SUM",
+            "and",
+            "STARTERS"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "素菜",
+            "點心",
+            "拼盤",
+            "人",
+            "起"
+        ],
+        "english_name": [
+            "Per",
+            "Person"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vegetarian",
+                "Dim",
+                "Sum",
+                "Platter",
+                "Min",
+                "Persons"
+            ],
+            [
+                "Pan",
+                "Fried",
+                "Lo",
+                "Han",
+                "Dumpling",
+                "Steamed",
+                "Vegetable",
+                "and",
+                "Nut",
+                "Dumplings",
+                "Vegetarian",
+                "Spring",
+                "Rolls",
+                "Spring",
+                "Onion",
+                "Pancakes",
+                "Seaweed",
+                "and",
+                "Pickled",
+                "Vegetables"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "羅漢",
+            "素菜",
+            "餃",
+            "蒸",
+            "素菜",
+            "潮州",
+            "粉",
+            "果",
+            "上",
+            "素雲",
+            "耳",
+            "炸",
+            "春卷",
+            "蒜香",
+            "蔥油餅",
+            "海草",
+            "及",
+            "酸菜"
+        ],
+        "english_name": [
+            "Lettuce",
+            "Wrap",
+            "with",
+            "Nuts"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "素菜",
+            "粒",
+            "生菜",
+            "包"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "脆皮",
+            "炸",
+            "齋",
+            "粉",
+            "果"
+        ],
+        "english_name": [
+            "Fried",
+            "Vegetable",
+            "Parcels"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雲",
+            "耳",
+            "炸",
+            "春卷"
+        ],
+        "english_name": [
+            "Fried",
+            "Vegetable",
+            "Spring",
+            "Rolls"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "羅漢",
+            "素菜",
+            "餃"
+        ],
+        "english_name": [
+            "Steamed",
+            "Lo",
+            "Han",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜香",
+            "蔥油餅"
+        ],
+        "english_name": [
+            "Fried",
+            "Spring",
+            "Onion",
+            "Pancakes"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spicy",
+                "Vegetable",
+                "and",
+                "Nut",
+                "Dumplings"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "素菜",
+            "潮州",
+            "粉",
+            "果"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Lo",
+            "Han",
+            "Vegetable",
+            "Bun"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "素菜",
+            "飽"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

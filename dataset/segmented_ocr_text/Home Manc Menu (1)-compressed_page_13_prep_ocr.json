@@ -1,0 +1,222 @@
+[
+    {
+        "chinese_name": [
+            "试"
+        ],
+        "english_name": [
+            "ANTONESE",
+            "CLASSIC",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "上",
+            "汤",
+            "馄饨",
+            "面",
+            "河粉"
+        ],
+        "english_name": [
+            "Won",
+            "Ton",
+            "Soup",
+            "with",
+            "Noodle",
+            "Ho",
+            "Fun"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干炒",
+            "牛",
+            "河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "Ho",
+            "Fun"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "炒"
+        ],
+        "english_name": [
+            "Home",
+            "Stir",
+            "Fried",
+            "Seafood",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ho",
+                "Fun",
+                "Noodle"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "菜",
+            "远",
+            "牛",
+            "河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "Ho",
+            "Fun",
+            "with",
+            "Choi",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "三鲜",
+            "河粉",
+            "面"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Mixed",
+            "Seafood",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fun",
+                "Noodle",
+                "Fried",
+                "Rice"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛腩",
+            "汤",
+            "河",
+            "面"
+        ],
+        "english_name": [
+            "Beef",
+            "Brisket",
+            "Soup",
+            "with",
+            "Ho",
+            "Fu",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "肉丝",
+            "河粉",
+            "面"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Shredded",
+            "Pork",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ho",
+                "Fun",
+                "Noodle",
+                "Fried",
+                "Rice"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛腩",
+            "捞面"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Noodles",
+            "with",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Brisket",
+                "in",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "牛腩",
+            "炒",
+            "河粉",
+            "面"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "Brisket",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ho",
+                "Fun",
+                "Noodle",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

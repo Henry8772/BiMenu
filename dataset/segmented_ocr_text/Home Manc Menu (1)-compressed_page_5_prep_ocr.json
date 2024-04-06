@@ -1,0 +1,226 @@
+[
+    {
+        "chinese_name": [
+            "虾球",
+            "豉",
+            "椒",
+            "姜葱",
+            "咕"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "in",
+            "Black",
+            "Bean",
+            "Ginger"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "and",
+                "Spring",
+                "Onions",
+                "Sweet",
+                "and",
+                "Sour",
+                "Sauce"
+            ],
+            [
+                "G3"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "虾球"
+        ],
+        "english_name": [
+            "Home",
+            "Kung",
+            "Po"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King",
+                "Prawns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "with",
+            "Cashew",
+            "Nuts"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "G"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲜鱿",
+            "椒",
+            "葱"
+        ],
+        "english_name": [
+            "Squid",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce",
+            "Ginger",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spring",
+                "Onions"
+            ],
+            [
+                "G5"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲈鱼",
+            "清蒸",
+            "椒",
+            "干烧"
+        ],
+        "english_name": [
+            "Sea",
+            "Bass",
+            "Steamed",
+            "Steamed",
+            "with",
+            "Mixed",
+            "Peppers",
+            "Dry",
+            "Braised"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "G8"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "多",
+            "宝",
+            "鱼",
+            "清蒸",
+            "古法",
+            "蒸"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Turbot",
+                "Steamed",
+                "Steamed",
+                "Traditional",
+                "Style"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "基围虾",
+            "咸蛋",
+            "黄",
+            "椒盐",
+            "无",
+            "壳"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "Salty",
+            "Duck",
+            "Egg",
+            "olk"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Shell",
+                "on",
+                "Shell",
+                "off"
+            ],
+            [
+                "G6"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "龙虾",
+            "葱",
+            "蛋黃",
+            "蒜蓉",
+            "蒸"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Lobster",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onions",
+                "Salty",
+                "Duck",
+                "Egg",
+                "Yolk",
+                "Steamed",
+                "with",
+                "Garlic"
+            ],
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

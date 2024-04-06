@@ -1,0 +1,145 @@
+[
+    {
+        "chinese_name": ["串烧鸡腿肉"],
+        "english_name": [
+            "CHICKEN",
+            "SKEWER",
+            "IN",
+            "CARAMELIZED",
+            "SAUCE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Grilled",
+                "Chicken",
+                "with",
+                "spices",
+                "on",
+                "skewers"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["串烧猪腩肉"],
+        "english_name": [
+            "PORK",
+            "BELLY",
+            "SKEWER",
+            "IN",
+            "CARAMELIZED",
+            "SAUCE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Grilled",
+                "Pork",
+                "Belly",
+                "with",
+                "spices",
+                "on",
+                "skewers"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["孜然羊肉串"],
+        "english_name": [
+            "CUMIN",
+            "LAMB",
+            "SKEWER"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Grilled",
+                "Lamb",
+                "with",
+                "cumin",
+                "spices",
+                "on",
+                "skewers"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["黑胡椒牛肉电"],
+        "english_name": [
+            "STEAK",
+            "SKEWER",
+            "IN",
+            "BLACK",
+            "PEPPER",
+            "SAUCE",
+            "Grilled",
+            "Steak",
+            "with",
+            "black",
+            "pepper",
+            "sauce",
+            "on",
+            "skewers"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["香辣大虾球"],
+        "english_name": [
+            "KING",
+                "PRAWN",
+                "SKEWER",
+                "IN",
+                "CARAMELIZED",
+                "SAUCE"
+                
+        ],
+        "chinese_description": [],
+        "english_description": [
+            "Grilled",
+                "King",
+                "Prawn",
+                "with",
+                "spices",
+                "on",
+                "skewers",
+            "SKEWERS"
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["蔬菜串烧拼盘"],
+        "english_name": [
+            "MIXED",
+            "VEGGIE",
+            "SKEWER"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Grilled",
+                "mixed",
+                "veggie",
+                "skewer",
+                "with",
+                "the",
+                "combination",
+                "of",
+                "tofu",
+                "mushroom",
+                "coquette"
+            ]
+        ],
+        "raw_text": null
+    }
+    
+]

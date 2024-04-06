@@ -1,0 +1,258 @@
+[
+    {
+        "chinese_name": [
+            "时价"
+        ],
+        "english_name": [
+            "Market",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "帝皇",
+            "蟹",
+            "清蒸",
+            "椒盐",
+            "香辣"
+        ],
+        "english_name": [
+            "King",
+            "Crab",
+            "Steamed",
+            "Deep",
+            "Fried",
+            "with",
+            "dried",
+            "shallots"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Salt",
+                "and",
+                "Pepper",
+                "with",
+                "dried",
+                "spicy",
+                "chilli"
+            ],
+            [
+                "in",
+                "Spicy",
+                "sauce",
+                "with",
+                "Sichuan",
+                "peppercorns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲍鱼",
+            "清蒸",
+            "椒盐",
+            "香辣",
+            "麻辣"
+        ],
+        "english_name": [
+            "Abalone",
+            "Steamed",
+            "Deep",
+            "fried",
+            "with",
+            "dried",
+            "shallots"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "salt",
+                "and",
+                "pepper",
+                "with",
+                "dried",
+                "spicy",
+                "chilli"
+            ],
+            [
+                "in",
+                "spicy",
+                "sauce",
+                "with",
+                "sichuan",
+                "peppercorns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "加拿大",
+            "蟹"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "姜葱",
+            "避风塘",
+            "椒盐",
+            "香辣",
+            "麻辣"
+        ],
+        "english_name": [
+            "Canada",
+            "Crab",
+            "Steamed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ginger",
+                "Spring",
+                "Onion"
+            ],
+            [
+                "Deep",
+                "Fried",
+                "with",
+                "dried",
+                "shallots"
+            ],
+            [
+                "in",
+                "Salt",
+                "and",
+                "Pepper",
+                "with",
+                "dried",
+                "spicy",
+                "chilli"
+            ],
+            [
+                "in",
+                "Spicy",
+                "sauce",
+                "with",
+                "Sichuan",
+                "peppercorns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "龙虾",
+            "可",
+            "加伊",
+            "面",
+            "脆",
+            "面",
+            "底"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Lobster",
+            "With",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Can",
+                "Add",
+                "Egg",
+                "Noodle",
+                "Crispy",
+                "Noodle"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "龙虾",
+            "避风塘",
+            "椒盐",
+            "香辣",
+            "麻辣"
+        ],
+        "english_name": [
+            "Lobster",
+            "Deep",
+            "Fried",
+            "With",
+            "Dried",
+            "Shallots"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "In",
+                "Salt",
+                "and",
+                "Pepper",
+                "With",
+                "Dried",
+                "Spicy",
+                "Chilli"
+            ],
+            [
+                "In",
+                "Spicy",
+                "Sauce",
+                "With",
+                "Sichuan",
+                "Peppercorns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "我们",
+            "会",
+            "加收",
+            "服务",
+            "费"
+        ],
+        "english_name": [
+            "Wecharge",
+            "a",
+            "service",
+            "charge",
+            "on",
+            "all",
+            "customers"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

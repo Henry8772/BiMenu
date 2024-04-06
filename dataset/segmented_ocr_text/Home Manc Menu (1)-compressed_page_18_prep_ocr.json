@@ -1,0 +1,330 @@
+[
+    {
+        "chinese_name": [
+            "蔬菜"
+        ],
+        "english_name": [
+            "VEGETABLE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "DISHES"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "以下",
+            "蔬菜",
+            "均可",
+            "选择",
+            "做法",
+            "清炒",
+            "蒜蓉",
+            "马来",
+            "盏",
+            "椒",
+            "丝",
+            "腐乳"
+        ],
+        "english_name": [
+            "The",
+            "following",
+            "vegetables",
+            "are",
+            "available",
+            "in",
+            "the",
+            "following",
+            "options",
+            "Stir",
+            "Fried",
+            "Garlic",
+            "Shrimp",
+            "Paste",
+            "Preserved",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M1"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "通",
+            "菜"
+        ],
+        "english_name": [
+            "Tong",
+            "Choi",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M5"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西兰",
+            "花"
+        ],
+        "english_name": [
+            "Broccoli",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M2"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "小白菜"
+        ],
+        "english_name": [
+            "Siu",
+            "Pak",
+            "Choi",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M6"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "菠菜"
+        ],
+        "english_name": [
+            "Chinese",
+            "Spinach",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M3"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "生菜"
+        ],
+        "english_name": [
+            "Lettuce",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M7"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大白菜"
+        ],
+        "english_name": [
+            "Chinese",
+            "Cabbage",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "中国",
+            "豆苗"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "土豆",
+            "丝",
+            "清炒",
+            "酸辣",
+            "尖椒"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Shredded",
+            "Potato"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Plain",
+                "Sour",
+                "and",
+                "Spicy",
+                "Chilli",
+                "Pepper"
+            ],
+            [
+                "V",
+                "VG"
+            ],
+            [
+                "M8"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蓉",
+            "上",
+            "汤",
+            "双"
+        ],
+        "english_name": [
+            "Pea",
+            "Greens",
+            "Garlic",
+            "Broth",
+            "Double",
+            "Egg",
+            "in",
+            "Broth"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "VG"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "中国",
+            "芥兰",
+            "蒜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chinese",
+            "Kale"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ginger",
+                "Garlic",
+                "V",
+                "VG"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "什",
+            "菌",
+            "虾",
+            "滑",
+            "浸",
+            "菠菜"
+        ],
+        "english_name": [
+            "Shrimp",
+            "and",
+            "Spinach",
+            "Broth"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "M12"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "中国",
+            "菜",
+            "心",
+            "蒜蓉",
+            "上"
+        ],
+        "english_name": [
+            "Choi",
+            "Sum",
+            "Garlie",
+            "Broth",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白灼",
+            "芥菜",
+            "胆"
+        ],
+        "english_name": [
+            "Boiled",
+            "Mustard",
+            "Greens",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

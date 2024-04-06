@@ -1,0 +1,199 @@
+[
+    {
+        "chinese_name": [
+            "芝士",
+            "焗",
+            "饭"
+        ],
+        "english_name": ["Cheese Bake Rice"],
+        "chinese_description": [
+
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+                "叉烧",
+                "饭"
+        ],
+        "english_name": [
+            "Honey",
+            "Char",
+            "Siu",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+            
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["白切鸡饭"],
+        "english_name": [
+            "Fragrant",
+            "Poached",
+            "Chicken",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "烧鸭",
+            "饭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "切",
+            "鸡饭"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "and",
+            "Fragrant",
+            "Poached",
+            "Chicken",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "烧鸭",
+            "饭"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "and",
+            "Roast",
+            "Duck",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芝士",
+                "番茄",
+                "猪扒",
+                "焗",
+                "饭"
+        ],
+        "english_name": [
+            "Pork",
+                "Chop",
+                "Tomato",
+                "Sauce",
+                "with",
+                "Cheese",
+                "Baked",
+                "Rice"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芝士",
+            "番茄",
+            "鸡",
+            "扒",
+            "焗",
+            "饭"
+        ],
+        "english_name": [
+            "Chicken",
+            "Fillet",
+            "Tomato",
+            "Sauce",
+            "with",
+            "Cheese",
+            "Baked",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芝士",
+            "黑椒",
+            "猪扒",
+            "焗",
+            "饭"
+        ],
+        "english_name": [
+            "Pork",
+            "Chop",
+            "Black",
+            "pepper",
+            "Sauce",
+            "with",
+            "Cheese",
+            "Baked",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芝士",
+            "黑椒",
+            "鸡",
+            "扒",
+            "焗",
+            "饭"
+        ],
+        "english_name": [
+            "Chicken",
+            "Fillet",
+            "Black",
+            "pepper",
+            "Sauce",
+            "with",
+            "Cheese",
+            "Baked",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

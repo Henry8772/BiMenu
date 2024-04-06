@@ -1,0 +1,1445 @@
+[
+    {
+        "chinese_name": [
+            "清汤牛肉面"
+        ],
+        "english_name": [
+            "Beef",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸菜牛肉面"
+        ],
+        "english_name": [
+            "Pickled",
+            "Cabbage",
+            "and",
+            "Beef",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红烧牛腩面"
+        ],
+        "english_name": [
+            "Braised",
+            "Beef",
+            "Brisket",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "清汤牛排面"
+        ],
+        "english_name": [
+            "Beef",
+            "Steak",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "家常臊子面"
+        ],
+        "english_name": [
+            "Home",
+            "Style",
+            "Saozi",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "极品大排面"
+        ],
+        "english_name": [
+            "Special",
+            "Ribs",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣油泼面"
+        ],
+        "english_name": [
+            "Aromatic",
+            "Chili",
+            "Oil",
+            "Noodles",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "日式担担面"
+        ],
+        "english_name": [
+            "Japanese",
+            "Style",
+            "Dan",
+            "Dan",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉油鸡腿面"
+        ],
+        "english_name": [
+            "Soy",
+            "Sauce",
+            "Chicken",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炸酱面"
+        ],
+        "english_name": [
+            "Noodles",
+            "with",
+            "Soybean",
+            "Paste",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海鲜面"
+        ],
+        "english_name": [
+            "Seafood",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "清汤什菜面"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "星洲炒米粉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Singapore",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豆角焖面"
+        ],
+        "english_name": [
+            "Brainsed",
+            "Noodles",
+            "with",
+            "Prok",
+            "and",
+            "Green",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干炒牛河"
+        ],
+        "english_name": [
+            "Beef",
+            "Chow",
+            "Fun"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻辣土豆丝"
+        ],
+        "english_name": [
+            "Sliced",
+            "Spicy",
+            "Potato"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海带丝粉丝"
+        ],
+        "english_name": [
+            "Seaweed",
+            "with",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酱牛肉"
+        ],
+        "english_name": [
+            "Seasoned",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣白菜"
+        ],
+        "english_name": [
+            "Korean",
+            "Style",
+            "Kimichi"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白云凤爪"
+        ],
+        "english_name": [
+            "Chinese",
+            "Style",
+            "Chiken",
+            "Feet"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "小葱拌豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "with",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红油耳丝"
+        ],
+        "english_name": [
+            "Pig",
+            "Ears",
+            "in",
+            "the",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣豆皮"
+        ],
+        "english_name": [
+            "Spicy",
+            "Dry",
+            "Beancurd"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "凉拌牛肚"
+        ],
+        "english_name": [
+            "Spicy",
+            "Beef",
+            "Tripe"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "凉拌猪肚"
+        ],
+        "english_name": [
+            "Spicy",
+            "Pork",
+            "Tripe"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "盐水鸡胗"
+        ],
+        "english_name": [
+            "Salted",
+            "Chicken",
+            "Gizzards"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜香黑木耳"
+        ],
+        "english_name": [
+            "Black",
+            "Fungus",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "凉拌芹菜根"
+        ],
+        "english_name": [
+            "Celery",
+            "Root",
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "怪味花生"
+        ],
+        "english_name": [
+            "Multi",
+            "seasoned",
+            "peanuts"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "皮冻"
+        ],
+        "english_name": [
+            "Pork",
+            "Gelatine"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白米饭"
+        ],
+        "english_name": [
+            "Boiled",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣烤鱼"
+        ],
+        "english_name": [
+            "Hot",
+            "Spicy",
+            "Whole",
+            "Seabass",
+            "with",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香茄子煲"
+        ],
+        "english_name": [
+            "Essence",
+            "of",
+            "Fish",
+            "with",
+            "Aubergine",
+            "and",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙爹牛肉粉丝煲"
+        ],
+        "english_name": [
+            "Clay",
+            "Pot",
+            "Beef",
+            "Satay",
+            "with",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "新疆大盘鸡"
+        ],
+        "english_name": [
+            "Spicy",
+            "Chicken",
+            "with",
+            "Potatoes",
+            "and",
+            "noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "地三鲜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Potato",
+            "Aubergine",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "剁椒鲈鱼"
+        ],
+        "english_name": [
+            "Steamed",
+            "Sea",
+            "Bass",
+            "with",
+            "chopped",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐大虾"
+        ],
+        "english_name": [
+            "Salt",
+            "Pepper",
+            "King",
+            "Prawn",
+            "on",
+            "the",
+            "Shell"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "北菇滑鸡煲"
+        ],
+        "english_name": [
+            "Chicken",
+            "and",
+            "Mushroom",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅包菜"
+        ],
+        "english_name": [
+            "Cabbages",
+            "Cooked",
+            "in",
+            "Hot",
+            "Pan",
+            "with",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅牛腩"
+        ],
+        "english_name": [
+            "Beef",
+            "Brisket",
+            "Cooked",
+            "in",
+            "Hot",
+            "Pan"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干锅豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "Cooked",
+            "in",
+            "Hot",
+            "Pan",
+            "with",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干烧鲈鱼"
+        ],
+        "english_name": [
+            "Dry",
+            "Brised",
+            "Sea",
+            "Bass"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "凉拌牛健子肉"
+        ],
+        "english_name": [
+            "Spicy",
+            "Beef",
+            "Shank"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒麻鸡"
+        ],
+        "english_name": [
+            "Spicy",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "番茄焖牛腩"
+        ],
+        "english_name": [
+            "Slow",
+            "Cook",
+            "Beef",
+            "Brisket",
+            "with",
+            "Tomato"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "啤酒醋焖鸡"
+        ],
+        "english_name": [
+            "Slow",
+            "Cook",
+            "Chicken",
+            "with",
+            "Cider"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "回锅肉饭"
+        ],
+        "english_name": [
+            "Double",
+            "Cooked",
+            "Belly",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻婆豆腐饭"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Spicy",
+            "Pork",
+            "with",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红烧鱼饭"
+        ],
+        "english_name": [
+            "Braised",
+            "Fish",
+            "with",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "扬州炒饭"
+        ],
+        "english_name": [
+            "Young",
+            "Chow",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "番茄鸡蛋饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Tomato",
+            "and",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉椒排骨饭"
+        ],
+        "english_name": [
+            "Ribs",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "农家肉片饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Slice",
+            "Pork",
+            "with",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉椒牛饭"
+        ],
+        "english_name": [
+            "Beef",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宫保鸡丁饭"
+        ],
+        "english_name": [
+            "Kung",
+            "Pao",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸豆角炒肉末饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Feied",
+            "Pork",
+            "Mince",
+            "with",
+            "Sour",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉西兰花饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Broccoli",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "泡菜豆腐汤"
+        ],
+        "english_name": [
+            "Kimchia",
+            "and",
+            "Toufu",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "盐焗鸡饭"
+        ],
+        "english_name": [
+            "Salted",
+            "Steamed",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸菜鱼饭"
+        ],
+        "english_name": [
+            "Fish",
+            "with",
+            "Pickled",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "土豆烧牛腩饭"
+        ],
+        "english_name": [
+            "Braised",
+            "Beef",
+            "with",
+            "Potato"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "肉丝金菇豆腐饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Pork",
+            "with",
+            "Enoki",
+            "Mushrooms",
+            "and",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "榄菜肉末豆角饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Green",
+            "Beans",
+            "with",
+            "Minced",
+            "Pork",
+            "and",
+            "Olive",
+            "Pickles"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑椒牛肉饭"
+        ],
+        "english_name": [
+            "Beef",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腊味炒饭"
+        ],
+        "english_name": [
+            "Chinese",
+            "Cured",
+            "Pork",
+            "and",
+            "Sausage",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻辣排骨饭"
+        ],
+        "english_name": [
+            "Hot",
+            "Spicy",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酱香肉丝饭"
+        ],
+        "english_name": [
+            "Shredded",
+            "Pork",
+            "with",
+            "Soybean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "剁椒鸡丁饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chicken",
+            "with",
+            "Chopped",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸辣肥牛饭"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Sour",
+            "Beef",
+            "Brisket"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "醋溜白菜饭"
+        ],
+        "english_name": [
+            "Fried",
+            "Chinese",
+            "Cabbage",
+            "with",
+            "Vinegar",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西湖牛肉羹"
+        ],
+        "english_name": [
+            "West",
+            "Lake",
+            "Beef",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "台湾卤肉饭"
+        ],
+        "english_name": [
+            "Taiwanese",
+            "Style",
+            "Marinated",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "日式咖喱鸡饭"
+        ],
+        "english_name": [
+            "Japanese",
+            "Chicken",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "马来牛腩饭"
+        ],
+        "english_name": [
+            "Malaysian",
+            "Style",
+            "Braised",
+            "Beef",
+            "Brisket"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香肉丝饭"
+        ],
+        "english_name": [
+            "Essence",
+            "of",
+            "Fish",
+            "with",
+            "Shredded",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "小炒牛肉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "with",
+            "Chilli",
+            "and",
+            "Celery"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣子鸡丁饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Spicy",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉油鸡饭"
+        ],
+        "english_name": [
+            "Marinated",
+            "Soy",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐猪扒饭"
+        ],
+        "english_name": [
+            "Salt",
+            "Pepper",
+            "Pork",
+            "Chops"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "虾仁滑蛋饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Prawn",
+            "with",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "葱爆羊肉饭"
+        ],
+        "english_name": [
+            "Quick",
+            "Stir",
+            "Fried",
+            "Lamb",
+            "with",
+            "Leek"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糖醋鱼饭"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "孜然洋葱土豆片饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Potatoas",
+            "and",
+            "Onions",
+            "with",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蟹米汤"
+        ],
+        "english_name": [
+            "Crab",
+            "Sweetcorn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "三杯鸡饭"
+        ],
+        "english_name": [
+            "Stewed",
+            "Chicken",
+            "with",
+            "Ginger",
+            "and",
+            "Wine",
+            "in",
+            "Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红烧牛腩饭"
+        ],
+        "english_name": [
+            "Braised",
+            "Beef",
+            "Brisket"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "爆炒鸡胗饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chicken",
+            "Gizzard",
+            "with",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京汁猪扒饭"
+        ],
+        "english_name": [
+            "Pork",
+            "Chops",
+            "in",
+            "Peking",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐鸡翅饭"
+        ],
+        "english_name": [
+            "Salt",
+            "Pepper",
+            "Chicken",
+            "Wings"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "XO酱鸡粒炒饭"
+        ],
+        "english_name": [
+            "Chicken",
+            "Fried",
+            "Rice",
+            "with",
+            "XO",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣子鱼块饭"
+        ],
+        "english_name": [
+            "Spicy",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糖醋排骨饭"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "干煸四季豆饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Green",
+            "Beans",
+            "with",
+            "Mince",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "韭菜鸡蛋炒饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chinese",
+            "Chives",
+            "and",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "孜然牛肉饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "with",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京味烧茄子饭"
+        ],
+        "english_name": [
+            "Braised",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸辣汤"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Sour",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

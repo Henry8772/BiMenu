@@ -1,0 +1,57 @@
+[
+    {
+        "chinese_name": [
+            "海鮮",
+            "炒麵",
+            "/河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Seafood",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+           
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Ho",
+            "Fun",
+            "Noodles",
+            "Dry"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "星洲",
+            "炒河"
+        ],
+        "english_name": [
+            "Singapore",
+            "Fried",
+            "Pork",
+                "and",
+                "Prawn",
+                "vermicelli",
+                "noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

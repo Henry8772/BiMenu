@@ -1,0 +1,78 @@
+[
+    {
+        "chinese_name": [
+            "上海",
+            "粗炒"
+        ],
+        "english_name": [
+            "STIR-FRIED NOODLES IN SHANGHAINESE STYLE"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "北方",
+            "水饺"
+        ],
+        "english_name": [
+            "TRADITIONAL",
+            "DUMPLINGS"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红油",
+            "水饺"
+        ],
+        "english_name": [
+            "TRADITIONAL",
+            "DUMPLINGS",
+            "IN",
+            "CHILLI",
+            "OIL"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+
+    {
+        "chinese_name": [
+            "红糖",
+            "糍粑"
+        ],
+        "english_name": [
+            "DEEP FRIED GLUTINOUS RICE CAKE WITH MELTED BROWN SUGAR"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白",
+            "米饭"
+        ],
+        "english_name": [
+            "STEAMED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "chinese_name": [
+            "干锅",
+            "田鸡",
+            "脚",
+            "香辣",
+            "酸辣"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Frog's",
+            "Leg",
+            "with",
+            "Dried",
+            "Chilli",
+            "and",
+            "Sichuan",
+            "Pepper",
+            "Sour",
+            "and",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [
+            "Dry",
+            "Fried",
+            "Diced",
+            "Chicken",
+            "on",
+            "bones",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "peppercorns",
+                "peanuts",
+                "and",
+                "dried",
+                "chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "野",
+            "山椒",
+            "炒鸡",
+            "胗",
+            "子",
+            "然",
+            "鸡",
+            "胗"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Gizzards",
+            "with",
+            "Pickle",
+            "Chilli",
+            "Spicy",
+            "Cumin",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "冒",
+            "菜"
+        ],
+        "english_name": [
+            "Spicy",
+            "Casserole",
+            "with",
+            "Assorted",
+            "Intestines",
+            "and",
+            "Meat",
+            "with",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "葱爆",
+            "羊肉",
+            "子",
+            "然",
+            "羊肉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "lamb",
+            "with",
+            "Spring",
+            "Onions",
+            "with",
+            "Spicy",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "羊肉"
+        ],
+        "english_name": [
+            "Spicy",
+            "Hot",
+            "Poached",
+            "lamb",
+            "in",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "葱爆",
+            "牛肉",
+            "子",
+            "然",
+            "牛肉"
+        ],
+        "english_name": [
+            "Sti",
+            "ried",
+            "Beef",
+            "with",
+            "Spring",
+            "Onions",
+            "With",
+            "Spicy",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "自带",
+            "酒水",
+            "加收",
+            "开",
+            "瓶",
+            "费"
+        ],
+        "english_name": [
+            "Corkage",
+            "charge",
+            "applies",
+            "if",
+            "you",
+            "bring",
+            "your",
+            "own",
+            "wines"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

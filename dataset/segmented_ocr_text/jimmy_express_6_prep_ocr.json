@@ -1,0 +1,346 @@
+[
+    {
+        "chinese_name": [
+            "凉菜",
+            "类"
+        ],
+        "english_name": [
+            "COOLDISHES"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "烧鸭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "Hong",
+            "Kong",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "半",
+            "只",
+            "一只"
+        ],
+        "english_name": [
+            "Half",
+            "Whole"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "红油",
+            "肚丝"
+        ],
+        "english_name": [
+            "Pork",
+            "Tripe",
+            "with",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "口水",
+            "鸡"
+        ],
+        "english_name": [
+            "Szechuan",
+            "Style",
+            "Spice",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "夫妻肺片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "and",
+            "Tripe",
+            "with",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "凉拌",
+            "青瓜"
+        ],
+        "english_name": [
+            "Chinese",
+            "Style",
+            "Cucumber",
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宫保鸡丁"
+        ],
+        "english_name": [
+            "Kong",
+            "Po",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ChongQing",
+                "Style"
+            ],
+            [
+                "Chicken",
+                "with",
+                "Chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鸡肉",
+            "类"
+        ],
+        "english_name": [
+            "CHICKEN",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "重庆",
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [
+            "ChongQing",
+            "Style",
+            "Chicken",
+            "with",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "板栗",
+            "养生",
+            "鸡"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chicken",
+            "with",
+            "Chestnuts"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "香鸡"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Spicy",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宫保鸡丁"
+        ],
+        "english_name": [
+            "Kong",
+            "Po",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "新疆",
+            "大盘鸡"
+        ],
+        "english_name": [
+            "Xinjiang",
+            "Chicken",
+            "Stew"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "类"
+        ],
+        "english_name": [
+            "SEAFOOD",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鱼"
+        ],
+        "english_name": [
+            "Sliced",
+            "Fish",
+            "with",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鱼"
+        ],
+        "english_name": [
+            "Sliced",
+            "Fish",
+            "with",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "鱼"
+        ],
+        "english_name": [
+            "Sliced",
+            "Fish",
+            "Pickled",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Ginger",
+            "and",
+            "Sping",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鱿鱼"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Squid"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "鱿鱼"
+        ],
+        "english_name": [
+            "Squid",
+            "with",
+            "Green",
+            "Peper",
+            "and",
+            "Black",
+            "Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    }
+]

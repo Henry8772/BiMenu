@@ -1,0 +1,122 @@
+[
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "杂菌",
+            "饺"
+        ],
+        "english_name": [
+            "Wild",
+            "Mushroom",
+            "Dumpling",
+            "with",
+            "Black",
+            "Truffle"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "桃",
+            "胶",
+            "杞子",
+            "饺"
+        ],
+        "english_name": [
+            "Peach",
+            "Gum",
+            "Yam",
+            "and",
+            "Goji",
+            "Dumpling"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金箔",
+            "斋",
+            "鸡",
+            "饺"
+        ],
+        "english_name": [
+            "Gold",
+            "Leaf",
+            "Vegetarian",
+            "Chicken",
+            "Dumpling"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羊肚菌",
+            "素",
+            "春卷"
+        ],
+        "english_name": [
+            "Morel",
+            "Mushroom",
+            "Spring",
+            "Roll"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "绿",
+            "耳",
+            "仙霞"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Cloud",
+            "Fungus",
+            "Lily",
+            "Bulb",
+            "Gai",
+                "Lan",
+                "Shiitake",
+                "and",
+                "Macadamia",
+                "Nut"
+                
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "(v)"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "丝苗",
+            "白饭"
+        ],
+        "english_name": [
+            "Steamed",
+            "Jasmine",
+            "Rice"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    }
+]

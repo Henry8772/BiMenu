@@ -1,0 +1,91 @@
+[
+    {
+        "chinese_name": [
+            "土豆",
+            "焖",
+            "牛腩"
+        ],
+        "english_name": [
+            "Braised",
+            "Beef",
+            "Belly",
+            "with",
+            "Potato",
+            "in",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸汤",
+            "肥牛"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "with",
+            "Spicy",
+            "sour",
+            "Preserved",
+            "Vegetable"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "肥肉"
+        ],
+        "english_name": [
+            "Poached",
+            "Beef",
+            "in",
+            "Hot",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "自带",
+            "酒水",
+            "加收",
+            "开",
+            "瓶",
+            "费"
+        ],
+        "english_name": [
+            "Corkage",
+            "charge",
+            "applies",
+            "if",
+            "you",
+            "bring",
+            "your",
+            "own",
+            "wines"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

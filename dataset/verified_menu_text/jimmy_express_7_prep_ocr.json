@@ -1,0 +1,207 @@
+[
+    {
+        "chinese_name": [
+            "孜然",
+            "羊",
+            "腩"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Lamb",
+            "Brisket",
+            "with",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "牛肉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "with",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Green",
+            "Pepper",
+            "and",
+            "Black",
+            "Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "羊",
+            "腩"
+        ],
+        "english_name": [
+            "Lamb",
+            "Brisket",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "土豆",
+            "焖",
+            "牛腩"
+        ],
+        "english_name": [
+            "Beef",
+            "Brisket",
+            "and",
+            "Potato",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "土豆",
+            "焖",
+            "牛腩"
+        ],
+        "english_name": [
+            "Stewed",
+            "Beef",
+            "Brisket",
+            "and",
+            "Potato"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "番茄",
+            "焖",
+            "牛腩"
+        ],
+        "english_name": [
+            "Stewed",
+            "Beef",
+            "Brisket",
+            "and",
+            "Tomato"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸汤",
+            "肥牛"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "with",
+            "Pickled",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "汤",
+            "肥牛"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "in",
+            "Hot",
+            "and",
+            "Spicy",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金针菇",
+            "肥牛"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "with",
+            "Enoki",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "羊",
+            "腩"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Spicy",
+            "Lamb",
+            "Brisket"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

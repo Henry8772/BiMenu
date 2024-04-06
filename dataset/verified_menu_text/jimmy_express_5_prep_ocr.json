@@ -1,0 +1,318 @@
+[
+    {
+        "chinese_name": [
+            "干",
+            "牛",
+            "丝"
+        ],
+        "english_name": [
+            "Crispy",
+                "Shredded",
+                "Beef"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "大虾"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [
+
+            [
+                "酥炸",
+                "大虾"
+            ]
+        ],
+        "english_description": [
+
+            [
+                "Deep",
+                "Fried",
+                "King",
+                "Prawn"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+                "大虾"
+        ],
+        "english_name": [
+            "Deep",
+                "Fried",
+                "King",
+                "Prawn"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Green",
+            "Pepper",
+            "and",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+
+    {
+        "chinese_name": [
+            "宫保",
+            "大虾"
+        ],
+        "english_name": [
+            "Beef",
+            "Satay"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "牛"
+        ],
+        "english_name": [
+            "Beef Satay"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "大虾"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    
+    {
+        "chinese_name": [
+            "白切鸡"
+        ],
+        "english_name": [
+            "Fragrant",
+            "Poached",
+            "Chicken"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "烧鸭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "Hong",
+            "Kong",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "烧鸭"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "and",
+            "Roast",
+            "Duck",
+            "and",
+            "Char",
+                "Sui",
+                "with",
+                "Honey",
+                "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "白切鸡"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "and",
+            "Fragrant",
+            "Poached",
+            "Chicken",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉烧",
+            "饭"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "with",
+            "Rice",
+            "Roast",
+                "Duck",
+                "Hong",
+                "Kong"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白切鸡",
+            "饭"
+        ],
+        "english_name": [
+            "Fragrant",
+            "Poached",
+            "Chicken",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "烧鸭",
+            "饭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "Hong",
+            "Kong",
+            "Style",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "烧鸭",
+            "饭"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "and",
+            "Roast",
+            "Duck",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "白切鸡",
+            "饭"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "and",
+            "Fragrant",
+            "Poached",
+            "Chicken",
+            "with",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    }
+]

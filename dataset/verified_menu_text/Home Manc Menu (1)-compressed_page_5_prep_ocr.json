@@ -1,0 +1,101 @@
+[
+    {
+        "chinese_name": [
+            "虾球",
+            "豉",
+            "椒",
+            "姜葱",
+            "咕"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "in",
+            "Black",
+            "Bean",
+            "Ginger",
+            "and",
+                "Spring",
+                "Onions",
+                "Sweet",
+                "and",
+                "Sour",
+                "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "虾"
+        ],
+        "english_name": [
+            "King",
+                "Prawns",
+                "with",
+                "Cashew",
+                "Nuts"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+
+    {
+        "chinese_name": [
+            "鲈鱼",
+            "清蒸",
+            "椒",
+            "干烧"
+        ],
+        "english_name": [
+            "Sea",
+            "Bass",
+            "Steamed",
+            "Steamed",
+            "with",
+            "Mixed",
+            "Peppers",
+            "Dry",
+            "Braised"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "多",
+                "宝",
+                "鱼",
+                "清蒸",
+                "古法",
+                "蒸"
+        ],
+        "english_name": [
+            "Turbot",
+                "Steamed",
+                "Steamed",
+                "Traditional",
+                "Style"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    }
+    
+]

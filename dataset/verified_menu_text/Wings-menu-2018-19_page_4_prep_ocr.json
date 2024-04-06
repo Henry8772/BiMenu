@@ -1,0 +1,432 @@
+[
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "蒸",
+            "帶子"
+        ],
+        "english_name": [
+            "Steamed",
+            "Scallop",
+            "in",
+            "Shell",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "蝴蝶",
+            "蝦球"
+        ],
+        "english_name": [
+            "Butterfly",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "百花",
+            "釀",
+            "蟹"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Crab",
+            "Claw",
+            "Stuffed",
+            "with",
+            "Prawn",
+            "Meat"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "串燒",
+            "中式",
+            "汁",
+            "牛柳"
+        ],
+        "english_name": [
+            "Fillet",
+            "Steak",
+            "on",
+            "Skewers",
+            "in",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "串燒",
+            "沙爹",
+            "皇",
+            "雞柳"
+        ],
+        "english_name": [
+            "Sliced",
+            "Chicken",
+            "on",
+            "Skewers",
+            "in",
+            "Peanut",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "串燒",
+            "冬",
+            "蔭",
+            "雞",
+            "餅"
+        ],
+        "english_name": [
+            "Chicken",
+            "Cakes",
+            "on",
+            "Skewers",
+            "in",
+            "Tom",
+            "Yum",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "鮮魷",
+            "咕嚕",
+            "汁"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Squid",
+            "with",
+            "Sweet",
+            "and",
+            "Sour",
+            "Dips"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "鮮魷"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Squid"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜茸",
+            "蒸",
+            "大蝦",
+            "碌"
+        ],
+        "english_name": [
+            "Steamed",
+            "King",
+            "Prawns",
+            "in",
+            "Shell",
+            "with",
+            "Garlic",
+            "and",
+            "Soya",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "大蝦",
+            "碌"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "King",
+            "Prawns",
+            "in",
+            "Shell"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣味",
+            "日本",
+            "芥辣",
+            "蝦"
+        ],
+        "english_name": [
+            "Spicy",
+            "Wasabi",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "迷你",
+            "XO",
+            "醬鴨",
+            "粒",
+            "雀巢"
+        ],
+        "english_name": [
+            "XO",
+            "Diced",
+            "Duck",
+            "in",
+            "Mini",
+            "Bird's",
+            "Nest"
+        ],
+        "chinese_description": [
+        ],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西",
+            "檸",
+            "芝麻",
+            "蝦"
+        ],
+        "english_name": [
+            "Sesame",
+            "King",
+            "Prawns",
+            "in",
+            "Lemon",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "大蝦",
+            "球"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "馬拉",
+            "豉",
+            "油",
+            "皇",
+            "大蝦"
+        ],
+        "english_name": [
+            "Malaysian",
+            "King",
+            "Prawns",
+            "in",
+            "Soya",
+            "King",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "乾",
+            "煎",
+            "明蝦",
+            "碌"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "in",
+            "Shell",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "蝦球"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "XO",
+            "醬",
+            "蘆筍",
+            "大蝦"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "with",
+            "Asparagus",
+            "in",
+            "XO",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "蒸",
+            "大蝦",
+            "碌"
+        ],
+        "english_name": [
+            "Steamed",
+            "King",
+            "Prawns",
+            "in",
+            "Shell",
+            "with",
+            "Garlic",
+            "and",
+            "Soya",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "上海",
+            "辣",
+            "蝦球"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Hot",
+            "Chilli",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "大蝦"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "Kung",
+            "Po",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "沙爹",
+            "粉絲",
+            "大蝦",
+            "煲"
+        ],
+        "english_name": [
+            "Spicy",
+            "Satay",
+            "King",
+            "Prawns",
+            "and",
+            "Glass",
+            "Vermicelli",
+            "in",
+            "Clay",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

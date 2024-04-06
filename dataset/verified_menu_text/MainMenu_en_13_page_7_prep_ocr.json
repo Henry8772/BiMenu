@@ -1,0 +1,418 @@
+[
+
+    {
+        "chinese_name": [
+            "椒鹽",
+                "豬扒"
+        ],
+        "english_name": [
+            "Salt",
+                "and",
+                "Pepper",
+                "Pork",
+                "Chops"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西",
+            "汁",
+            "豬扒"
+        ],
+        "english_name": [
+            "Cantonese",
+            "Style",
+            "Pork",
+            "Chops"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+                "牛",
+                "絲"
+        ],
+        "english_name": [
+            "Shredded",
+                "Beef",
+                "with",
+                "Sweet",
+                "and",
+                "Spicy",
+                "Sauce"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "炒",
+            "牛柳"
+        ],
+        "english_name": [
+            "Beef",
+            "Fillet",
+            "with",
+            "Pepper",
+            "and",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "牛柳"
+        ],
+        "english_name": [
+            "Beef",
+            "Fillet",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "牛柳"
+        ],
+        "english_name": [
+            "Beef",
+            "Fillet",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鐵板",
+            "中式",
+            "牛柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "Tenderloin",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鐵板",
+            "薑蔥",
+            "牛柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "Tenderloin",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鐵板",
+            "豉",
+            "椒",
+            "牛柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "Tenderloin",
+            "with",
+            "Pepper",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鐵板",
+            "黑椒",
+            "牛柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "Tenderloin",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鐵板",
+            "沙",
+            "嗲",
+            "牛柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "Tenderloin",
+            "in",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+                "椒",
+                "鮮魷"
+        ],
+        "english_name": [
+            "Squid",
+                "with",
+                "Pepper",
+                "in",
+                "Black",
+                "Bean",
+                "Sauce"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "薑蔥",
+            "鮮魷"
+        ],
+        "english_name": [
+            "Squid",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "鮮魷"
+        ],
+        "english_name": [
+            "Squid",
+            "with",
+            "Black",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "薑蔥",
+            "帶子"
+        ],
+        "english_name": [
+            "Scallops",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "帶子",
+            "時",
+            "菜"
+        ],
+        "english_name": [
+            "Scallops",
+            "with",
+            "Seasonal",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "薑蔥",
+            "帶子"
+        ],
+        "english_name": [
+            "Scallop",
+                "in",
+                "Shell",
+                "with",
+                "Vermicelli",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "魚柳"
+        ],
+        "english_name": [
+            "Fish",
+            "Fillet",
+            "cooked",
+            "with",
+            "Sweet",
+            "and",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "粟米",
+            "魚柳"
+        ],
+        "english_name": [
+            "Fish",
+            "Fillet",
+            "cooked",
+            "with",
+            "Sweet",
+            "Corn",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糖醋",
+            "鱸魚"
+        ],
+        "english_name": [
+            "Sea",
+            "Bass",
+            "cooked",
+            "with",
+            "Sweet",
+            "and",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "薑蔥",
+            "蒸",
+            "鱸魚"
+        ],
+        "english_name": [
+            "Sea",
+            "Bass",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "薑蔥",
+            "蒸",
+            "鱸魚",
+            "去骨"
+        ],
+        "english_name": [
+            "Sea",
+            "Bass",
+            "Boneless",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

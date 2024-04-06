@@ -1,0 +1,124 @@
+[
+    {
+        "chinese_name": ["官保鸡丁"],
+        "english_name": [
+            "GONG",
+            "BAO",
+            "CHICKEN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "chicken",
+                "with",
+                "cashew",
+                "nuts",
+                "Sichuan",
+                "peppercorns",
+                "and",
+                "chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["辣子鸡丁"],
+        "english_name": [
+            "CLASSIC",
+            "CHICKEN",
+            "IN",
+            "SPICY",
+            "SAUCE"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Stir",
+            "fried",
+            "chicken",
+            "with",
+            "spicy",
+            "bean",
+            "sauce",
+            "and",
+            "peppers"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["红烧肉"],
+        "english_name": [
+            "RED",
+            "BRAISED",
+            "PORK",
+            "BELLY"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Braised",
+                "pork",
+                "belly",
+                "with",
+                "spice",
+                "powder",
+                "and",
+                "spring",
+                "onion"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["香辣牛肉丝"],
+        "english_name": [
+            "CRISPY",
+            "SHREDDED",
+            "BEEF",
+            "IN",
+            "CHILLI"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Crispy",
+                "shredded",
+                "beef",
+                "with",
+                "chef",
+                "special",
+                "chilli",
+                "sauce",
+                "and",
+                "carrots"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["宫保虾"],
+        "english_name": [
+            "GONG",
+            "BAO",
+            "PRAWN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "prawns",
+                "with",
+                "cashew",
+                "nuts",
+                "Sichuan",
+                "peppercorns",
+                "and",
+                "chilli"
+            ]
+        ],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "chinese_name": ["凉拌黄瓜"],
+        "english_name": [
+            "CUCUMBER",
+            "IN",
+            "CHEF",
+            "SPECIAL",
+            "CHILI",
+            "OIL"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Cucumber",
+            "served",
+            "with",
+            "vinegar",
+            "chilli",
+            "oil",
+            "garlic",
+            "and",
+            "soya",
+            "sauce"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["酥炸豆腐"],
+        "english_name": [
+            "CRISPY",
+            "FRIED",
+            "TOFU"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Crispy",
+                "Fried",
+                "Tofu",
+                "served",
+                "with",
+                "garlic",
+                "chilli",
+                "dry",
+                "pepper",
+                "flakes"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["椒盐鲜魷"],
+        "english_name": [
+            "SALT",
+            "and",
+            "PEPPER",
+            "SQUID"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "Squid",
+                "served",
+                "with",
+                "pepper",
+                "garlic",
+                "and",
+                "chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["椒盐鸡丝"],
+        "english_name": [
+            "SALT",
+            "and",
+            "PEPPER",
+            "SHREDDED",
+            "CHICKEN"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Crispy",
+            "shredded",
+            "chicken",
+            "served",
+            "with",
+            "pepper",
+            "garlic",
+            "and",
+            "chilli"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["椒盐鸡翅"],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "CHICKEN",
+            "WINGS"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Fried",
+            "chicken",
+            "wings",
+            "served",
+            "with",
+            "pepper",
+            "garlic",
+            "and",
+            "chilli"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["椒盐排骨"],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "SPARE",
+            "RIBS"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Fried",
+            "Spare",
+            "ribs",
+            "with",
+            "pepper",
+            "garlic",
+            "and",
+            "chilli"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["招牌素春卷"],
+        "english_name": [
+            "BAOZIINN",
+            "VEGETABLE",
+            "SPRING",
+            "ROLL"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Vegetable",
+            "spring",
+            "roll",
+            "with",
+            "carrots",
+            "fungus",
+            "cabbage",
+            "glass",
+            "noodles"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["麻辣虾春卷"],
+        "english_name": [
+            "FRAGRANT",
+            "SICHUAN",
+            "CUMIN",
+            "PRAWN",
+            "SPRING",
+            "ROLLS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Prawn",
+                "Spring",
+                "Roll",
+                "with",
+                "green",
+                "peas",
+                "cumin",
+                "and",
+                "chilli"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酥炸拼盘"
+        ],
+        "english_name": [
+            "BAOZIINN",
+            "FRIED",
+            "PLATTER"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "wings",
+                "Fried",
+                "tofu",
+                "Vegetable",
+                "spring",
+                "roll"
+            ]
+
+            
+        ],
+        "raw_text": null
+    }
+]

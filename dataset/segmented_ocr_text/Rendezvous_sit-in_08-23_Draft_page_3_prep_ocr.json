@@ -1,0 +1,524 @@
+[
+    {
+        "chinese_name": [
+            "鴨",
+            "類"
+        ],
+        "english_name": [
+            "DUCK",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "北京",
+            "鸭",
+            "香酥",
+            "鸭"
+        ],
+        "english_name": [
+            "Peking",
+            "Duck",
+            "Advance",
+            "order",
+            "hours"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Aromatic",
+                "Duck",
+                "Whole"
+            ],
+            [
+                "Half"
+            ],
+            [
+                "Quarter"
+            ],
+            [
+                "crispy",
+                "duck",
+                "is",
+                "served",
+                "with",
+                "soft",
+                "flour",
+                "pancakes"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "紅燒",
+            "鴨",
+            "片"
+        ],
+        "english_name": [
+            "Braised",
+            "Duck",
+            "with",
+            "Bamboo",
+            "Shoots",
+            "and",
+            "Straw",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芽菜",
+            "鴨",
+            "叉燒",
+            "鴨",
+            "豉",
+            "椒",
+            "鴨"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "with",
+            "Bean",
+            "Sprouts"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Roast",
+                "Duck",
+                "and",
+                "Roast",
+                "Pork"
+            ],
+            [
+                "115D",
+                "Roast",
+                "Duck",
+                "with",
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "梅子",
+            "鸭",
+            "姜葱",
+            "鴨",
+            "蘑菇",
+            "鴨",
+            "腰果",
+            "鴨",
+            "菠蘿",
+            "鴨",
+            "百花",
+            "釀",
+            "鴨"
+        ],
+        "english_name": [
+            "93D",
+            "Roast",
+            "Duck",
+            "with",
+            "Plum",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "77D",
+                "Roast",
+                "Duck",
+                "with",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion"
+            ],
+            [
+                "47D",
+                "Roast",
+                "Duck",
+                "with",
+                "Mushrooms"
+            ],
+            [
+                "48D",
+                "Roast",
+                "Duck",
+                "with",
+                "Cashew",
+                "Nuts"
+            ],
+            [
+                "70D",
+                "Roast",
+                "Duck",
+                "with",
+                "Pineapple"
+            ],
+            [
+                "93K",
+                "Roast",
+                "Duck",
+                "and",
+                "Prawns"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮"
+        ],
+        "english_name": [
+            "Lobster",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Grilled",
+                "King",
+                "Prawn",
+                "Peking",
+                "Style"
+            ],
+            [
+                "King",
+                "Prawn",
+                "with",
+                "Szechuen",
+                "Style"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海鮮",
+            "類"
+        ],
+        "english_name": [
+            "SEAFOOD",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "檸檬",
+            "大蝦"
+        ],
+        "english_name": [
+            "13K",
+            "Lemon",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鍋",
+            "塌",
+            "大蝦"
+        ],
+        "english_name": [
+            "Grilled",
+            "King",
+            "Prawn",
+            "Peking",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "garlic",
+                "ginger",
+                "spring",
+                "onion",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "烹",
+            "蝦"
+        ],
+        "english_name": [
+            "Scampi",
+            "Peking",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "garlic",
+                "ginger",
+                "spring",
+                "onion",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "甜",
+            "辣",
+            "大蝦"
+        ],
+        "english_name": [
+            "Quick",
+            "Fried",
+            "King",
+            "Prawn",
+            "in",
+            "Sweet",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "油爆",
+            "大蝦",
+            "四川",
+            "大蝦",
+            "椒鹽",
+            "大蝦",
+            "沙爹",
+            "大蝦",
+            "蠔油",
+            "大蝦",
+            "咕嚕",
+            "大蝦",
+            "豉",
+            "椒",
+            "大蝦",
+            "腰果",
+            "大蝦",
+            "蘑菇",
+            "大蝦",
+            "菠蘿",
+            "大蝦"
+        ],
+        "english_name": [
+            "Quick",
+            "Fried",
+            "King",
+            "Prawn",
+            "with",
+            "Green",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "44K",
+                "King",
+                "Prawn",
+                "with",
+                "Szechuen",
+                "Style",
+                "spicy"
+            ],
+            [
+                "Spicy",
+                "King",
+                "Prawn",
+                "in",
+                "Shell"
+            ],
+            [
+                "King",
+                "Prawn",
+                "in",
+                "Satay",
+                "Sauce",
+                "96K"
+            ],
+            [
+                "King",
+                "Prawn",
+                "in",
+                "Oyster",
+                "Sauce"
+            ],
+            [
+                "Sweet",
+                "and",
+                "Sour",
+                "King",
+                "Prawn",
+                "in",
+                "Batter"
+            ],
+            [
+                "King",
+                "Prawn",
+                "with",
+                "Green",
+                "Pepper",
+                "and",
+                "Black",
+                "Bean",
+                "Sauce"
+            ],
+            [
+                "Quick",
+                "Fried",
+                "King",
+                "Prawn",
+                "with",
+                "Cashewnuts"
+            ],
+            [
+                "48K"
+            ],
+            [
+                "47K"
+            ],
+            [
+                "Quick",
+                "Fried",
+                "King",
+                "Prawn",
+                "with",
+                "Mushrooms"
+            ],
+            [
+                "Quick",
+                "Fried",
+                "King",
+                "Prawn",
+                "with",
+                "Pineappl"
+            ],
+            [
+                "70K"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "大蝦",
+            "沙爹",
+            "大蝦",
+            "串"
+        ],
+        "english_name": [
+            "77K"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Quick",
+                "Fried",
+                "King",
+                "Prawn",
+                "with",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion"
+            ],
+            [
+                "Sizzling",
+                "King",
+                "Prawn",
+                "Sata"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鍋",
+            "塌",
+            "魚"
+        ],
+        "english_name": [
+            "Grilled",
+            "Sole",
+            "Peking",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "garlic",
+                "ginger",
+                "spring",
+                "onion",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "糟",
+            "溜",
+            "魚片"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Sole"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "53F"
+            ],
+            [
+                "Lobster",
+                "with",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion",
+                "Seasonal",
+                "Price"
+            ],
+            [
+                "Advance",
+                "Order"
+            ]
+        ],
+        "raw_text": null
+    }
+]

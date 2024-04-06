@@ -1,0 +1,271 @@
+[
+    {
+        "chinese_name": [
+            "泰式",
+            "三鮮",
+            "煲"
+        ],
+        "english_name": [
+            "Spicy",
+            "Mixed",
+            "Seafood",
+            "in",
+            "Thai",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "茄子",
+            "苳",
+            "菇",
+            "蝦球",
+            "煲"
+        ],
+        "english_name": [
+            "Spicy",
+                "Prawns",
+                "with",
+                "Aubergine",
+                "and",
+                "Mushrooms",
+            "in",
+            "Thai",
+            "Styl"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱魚球豆腐堡"
+        ],
+        "english_name": [
+            "Fillet",
+                "Fish",
+                "with",
+                "Beancurd",
+                "and",
+                "Ginger",
+                "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "茄子",
+            "雞",
+            "球"
+        ],
+        "english_name": [
+            "Spicy",
+            "Chicken",
+            "with",
+            "Aubergine",
+            "and",
+            "Chinese",
+            "Mushrooms",
+            "in",
+            "Thai",
+            "Style"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "檸檬",
+            "煎",
+            "軟",
+            "雞"
+        ],
+        "english_name": [
+            "Fried",
+            "Breast",
+            "of",
+            "Chicken",
+            "in",
+            "Lemon",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "泡",
+            "雞"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Cashewnuts",
+            "in",
+            "Yellow",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "雞丁"
+        ],
+        "english_name": [
+            "Spicy",
+            "Chicken",
+            "with",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "雞",
+            "球"
+        ],
+        "english_name": [
+            "Sliced",
+            "Chicken",
+            "with",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "苳",
+            "菇",
+            "雞",
+            "球"
+        ],
+        "english_name": [
+            "Braised",
+            "Chicken",
+            "with",
+            "Chinese",
+            "Mushrooms",
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "雞",
+            "球"
+        ],
+        "english_name": [
+            "Sweet and Sour Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "雞"
+        ],
+        "english_name": [
+            "Spicy",
+            "Chicken",
+            "in",
+            "Chilli",
+            "and",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜蔥",
+            "鴨",
+            "片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Duck",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "鴨",
+            "片"
+        ],
+        "english_name": [
+            "Sliced Duck in Chilli and Black Bean Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "西",
+            "檸",
+            "鍋",
+            "鴨"
+        ],
+        "english_name": [
+            "Fried Breast of Duck in Lemon Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

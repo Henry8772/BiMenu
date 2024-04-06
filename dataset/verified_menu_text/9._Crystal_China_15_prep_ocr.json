@@ -1,0 +1,125 @@
+[
+
+    {
+        "chinese_name": [
+            "风味",
+            "猪肝"
+        ],
+        "english_name": [
+            "Special",
+            "Cooked",
+            "Pig",
+            "Liver"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "醋溜",
+            "土豆",
+            "丝"
+        ],
+        "english_name": [
+            "Shredded",
+            "Potato",
+            "with",
+            "Hot",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "醋溜",
+            "白菜",
+            "木耳"
+        ],
+        "english_name": [
+            "Stir",
+            "Fry",
+            "Chinese",
+            "Leaf",
+            "and",
+            "Black",
+            "Fungus",
+            "Dry",
+            "Bean",
+            "Curd",
+            "with",
+            "Chilli",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "尖椒",
+            "干",
+            "豆腐"
+        ],
+        "english_name": ["Dry Bean Curd with Chilli Pepper"],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "锅仔",
+            "西红柿",
+            "牛腩"
+        ],
+        "english_name": [
+            "Beef",
+            "Flank",
+            "Cooked",
+            "with",
+            "Sweet",
+            "Tomato"
+        ],
+        "chinese_description": [],
+        "english_description": [
+           
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "地",
+            "三鲜"
+        ],
+        "english_name": [
+            "Potato",
+            "Aubergine",
+            "and",
+            "Green",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "金针菇",
+            "肥牛"
+        ],
+        "english_name": [
+            "Beef",
+            "Strip",
+            "with",
+            "Enoki",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    }
+]

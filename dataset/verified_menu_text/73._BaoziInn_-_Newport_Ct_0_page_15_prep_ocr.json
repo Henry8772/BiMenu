@@ -1,0 +1,98 @@
+[
+    {
+        "chinese_name": ["酸甜茄子"],
+        "english_name": [
+            "AUBERGINE WITH SWEET AND SOUR SAUCE SERVED WITH LONGAN AND PEPPERS"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Fried",
+            "aubergine",
+            "in",
+            "sweet",
+            "vinegary",
+            "sauce"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["蒜蓉花楖菜"],
+        "english_name": [
+            "BROCCOLI",
+            "AND",
+            "CAULIFLOWER",
+            "WITH",
+            "GARLIC"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Broccoli",
+            "and",
+            "cauliflower",
+            "with",
+            "garlic"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["赫蓉白菜"],
+        "english_name": [
+            "PAK",
+            "CHOI",
+            "WITH",
+            "GARLIC"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pak",
+                "choi",
+                "with",
+                "garlic",
+                "and",
+                "chef",
+                "special",
+                "soya",
+                "sauce"
+            ],
+            
+            [
+                
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["麻婆豆腐"],
+        "english_name": [
+            "THE",
+                "LEGENDARY",
+                "POCK",
+                "MARK",
+                "MINCED",
+                "PORK",
+            "MAPO",
+            "BEANCURD"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tofu",
+                "with",
+                "minced",
+                "pork",
+                "Sichuan",
+                "preserved",
+                "mustard",
+                "greens",
+                "chilli",
+                "Sichuan",
+                "peppercorns"
+            ]
+        ],
+        "raw_text": null
+    }
+    
+]

@@ -1,0 +1,389 @@
+[
+    {
+        "chinese_name": [
+            "宮保",
+            "類"
+        ],
+        "english_name": [
+            "KUNG",
+            "PO",
+            "DISHES",
+            "With",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "招牌"
+        ],
+        "english_name": [
+            "18S",
+            "Kung",
+            "Po",
+            "Special"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "大蝦",
+            "宮保",
+            "牛肉",
+            "宮保雞丁"
+        ],
+        "english_name": [
+            "18K",
+            "Kung",
+            "Po",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Kung",
+                "Po",
+                "Beef"
+            ],
+            [
+                "18C"
+            ],
+            [
+                "Kung",
+                "Po",
+                "Chicken"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "羊肉",
+            "宮保",
+            "豬肉",
+            "丁",
+            "宫保",
+            "鮮魷"
+        ],
+        "english_name": [
+            "18P",
+            "Kung",
+            "Po",
+            "Pork",
+            "18Q",
+            "Kung",
+            "Po",
+            "Squid"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Kung",
+                "Po",
+                "Lamb"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Kung",
+            "Po",
+            "Mixed",
+            "Vegetable"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蔬菜",
+            "豆腐"
+        ],
+        "english_name": [
+            "VEGETABLE",
+            "and",
+            "BEANCURD"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鍋",
+            "塌",
+            "豆腐",
+            "麻",
+            "婆",
+            "豆腐",
+            "家常",
+            "豆腐",
+            "素",
+            "燒",
+            "雙",
+            "冬",
+            "素",
+            "燒",
+            "四寶",
+            "素炒",
+            "什",
+            "菜",
+            "豉",
+            "椒",
+            "什",
+            "菜",
+            "沙爹",
+            "什",
+            "菜",
+            "咕嚕",
+            "什",
+            "菜",
+            "四",
+            "川什",
+            "菜",
+            "蠔油",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "91C",
+            "Fried",
+            "Beancurd",
+            "Peking",
+            "Style",
+            "In",
+            "garlic",
+            "ginger",
+            "spring",
+            "onion",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spicy",
+                "Beancurd",
+                "in",
+                "Chilli",
+                "Sauce",
+                "with",
+                "minced",
+                "pork",
+                "91A",
+                "Beancurd",
+                "Family",
+                "Style"
+            ],
+            [
+                "Braised",
+                "Bamboo",
+                "Shoots",
+                "and",
+                "Mushroom"
+            ],
+            [
+                "Braised",
+                "Combination",
+                "of",
+                "Four",
+                "Vegetable"
+            ],
+            [
+                "Stir",
+                "Fried",
+                "Mixed",
+                "Vegetables"
+            ],
+            [
+                "115V",
+                "Stir",
+                "Fried",
+                "Mixed",
+                "Vegetables",
+                "with",
+                "Black",
+                "Bean",
+                "Sauce",
+                "116V",
+                "Stir",
+                "Fried",
+                "Mixed",
+                "Vegetables",
+                "in",
+                "Satay",
+                "Sauce"
+            ],
+            [
+                "53V",
+                "Stir",
+                "Fried",
+                "Mixed",
+                "Vegetables",
+                "in",
+                "Sweet",
+                "and",
+                "Sour",
+                "Sauce",
+                "44V"
+            ],
+            [
+                "Stir",
+                "Fried",
+                "Mixed",
+                "Vegetables",
+                "in",
+                "Szechuen",
+                "Style",
+                "spicy"
+            ],
+            [
+                "96V"
+            ],
+            [
+                "Stir",
+                "Fried",
+                "Mixed",
+                "Vegetables",
+                "in",
+                "Oyster",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "清炒",
+            "芽菜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Bean",
+            "Sprouts"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "白菜"
+        ],
+        "english_name": [
+            "Pak",
+            "Choi",
+            "with",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "泰國",
+            "咖哩"
+        ],
+        "english_name": [
+            "GREEN",
+            "CURRY",
+            "DISHES",
+            "THAI",
+            "STYLE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Cooked",
+                "with",
+                "Coconut",
+                "Milk",
+                "and",
+                "Fresh",
+                "Herbs"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "泰國",
+            "咖哩",
+            "招牌",
+            "泰國",
+            "咖哩",
+            "大蝦",
+            "泰國",
+            "咖哩",
+            "雞丁",
+            "泰國",
+            "咖哩",
+            "牛",
+            "泰國",
+            "咖哩",
+            "豬",
+            "泰國",
+            "咖哩",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "2S",
+            "32K",
+            "32C",
+            "32B",
+            "32P"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Special",
+                "Green",
+                "Curry",
+                "with",
+                "Mixed",
+                "Meat",
+                "and",
+                "Prawn",
+                "King",
+                "Prawn",
+                "Green",
+                "Curry",
+                "Chicken",
+                "Green",
+                "Curry",
+                "Beef",
+                "Green",
+                "Curry",
+                "Pork",
+                "Green",
+                "Curry"
+            ],
+            [
+                "Mixed",
+                "Vegetable",
+                "Green",
+                "Curry"
+            ]
+        ],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "chinese_name": ["鸡肉香菇包"],
+        "english_name": [
+            "CHICKEN",
+            "WITH",
+            "CHINESE",
+            "MUSHROOM",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "马来西亚",
+            "风味",
+            "咖喱",
+            "鸡肉",
+            "包"
+        ],
+        "english_name": [
+            "MALAYSIAN",
+            "CHICKEN",
+            "CURRY",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["酱香牛肉粉丝包"],
+        "english_name": [
+            "SOY",
+            "BEEF",
+            "WITH",
+            "SWEET",
+            "POTATO",
+            "NOODLE",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["奥尔良鸡肉包"],
+        "english_name": [
+            "ORLEANS",
+            "CHICKEN",
+            "THIGH",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["酱香猪肉包"],
+        "english_name": [
+            "PORK",
+            "WITH",
+            "SOYBEAN",
+            "SAUCE",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["梅菜猪肉包"],
+        "english_name": [
+            "PORK",
+            "WITH",
+            "PRESERVED",
+            "VEGETABLE",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["素包"],
+        "english_name": [
+            "VEGETABLE",
+            "BUN",
+            "PCS"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["叉烧包"],
+        "english_name": [
+            "BBQ",
+            "PORK",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["奶黄包"],
+        "english_name": [
+            "CUSTARD",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["流沙包"],
+        "english_name": [
+            "SALTED",
+            "EGG",
+            "YOLK",
+            "CUSTARD",
+            "BUN"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "莲蓉包"
+        ],
+        "english_name": [
+            "LOTUS",
+            "SEED",
+            "BUN",
+            "PCS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+           
+        ],
+        "raw_text": null
+    }
+]

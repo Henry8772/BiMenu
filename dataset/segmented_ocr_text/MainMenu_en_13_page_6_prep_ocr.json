@@ -1,0 +1,630 @@
+[
+    {
+        "chinese_name": [
+            "老",
+            "地方"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大",
+            "酒楼"
+        ],
+        "english_name": [
+            "A",
+            "PLUS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Oriental",
+                "Restaurant"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "主菜"
+        ],
+        "english_name": [
+            "MAIN",
+            "COURSES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sweet",
+                "and",
+                "Sour"
+            ],
+            [
+                "Chicken",
+                "Pork"
+            ],
+            [
+                "King",
+                "Prawns"
+            ],
+            [
+                "Curry"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Satay"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Pepper",
+                "with",
+                "Black"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Bean",
+                "Sauce"
+            ],
+            [
+                "Black",
+                "Pepper",
+                "Sauce"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Kung",
+                "Bao",
+                "Style"
+            ],
+            [
+                "King",
+                "Prawn"
+            ],
+            [
+                "Cantonese",
+                "Style"
+            ],
+            [
+                "Chicken",
+                "Shredded",
+                "Chicken"
+            ],
+            [
+                "Pork",
+                "Beef",
+                "Shredded",
+                "Beef"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Szechuan",
+                "Style"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Thai",
+                "Style"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef",
+                "Shredded",
+                "Beef"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Salt",
+                "and",
+                "Pepper"
+            ],
+            [
+                "Chicken",
+                "Shredded",
+                "Chicken",
+                "Beef",
+                "Shredded",
+                "Beef"
+            ],
+            [
+                "King",
+                "Prawn"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Oyster",
+                "Sauce"
+            ],
+            [
+                "Chicken",
+                "Pork"
+            ],
+            [
+                "King",
+                "Prawns"
+            ],
+            [
+                "Cashew",
+                "Nuts"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ],
+            [
+                "Seasonal"
+            ],
+            [
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ],
+            [
+                "Vegetable"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "雞",
+            "豬"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "嗲",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "嗲",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "雞",
+            "片",
+            "雞絲"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豬",
+            "牛",
+            "牛",
+            "絲"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "雞",
+            "豬",
+            "牛",
+            "牛",
+            "絲"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "雞",
+            "片",
+            "雞絲",
+            "牛",
+            "牛",
+            "絲"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "大蝦"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "薑蔥",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "薑蔥",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "羊",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "時",
+            "菜",
+            "雞",
+            "豬",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "時",
+            "菜",
+            "大蝦",
+            "三鮮"
+        ],
+        "english_name": [
+            "Page"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "chinese_name": [
+            "苏格兰",
+            "蛏",
+            "子"
+        ],
+        "english_name": [
+            "Scottish",
+            "Diver",
+            "Razor",
+            "Clam"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣椒",
+            "蒜蓉",
+            "粉丝",
+            "蒸"
+        ],
+        "english_name": [
+            "With",
+            "Glass",
+            "Noodles",
+            "Chilli",
+            "and",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+
+    {
+        "chinese_name": [
+            "泰式",
+            "辣酱",
+            "酥炸"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "with",
+            "Thai",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣椒",
+            "蒜蓉",
+            "炭烤"
+        ],
+        "english_name": [
+            "Chargrilled",
+            "with",
+            "Chilli",
+            "and",
+            "Garlic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

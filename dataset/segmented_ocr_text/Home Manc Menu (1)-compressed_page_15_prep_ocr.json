@@ -1,0 +1,70 @@
+[
+    {
+        "chinese_name": [
+            "蒜泥白肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "Belly",
+            "in",
+            "Spicy",
+            "Garlic",
+            "Sauce",
+            "L"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "鸭舌"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Spicy",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tongue"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "凉拌",
+            "牛",
+            "百叶"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Spicy",
+            "Beef",
+            "Tripe"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Sesame",
+                "Paste"
+            ],
+            [
+                "Vegetarian",
+                "G",
+                "Vegan",
+                "on",
+                "request",
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    }
+]

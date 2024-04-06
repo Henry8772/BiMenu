@@ -1,0 +1,68 @@
+[
+
+    {
+        "chinese_name": [
+            "川味",
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Ma",
+            "Po",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "乾",
+            "煸",
+            "四季豆"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "French",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    
+    {
+        "chinese_name": [
+            "魚香",
+            "茄子"
+        ],
+        "english_name": [
+            "Braised",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    
+    {
+        "chinese_name": [
+            "家常",
+            "番茄",
+            "炒蛋"
+        ],
+        "english_name": [
+            "Homestyle",
+            "Scrambled",
+            "Egg",
+            "and",
+            "Fresh",
+            "Tomatoes"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

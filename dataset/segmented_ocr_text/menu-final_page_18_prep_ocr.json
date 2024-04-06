@@ -1,0 +1,267 @@
+[
+    {
+        "chinese_name": [
+            "中国",
+            "芥兰",
+            "蒜蓉",
+            "炒",
+            "姜汁",
+            "炒"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chinese",
+            "Kai",
+            "Lan",
+            "with",
+            "Garlic",
+            "with",
+            "Ginger"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "炒",
+            "中国",
+            "菜",
+            "心"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Choi",
+            "Sum",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "炒",
+            "冬瓜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Sliced",
+            "Winter",
+            "Melon",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "虾皮",
+            "炒",
+            "冬瓜"
+        ],
+        "english_name": [
+            "Stir",
+            "fried",
+            "slices",
+            "of",
+            "winter",
+            "melon",
+            "with",
+            "dried",
+            "shrimps"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "炒",
+            "小白菜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "mini",
+            "Pak",
+            "Chinese",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒",
+            "丝",
+            "腐乳",
+            "空心菜"
+        ],
+        "english_name": [
+            "Stir",
+            "fried",
+            "Tung",
+            "Choi",
+            "with",
+            "chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "fermented",
+                "bean",
+                "curd",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "炒",
+            "空心菜"
+        ],
+        "english_name": [
+            "Stir",
+            "fried",
+            "Tung",
+            "Choi",
+            "with",
+            "garlic",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "马拉",
+            "盏",
+            "炒",
+            "通",
+            "菜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Tung",
+            "Choi",
+            "in",
+            "Sambal",
+            "Belacan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "炒",
+            "菠菜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Spinach",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "山药",
+            "炒",
+            "木耳"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "chiete",
+            "yam",
+            "wifh",
+            "Black",
+            "Fungus"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "丝瓜",
+            "云",
+            "耳",
+            "炒",
+            "带子"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Scallops",
+            "with",
+            "Luffa",
+            "and",
+            "Black",
+            "Fungus"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "喝",
+            "中国",
+            "茶",
+            "的",
+            "客人",
+            "们",
+            "茶",
+            "位",
+            "是",
+            "每位"
+        ],
+        "english_name": [
+            "Chinese",
+            "Tea",
+            "will",
+            "be",
+            "charged",
+            "at",
+            "per",
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

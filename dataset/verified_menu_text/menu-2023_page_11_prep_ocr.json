@@ -1,0 +1,218 @@
+[
+    {
+        "chinese_name": [
+            "香甜",
+            "汁",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Chicken",
+            "in",
+            "Sweet",
+            "and",
+            "Tangy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "煎",
+            "釀",
+            "雙",
+            "寶",
+            "百花",
+            "豆腐",
+            "茄子"
+        ],
+        "english_name": [
+            "Yin",
+            "Yan",
+            "Pak",
+            "Far",
+            "Tofu",
+            "and",
+            "Aubergine",
+            "Pieces"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tofu",
+                "and",
+                "Aubergine",
+                "Stuffed",
+                "with",
+                "Pak",
+                "Far",
+                "Prawn",
+                "Meat",
+                "in",
+                "Garlic",
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鴛鴦",
+            "大蝦",
+            "炸",
+            "大蝦",
+            "四川",
+            "蝦"
+        ],
+        "english_name": [
+            "Yin",
+            "Yan",
+            "King",
+            "Prawns",
+            "Pieces"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Deep",
+                "Fried",
+                "Butterfly",
+                "Crispy",
+                "King",
+                "Prawns",
+                "partnered",
+                "with",
+                "Stir",
+                "Fried",
+                "King",
+                "Prawns",
+                "in",
+                "Szechuan",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "煎",
+            "釀",
+            "三寶",
+            "百花",
+            "豆腐",
+            "茄子",
+            "和",
+            "青椒"
+        ],
+        "english_name": [
+            "Three",
+            "Treasures",
+            "Pieces"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Green",
+                "Pepper",
+                "Tofu",
+                "Aubergine",
+                "with",
+                "Pak",
+                "Far",
+                "Prawn",
+                "Meat",
+                "Stuffing",
+                "in",
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鐵板",
+            "果汁",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Chicken",
+            "in",
+            "Sweet",
+            "Fruit",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鴛鴦",
+            "炒飯",
+            "一半",
+            "白汁",
+            "另一",
+            "半",
+            "茄汁"
+        ],
+        "english_name": [
+            "Yin",
+            "Yan",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Half",
+                "of",
+                "Fried",
+                "Rice",
+                "with",
+                "White",
+                "Sauce",
+                "other",
+                "Half",
+                "Tomato",
+                "sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白汁",
+            "大蝦",
+            "雞蛋",
+            "炒飯"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "in",
+            "Creamy",
+            "White",
+            "Sauce",
+            "on",
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

@@ -1,0 +1,400 @@
+[
+    {
+        "chinese_name": [
+            "西",
+            "檸",
+            "汁",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Chicken",
+            "in",
+            "Honey",
+            "and",
+            "Lemon",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "花生",
+            "皇",
+            "沙爹",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Peanut",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "辣",
+            "雞絲"
+        ],
+        "english_name": [
+            "Crispy",
+            "Chilli",
+            "Shredded",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "上海",
+            "辣",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Hot",
+            "Chilli",
+            "Sliced",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "雞"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Green",
+            "Pepper",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "Kung",
+            "Po",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "XO",
+            "醬",
+            "蘆筍",
+            "炒雞",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Asparagus",
+            "in",
+            "XO",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "雞煲"
+        ],
+        "english_name": [
+            "Clay",
+            "Pot",
+            "Chicken",
+            "in",
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "百花",
+            "釀",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Pak",
+            "Far",
+            "Chicken",
+            "with",
+            "Prawn",
+            "Meat",
+            "Stuffing"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "冬菇",
+            "炒",
+            "雞肉"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Chinese",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "雞肉"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Szechuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Chicken",
+            "Fillets"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "油",
+            "皇",
+            "薑蔥",
+            "雞",
+            "片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Chicken",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion",
+            "in",
+            "Soya",
+            "Sauce"
+        ],
+        "chinese_description": [
+
+        ],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "in",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Green",
+            "Pepper",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Chilli",
+            "and",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "牛肉"
+        ],
+        "english_name": [
+            "Fried",
+            "Sliced",
+            "Beef",
+            "in",
+            "Szechwan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "辣",
+            "牛",
+            "柳絲"
+        ],
+        "english_name": [
+            "Crispy",
+            "Chilli",
+            "Shredded",
+            "Fillet",
+            "Steak"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "上海",
+            "辣",
+            "牛柳",
+            "粒"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Hot",
+            "Chilli",
+            "Diced",
+            "Fillet",
+            "Steak"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "牛",
+            "絲"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Crispy",
+            "Shredded",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

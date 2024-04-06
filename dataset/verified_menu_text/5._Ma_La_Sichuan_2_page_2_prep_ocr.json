@@ -1,0 +1,98 @@
+[
+    {
+        "chinese_name": [
+            "紅豆",
+            "芝麻",
+            "球"
+        ],
+        "english_name": [
+            "Sesame",
+            "Balls"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Deep",
+                "fried",
+                "sesame",
+                "balls",
+                "with",
+                "red",
+                "bean",
+                "filling"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑金流沙包"
+        ],
+        "english_name": [
+            "Salted",
+                "Egg",
+                "Custard",
+                "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            ["Steamed",
+            "buns",
+            "with",
+            "salted",
+            "egg",
+            "custard",
+            "filling"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑金流沙包"
+        ],
+        "english_name": [
+            "Jasmine",
+                "Tea"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Green",
+                "tea",
+                "subtle",
+                "sweet",
+                "and",
+                "fragrant",
+                "floral",
+                "aroma"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "普洱"
+        ],
+        "english_name": [
+            "Pu'er",
+            "Tea"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black",
+                "tea",
+                "deep",
+                "rich",
+                "dark",
+                "earthy",
+                "followed",
+                "by",
+                "a",
+                "sweet",
+                "aftertaste"
+            ]
+        ],
+        "raw_text": null
+    }
+]

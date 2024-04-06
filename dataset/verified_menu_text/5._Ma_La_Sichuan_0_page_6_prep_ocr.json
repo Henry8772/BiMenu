@@ -1,0 +1,318 @@
+[
+    {
+        "chinese_name": [
+            "宮保",
+            "大蝦",
+            "球"
+        ],
+        "english_name": [
+            "Imperial",
+            "Gongbao",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "medley",
+                "of",
+                "king",
+                "prawns",
+                "cashew",
+                "nuts",
+                "and",
+                "red",
+                "chillies",
+                "in",
+                "a",
+                "tangy",
+                "sweet",
+                "sour",
+                "sauce",
+                "laced",
+                "with",
+                "chilli",
+                "spice",
+                "fresh",
+                "garlic",
+                "and",
+                "a",
+                "touch",
+                "of",
+                "Sichuan",
+                "pepper"
+            ],
+            ["The",
+            "dish",
+            "is",
+            "named",
+            "after",
+            "the",
+            "Imperial",
+            "Gongbao", "Bureaucrat"]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": ["清炒",
+        "大蝦",
+        "球"],
+        "english_name": [
+            "Stir",
+                "Fried",
+                "King",
+                "Prawns",
+                "with",
+                "Mixed",
+                "Vegetable"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+            [
+                "Asparagus",
+                "black",
+                "fungus",
+                "carrot",
+                "broccoli"
+            ]
+        ],
+        "raw_text": null
+    },
+
+    {
+        "chinese_name": [
+            "麻辣",
+            "大蝦",
+            "球"
+        ],
+        "english_name": [
+            "Ma",
+            "La",
+            "King",
+            "Prawns"
+        ],
+    
+        
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "king",
+                "prawns",
+                "in",
+                "Sichuan",
+                "spices",
+                "and",
+                "fresh",
+                "chilli"
+            ]
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "甜酸",
+            "蝦球"
+        ],
+        "english_name": [
+            "Sweet",
+                "Sour",
+                "King",
+                "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "King",
+                "prawns",
+                "and",
+                "pineapples",
+                "coated",
+                "in",
+                "a",
+                "treacly",
+                "sweet",
+                "and",
+                "tangy",
+                "sauce"
+            ]
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "鱸魚",
+            "片"
+        ],
+        "english_name": [
+            "Fresh",
+                "Seabass",
+                "Fillet"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Steamed",
+                "with",
+                "ginger",
+                "and",
+                "spring",
+                "onion"
+            ]
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "烤",
+            "鱸魚",
+            "片"
+        ],
+        "english_name": [
+            "Sichuan",
+                "Fresh",
+                "Seabass",
+                "Fillet"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "in",
+                "aromatic",
+                "spices",
+                "chilies",
+                "garlic",
+                "fresh",
+                "lotus",
+                "root",
+                "tofu",
+                "and",
+                "shiitake",
+                "mushroom"
+            ]
+            
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "鱸魚"
+        ],
+        "english_name": [
+            "Sliced",
+                "Sea",
+                "Bass",
+                "Fillet",
+                "with",
+                "Pickled",
+                "Mustards",
+                "Greens",
+                "and",
+                "Chilli"
+        ],
+        "chinese_description": [
+
+            [
+                "Light",
+                "pieces",
+                "of",
+                "white",
+                "fish",
+                "served",
+                "with",
+                "picked",
+                "mustard",
+                "greens",
+                "in",
+                "a",
+                "refreshing",
+                "spicy",
+                "sour",
+                "broth",
+                "with",
+                "vermicelli"
+            ]
+            
+        ],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "飄香",
+            "沸騰",
+            "魚",
+            "水煮",
+            "魚"
+        ],
+        "english_name": [
+            "Drifting",
+                "Fragrant",
+                "Sea",
+                "Bass",
+                "in",
+                "Sizzling",
+                "Chilli",
+                "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Introducing",
+                "a",
+                "modern",
+                "twist",
+                "to",
+                "a",
+                "Sichuan",
+                "classic",
+                "boiled",
+                "fish",
+                "dish."
+            ],
+            [
+                "Sliced",
+                "fish",
+                "in",
+                "sizzling",
+                "chilli",
+                "oil",
+                "garnished",
+                "with",
+                "a",
+                "pile",
+                "of",
+                "chillies",
+                "A",
+                "combination",
+                "of",
+                "Ma",
+                "La",
+                "hot",
+                "spicy",
+                "flavour",
+                "of",
+                "chilli",
+                "and",
+                "numbing",
+                "sensation",
+                "of",
+                "Sichuan",
+                "peppers"
+            ]
+
+        ],
+        "raw_text": null
+    }
+]

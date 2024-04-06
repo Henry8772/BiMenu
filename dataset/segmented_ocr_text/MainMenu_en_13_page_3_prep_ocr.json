@@ -1,0 +1,326 @@
+[
+    {
+        "chinese_name": [
+            "老",
+            "地方"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大",
+            "酒楼"
+        ],
+        "english_name": [
+            "A",
+            "PLUS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Oriental",
+                "Restaurant"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "頭",
+            "盤"
+        ],
+        "english_name": [
+            "STARTER"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dim",
+                "Sum",
+                "Platter",
+                "Min",
+                "persons"
+            ],
+            [
+                "Special",
+                "Platter",
+                "Min",
+                "persons"
+            ],
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Pork",
+                "Ribs",
+                "Chicken",
+                "Spring",
+                "Rolls",
+                "Sesame",
+                "Prawn",
+                "Toast",
+                "Fried",
+                "Wonton",
+                "and",
+                "Seaweed"
+            ],
+            [
+                "Aromatic",
+                "Duck"
+            ],
+            [
+                "served",
+                "with",
+                "Pancakes",
+                "Cucumber",
+                "Spring",
+                "Onion",
+                "and",
+                "Hoi",
+                "sin",
+                "Sauce"
+            ],
+            [
+                "Quarter"
+            ],
+            [
+                "Half"
+            ],
+            [
+                "Whole"
+            ],
+            [
+                "Chicken",
+                "Lettuce",
+                "Wrap",
+                "served",
+                "with",
+                "Hoi",
+                "sin",
+                "Sauce"
+            ],
+            [
+                "Peanut",
+                "Satay",
+                "Chicken",
+                "Skewers",
+                "skewers"
+            ],
+            [
+                "Peanut",
+                "Satay",
+                "King",
+                "Prawn",
+                "Skewers",
+                "skewers"
+            ],
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Pork",
+                "Ribs"
+            ],
+            [
+                "Peking",
+                "Style",
+                "Pork",
+                "Ribs"
+            ],
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Chicken",
+                "Wings"
+            ],
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Squid"
+            ],
+            [
+                "Sesame",
+                "Prawn",
+                "Toast",
+                "pieces"
+            ],
+            [
+                "Crispy",
+                "Seaweed"
+            ],
+            [
+                "Prawn",
+                "Crackers"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "點心",
+            "拼盤"
+        ],
+        "english_name": [
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "拼盤"
+        ],
+        "english_name": [
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四分之一"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "半",
+            "隻"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "全",
+            "隻"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "雞肉",
+            "生菜",
+            "包"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "嗲",
+            "烤雞",
+            "串"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "嗲",
+            "大蝦",
+            "串",
+            "椒鹽",
+            "骨"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "京都",
+            "骨"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "雞翼"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "鮮魷"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "多",
+            "士"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "海草"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炸蝦",
+            "片"
+        ],
+        "english_name": [
+            "Page"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

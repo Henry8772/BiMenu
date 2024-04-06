@@ -1,0 +1,121 @@
+[
+
+    {
+        "chinese_name": [
+            "脆皮",
+            "自制",
+            "豆腐"
+        ],
+        "english_name": [
+            "Crispy",
+            "Home",
+            "Made",
+            "Tofu",
+            "with",
+            "Crushed",
+            "Olive"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "茄子",
+            "煲"
+        ],
+        "english_name": [
+            "Braised",
+            "Yu",
+            "Xiang",
+            "Aubergine",
+            "in",
+            "Claypot"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "绿",
+            "耳",
+            "仙霞"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Cloud",
+            "Fungus,",
+            "Lily",
+            "Bulb,",
+            "Gai",
+            "Lan,",
+            "Shiitake",
+                "and",
+                "Macadamia"
+                
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "(v)"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "时令",
+            "蔬菜"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Vegetable"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄金",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Golden",
+            "Egg",
+            "Fried",
+            "Rice"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "茉莉花",
+            "苹果",
+            "和",
+            "紫苏"
+        ],
+        "english_name": [
+            "Jasmine",
+            "Parfait",
+            "with",
+            "Apple",
+            "and",
+            "Shiso",
+            "Sorbet"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    }
+]

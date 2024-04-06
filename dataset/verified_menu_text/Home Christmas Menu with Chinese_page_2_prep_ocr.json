@@ -1,0 +1,78 @@
+[
+   
+    {
+        "chinese_name": [
+            "铁板",
+            "黑椒",
+            "牛柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Fillet",
+            "Steak",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "柠檬",
+            "鸡"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Honey",
+            "and",
+            "Lemon",
+            "Sauce"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "扬州",
+            "炒饭"
+        ],
+        "english_name": [
+            "Truffle",
+            "Yeung",
+            "Chow",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

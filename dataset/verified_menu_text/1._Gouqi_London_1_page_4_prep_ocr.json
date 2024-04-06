@@ -1,0 +1,140 @@
+[
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "水晶",
+            "虾",
+            "饺"
+        ],
+        "english_name": [
+            "Black",
+            "Truffle",
+            "Har",
+            "Gau"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "上海",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "山楂",
+            "鹿",
+            "肉酥"
+        ],
+        "english_name": [
+            "Charcoal",
+            "Venison",
+            "Puff"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羊肚菌",
+            "素",
+            "春卷"
+        ],
+        "english_name": [
+            "Morel",
+            "Mushroom",
+            "Spring",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": [["(v)"]],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "珍",
+            "菌",
+            "玉",
+            "子",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "Claypot",
+            "Silken",
+            "Egg",
+            "Tofu",
+            "with",
+            "Wild",
+                "Mushroom",
+                "and",
+                "Vegetable"
+                
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "(v)"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "风沙",
+            "脆皮",
+            "鸡"
+        ],
+        "english_name": [
+            "Spicy",
+            "Crispy",
+            "Chicken",
+            "with",
+            "Cashew",
+            "Nut",
+            "Dried",
+                "Chilli",
+                "and",
+                "Golden",
+                "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "丝苗",
+            "白饭"
+        ],
+        "english_name": [
+            "Steamed",
+            "Jasmine",
+            "Rice"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "(v)"
+            ]
+        ],
+        "raw_text": null
+    }
+]

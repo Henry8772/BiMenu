@@ -1,0 +1,270 @@
+[
+    {
+        "chinese_name": [
+            "时价"
+        ],
+        "english_name": [
+            "Market",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白鳝",
+            "豉",
+            "汁",
+            "蒸",
+            "椒盐",
+            "爆炒",
+            "辣炒",
+            "香辣"
+        ],
+        "english_name": [
+            "Eels",
+            "Steamed",
+            "with",
+            "black",
+            "bean",
+            "sauce",
+            "Salt",
+            "and",
+            "pepper",
+            "Stir",
+            "fried"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Spicy",
+                "chilli",
+                "sauce",
+                "deep",
+                "fried",
+                "with",
+                "spicy",
+                "Sichuan",
+                "chilli",
+                "and",
+                "peppercorn"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "龙",
+            "利",
+            "鱼",
+            "姜葱",
+            "蒸",
+            "煎",
+            "封",
+            "椒盐"
+        ],
+        "english_name": [
+            "Steamed",
+            "Fresh",
+            "Dove",
+            "Sole",
+            "Topped",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion",
+            "in",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Deep",
+                "Fried",
+                "in",
+                "Soy",
+                "Sauce",
+                "Salt",
+                "and",
+                "Pepper"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "野生",
+            "鲈鱼",
+            "姜葱",
+            "蒸",
+            "古法",
+            "蒸"
+        ],
+        "english_name": [
+            "Steamed",
+            "Wild",
+            "Sea",
+            "Bass",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Steamed",
+                "with",
+                "Shredded",
+                "Pork",
+                "and",
+                "Chinese",
+                "Mushrooms"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "焖",
+            "活",
+            "鲤鱼"
+        ],
+        "english_name": [
+            "Braised",
+            "Live",
+            "Carp",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鲤鱼"
+        ],
+        "english_name": [
+            "Spicy",
+            "Hot",
+            "Poached",
+            "Carp",
+            "in",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "游水",
+            "多",
+            "宝",
+            "鱼",
+            "清蒸",
+            "古法",
+            "蒸"
+        ],
+        "english_name": [
+            "Steamed",
+            "Live",
+            "Turbot",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion",
+            "with",
+            "Shredded",
+            "Pork",
+            "and",
+            "Chinese",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "冰鲜",
+            "多",
+            "宝",
+            "鱼",
+            "清蒸",
+            "古法",
+            "蒸"
+        ],
+        "english_name": [
+            "Steamed",
+            "Fresh",
+            "Turbot",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion",
+            "with",
+            "Shredded",
+            "Pork",
+            "and",
+            "Chinese"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mushrooms"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "喝",
+            "中国",
+            "茶",
+            "的",
+            "客人",
+            "们",
+            "茶",
+            "位",
+            "是",
+            "每位"
+        ],
+        "english_name": [
+            "Chinese",
+            "Tea",
+            "will",
+            "be",
+            "charged",
+            "at",
+            "per",
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

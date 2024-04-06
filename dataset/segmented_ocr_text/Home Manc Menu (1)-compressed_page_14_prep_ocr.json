@@ -1,0 +1,143 @@
+[
+    {
+        "chinese_name": [
+            "菜"
+        ],
+        "english_name": [
+            "HOME",
+            "TRADITIONAL"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "COLD",
+                "DISHES"
+            ],
+            [
+                "K1"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "夫妻肺片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "and",
+            "Offal",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chilli",
+                "Sauce"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "口水",
+            "鸡"
+        ],
+        "english_name": [
+            "Steamed",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Chilli",
+                "Sauce"
+            ],
+            [
+                "Spicy"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "五香",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "Shin",
+            "with",
+            "Five",
+            "Spices"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "牛肉"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Spicy",
+            "Sliced",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "K5"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "拍",
+            "黄瓜"
+        ],
+        "english_name": [
+            "Smashed",
+            "Cucumber",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "双",
+            "椒",
+            "木耳"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Spicy",
+            "Black",
+            "Fungus",
+            "V",
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "V",
+                "Vegetarian",
+                "VG",
+                "Vegan",
+                "on",
+                "request"
+            ]
+        ],
+        "raw_text": null
+    }
+]

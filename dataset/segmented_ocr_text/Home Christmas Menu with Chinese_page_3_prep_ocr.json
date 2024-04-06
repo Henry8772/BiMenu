@@ -1,0 +1,81 @@
+[
+    
+    {
+        "chinese_name": [
+            "斋",
+            "麻婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Mapo",
+            "Tofu",
+            "in",
+            "Sichuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "price": 11.5
+    },
+    {
+        "chinese_name": [
+            "清炒",
+            "野菌",
+            "四季豆"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Green",
+            "Beans",
+            "and",
+            "Wild",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+               
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕噜",
+            "斋",
+            "鸡"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Mock",
+            "Chicken",
+            "Cantonese",
+            "Style"
+            
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "杂",
+            "菜",
+            "炒饭"
+        ],
+        "english_name": [
+            
+            "Mixed",
+            "Vegetable",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

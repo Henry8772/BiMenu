@@ -1,0 +1,60 @@
+[
+    {
+        "chinese_name": [
+            "杂",
+            "果",
+            "凉粉"
+        ],
+        "english_name": ["Mixed Fruit and Sweet Jelly"],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "口水",
+            "鸡"
+        ],
+        "english_name": [
+            "Cold",
+            "Chicken",
+            "Appetizer",
+            "with",
+            "Hot",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蒜香",
+            "凤爪"
+        ],
+        "english_name": [
+            "Garlic",
+            "Chicken",
+            "Feet"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "捞",
+            "拌",
+            "木耳"
+        ],
+        "english_name": [
+            "Black",
+            "Fungus",
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    }
+]

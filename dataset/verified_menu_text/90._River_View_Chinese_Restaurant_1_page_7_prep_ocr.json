@@ -1,0 +1,425 @@
+[
+    {
+        "chinese_name": [
+            "乾炒",
+            "牛肉",
+            "絲",
+            "姜蔥",
+            "牛肉"
+        ],
+        "english_name": [
+            "Crispy",
+            "Shredded",
+            "Beef",
+            "with",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "姜葱牛肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "牛肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "in",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "Spicy",
+            "Beef",
+            "in",
+            "Chilli",
+            "and",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "牛肉"
+            
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "with",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "時",
+            "菜",
+            "牛肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "with",
+            "Seasonal",
+            "Green"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉燒"
+        ],
+        "english_name": [
+            "Barbecued Char Siu Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "肉"
+        ],
+        "english_name": [
+            "Sweet",
+                "and",
+                "Sour",
+                "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+        
+            "四川",
+            "肉"
+        ],
+        "english_name": [
+            "Spicy",
+                "Pork",
+                "Szechuan",
+                "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "魚香",
+            "肉絲"
+        ],
+        "english_name": [
+            "Shredded",
+            "Pork",
+            "in",
+            "Hot",
+            "and",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "肉丁"
+        ],
+        "english_name": [
+            "Kung",
+            "Po",
+            "Pork"
+        ],
+        "chinese_description": [
+           
+        ],
+        "english_description": [
+            
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "北",
+            "菇",
+            "時",
+            "菜"
+        ],
+        "english_name": [
+            "Fried",
+            "Mushrooms",
+            "with",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "時",
+            "菜"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Vegetables",
+            "in",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "羅漢齋菜"
+        ],
+        "english_name": [
+            "Buddhist",
+            "Monk",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "淨",
+            "炒",
+            "芽菜"
+        ],
+        "english_name": [
+            "Sautéed",
+            "Beansprouts"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "淨",
+            "炒",
+            "雜",
+            "菜"
+        ],
+        "english_name": [
+            "Quick",
+            "Fried",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "露筍荷荳"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Asparagus",
+            "and",
+            "Mange",
+            "tout"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "露",
+            "筍",
+            "珠",
+            "筍"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Asparagus",
+            "and",
+            "Baby",
+            "Sweet",
+            "Corn",
+            "Stir",
+            "Fried",
+            "French",
+            "Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "炒",
+            "四季豆"
+        ],
+        "english_name": [
+            "Stir Fried French Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "毛",
+            "菇"
+        ],
+        "english_name": [
+            "Fried",
+            "Mushroom",
+            "with",
+            "Chilli",
+            "and",
+            "Salt"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "芽菜",
+            "炒",
+            "荷",
+            "荳"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beansprouts",
+            "and",
+            "Mange",
+            "Tout"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "甜酸",
+            "豆腐"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Beancu"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "豆腐"
+        ],
+        "english_name": [
+            "Crispy",
+            "Beancurd",
+            "in",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "豆腐"
+        ],
+        "english_name": [
+            "Fried",
+            "Beancurd",
+            "with",
+            "Chilli",
+            "and",
+            "Salt"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "豆腐"
+        ],
+        "english_name": [
+            "Spicy",
+            "Beancurd",
+            "Szechuan",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]

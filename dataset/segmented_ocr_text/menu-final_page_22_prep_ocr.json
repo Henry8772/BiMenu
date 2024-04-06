@@ -1,0 +1,234 @@
+[
+    {
+        "chinese_name": [
+            "鲍鱼",
+            "捞面",
+            "提前",
+            "小时",
+            "预定"
+        ],
+        "english_name": [
+            "Abaloney",
+            "Egg",
+            "Nooclle"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "please",
+                "order",
+                "hours",
+                "in",
+                "advance"
+            ]
+        ],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "每位"
+        ],
+        "english_name": [
+            "per",
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "鲜",
+            "菠萝",
+            "海皇",
+            "炒饭"
+        ],
+        "english_name": [
+            "Fried",
+            "Seafoods",
+            "and",
+            "Pineapple",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "黄",
+            "金海皇",
+            "炒饭"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice",
+            "with",
+            "Diced",
+            "Seafoods"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "海皇",
+            "蛋白",
+            "菜",
+            "粒",
+            "炒饭"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice",
+            "with",
+            "Egg",
+            "White",
+            "and",
+            "diced",
+            "vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒饭"
+        ],
+        "english_name": [
+            "King",
+            "prawn",
+            "fried",
+            "rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "午餐肉",
+            "炒饭"
+        ],
+        "english_name": [
+            "Ham",
+            "fried",
+            "rice"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "水饺",
+            "白菜",
+            "猪肉",
+            "韭菜",
+            "猪肉",
+            "个"
+        ],
+        "english_name": [
+            "Minced",
+            "Pork",
+            "and",
+            "Chinese",
+            "Cabbage",
+            "Dumplings",
+            "Minced",
+            "Pork",
+            "and",
+            "Chinese",
+            "Chives",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "白饭",
+            "每位"
+        ],
+        "english_name": [
+            "Per",
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "薯条"
+        ],
+        "english_name": [
+            "Chips"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "甜品"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "豆沙",
+            "花生",
+            "汤圆"
+        ],
+        "english_name": [
+            "Red",
+            "bean",
+            "paste",
+            "peanuts",
+            "glutinous",
+            "rice",
+            "ball"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    },
+    {
+        "chinese_name": [
+            "我们",
+            "会",
+            "加收",
+            "服务",
+            "费"
+        ],
+        "english_name": [
+            "Wecharge",
+            "a",
+            "service",
+            "charge",
+            "on",
+            "all",
+            "customers"
+        ],
+        "chinese_description": [],
+        "english_description": [],
+        "raw_text": null
+    }
+]
