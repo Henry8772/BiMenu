@@ -4,7 +4,7 @@ import json
 from copy import deepcopy
 from PIL import Image, ImageDraw, ImageFont
 from models.bounding_box import FeatureType, Point, BoundingBox, DSU
-
+from statistics import mean
 from enum import Enum
 
 class ExtendDirection(Enum):
@@ -23,8 +23,8 @@ def process_bounds_in_paragraph(document):
                 for word in paragraph['words']:
                     symbols_data = [symbol['text'] for symbol in word['symbols'] if symbol['confidence'] > 0.8]
                     symbols_text = ''.join(symbols_data)
-
                     if symbols_text:
+                        print(symbols_text, word['boundingBox']['vertices'])
                         if 'y' not in word['boundingBox']['vertices'][0]:
                             break
 
@@ -35,6 +35,65 @@ def process_bounds_in_paragraph(document):
 
                 if temp_bbox:
                     bounds.append(temp_bbox)
+    return bounds
+
+
+def process_bounds_in_words(document, feature=FeatureType.PARA, accept_languages=['zh', 'en']):
+    bounds = []
+    for page in document['pages']:
+        for block in page['blocks']:
+            paragraph_words = []  # Used only if feature == FeatureType.BLOCK
+            for paragraph in block['paragraphs']:
+                words = []
+                temp_bbox = None
+                stored_y_min = []
+                stored_height = []
+                for word in paragraph['words']:
+                    current_word_lang = ''
+                    if 'property' in word and 'detectedLanguages' in word['property']:
+                        if word['property']['detectedLanguages'] and 'languageCode' in word['property']['detectedLanguages'][0]:
+                            current_word_lang = word['property']['detectedLanguages'][0]['languageCode']
+                            if current_word_lang not in accept_languages:
+                                continue
+                    symbols_data = [symbol['text'] for symbol in word['symbols'] if symbol['confidence'] > 0.8]
+                    symbols_text = ''.join(symbols_data)
+                    if symbols_text:
+                        word_bbox = word['boundingBox']['vertices']
+                        if 'y' not in word_bbox[0]:
+                            break
+                        
+                        word_top_left_y = word_bbox[0]['y']
+                        stored_y_min_avg = mean(stored_y_min) if stored_y_min else 0
+                        stored_height_avg = mean(stored_height) if stored_height else 0
+                        
+                        if stored_height_avg != 0 and word_top_left_y > (0.75 * stored_height_avg + stored_y_min_avg):
+                            if temp_bbox:
+                                bounds.append(temp_bbox)
+                                temp_bbox = None
+                            stored_y_min = []
+                            stored_height = []
+
+                        stored_height.append(word_bbox[2]['y'] - word_bbox[0]['y'])
+                        stored_y_min.append(word_bbox[0]['y'])
+                        if temp_bbox:
+                            temp_bbox.merge(BoundingBox(word_bbox, [symbols_text]))
+                        else:
+                            temp_bbox = BoundingBox(word_bbox, [symbols_text])
+
+                        words.append(symbols_text)
+
+                        if feature == FeatureType.WORD:
+                            bounds.append(BoundingBox(word_bbox, [symbols_text]))
+
+                if feature == FeatureType.PARA and temp_bbox:
+                    bounds.append(temp_bbox)
+
+                paragraph_words.extend(words)
+
+            if feature == FeatureType.BLOCK:
+                bounds.append(BoundingBox(block['boundingBox']['vertices'], paragraph_words))
+
+
     return bounds
 
 

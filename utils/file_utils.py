@@ -11,7 +11,7 @@ def create_dir(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-def load_counter(filename="../output/counter.json"):
+def load_counter(filename="../../dataset/support/counter.json"):
     try:
         with open(filename, 'r') as file:
             data = json.load(file)
@@ -19,7 +19,7 @@ def load_counter(filename="../output/counter.json"):
     except (FileNotFoundError, json.JSONDecodeError):
         return 0
 
-def save_counter(count, filename="../output/counter.json"):
+def save_counter(count, filename="../../dataset/support/counter.json"):
     with open(filename, 'w') as file:
         json.dump({'count': count}, file)
 
