@@ -39,7 +39,7 @@ def process_bounds_in_paragraph(document):
 
 
 
-def group_extended_boxes(extended_boxes, sorted_bounding_boxes):
+def group_extended_boxes(extended_boxes, sorted_bounding_boxes, overlap_threshold=0.3):
     grouped_list = []
     grouped_box = []
     for extended_box in extended_boxes:
@@ -47,7 +47,7 @@ def group_extended_boxes(extended_boxes, sorted_bounding_boxes):
         temp_bbox = None
         for bounding_box in sorted_bounding_boxes:
             overlap_area = calculate_overlap_area(extended_box, bounding_box)
-            if overlap_area >= 0.5 * ((bounding_box.x_max - bounding_box.x_min) * (bounding_box.y_max - bounding_box.y_min)):
+            if overlap_area >= overlap_threshold * ((bounding_box.x_max - bounding_box.x_min) * (bounding_box.y_max - bounding_box.y_min)):
                 current_list.append(bounding_box.text)
                 if temp_bbox:
                     temp_bbox.merge(bounding_box)
@@ -72,7 +72,6 @@ def extend_bounding_boxes(bounding_boxes, container_width, container_height, ext
                 # Extend to the left
                 left_candidates = [b.x_max + 160 for j, b in enumerate(sorted_bounding_boxes) if j != i and b.y_min <= y_max and b.y_max >= y_min and x_min > b.x_max]
                 new_x_min = max(left_candidates + [30])
-                print(left_candidates)
                 x_min = new_x_min
 
             if ExtendDirection.TOP == direction:

@@ -149,6 +149,7 @@ def split_chinese_english(words):
 
 
 def is_english(s):
+    
     # Checking if there are any English alphabets in the string
     return bool(re.search('[a-zA-Z]', s))
 
@@ -165,8 +166,8 @@ def segment_dish_text_list(string_list):
 
 
     for dish_token_list in string_list:
-        is_chinese_flag = all ([is_chinese(word) for word in dish_token_list])
-        is_english_flag = all ([is_english(word) for word in dish_token_list])
+        is_chinese_flag = all ([is_chinese("".join(word)) for word in dish_token_list])
+        is_english_flag = all ([is_english(" ".join(word)) for word in dish_token_list])
         
         if is_chinese_flag:
             chinese_parts.append(dish_token_list)
