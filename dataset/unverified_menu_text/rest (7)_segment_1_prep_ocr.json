@@ -1,0 +1,59 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "點心"
+        ],
+        "english_name": [
+            "Dim"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香酥",
+            "鸭"
+        ],
+        "english_name": [
+            "Service",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Aromatic",
+                "Duck",
+                "with",
+                "pancakes"
+            ],
+            [
+                "Yellow",
+                "Bean",
+                "s"
+            ],
+            [
+                "Spring",
+                "onion",
+                "Cucumber"
+            ],
+            [
+                "hole",
+                "Pn",
+                "cake"
+            ]
+        ]
+    }
+]

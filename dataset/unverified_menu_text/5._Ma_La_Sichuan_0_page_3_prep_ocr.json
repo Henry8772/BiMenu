@@ -1,0 +1,301 @@
+[
+    {
+        "chinese_name": [
+            "傳統",
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [
+            "SET",
+            "MENU",
+            "A"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "per",
+                "person"
+            ],
+            [
+                "Minimum",
+                "people"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "糖醋",
+            "雞"
+        ],
+        "english_name": [
+            "Classic",
+            "Crispy",
+            "Aromatic",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "牛肉"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "西蘭",
+            "花"
+        ],
+        "english_name": [
+            "Beef",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋炒飯"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Broccoli",
+            "in",
+            "Garlic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "拼盤"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SET",
+                "MENU",
+                "B"
+            ],
+            [
+                "per",
+                "person"
+            ],
+            [
+                "Minimum",
+                "people"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "粒粒",
+            "香"
+        ],
+        "english_name": [
+            "Ma",
+            "La",
+            "Special",
+            "Mixed",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Crispy",
+                "Seaweed",
+                "Veg",
+                "Spring",
+                "Rolls",
+                "Salt",
+                "and",
+                "Pepper",
+                "Squid"
+            ],
+            [
+                "Shredded",
+                "Smoked",
+                "Chicken",
+                "Sesame",
+                "Prawn",
+                "Baguette"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "羊肉"
+        ],
+        "english_name": [
+            "Fragrant",
+            "Black",
+            "Pepper",
+            "Sirloin",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "甜酸",
+            "蝦球"
+        ],
+        "english_name": [
+            "Aromatic",
+            "Lamb",
+            "with",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "乾",
+            "煸",
+            "四季豆"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋炒飯"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Dry",
+            "Fried",
+            "Fine",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素",
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SET",
+                "MENU",
+                "C",
+                "VEGETARIAN"
+            ],
+            [
+                "per",
+                "person"
+            ],
+            [
+                "Minimum",
+                "people"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Aromatic",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "魚香",
+            "茄子"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Ma",
+            "Po",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "乾",
+            "煸",
+            "四季豆"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Fish",
+            "Fragrant",
+            "Aubergine",
+            "in",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "什錦",
+            "炒飯"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Dry",
+            "Fried",
+            "Fine",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

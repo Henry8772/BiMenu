@@ -1,0 +1,212 @@
+[
+    {
+        "chinese_name": [
+            "巷"
+        ],
+        "english_name": [
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "S",
+                "Alley"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小吃"
+        ],
+        "english_name": [
+            "Small",
+            "Plates"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "狼牙",
+            "土豆"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "现",
+            "炸",
+            "酥",
+            "肉"
+        ],
+        "english_name": [
+            "Szechuan",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "凉粉"
+        ],
+        "english_name": [
+            "Corn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "口水",
+            "鸡"
+        ],
+        "english_name": [
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "烧",
+            "椒",
+            "皮蛋"
+        ],
+        "english_name": [
+            "Chilli",
+            "Oil",
+            "Sauce",
+            "Cold",
+            "Dish"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小",
+            "竹笼",
+            "粉蒸",
+            "牛肉"
+        ],
+        "english_name": [
+            "Chargrilled",
+            "Green",
+            "Chilli",
+            "Crushed",
+            "With"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Century",
+                "Egg"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "包",
+            "浆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Spiced",
+            "Rice",
+            "Powder"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "钟",
+            "水饺"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "甜味",
+            "小吃"
+        ],
+        "english_name": [
+            "Pork",
+            "Dumplings",
+            "With",
+            "Sweet",
+            "And",
+            "Spicy"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chilli",
+                "Oil",
+                "Minced",
+                "Garlic"
+            ],
+            [
+                "Sweet",
+                "Bites"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "红糖",
+            "冰",
+            "粉"
+        ],
+        "english_name": [
+            "VG"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醪糟",
+            "鸡蛋",
+            "丸子"
+        ],
+        "english_name": [
+            "Iced",
+            "Jelly",
+            "With",
+            "Brown",
+            "Sugar",
+            "Syrup",
+            "Sweet"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fermented",
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "红糖",
+            "糍粑"
+        ],
+        "english_name": [
+            "Soup",
+            "With",
+            "Mini",
+            "Glutinous",
+            "Rice",
+            "Ball"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

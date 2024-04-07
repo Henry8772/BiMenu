@@ -1,0 +1,183 @@
+[
+    {
+        "chinese_name": [
+            "焗",
+            "點",
+            "及",
+            "炸",
+            "點"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "松露",
+            "野菌",
+            "芋香",
+            "餅"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Taro",
+            "Croquette",
+            "with",
+            "Mushrooms",
+            "and",
+            "Truffle",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "蘿蔔",
+            "糕"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Radish",
+            "Cakes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鼎湖",
+            "素",
+            "春卷"
+        ],
+        "english_name": [
+            "Supreme",
+            "Vegetarian",
+            "Spring",
+            "Rolls",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "蔥油餅"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Spring",
+            "Onion",
+            "Pancakes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蔥油",
+            "叉燒",
+            "酥"
+        ],
+        "english_name": [
+            "Baked",
+            "Barbecue",
+            "Pork",
+            "Puff"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芝麻",
+            "香芒",
+            "蝦",
+            "筒"
+        ],
+        "english_name": [
+            "Sesame",
+            "Prawn",
+            "Paper",
+            "Rolls",
+            "with",
+            "Mango",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "軟",
+            "殼",
+            "蟹",
+            "越",
+            "式",
+            "春卷"
+        ],
+        "english_name": [
+            "Vietnamese",
+            "Soft",
+            "Shell",
+            "Crab",
+            "Spring",
+            "Rolls",
+            "with",
+            "Pork",
+            "and",
+            "Shrimps"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "京",
+            "式",
+            "煎",
+            "餃子"
+        ],
+        "english_name": [
+            "Wok",
+            "Grilled",
+            "Pork",
+            "Dumplings",
+            "with",
+            "Shrimps"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian",
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

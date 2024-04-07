@@ -1,0 +1,349 @@
+[
+    {
+        "chinese_name": [
+            "上"
+        ],
+        "english_name": [
+            "Supreme"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Baby"
+            ],
+            [
+                "Spinach"
+            ],
+            [
+                "Soup"
+            ],
+            [
+                "in"
+            ],
+            [
+                "Stock"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "菜类",
+            "豆腐"
+        ],
+        "english_name": [
+            "Egg",
+            "Tofu",
+            "w",
+            "Pork",
+            "and",
+            "Mushroom",
+            "in",
+            "XO",
+            "Sauce",
+            "v",
+            "Option"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "国"
+        ],
+        "english_name": [
+            "Broccoli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西兰"
+        ],
+        "english_name": [
+            "Mushrooms"
+        ],
+        "chinese_description": [
+            [
+                "花"
+            ]
+        ],
+        "english_description": [
+            [
+                "w"
+            ],
+            [
+                "Assorted"
+            ],
+            [
+                "v"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "时"
+        ],
+        "english_name": [
+            "Baby",
+            "Pak",
+            "Choi"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pea"
+            ],
+            [
+                "Sprouts"
+            ],
+            [
+                "Chinese"
+            ],
+            [
+                "v"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "花"
+        ],
+        "english_name": [
+            "Assorted"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "v"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酱肉",
+            "碎",
+            "什",
+            "菌",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "山"
+        ],
+        "english_name": [
+            "Asparagus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "w"
+            ],
+            [
+                "Yam"
+            ],
+            [
+                "Shoots"
+            ],
+            [
+                "v"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "丝"
+        ],
+        "english_name": [
+            "Chili"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腐"
+        ],
+        "english_name": [
+            "Morning"
+        ],
+        "chinese_description": [
+            [
+                "通"
+            ]
+        ],
+        "english_description": [
+            [
+                "Bean"
+            ],
+            [
+                "Glory"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "通"
+        ],
+        "english_name": [
+            "Glory"
+        ],
+        "chinese_description": [
+            [
+                "心"
+            ]
+        ],
+        "english_description": [
+            [
+                "Curd"
+            ],
+            [
+                "in"
+            ],
+            [
+                "Sauce"
+            ],
+            [
+                "v"
+            ],
+            [
+                "w"
+            ],
+            [
+                "Green"
+            ],
+            [
+                "Pork"
+            ],
+            [
+                "Beans"
+            ],
+            [
+                "v"
+            ],
+            [
+                "Option"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "心"
+        ],
+        "english_name": [
+            "Glory"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Curd"
+            ],
+            [
+                "in"
+            ],
+            [
+                "Sauce"
+            ],
+            [
+                "v"
+            ],
+            [
+                "w"
+            ],
+            [
+                "Green"
+            ],
+            [
+                "Pork"
+            ],
+            [
+                "Beans"
+            ],
+            [
+                "v"
+            ],
+            [
+                "Option"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑"
+        ],
+        "english_name": [
+            "Black"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "松"
+        ],
+        "english_name": [
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black"
+            ],
+            [
+                "Truffle"
+            ],
+            [
+                "v"
+            ],
+            [
+                "w"
+            ],
+            [
+                "Assorted"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "菜类",
+            "豆腐"
+        ],
+        "english_name": [
+            "VEGETABLE",
+            "TOFU"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "考",
+            "出品",
+            "以",
+            "实物",
+            "准"
+        ],
+        "english_name": [
+            "THE",
+            "FICTURES",
+            "ARE",
+            "R",
+            "REERENCE",
+            "OLY",
+            "SUBJECT",
+            "TO",
+            "THE",
+            "ACTUAL",
+            "FRODUCT"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

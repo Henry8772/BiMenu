@@ -4,16 +4,10 @@
             "餐"
         ],
         "english_name": [
-            "VEGETARIAN"
+            "H"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "MAIN",
-                "DISHES"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -23,20 +17,16 @@
             "豆腐"
         ],
         "english_name": [
-            "Vegetarian",
-            "Mapo",
-            "Beancurd",
-            "in"
+            "Szechuan",
+            "Sauce",
+            "V"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Szechuan",
-                "Sauce",
-                "V"
+                "H2"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -68,8 +58,7 @@
             [
                 "H6"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -78,23 +67,15 @@
             "豆腐"
         ],
         "english_name": [
-            "Spicy",
-            "Tofu",
-            "with",
-            "Mixed",
-            "Vegetables"
+            "V",
+            "VG"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "V",
-                "VG"
-            ],
-            [
                 "H"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -132,8 +113,7 @@
             [
                 "H3"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -155,8 +135,7 @@
                 "V",
                 "VG"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -167,31 +146,10 @@
             "咕噜"
         ],
         "english_name": [
-            "Stir",
-            "Fried",
-            "Beancurd",
-            "in",
-            "Black",
-            "Bean",
-            "Ginger"
+            "H4"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "and",
-                "Spring",
-                "Onions",
-                "Sweet",
-                "and",
-                "Sour",
-                "V",
-                "VG"
-            ],
-            [
-                "H4"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -202,22 +160,12 @@
             "香辣"
         ],
         "english_name": [
-            "Vegetarian",
-            "Shredded",
-            "Beef",
-            "Sa",
-            "and",
-            "Pepper"
+            "Spicy",
+            "V",
+            "VG"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Spicy",
-                "V",
-                "VG"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -240,11 +188,7 @@
                 "Vegan",
                 "on",
                 "request"
-            ],
-            [
-                "Spicy"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

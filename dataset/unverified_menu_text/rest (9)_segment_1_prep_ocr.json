@@ -1,0 +1,94 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "y",
+                "n"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "地",
+            "三鲜"
+        ],
+        "english_name": [
+            "Wok",
+            "Fried",
+            "Aubergine",
+            "With",
+            "Potato",
+            "And",
+            "Green"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pepper",
+                "Served",
+                "With",
+                "Beijing",
+                "Sauce"
+            ],
+            [
+                "A"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "茄子",
+            "烧",
+            "豆角"
+        ],
+        "english_name": [
+            "Wk",
+            "Fried",
+            "Aubergine",
+            "With",
+            "French",
+            "Beans",
+            "in",
+            "Fresh",
+            "Galic"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "菜花"
+        ],
+        "english_name": [
+            "Cauliflower",
+            "With",
+            "Curry",
+            "Sauce",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "chinese_name": [
+            "鸭",
+            "类"
+        ],
+        "english_name": [
+            "DUCK",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "明",
+            "炉",
+            "烧鸭"
+        ],
+        "english_name": [
+            "Chinese",
+            "Style",
+            "Roast",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "梅子",
+            "烧鸭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "with",
+            "Plum",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香橙",
+            "烧鸭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "with",
+            "Orange",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "鸭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "Szechuan",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "类"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "with",
+            "Plum",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SEAFOOD",
+                "DISHES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "召",
+            "鸭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "with",
+            "Green",
+            "Pepper",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "士",
+            "汁",
+            "青",
+            "口"
+        ],
+        "english_name": [
+            "Fresh",
+            "Mussels",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛",
+            "类"
+        ],
+        "english_name": [
+            "BEEF",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "士",
+            "召",
+            "鱼"
+        ],
+        "english_name": [
+            "Squid",
+            "with",
+            "Green",
+            "Pepper",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "士",
+            "召",
+            "牛"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Green",
+            "Pepper",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "虾仁"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Cashewnuts",
+            "N"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干",
+            "牛",
+            "丝"
+        ],
+        "english_name": [
+            "Crispy",
+            "Shredded",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "牛",
+            "铁板"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "大虾",
+            "铁板"
+        ],
+        "english_name": [
+            "Sizzling",
+            "King",
+            "Prawn",
+            "with",
+            "Ginger",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spring",
+                "Onions"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "毛",
+            "菇",
+            "牛"
+        ],
+        "english_name": [
+            "so",
+            "Beef",
+            "with",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "士",
+            "召",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Green",
+            "Pepper",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "耗油",
+            "牛"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "鲈鱼",
+            "士",
+            "汁"
+        ],
+        "english_name": [
+            "Steam",
+            "Seabass",
+            "with",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "牛"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "Szechuan",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜",
+            "带子",
+            "铁板"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Scallop",
+            "with",
+            "Ginger",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spring",
+                "Onions"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "牛",
+            "铁板"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "in",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

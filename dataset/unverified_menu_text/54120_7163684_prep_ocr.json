@@ -1,0 +1,102 @@
+[
+    {
+        "chinese_name": [
+            "特制",
+            "海鲜"
+        ],
+        "english_name": [
+            "SEAFOOD"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "糖醋",
+            "脆皮",
+            "鱼"
+        ],
+        "english_name": [
+            "Crispy",
+            "Seabass",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sweet",
+                "and",
+                "Sour",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "潇湘",
+            "开",
+            "鱼"
+        ],
+        "english_name": [
+            "Steamed",
+            "Seabass",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chilli",
+                "and",
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "口味",
+            "虾"
+        ],
+        "english_name": [
+            "Spicy",
+            "Hot",
+            "Poached"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Prawn"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "香辣蟹"
+        ],
+        "english_name": [
+            "Fragrangt",
+            "Hot",
+            "Crab"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "蟹"
+        ],
+        "english_name": [
+            "Spring",
+            "Onion",
+            "and",
+            "Ginger",
+            "Fried",
+            "Crab"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

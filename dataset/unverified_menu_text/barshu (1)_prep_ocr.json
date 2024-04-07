@@ -1,0 +1,219 @@
+[
+    {
+        "chinese_name": [
+            "清",
+            "炒菜",
+            "心",
+            "四川",
+            "風"
+        ],
+        "english_name": [
+            "PLAIN",
+            "STIR",
+            "FRIED",
+            "CHOY",
+            "SUM"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "空心菜",
+            "炒"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "MORNING",
+            "GLORY"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "WITH",
+                "GARLIC"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "农家",
+            "花菜",
+            "豚",
+            "肉",
+            "唐辛",
+            "子",
+            "炒"
+        ],
+        "english_name": [
+            "CAULIFLOWER",
+            "WITH",
+            "SLICED",
+            "PORK"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "AND",
+                "FRESH",
+                "CHILLIES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "农家",
+            "花菜"
+        ],
+        "english_name": [
+            "CAULIFLOWER",
+            "WITH",
+            "FRESH",
+            "CHILLIES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "新鮮",
+            "唐辛",
+            "子",
+            "使",
+            "炒",
+            "奶",
+            "物",
+            "辛",
+            "子",
+            "炒"
+        ],
+        "english_name": [],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "婆",
+            "豆腐",
+            "术",
+            "豆腐",
+            "叉"
+        ],
+        "english_name": [
+            "POCK",
+            "MARKED",
+            "OLD",
+            "WOMAN'S"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "BEANCURD",
+                "WITH",
+                "MINCED",
+                "PORK"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "麻",
+            "婆",
+            "豆腐",
+            "素",
+            "术",
+            "豆腐"
+        ],
+        "english_name": [
+            "POCK",
+            "MARKED",
+            "OLD",
+            "WOMAN'S",
+            "BEANCURD"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "包菜",
+            "粉丝",
+            "唐辛",
+            "子",
+            "炒"
+        ],
+        "english_name": [
+            "HAND",
+            "TORN",
+            "CABBAGE",
+            "WITH"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "VINEGAR",
+                "AND",
+                "CHILLIES"
+            ],
+            [
+                "STIR",
+                "FRIED",
+                "CABBAGE",
+                "SLIVERS",
+                "WITH"
+            ],
+            [
+                "BEAN",
+                "THREAD",
+                "NOODLES",
+                "IN",
+                "SALTED"
+            ],
+            [
+                "CHILLI",
+                "SAUCE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "四季豆",
+            "豚",
+            "挽",
+            "肉",
+            "豆",
+            "炒",
+            "幼"
+        ],
+        "english_name": [
+            "DRY",
+            "FRIED",
+            "GREEN",
+            "BEANS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "WITH",
+                "MINCED",
+                "PORK"
+            ]
+        ]
+    }
+]

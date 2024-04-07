@@ -1,0 +1,133 @@
+[
+    {
+        "chinese_name": [
+            "菜"
+        ],
+        "english_name": [
+            "MAIN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "COURSE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酱"
+        ],
+        "english_name": [
+            "ashew",
+            "Nuts",
+            "in",
+            "Yellow",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Pork"
+            ],
+            [
+                "Beef",
+                "Lamb"
+            ],
+            [
+                "Squid",
+                "Duck",
+                "King",
+                "Prawn"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "沙爹"
+        ],
+        "english_name": [
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Pork"
+            ],
+            [
+                "Beef",
+                "Lamb"
+            ],
+            [
+                "Squid",
+                "Duck",
+                "King",
+                "Prawn"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜蓉"
+        ],
+        "english_name": [
+            "Grilled",
+            "Galic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Pork"
+            ],
+            [
+                "Beef",
+                "Lamb"
+            ],
+            [
+                "Squid",
+                "Duck",
+                "King",
+                "Prawn"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "宫保"
+        ],
+        "english_name": [
+            "Chicken",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef",
+                "King",
+                "Prawn"
+            ],
+            [
+                "Minimum",
+                "Charge",
+                "per",
+                "person"
+            ],
+            [
+                "Debit",
+                "and",
+                "Credit",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "values",
+                "over"
+            ]
+        ]
+    }
+]

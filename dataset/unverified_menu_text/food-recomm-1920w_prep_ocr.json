@@ -1,0 +1,156 @@
+[
+    {
+        "chinese_name": [
+            "九龍",
+            "冰",
+            "室"
+        ],
+        "english_name": [
+            "Dragon",
+            "Oriental"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "必",
+            "食",
+            "推介"
+        ],
+        "english_name": [
+            "Food",
+            "recommendations"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雪糕",
+            "紅豆",
+            "冰"
+        ],
+        "english_name": [
+            "Red",
+            "Bean",
+            "Slushy"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "奶茶"
+        ],
+        "english_name": [
+            "Hong",
+            "Kong",
+            "Style",
+            "Milk",
+            "Tea"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "西多士"
+        ],
+        "english_name": [
+            "Hong",
+            "Kong",
+            "Style",
+            "French",
+            "Toast"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "鮮",
+            "茄",
+            "焗",
+            "豬扒",
+            "飯"
+        ],
+        "english_name": [
+            "Signature",
+            "Baked",
+            "Pork",
+            "Chop",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "燒鴨",
+            "飯"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "黯然銷魂",
+            "飯"
+        ],
+        "english_name": [
+            "Signature",
+            "Char",
+            "Siu",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Scrambled",
+                "Egg",
+                "On",
+                "Boiled",
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "土匪",
+            "雞翼"
+        ],
+        "english_name": [
+            "Bandit",
+            "Chicken",
+            "Wings"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "圖片",
+            "只供",
+            "參考"
+        ],
+        "english_name": [
+            "All",
+            "Pictures",
+            "shown",
+            "re",
+            "fustraion",
+            "purpose",
+            "only"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

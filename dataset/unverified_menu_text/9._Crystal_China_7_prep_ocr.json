@@ -1,0 +1,42 @@
+[
+    {
+        "chinese_name": [
+            "秘",
+            "制",
+            "猪蹄"
+        ],
+        "english_name": [
+            "CHEF"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "肉末",
+            "茄子"
+        ],
+        "english_name": [
+            "Pig",
+            "Feet",
+            "Cooked",
+            "in",
+            "Secret",
+            "Home",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸蛋",
+            "黄",
+            "炆",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

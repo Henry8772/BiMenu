@@ -1,0 +1,120 @@
+[
+    {
+        "chinese_name": [
+            "四川"
+        ],
+        "english_name": [
+            "SICHUAN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "特色"
+        ],
+        "english_name": [
+            "AUTH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ENTIC"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鱼"
+        ],
+        "english_name": [
+            "Sliced",
+            "Fish",
+            "in",
+            "Hot",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "鱼"
+        ],
+        "english_name": [
+            "Fish",
+            "with",
+            "Pickle",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "歌乐山",
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [
+            "Diced",
+            "Chicken",
+            "in",
+            "Sichuan",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫保鸡丁"
+        ],
+        "english_name": [
+            "Kong",
+            "Po",
+            "Chicken",
+            "Sichuan",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Minimum",
+                "Charge",
+                "per",
+                "person"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "肥肠"
+        ],
+        "english_name": [
+            "Dry",
+            "Fried",
+            "Pork",
+            "Intestines"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Debit",
+                "and",
+                "Credit",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "values",
+                "over"
+            ]
+        ]
+    }
+]

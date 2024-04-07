@@ -1,0 +1,321 @@
+[
+    {
+        "chinese_name": [
+            "燒",
+            "味"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "即",
+            "燒",
+            "北京",
+            "填鴨"
+        ],
+        "english_name": [
+            "Barbecued",
+            "Peking",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "每隻",
+            "半",
+            "隻"
+        ],
+        "english_name": [
+            "Whole",
+            "Half"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Optional",
+                "add",
+                "with",
+                "Caviar",
+                "30g"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "即",
+            "燒",
+            "琵琶",
+            "乳豬",
+            "全體"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "預訂"
+        ],
+        "english_name": [
+            "Roast",
+            "Whole",
+            "Suckling",
+            "Pig"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pre",
+                "order",
+                "only"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "每隻"
+        ],
+        "english_name": [
+            "Whole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "琵琶",
+            "鴨"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Roasted",
+            "Pei",
+            "Pa",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pre",
+                "Order",
+                "Only"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "皇朝",
+            "會",
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [
+            "Classic",
+            "Crispy",
+            "Aromatic",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Served",
+                "with",
+                "Pancake",
+                "Spring",
+                "Onion",
+                "and",
+                "Cucumber"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "每隻"
+        ],
+        "english_name": [
+            "Whole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "半",
+            "隻"
+        ],
+        "english_name": [
+            "Half"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "隻"
+        ],
+        "english_name": [
+            "Quarter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "明",
+            "爐",
+            "燒鴨"
+        ],
+        "english_name": [
+            "Classic",
+            "Cantonese",
+            "Roast",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "每隻",
+            "半",
+            "隻"
+        ],
+        "english_name": [
+            "Whole",
+            "Half"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜香",
+            "走",
+            "地",
+            "雞"
+        ],
+        "english_name": [
+            "Crispy",
+            "Chicken",
+            "with",
+            "Crusted",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "每隻",
+            "半",
+            "隻"
+        ],
+        "english_name": [
+            "Whole",
+            "Half"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蔥油",
+            "走",
+            "地",
+            "貴妃",
+            "雞"
+        ],
+        "english_name": [
+            "Poached",
+            "Corn",
+            "Fed",
+            "Chicken",
+            "with",
+            "Scallions"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "每隻",
+            "半",
+            "隻"
+        ],
+        "english_name": [
+            "Whole",
+            "Half"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "皇朝",
+            "會",
+            "燒",
+            "腩",
+            "仔"
+        ],
+        "english_name": [
+            "Roasted",
+            "Crispy",
+            "Pork",
+            "Belly"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "皇朝",
+            "會",
+            "叉燒"
+        ],
+        "english_name": [
+            "Honey",
+            "Roasted",
+            "Barbecued",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian"
+            ],
+            [
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "chinese_name": [
+            "利"
+        ],
+        "english_name": [
+            "ORIENT"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "腸粉"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "叉燒",
+            "腸粉"
+        ],
+        "english_name": [
+            "ORIENT"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮮蝦",
+            "腸粉"
+        ],
+        "english_name": [
+            "C"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蔥花",
+            "炸",
+            "兩"
+        ],
+        "english_name": [
+            "Beef",
+            "cheung",
+            "fun"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ORIENT"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "去骨",
+            "鳳爪"
+        ],
+        "english_name": [
+            "King",
+            "prawn",
+            "cheung",
+            "fun"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻醬",
+            "砵",
+            "仔",
+            "腸粉"
+        ],
+        "english_name": [
+            "Roast",
+            "pork",
+            "cheung",
+            "fun"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "八爪魚"
+        ],
+        "english_name": [
+            "Thai",
+            "style",
+            "chicken",
+            "claws"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "鴨舌"
+        ],
+        "english_name": [
+            "Plain",
+            "cheung",
+            "fun",
+            "with",
+            "sesame",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "圖片",
+            "只",
+            "作",
+            "參考"
+        ],
+        "english_name": [
+            "Marinated",
+            "spicy",
+            "baby",
+            "octopus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Marinated",
+                "spicy",
+                "duck",
+                "tongues"
+            ],
+            [
+                "Images",
+                "are",
+                "for",
+                "reference",
+                "only",
+                "Hot",
+                "and",
+                "Spicy",
+                "Contain",
+                "Nuts",
+                "Suitable",
+                "for",
+                "vegetarian",
+                "Denotes",
+                "option"
+            ]
+        ]
+    }
+]

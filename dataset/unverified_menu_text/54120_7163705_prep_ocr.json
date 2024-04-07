@@ -1,0 +1,203 @@
+[
+    {
+        "chinese_name": [
+            "小炒",
+            "称心",
+            "菜"
+        ],
+        "english_name": [
+            "HOME",
+            "STYLE",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蚂蚁",
+            "上",
+            "树"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腐竹",
+            "粉丝"
+        ],
+        "english_name": [
+            "Ants",
+            "Climbing",
+            "a",
+            "Tree",
+            "Bean",
+            "Thread",
+            "Noodles",
+            "with",
+            "Minced",
+            "Meat"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腐竹",
+            "烧",
+            "猪肚"
+        ],
+        "english_name": [
+            "Bean",
+            "Thread",
+            "Noodle",
+            "and",
+            "Tofu",
+            "Skin",
+            "with",
+            "Black",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜苗",
+            "炒",
+            "肚",
+            "条"
+        ],
+        "english_name": [
+            "Braised",
+            "Tripe",
+            "with",
+            "Tofu",
+            "Skin"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tripe",
+                "with",
+                "Picked",
+                "Green",
+                "Chilli"
+            ],
+            [
+                "J"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芹菜",
+            "香干",
+            "肉丝"
+        ],
+        "english_name": [
+            "Ants",
+            "Climbing",
+            "a",
+            "Tree",
+            "Bean",
+            "Thread",
+            "Noodles",
+            "with",
+            "Minced",
+            "Meat"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "卤味",
+            "下锅"
+        ],
+        "english_name": [
+            "Shredded",
+            "Pork",
+            "with",
+            "Smoked"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Tofu",
+                "and",
+                "Celery"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "天然"
+        ],
+        "english_name": [
+            "Shredded",
+            "Pork",
+            "with",
+            "Smoked"
+        ],
+        "chinese_description": [
+            [
+                "健",
+                "然"
+            ]
+        ],
+        "english_description": [
+            [
+                "Assorted",
+                "Preserved",
+                "Meat",
+                "in",
+                "Hot"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "天然"
+        ],
+        "english_name": [
+            "Assorted",
+            "Preserved",
+            "Meat",
+            "in",
+            "Hot"
+        ],
+        "chinese_description": [
+            [
+                "健",
+                "然"
+            ]
+        ],
+        "english_description": [
+            [
+                "Chilli",
+                "and",
+                "Garlic"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水",
+            "味"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "一"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

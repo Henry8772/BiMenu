@@ -6,6 +6,19 @@
             "煲"
         ],
         "english_name": [
+            "Live",
+            "Seafood",
+            "Ltd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "糖醋",
+            "排骨"
+        ],
+        "english_name": [
             "Steamed",
             "Pork",
             "with",
@@ -15,13 +28,12 @@
             "Casserole"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "糖醋",
-            "排骨"
+            "香辣",
+            "猪蹄"
         ],
         "english_name": [
             "Braised",
@@ -34,13 +46,20 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "香辣",
-            "猪蹄"
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "肥肠"
         ],
         "english_name": [
             "Hot",
@@ -50,22 +69,15 @@
             "Trotters"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "海"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "干锅",
-            "肥肠"
+            "我们",
+            "会",
+            "加收",
+            "服务",
+            "费"
         ],
         "english_name": [
             "Stir",
@@ -80,28 +92,16 @@
             "Pepper"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "我们",
-            "会",
-            "加收",
-            "服务",
-            "费"
-        ],
-        "english_name": [
-            "Wecharge",
-            "a",
-            "service",
-            "charge",
-            "on",
-            "all",
-            "customers"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Wecharge",
+                "a",
+                "service",
+                "charge",
+                "on",
+                "all",
+                "customers"
+            ]
+        ]
     }
 ]

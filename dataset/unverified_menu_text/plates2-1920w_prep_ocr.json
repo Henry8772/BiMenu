@@ -1,0 +1,349 @@
+[
+    {
+        "chinese_name": [
+            "椒鹽",
+            "豬扒"
+        ],
+        "english_name": [
+            "P3"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙拉",
+            "豬扒"
+        ],
+        "english_name": [
+            "P24"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "豬扒"
+        ],
+        "english_name": [
+            "P25"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西",
+            "汁",
+            "豬扒"
+        ],
+        "english_name": [
+            "P26"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "生",
+            "炒",
+            "骨"
+        ],
+        "english_name": [
+            "P27"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙拉",
+            "骨"
+        ],
+        "english_name": [
+            "P28"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "骨"
+        ],
+        "english_name": [
+            "P29",
+            "OK"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "五香",
+            "肉丁",
+            "炒",
+            "通",
+            "菜"
+        ],
+        "english_name": [
+            "P30"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "P31"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "鱸魚"
+        ],
+        "english_name": [
+            "P32"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "米",
+            "班",
+            "腩"
+        ],
+        "english_name": [
+            "P33"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蝦醬",
+            "通",
+            "菜炒",
+            "鮮魷"
+        ],
+        "english_name": [
+            "P34"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "鮮魷"
+        ],
+        "english_name": [
+            "P35"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "蝦",
+            "碌"
+        ],
+        "english_name": [
+            "P36"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "乾",
+            "煎",
+            "蝦",
+            "碌"
+        ],
+        "english_name": [
+            "P37"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "蝦球"
+        ],
+        "english_name": [
+            "P38"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "芥末",
+            "蝦球"
+        ],
+        "english_name": [
+            "P39"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西芹",
+            "炒",
+            "腰果",
+            "蝦球"
+        ],
+        "english_name": [
+            "P40"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "荷",
+            "芹",
+            "炒",
+            "百花"
+        ],
+        "english_name": [
+            "P41",
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "軟",
+            "殼",
+            "蟹"
+        ],
+        "english_name": [
+            "P42"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "粉絲",
+            "蝦",
+            "碌",
+            "煲"
+        ],
+        "english_name": [
+            "P43"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "柱",
+            "侯",
+            "牛腩",
+            "煲"
+        ],
+        "english_name": [
+            "P44"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "支",
+            "竹",
+            "班",
+            "腩",
+            "煲"
+        ],
+        "english_name": [
+            "P45"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豆腐",
+            "火",
+            "腩",
+            "煲"
+        ],
+        "english_name": [
+            "P46"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "魔鬼",
+            "麻辣",
+            "雞煲"
+        ],
+        "english_name": [
+            "P47"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "啫",
+            "啫",
+            "雞煲"
+        ],
+        "english_name": [
+            "P48"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸魚",
+            "雞",
+            "粒",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "P49"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "魚香",
+            "茄子",
+            "煲"
+        ],
+        "english_name": [
+            "P50"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

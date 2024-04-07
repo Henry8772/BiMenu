@@ -1,0 +1,97 @@
+[
+    {
+        "chinese_name": [
+            "湘",
+            "之",
+            "味",
+            "卤味",
+            "系列"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "卤鸭",
+            "脖子"
+        ],
+        "english_name": [
+            "Duck",
+            "Neck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "卤",
+            "猪肚",
+            "卤",
+            "牛肚",
+            "卤",
+            "舌尖",
+            "卤",
+            "猪耳"
+        ],
+        "english_name": [
+            "Spicy",
+            "Pork",
+            "Tripe",
+            "Beef",
+            "Tripe",
+            "Pig",
+            "Tongue",
+            "Pig",
+            "Ear"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "卤鸭",
+            "翅膀"
+        ],
+        "english_name": [
+            "Duck",
+            "Wings"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "卤",
+            "猪蹄"
+        ],
+        "english_name": [
+            "Pig",
+            "Feet"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "五香",
+            "卤",
+            "牛肉"
+        ],
+        "english_name": [
+            "Five",
+            "Spice",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

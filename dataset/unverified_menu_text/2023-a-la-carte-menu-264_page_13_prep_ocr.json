@@ -1,0 +1,416 @@
+[
+    {
+        "chinese_name": [
+            "素",
+            "菜谱"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Main",
+            "Course"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "星洲",
+            "米"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Spicy",
+            "Vermicelli",
+            "Singapore",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Sesame"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "什",
+            "菜炒",
+            "面"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Crispy",
+                "or",
+                "Soft",
+                "Noodle"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "鱼香",
+            "茄子"
+        ],
+        "english_name": [
+            "Spicy",
+            "Aromatic",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "素炒"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "地",
+            "三鲜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Trio",
+            "Special"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Green",
+                "Pepper",
+                "Potato",
+                "Slices",
+                "t",
+                "Aubergine"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鲜菇",
+            "扒",
+            "芦笋",
+            "荷",
+            "豆"
+        ],
+        "english_name": [
+            "Fresh",
+            "Asparagus",
+            "with",
+            "Mange",
+            "Tout",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Straw",
+                "Mushrooms"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "木耳",
+            "炒",
+            "荷",
+            "豆",
+            "珠"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Mange",
+            "Tout",
+            "Baby",
+            "Corn",
+            "and",
+            "Tree",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "什",
+            "菌",
+            "扒",
+            "豆腐"
+        ],
+        "english_name": [
+            "Braised",
+            "Beancurd",
+            "with",
+            "Mixed",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "豆腐"
+        ],
+        "english_name": [
+            "Chilli",
+            "Beancurd",
+            "Kunpo",
+            "Style",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "豆腐"
+        ],
+        "english_name": [
+            "Beancurd",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "豆腐"
+        ],
+        "english_name": [
+            "Beancurd",
+            "in",
+            "Chilli",
+            "Spicy",
+            "Sichuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "with",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "柠檬",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "in",
+            "Lemon",
+            "and",
+            "Honey",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "in",
+            "Satay",
+            "and",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "in",
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "甜酸",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "in",
+            "Sweet",
+            "and",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "炒",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "in",
+            "Satay",
+            "t",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "in",
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

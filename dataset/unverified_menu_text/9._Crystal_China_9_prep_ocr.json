@@ -1,0 +1,83 @@
+[
+    {
+        "chinese_name": [
+            "榨菜",
+            "炒肉丝"
+        ],
+        "english_name": [
+            "Shredded",
+            "Pork",
+            "with",
+            "Pickle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "葱爆",
+            "羊肉"
+        ],
+        "english_name": [
+            "Fried",
+            "Lamb",
+            "with",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "缘",
+            "小",
+            "炒肉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Pork",
+            "with",
+            "Soy",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "金沙",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Salted",
+            "Egg",
+            "Yolk"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Minimum",
+                "Charge",
+                "per",
+                "person"
+            ],
+            [
+                "Debit",
+                "and",
+                "Credit",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "values",
+                "over"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "chinese_name": [
+            "頭",
+            "盤"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Mock",
+            "Duck",
+            "Dry",
+            "Bean",
+            "Curd",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Served",
+                "with",
+                "Pancake",
+                "Spring",
+                "Onion",
+                "and",
+                "Cucumber"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "嗲",
+            "串燒",
+            "雞",
+            "串"
+        ],
+        "english_name": [
+            "Grilled",
+            "Chicken",
+            "Fillets",
+            "in",
+            "Skewer",
+            "skewer"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "上菜",
+            "素",
+            "翅",
+            "卷"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Spring",
+            "Roll",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "豆腐",
+            "粒"
+        ],
+        "english_name": [
+            "Crispy",
+            "Tofu",
+            "Cubes",
+            "in",
+            "Salt",
+            "and",
+            "Pepper",
+            "V",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黃金",
+            "豆腐",
+            "粒"
+        ],
+        "english_name": [
+            "Golden",
+            "Crispy",
+            "Tofu",
+            "Cubes",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "素",
+            "魚"
+        ],
+        "english_name": [
+            "Crispy",
+            "Vegetarian",
+            "Mock",
+            "Fish",
+            "with",
+            "Salt",
+            "and",
+            "Pepper",
+            "V",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炭燒",
+            "素",
+            "叉燒"
+        ],
+        "english_name": [
+            "Charcoal",
+            "Grilled",
+            "Vegetarian",
+            "Mock",
+            "Barbecued",
+            "Pork",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian"
+            ],
+            [
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

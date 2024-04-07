@@ -1,0 +1,164 @@
+[
+    {
+        "chinese_name": [
+            "中式"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "主"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "馒头"
+        ],
+        "english_name": [
+            "CHINESE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "MAIN"
+            ],
+            [
+                "COURSE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "炸酱面"
+        ],
+        "english_name": [
+            "Noodle",
+            "with",
+            "Soy",
+            "Bean",
+            "and",
+            "Minced",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "肉丝",
+            "打",
+            "卤面"
+        ],
+        "english_name": [
+            "Noodle",
+            "with",
+            "Shredded",
+            "Pork",
+            "in",
+            "Gravy"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "猪肉",
+            "白菜",
+            "水饺"
+        ],
+        "english_name": [
+            "Chinese",
+            "Leaf",
+            "and",
+            "Pork",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "猪肉",
+            "韭菜",
+            "水饺"
+        ],
+        "english_name": [
+            "Chives",
+            "and",
+            "Pork",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西红柿",
+            "鸡蛋",
+            "汤"
+        ],
+        "english_name": [
+            "Egg",
+            "and",
+            "Tomato",
+            "Soup",
+            "Large"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "紫菜",
+            "豆腐",
+            "汤"
+        ],
+        "english_name": [
+            "Laver",
+            "and",
+            "Tofu",
+            "Soup",
+            "Large"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "榨菜",
+            "肉丝",
+            "汤"
+        ],
+        "english_name": [
+            "Pickle",
+            "and",
+            "Shredded",
+            "Pork",
+            "Soup",
+            "Large"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "排骨",
+            "玉米",
+            "汤"
+        ],
+        "english_name": [
+            "Ribs",
+            "and",
+            "Sweetcorn",
+            "Soup",
+            "Large"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

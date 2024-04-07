@@ -1,0 +1,225 @@
+[
+    {
+        "chinese_name": [
+            "鴻福",
+            "家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NOOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A34"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黄金",
+            "虾",
+            "干",
+            "香",
+            "麻辣",
+            "虾",
+            "白灼",
+            "虾"
+        ],
+        "english_name": [
+            "Golden",
+            "Flower",
+            "Tiger",
+            "Prawn",
+            "Wok",
+            "Fried",
+            "With",
+            "Salted"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Duck",
+                "Egg",
+                "Yolk",
+                "iger",
+                "Prawn",
+                "With",
+                "ried",
+                "Chilli"
+            ],
+            [
+                "Sauce",
+                "s",
+                "Boiléd",
+                "King",
+                "Prawn",
+                "With",
+                "Homemade",
+                "Sauce"
+            ],
+            [
+                "A38"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "私房",
+            "麻辣",
+            "鲈鱼",
+            "锅"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Style",
+            "Whole",
+            "Fish",
+            "With",
+            "Spicy",
+            "And"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mix",
+                "Vegetable",
+                "s",
+                "s"
+            ],
+            [
+                "A3"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "鱼"
+        ],
+        "english_name": [
+            "Boiled",
+            "Fish",
+            "With",
+            "Pickled",
+            "Cabbage",
+            "And",
+            "Chilli",
+            "s"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "青",
+            "口"
+        ],
+        "english_name": [
+            "Irish",
+            "Mussels",
+            "With",
+            "Chilli",
+            "Black",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "And",
+                "Coriander",
+                "Enjoy",
+                "Eating",
+                "With",
+                "Your",
+                "Fingers",
+                "s"
+            ],
+            [
+                "A39"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鱼头",
+            "豆腐",
+            "鱼头",
+            "泡",
+            "饼"
+        ],
+        "english_name": [
+            "God",
+            "fish",
+            "Head",
+            "WithTofu",
+            "Or",
+            "Chinese",
+            "Pancake",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Special",
+                "Sauce",
+                "s"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "火爆",
+            "海",
+            "三鲜"
+        ],
+        "english_name": [
+            "Quick",
+            "Fried",
+            "Fish",
+            "Squild",
+            "And",
+            "Prawn",
+            "s",
+            "s"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

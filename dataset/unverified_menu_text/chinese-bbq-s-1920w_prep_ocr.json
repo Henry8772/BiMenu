@@ -1,0 +1,388 @@
+[
+    {
+        "chinese_name": [
+            "圖片",
+            "只供",
+            "參考"
+        ],
+        "english_name": [
+            "AI",
+            "Pictures",
+            "shown",
+            "are",
+            "for",
+            "lustration",
+            "purpose",
+            "only"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "明",
+            "爐",
+            "燒",
+            "味"
+        ],
+        "english_name": [
+            "Chinese",
+            "Barbecue"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "備注",
+            "加",
+            "紅腸",
+            "加",
+            "蛋",
+            "炒飯",
+            "底",
+            "脆",
+            "麵",
+            "或",
+            "炒",
+            "河底"
+        ],
+        "english_name": [
+            "Extra",
+            "Sausage",
+            "Salted",
+            "Egg",
+            "With",
+            "Fried",
+            "Rice",
+            "Crispy",
+            "Noodles",
+            "Rice",
+            "Stick",
+            "Extra"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "明",
+            "爐",
+            "燒鴨",
+            "半",
+            "只",
+            "一只"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "in",
+            "Cantonese",
+            "Style",
+            "Half",
+            "Whole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "叉燒",
+            "飯",
+            "米粉",
+            "河粉"
+        ],
+        "english_name": [
+            "R1"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Roast",
+                "Duck",
+                "in",
+                "Cantonese",
+                "Style",
+                "Half",
+                "Whole"
+            ],
+            [
+                "Char",
+                "Siu",
+                "Chinese",
+                "BBQ",
+                "Pork"
+            ],
+            [
+                "On",
+                "Boiled",
+                "Rice",
+                "Vermicelli",
+                "Ho",
+                "Fun"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉燒"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "Chinese",
+            "BBQ",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "火",
+            "腩",
+            "飯",
+            "米粉",
+            "河粉"
+        ],
+        "english_name": [
+            "R2"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Crispy",
+                "Roast",
+                "Belly",
+                "Pork"
+            ],
+            [
+                "On",
+                "Boiled",
+                "Rice",
+                "Vermicelli",
+                "Ho",
+                "Fun"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "脆皮",
+            "燒",
+            "腩"
+        ],
+        "english_name": [
+            "Crispy",
+            "Roast",
+            "Belly",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "燒鴨",
+            "飯",
+            "米粉",
+            "河粉"
+        ],
+        "english_name": [
+            "R3"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Roast",
+                "Duck",
+                "in",
+                "Cantonese",
+                "Style"
+            ],
+            [
+                "On",
+                "Boiled",
+                "Rice",
+                "Vermicelli",
+                "Ho",
+                "Fun"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "桶子",
+            "油",
+            "雞",
+            "半",
+            "只",
+            "一只"
+        ],
+        "english_name": [
+            "Soya",
+            "Chicken",
+            "Hal",
+            "Whole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "二",
+            "燒飯",
+            "米粉",
+            "河粉"
+        ],
+        "english_name": [
+            "R4"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Roast",
+                "Meat",
+                "Double",
+                "Combo"
+            ],
+            [
+                "On",
+                "Boiled",
+                "Rice",
+                "Vermicelli",
+                "Ho",
+                "Fun"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "燒",
+            "味",
+            "雙拼"
+        ],
+        "english_name": [
+            "Roast",
+            "Meat",
+            "Double",
+            "Combo"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "三",
+            "燒飯",
+            "米粉",
+            "河粉"
+        ],
+        "english_name": [
+            "R5"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Roast",
+                "Meat",
+                "Double",
+                "Combo"
+            ],
+            [
+                "Roast",
+                "Meat",
+                "Triple",
+                "Combo"
+            ],
+            [
+                "On",
+                "Boiled",
+                "Rice",
+                "Vermicelli",
+                "Ho",
+                "Fun"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "四寶",
+            "飯",
+            "米粉",
+            "河粉",
+            "叉燒",
+            "燒肉",
+            "紅腸",
+            "咸蛋"
+        ],
+        "english_name": [
+            "R6"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Roast",
+                "Meat",
+                "Quadruple",
+                "Combo"
+            ],
+            [
+                "On",
+                "Boiled",
+                "Rice",
+                "Vermicelli",
+                "Ho",
+                "Fun"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "燒",
+            "味",
+            "三",
+            "拼"
+        ],
+        "english_name": [
+            "Roast",
+            "Meat",
+            "Triple",
+            "Combo"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "加",
+            "一",
+            "服務",
+            "費",
+            "價錢",
+            "已",
+            "包含",
+            "外賣",
+            "盒"
+        ],
+        "english_name": [
+            "VAT"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Subject",
+                "to",
+                "service",
+                "charge",
+                "All",
+                "Prices",
+                "Include",
+                "VAT",
+                "Tkeaway",
+                "Container"
+            ]
+        ]
+    }
+]

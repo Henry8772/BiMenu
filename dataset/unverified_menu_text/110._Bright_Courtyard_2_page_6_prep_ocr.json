@@ -1,0 +1,333 @@
+[
+    {
+        "chinese_name": [
+            "甜品"
+        ],
+        "english_name": [
+            "DESSERTS"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "粥",
+            "类"
+        ],
+        "english_name": [
+            "CONGEE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "楊枝",
+            "甘露"
+        ],
+        "english_name": [
+            "Mango",
+            "Pomelo",
+            "Sago"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮑魚",
+            "雞粥"
+        ],
+        "english_name": [
+            "Abalone",
+            "slices",
+            "and",
+            "chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "皮蛋瘦肉粥"
+        ],
+        "english_name": [
+            "Preserved",
+            "egg",
+            "and",
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芒果",
+            "布丁"
+        ],
+        "english_name": [
+            "Chilled",
+            "Mango",
+            "Pudding"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "艇",
+            "仔",
+            "海鮮",
+            "粥"
+        ],
+        "english_name": [
+            "Assorted",
+            "seafood"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "生",
+            "滾",
+            "牛肉",
+            "粥"
+        ],
+        "english_name": [
+            "Minced",
+            "beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "薑絲",
+            "魚片",
+            "粥"
+        ],
+        "english_name": [
+            "Fish",
+            "slices"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "瑶柱",
+            "菜",
+            "心",
+            "粥"
+        ],
+        "english_name": [
+            "Dried",
+            "scallop",
+            "and",
+            "choi",
+            "sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "奶",
+            "黄",
+            "包"
+        ],
+        "english_name": [
+            "Sweet",
+            "Egg",
+            "Custard",
+            "buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [
+            [
+                "份"
+            ]
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酒釀",
+            "圓子"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Rice",
+            "Wine",
+            "Soup",
+            "w",
+            "rice",
+            "bites"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雷沙",
+            "汤圆"
+        ],
+        "english_name": [
+            "Black",
+            "sesame",
+            "dumplings",
+            "in",
+            "peanut",
+            "crumbs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芋头",
+            "西米",
+            "露"
+        ],
+        "english_name": [
+            "Chilled",
+            "Taro",
+            "and",
+            "Coconut",
+            "Sago"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "份"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "chinese_name": [
+            "特制",
+            "海鲜",
+            "类"
+        ],
+        "english_name": [
+            "SEAFOOD"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "蒸",
+            "鲈鱼"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "口味",
+            "大盆",
+            "鱼"
+        ],
+        "english_name": [
+            "Steamed",
+            "Seabass",
+            "with",
+            "Chopped",
+            "Salted",
+            "Chillies"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红烧",
+            "鲈鱼"
+        ],
+        "english_name": [
+            "Seabass",
+            "with",
+            "Seasonal",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干",
+            "蒸",
+            "豉",
+            "椒",
+            "鲈鱼"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Seabass",
+            "in",
+            "Chopped",
+            "Ginger",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "鲈鱼"
+        ],
+        "english_name": [
+            "Dry",
+            "Steamed",
+            "Seabass",
+            "with",
+            "Chilli",
+            "and",
+            "Fermented",
+            "Soya",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鱼片",
+            "鲈鱼"
+        ],
+        "english_name": [
+            "Steamed",
+            "Seabass",
+            "with",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鱿鱼"
+        ],
+        "english_name": [
+            "Cod",
+            "Fish",
+            "Fillet",
+            "Seabass",
+            "in",
+            "a",
+            "Fiery",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "大虾"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Squids"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "剁椒鱼头",
+            "三文鱼"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Small"
+            ]
+        ]
+    }
+]

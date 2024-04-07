@@ -1,0 +1,107 @@
+[
+    {
+        "chinese_name": [
+            "四川"
+        ],
+        "english_name": [
+            "SICHUAN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "特色"
+        ],
+        "english_name": [
+            "AUTH"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "牛肉"
+        ],
+        "english_name": [
+            "ENTIC"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "虾"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "火爆",
+            "腰花"
+        ],
+        "english_name": [
+            "Spicy",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Sichuan",
+                "Pepper"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干烧",
+            "鲈鱼"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "in",
+            "Hot",
+            "Chilli",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "四季豆"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Spicy",
+            "Pig",
+            "Kidney"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "肥肠"
+        ],
+        "english_name": [
+            "Dry",
+            "Braised",
+            "Sea",
+            "Bass"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

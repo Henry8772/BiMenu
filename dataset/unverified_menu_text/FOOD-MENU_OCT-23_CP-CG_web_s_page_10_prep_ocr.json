@@ -1,0 +1,207 @@
+[
+    {
+        "chinese_name": [
+            "汤"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "品"
+        ],
+        "english_name": [
+            "Soups"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Superior",
+                "Broth"
+            ],
+            [
+                "Our",
+                "dishes",
+                "are",
+                "cooked",
+                "with"
+            ],
+            [
+                "Superior",
+                "Broth",
+                "made",
+                "with",
+                "a"
+            ],
+            [
+                "base",
+                "of",
+                "chicken",
+                "and",
+                "pork",
+                "which",
+                "is"
+            ],
+            [
+                "simmered",
+                "for",
+                "hours"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "汤",
+            "原味",
+            "辣味"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Sour",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Original",
+                "Spicy"
+            ],
+            [
+                "180kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "元",
+            "盅",
+            "鸡汤"
+        ],
+        "english_name": [
+            "Steamed",
+            "Chicken",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雞肉",
+            "蒸"
+        ],
+        "english_name": [
+            "261kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "虾肉",
+            "馄饨",
+            "汤"
+        ],
+        "english_name": [
+            "Prawn",
+            "and",
+            "Pork",
+            "Wontons"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Superior",
+                "Broth"
+            ],
+            [
+                "280kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "菜肉",
+            "馄饨",
+            "汤"
+        ],
+        "english_name": [
+            "Pork",
+            "and",
+            "Vegetable",
+            "Wontons"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Superior",
+                "Broth"
+            ],
+            [
+                "218kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "元",
+            "盅",
+            "松露",
+            "鸡汤"
+        ],
+        "english_name": [
+            "Steamed",
+            "Truffle"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Soup"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雞肉",
+            "蒸"
+        ],
+        "english_name": [
+            "284kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Din",
+                "Tai",
+                "Fung's",
+                "iconic",
+                "Steamed"
+            ],
+            [
+                "corn",
+                "fed",
+                "Chicken",
+                "Soup",
+                "is"
+            ],
+            [
+                "simmered",
+                "to",
+                "perfection",
+                "over",
+                "a",
+                "span"
+            ],
+            [
+                "of",
+                "hours"
+            ]
+        ]
+    }
+]

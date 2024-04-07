@@ -1,0 +1,98 @@
+[
+    {
+        "chinese_name": [
+            "小白菜"
+        ],
+        "english_name": [
+            "White",
+            "Pak",
+            "Choi"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杂",
+            "菜"
+        ],
+        "english_name": [
+            "Mix",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蘑菇"
+        ],
+        "english_name": [
+            "VEGETABLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mushroom"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "西兰",
+            "花"
+        ],
+        "english_name": [
+            "Broccoli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜",
+            "心"
+        ],
+        "english_name": [
+            "Choy",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "莲藕"
+        ],
+        "english_name": [
+            "Lotus",
+            "Root"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "彳"
+        ],
+        "english_name": [
+            "Flavor"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大白菜",
+            "荷兰豆"
+        ],
+        "english_name": [
+            "Chinese",
+            "Leaf",
+            "Mange",
+            "Tout"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

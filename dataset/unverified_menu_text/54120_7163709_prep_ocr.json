@@ -1,0 +1,94 @@
+[
+    {
+        "chinese_name": [
+            "各色",
+            "饭",
+            "面",
+            "粉"
+        ],
+        "english_name": [
+            "RICE",
+            "NOODLES",
+            "AND",
+            "PHO",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "炒饭"
+        ],
+        "english_name": [
+            "Hunan",
+            "Style",
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice",
+            "with",
+            "Preserved",
+            "Mustard",
+            "Greens"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "米粉"
+        ],
+        "english_name": [
+            "Pho",
+            "Noodles",
+            "in",
+            "Hot",
+            "and",
+            "Sour",
+            "Soup",
+            "with",
+            "miced",
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "羊",
+            "米粉",
+            "面"
+        ],
+        "english_name": [
+            "Braised",
+            "Lamb",
+            "Belly",
+            "with",
+            "Pho",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Noodles",
+                "in",
+                "Soup"
+            ]
+        ]
+    }
+]

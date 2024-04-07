@@ -1,0 +1,285 @@
+[
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "in",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "Kunpo",
+            "Style",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "in",
+            "Chilli",
+            "Sichuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素",
+            "紫",
+            "罗",
+            "鸭",
+            "片"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Soya",
+            "Bean",
+            "Strips",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sweet",
+                "Ginger",
+                "Pineapple"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "香",
+            "麻鸭",
+            "丝"
+        ],
+        "english_name": [
+            "Soya",
+            "Bean",
+            "Strips",
+            "with",
+            "Vegetable",
+            "and",
+            "Sesame"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "豉",
+            "椒",
+            "鸭",
+            "片"
+        ],
+        "english_name": [
+            "Soya",
+            "Bean",
+            "Slices",
+            "with",
+            "Green",
+            "Pepper",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "京",
+            "葱爆",
+            "鸡"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Soya",
+            "Bean",
+            "Strips"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Spring",
+                "Onions",
+                "and",
+                "Hot",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "蒜头",
+            "酱汁",
+            "鸡"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Vegetarian",
+            "Chicken",
+            "Soyabean",
+            "Product"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Garlic",
+                "Mild",
+                "Spicy",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "甜酸",
+            "鸡"
+        ],
+        "english_name": [
+            "Soya",
+            "Chunks",
+            "in",
+            "Sweet",
+            "and",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "斋",
+            "鸡"
+        ],
+        "english_name": [
+            "Soya",
+            "Chunks",
+            "with",
+            "Green",
+            "Pepper",
+            "and",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "齐",
+            "干",
+            "牛",
+            "柳丝"
+        ],
+        "english_name": [
+            "Crispy",
+            "Mock",
+            "Chilli",
+            "Beef",
+            "Soyabean",
+            "Protein"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

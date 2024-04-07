@@ -4,10 +4,15 @@
             "甜蜜",
             "鸡"
         ],
-        "english_name": [],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Sweet",
+            "Honey",
+            "Sauce"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -20,21 +25,27 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Chicken",
-                "with",
-                "Sweet",
-                "Honey",
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "甜蜜",
             "鸡"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Sweet",
+            "Honey",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "甜蜜",
+            "大虾"
         ],
         "english_name": [
             "King",
@@ -45,13 +56,13 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "甜蜜",
-            "大虾"
+            "甜酸",
+            "鸡",
+            "球"
         ],
         "english_name": [
             "Chicken",
@@ -63,14 +74,13 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "甜酸",
-            "鸡",
-            "球"
+            "香港",
+            "古老",
+            "肉"
         ],
         "english_name": [
             "Sweet",
@@ -82,14 +92,13 @@
             "Style"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "香港",
-            "古老",
-            "肉"
+            "甜酸",
+            "杂",
+            "菜"
         ],
         "english_name": [
             "Sweet",
@@ -102,14 +111,32 @@
             "Style"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "甜酸",
-            "杂",
-            "菜"
+            "香港",
+            "古老",
+            "鸡"
+        ],
+        "english_name": [
+            "3a",
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken",
+            "Hong",
+            "Kong",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香港",
+            "古老",
+            "肉"
         ],
         "english_name": [
             "Sweet",
@@ -120,23 +147,16 @@
         "chinese_description": [],
         "english_description": [
             [
-                "3a",
-                "Sweet",
-                "and",
-                "Sour",
-                "Chicken",
                 "Hong",
                 "Kong",
                 "Style"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
-            "香港",
-            "古老",
-            "鸡"
+            "梅子",
+            "鸭"
         ],
         "english_name": [
             "Duck",
@@ -145,29 +165,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "香港",
-            "古老",
-            "肉"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "梅子",
-            "鸭"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -176,17 +174,18 @@
             "鸡丝"
         ],
         "english_name": [
-            "Chilli",
-            "Sauce"
+            "Crispy",
+            "Shredded",
+            "Chicken",
+            "Honey"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Lemon",
-                "Chicken"
+                "Chilli",
+                "Sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -198,18 +197,7 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Crispy",
-                "Shredded",
-                "Chicken",
-                "with",
-                "Honey",
-                "Chilli",
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -218,14 +206,16 @@
             "鸡丝"
         ],
         "english_name": [
-            "Salt",
-            "and",
-            "Pepper",
-            "Chicken"
+            "Crispy",
+            "Shredded",
+            "Chicken",
+            "with",
+            "Honey",
+            "Chilli",
+            "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -233,22 +223,25 @@
             "鸡"
         ],
         "english_name": [
-            "Lemon",
+            "Salt",
+            "and",
+            "Pepper",
             "Chicken"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "柠檬",
             "鸡"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lemon",
+            "Chicken"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -267,13 +260,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Chicken",
-                "Satay"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -281,23 +268,28 @@
             "鸡"
         ],
         "english_name": [
-            "Kung",
-            "Po",
-            "Chicken"
+            "Chicken",
+            "Satay"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Lemon",
+                "Chicken"
+            ]
+        ]
     },
     {
         "chinese_name": [
             "柠檬",
             "鸡"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lemon",
+            "Chicken"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -306,7 +298,6 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

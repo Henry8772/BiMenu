@@ -1,0 +1,236 @@
+[
+    {
+        "chinese_name": [
+            "豆腐",
+            "粉絲",
+            "雜",
+            "菜",
+            "煲"
+        ],
+        "english_name": [
+            "Assorted",
+            "Vegetables",
+            "Casserole",
+            "with",
+            "Glass",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "P51"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "南",
+            "乳",
+            "粉絲",
+            "齋",
+            "煲"
+        ],
+        "english_name": [
+            "P52"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Braised",
+                "Vegetables",
+                "and",
+                "Glass",
+                "Vermicelli"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "清炒",
+            "薑汁",
+            "蒜蓉"
+        ],
+        "english_name": [
+            "with",
+            "Red",
+            "Fermented",
+            "Beancurd"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "P53"
+            ],
+            [
+                "Broccoli",
+                "tir",
+                "Fried",
+                "Ginger",
+                "Sauce",
+                "Garlic",
+                "Oyster",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "時",
+            "蔬"
+        ],
+        "english_name": [
+            "Pak",
+            "Choi",
+            "Chinese",
+            "Cabbage",
+            "Stir",
+            "Fried",
+            "Ginger",
+            "Sauce",
+            "Garlic",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西蘭",
+            "花",
+            "白菜",
+            "生菜"
+        ],
+        "english_name": [
+            "Lettuce",
+            "Stir",
+            "Fried",
+            "Ginger",
+            "Sauce",
+            "Garlic",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "荷蘭豆",
+            "西芹",
+            "四季豆"
+        ],
+        "english_name": [
+            "Lettuce",
+            "Stir",
+            "Fried",
+            "Ginger",
+            "Sauce",
+            "Garlic",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒",
+            "絲",
+            "腐乳",
+            "炒",
+            "通",
+            "菜"
+        ],
+        "english_name": [
+            "Sugarsnap",
+            "Peas",
+            "stir",
+            "fried",
+            "ginger",
+            "sauce",
+            "garlic",
+            "oyster",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Celery",
+                "stir",
+                "fried",
+                "ginger",
+                "sauce",
+                "garlic",
+                "oyster",
+                "sauce"
+            ],
+            [
+                "Fine",
+                "Bean",
+                "stir",
+                "fried",
+                "ginger",
+                "sauce",
+                "garlic",
+                "oyster",
+                "sauce"
+            ],
+            [
+                "P54"
+            ],
+            [
+                "Stir",
+                "Fried",
+                "Morning",
+                "Glory",
+                "with",
+                "Chili",
+                "in"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "欖",
+            "菜",
+            "肉鬆",
+            "四季豆"
+        ],
+        "english_name": [
+            "Fermented",
+            "Bean",
+            "Curd",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "P55"
+            ],
+            [
+                "Braised",
+                "Egg",
+                "Tofu",
+                "and",
+                "Meat",
+                "Floss",
+                "with",
+                "Enoki",
+                "Mushroom"
+            ],
+            [
+                "P56"
+            ],
+            [
+                "Sautéed",
+                "Spring",
+                "Beans",
+                "with",
+                "Minced",
+                "Pork"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "chinese_name": [
+            "新鮮",
+            "海鮮"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "時價"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蘇格蘭",
+            "龍蝦"
+        ],
+        "english_name": [
+            "Wild",
+            "Scottish",
+            "Lobster"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "加拿大",
+            "象拔蚌"
+        ],
+        "english_name": [
+            "Canadian",
+            "Geoduck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "加拿大",
+            "蟹"
+        ],
+        "english_name": [
+            "Canadian",
+            "Crab"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "法國",
+            "多",
+            "寶",
+            "魚"
+        ],
+        "english_name": [
+            "French",
+            "Turbot",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "阿拉斯加",
+            "皇帝",
+            "蟹"
+        ],
+        "english_name": [
+            "Alaskan",
+            "King",
+            "Crab"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蘇格蘭",
+            "新鮮",
+            "帶子",
+            "皇"
+        ],
+        "english_name": [
+            "Scottish",
+            "Emperor",
+            "Scallop"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蘇格蘭",
+            "游水",
+            "蟶",
+            "子",
+            "皇"
+        ],
+        "english_name": [
+            "Scottish",
+            "Emperor",
+            "Razor",
+            "Clam"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蘇格蘭",
+            "長",
+            "腳",
+            "蝦"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "英格蘭",
+            "白鱔"
+        ],
+        "english_name": [
+            "English",
+            "Wild",
+            "White",
+            "Eel"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "澳洲",
+            "鮑魚"
+        ],
+        "english_name": [
+            "Australian",
+            "Wild",
+            "Abalone"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鮮",
+            "煮法"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "薑蔥",
+            "辣",
+            "汁",
+            "椒鹽",
+            "避風塘",
+            "清蒸",
+            "雞油",
+            "花雕",
+            "蒜蓉",
+            "蒸",
+            "剁椒",
+            "蒸"
+        ],
+        "english_name": [
+            "s"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Choice",
+                "of",
+                "Preparation"
+            ],
+            [
+                "Black",
+                "Bean",
+                "Sauce",
+                "Spring",
+                "Onion",
+                "and",
+                "Ginger",
+                "Spicy",
+                "Sauce",
+                "Salt",
+                "and",
+                "Pepper",
+                "Garlic",
+                "and",
+                "Chilli"
+            ],
+            [
+                "Steamed",
+                "Rice",
+                "Wine",
+                "and",
+                "Chicken",
+                "Oil",
+                "Sauce",
+                "Steamed",
+                "with",
+                "Garlic",
+                "Sauce",
+                "Chopped",
+                "Chilli",
+                "Steamed",
+                "S"
+            ],
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian"
+            ],
+            [
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

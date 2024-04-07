@@ -1,0 +1,165 @@
+[
+    {
+        "chinese_name": [
+            "雙拼",
+            "燒",
+            "味"
+        ],
+        "english_name": [
+            "Two"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Signature"
+            ],
+            [
+                "Meats"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "三",
+            "拼",
+            "燒",
+            "味"
+        ],
+        "english_name": [
+            "Three"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Signature"
+            ],
+            [
+                "Meats"
+            ],
+            [
+                "MAINS"
+            ],
+            [
+                "Salt",
+                "and",
+                "pepper",
+                "Dry",
+                "kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "燒",
+            "味",
+            "飯"
+        ],
+        "english_name": [
+            "One"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Signature"
+            ],
+            [
+                "Meat"
+            ],
+            [
+                "with",
+                "rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "三",
+            "拼",
+            "燒",
+            "味",
+            "飯"
+        ],
+        "english_name": [
+            "Three"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Signature"
+            ],
+            [
+                "Meats"
+            ],
+            [
+                "with",
+                "rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雙拼",
+            "燒",
+            "味",
+            "飯"
+        ],
+        "english_name": [
+            "Two"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Signature"
+            ],
+            [
+                "Meats"
+            ],
+            [
+                "with",
+                "rice"
+            ],
+            [
+                "MAINS"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "龍蝦",
+            "帶殼"
+        ],
+        "english_name": [
+            "Lobster",
+            "in",
+            "shell"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt",
+                "and",
+                "pepper",
+                "Dry",
+                "kcal"
+            ],
+            [
+                "Ginger",
+                "and",
+                "spring",
+                "onions",
+                "kcal"
+            ],
+            [
+                "Spicy",
+                "sauce",
+                "kcal"
+            ],
+            [
+                "Add",
+                "egg",
+                "noodles",
+                "kcal"
+            ]
+        ]
+    }
+]

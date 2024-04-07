@@ -1,0 +1,82 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "點心"
+        ],
+        "english_name": [
+            "Dim",
+            "SUM"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "鸡",
+            "串"
+        ],
+        "english_name": [
+            "Chicken",
+            "skewers"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Rich",
+                "Satay",
+                "Sauce"
+            ],
+            [
+                "AD6"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "牛肉",
+            "串"
+        ],
+        "english_name": [
+            "Gumin",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Skewers",
+                "s"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "蒸",
+            "排骨"
+        ],
+        "english_name": [
+            "Steam",
+            "spare",
+            "ribs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

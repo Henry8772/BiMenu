@@ -1,0 +1,223 @@
+[
+    {
+        "chinese_name": [
+            "香辣",
+            "龙虾",
+            "夕",
+            "辛味",
+            "炒"
+        ],
+        "english_name": [
+            "BARSHU",
+            "FRAGRANT",
+            "AND",
+            "HOT",
+            "LOBSTER"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "龙虾",
+            "夕",
+            "生姜",
+            "青",
+            "戈",
+            "炒",
+            "幼"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "LOBSTER",
+            "WITH",
+            "GINGER"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "AND",
+                "SPRING",
+                "ONION"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "蒸",
+            "带子",
+            "春雨",
+            "帆",
+            "立",
+            "唐辛",
+            "子",
+            "蒸"
+        ],
+        "english_name": [
+            "STEAMED",
+            "SCALLOP",
+            "WITH",
+            "CHILLIES",
+            "AND"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "BEAN",
+                "THREAD",
+                "NOODLES",
+                "EACH"
+            ],
+            [
+                "L"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "蒸",
+            "带子",
+            "春雨",
+            "帆",
+            "立",
+            "二",
+            "夕",
+            "蒸"
+        ],
+        "english_name": [
+            "STEAMED",
+            "SCALLOP",
+            "WITH",
+            "GARLIC",
+            "AND"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "BEAN",
+                "THREAD",
+                "NOODLES",
+                "EACH"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鲈鱼",
+            "才",
+            "漬",
+            "汁"
+        ],
+        "english_name": [
+            "BOILED",
+            "SEA",
+            "BASS",
+            "WITH",
+            "SIZZLING",
+            "CHILLI",
+            "OIL"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鲈鱼",
+            "小",
+            "才",
+            "漬",
+            "汁"
+        ],
+        "english_name": [
+            "BOILED",
+            "SEA",
+            "BASS",
+            "WITH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SIZZLING",
+                "CHILLI",
+                "OIL",
+                "SMALL",
+                "PORTION"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鲜",
+            "椒",
+            "鱼片",
+            "生",
+            "唐辛",
+            "子",
+            "胡椒",
+            "漬",
+            "汁"
+        ],
+        "english_name": [
+            "SLICED",
+            "SEA",
+            "BASS",
+            "WITH",
+            "FRESH",
+            "CHILLIES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "AND",
+                "SICHUAN",
+                "PEPPERCORN"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鲜",
+            "椒",
+            "鱼片",
+            "小",
+            "生",
+            "唐辛",
+            "子",
+            "胡椒",
+            "漬",
+            "汁"
+        ],
+        "english_name": [
+            "SLICED",
+            "SEA",
+            "BASS",
+            "WITH",
+            "FRESH",
+            "CHILLIES"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "AND",
+                "SICHUAN",
+                "PEPPERCORN",
+                "SMALL",
+                "PORTION"
+            ]
+        ]
+    }
+]

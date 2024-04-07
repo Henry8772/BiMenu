@@ -1,0 +1,96 @@
+[
+    {
+        "chinese_name": [
+            "天然"
+        ],
+        "english_name": [],
+        "chinese_description": [
+            [
+                "健",
+                "然"
+            ],
+            [
+                "健"
+            ]
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "健",
+            "然"
+        ],
+        "english_name": [],
+        "chinese_description": [
+            [
+                "健"
+            ]
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "毛",
+            "家",
+            "传统",
+            "菜"
+        ],
+        "english_name": [
+            "CLASSEC",
+            "HUNAN",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "湘潭",
+            "啤酒",
+            "鸭"
+        ],
+        "english_name": [
+            "Braised",
+            "Duck",
+            "in",
+            "Beer",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腊肉",
+            "炒",
+            "萝卜皮",
+            "蒜苔",
+            "豆角",
+            "荷兰豆",
+            "白",
+            "辣椒"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Hunan",
+            "Smoky",
+            "Bacon",
+            "with",
+            "Dry",
+            "Turnip",
+            "Garlic",
+            "Shoots"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "String",
+                "Beans",
+                "Mangetout",
+                "White",
+                "Chilli"
+            ]
+        ]
+    }
+]

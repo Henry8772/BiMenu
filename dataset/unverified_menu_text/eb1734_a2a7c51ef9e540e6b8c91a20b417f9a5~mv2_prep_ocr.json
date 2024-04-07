@@ -1,0 +1,179 @@
+[
+    {
+        "chinese_name": [
+            "福",
+            "家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "米飯"
+        ],
+        "english_name": [
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸭",
+            "鸡饭"
+        ],
+        "english_name": [
+            "DUCK",
+            "AND",
+            "CHICKEN",
+            "RICE",
+            "WITH",
+            "HONGFU",
+            "SAUCE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸鱼",
+            "鸡",
+            "粒",
+            "炒饭"
+        ],
+        "english_name": [
+            "DRIED",
+            "FISH",
+            "AND",
+            "CHICKEN",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菠萝",
+            "鸡丝",
+            "炒饭"
+        ],
+        "english_name": [
+            "SHREDDED",
+            "CHICKEN",
+            "AND",
+            "PINEAPPLE",
+            "FRIE",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "肥牛",
+            "捞饭"
+        ],
+        "english_name": [
+            "SATAY",
+            "BEEF",
+            "ON",
+            "STEAM",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "丝",
+            "白饭"
+        ],
+        "english_name": [
+            "STEAM",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒饭"
+        ],
+        "english_name": [
+            "FRIED",
+            "RICE",
+            "refreshing"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "香蕉",
+            "拔丝",
+            "地瓜"
+        ],
+        "english_name": [
+            "BANANA",
+            "SWEET",
+            "POTATO",
+            "IN",
+            "HOT",
+            "TOFFEE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "冰淇淋"
+        ],
+        "english_name": [
+            "STRAWBERRY",
+            "CHOCOLATE",
+            "VANILLA",
+            "ICE",
+            "CREAM"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香脆",
+            "炸",
+            "雪糕"
+        ],
+        "english_name": [
+            "DEEP",
+            "FRIED",
+            "ICE",
+            "CREAM",
+            "WITH",
+            "HONEY",
+            "SYRUP"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

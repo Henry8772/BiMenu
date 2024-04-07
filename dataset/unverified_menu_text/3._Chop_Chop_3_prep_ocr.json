@@ -1,0 +1,216 @@
+[
+    {
+        "chinese_name": [
+            "甜品"
+        ],
+        "english_name": [
+            "DESSERT"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大白兔",
+            "雪糕",
+            "素食"
+        ],
+        "english_name": [
+            "White",
+            "Rabbit",
+            "ce",
+            "Cream",
+            "Lolly",
+            "V",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香葉",
+            "椰香",
+            "啫",
+            "哩",
+            "雪糕",
+            "素食"
+        ],
+        "english_name": [
+            "Pandan",
+            "and",
+            "Coconut",
+            "Jelly",
+            "Ice",
+            "Cream",
+            "Lolly",
+            "VG",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香芋",
+            "雪糕",
+            "素食"
+        ],
+        "english_name": [
+            "Taro",
+            "Ice",
+            "Cream",
+            "Lolly",
+            "VG",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "S"
+            ],
+            [
+                "SAKURA",
+                "DO"
+            ],
+            [
+                "Sakura",
+                "do",
+                "Specials"
+            ],
+            [
+                "BESPOKE",
+                "JAPANESE",
+                "PATISSERIE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "开心果",
+            "千层",
+            "蛋糕"
+        ],
+        "english_name": [
+            "Pistachio",
+            "Mille",
+            "Crepe",
+            "Cake",
+            "N",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "泡芙"
+        ],
+        "english_name": [
+            "Choux",
+            "Bun",
+            "filled",
+            "with",
+            "vanilla",
+            "custard",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "柚子",
+            "輕",
+            "乳酪",
+            "蛋糕"
+        ],
+        "english_name": [
+            "Yuzu",
+            "Cheesecake",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "請",
+            "在",
+            "点",
+            "餐前",
+            "告知",
+            "我们",
+            "任何",
+            "過敏",
+            "或",
+            "不",
+            "耐受",
+            "情況"
+        ],
+        "english_name": [
+            "Please",
+            "inform",
+            "us",
+            "of",
+            "any",
+            "allergies",
+            "or",
+            "intolerances",
+            "prior",
+            "to",
+            "ordering"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Genetically",
+                "modified",
+                "oil",
+                "may",
+                "be",
+                "used"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "可",
+            "根據",
+            "要求",
+            "提供",
+            "過敏",
+            "原",
+            "信息"
+        ],
+        "english_name": [
+            "Allergen",
+            "information",
+            "available",
+            "on",
+            "request"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "所有",
+            "價格",
+            "均以",
+            "英鎊",
+            "顯示"
+        ],
+        "english_name": [
+            "All",
+            "prices",
+            "shown",
+            "in",
+            "GBP"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -1,0 +1,283 @@
+[
+    {
+        "chinese_name": [
+            "鸡肉",
+            "炒饭"
+        ],
+        "english_name": [
+            "Chicken",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "面"
+        ],
+        "english_name": [
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "and"
+            ],
+            [
+                "NOODLE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "炒饭"
+        ],
+        "english_name": [
+            "Beef",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒饭"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "炒饭"
+        ],
+        "english_name": [
+            "Roast",
+            "Pork",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "烧鸭",
+            "炒饭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "扬州",
+            "炒饭"
+        ],
+        "english_name": [
+            "Special",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "新加坡",
+            "炒饭"
+        ],
+        "english_name": [
+            "Singapore",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杂",
+            "菜",
+            "炒饭"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白饭"
+        ],
+        "english_name": [
+            "Boiled",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡丝",
+            "炒面"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "炒面"
+        ],
+        "english_name": [
+            "Beef",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒面"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "炒面"
+        ],
+        "english_name": [
+            "Roast",
+            "Pork",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸭",
+            "丝",
+            "炒面"
+        ],
+        "english_name": [
+            "Duck",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "扬州",
+            "炒面"
+        ],
+        "english_name": [
+            "Special",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "新加坡",
+            "米粉"
+        ],
+        "english_name": [
+            "Singapore",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜炒",
+            "面"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "净",
+            "面"
+        ],
+        "english_name": [
+            "Plain",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Minimum",
+                "Charge",
+                "per",
+                "person"
+            ],
+            [
+                "Debit",
+                "and",
+                "Credit",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "values",
+                "over"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "chinese_name": [
+            "经典",
+            "广",
+            "粤菜"
+        ],
+        "english_name": [
+            "CLASSIC",
+            "CANTONESE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "鸡",
+            "牛",
+            "大虾"
+        ],
+        "english_name": [
+            "Chicken",
+            "Beef",
+            "Prawn",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "大虾"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "牛",
+            "柳丝"
+        ],
+        "english_name": [
+            "Crispy",
+            "Shredded",
+            "Beef",
+            "with",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "鸡",
+            "牛",
+            "鸭",
+            "鱼块"
+        ],
+        "english_name": [
+            "Chicken",
+            "Beef",
+            "Duck",
+            "Cod",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "牛柳",
+            "士",
+            "椒",
+            "黑椒",
+            "中式"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef",
+            "Fillet",
+            "with",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Green",
+                "Pepper",
+                "and",
+                "Black",
+                "Bean"
+            ],
+            [
+                "Black",
+                "Pepper",
+                "Cantonese"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "明",
+            "炉",
+            "烤鸭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "整",
+            "只"
+        ],
+        "english_name": [
+            "Whole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "鱼块"
+        ],
+        "english_name": [
+            "Cod",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A53"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸汤",
+            "老鸭",
+            "煲"
+        ],
+        "english_name": [
+            "Pickled",
+            "Cabbage",
+            "With"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chopped",
+                "Duck",
+                "Soup",
+                "in",
+                "Pot"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "粉"
+        ],
+        "english_name": [
+            "Sor",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "TASTING",
+                "VERY"
+            ],
+            [
+                "DELICIOUS"
+            ],
+            [
+                "A55"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "啤酒",
+            "鸭"
+        ],
+        "english_name": [
+            "With",
+            "Chinese",
+            "Wine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

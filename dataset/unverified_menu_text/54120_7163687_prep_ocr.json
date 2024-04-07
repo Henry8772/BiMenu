@@ -1,0 +1,127 @@
+[
+    {
+        "chinese_name": [
+            "凉拌",
+            "清爽",
+            "菜"
+        ],
+        "english_name": [
+            "COLD",
+            "STATERS",
+            "and",
+            "APPETIZERS"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "凉拌",
+            "海带"
+        ],
+        "english_name": [
+            "Kelp",
+            "in",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "凉拌",
+            "腐竹"
+        ],
+        "english_name": [
+            "Tofu",
+            "Skin",
+            "with",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "凉拌",
+            "黄瓜"
+        ],
+        "english_name": [
+            "Cucumner",
+            "with",
+            "Garlic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "松花",
+            "皮蛋",
+            "豆腐"
+        ],
+        "english_name": [
+            "Mixed",
+            "Preserved",
+            "Duck",
+            "Egg",
+            "and",
+            "Beancurd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "烧",
+            "辣椒",
+            "皮蛋"
+        ],
+        "english_name": [
+            "Mixed",
+            "Preserved",
+            "Duck",
+            "Egg",
+            "with",
+            "BBQ",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香菜",
+            "木耳"
+        ],
+        "english_name": [
+            "Black",
+            "Fungus",
+            "with",
+            "Coriander",
+            "in",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "口水",
+            "鸡"
+        ],
+        "english_name": [
+            "Steamed",
+            "Chicken",
+            "with",
+            "Chili",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -9,8 +9,7 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -30,8 +29,7 @@
             "Fun"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -47,8 +45,7 @@
             "Fun"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -69,8 +66,7 @@
                 "Fun",
                 "Noodle"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -90,8 +86,7 @@
             "Sum"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -114,8 +109,7 @@
                 "Fried",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -134,8 +128,7 @@
             "Noodle"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -159,8 +152,7 @@
                 "Fried",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -181,8 +173,7 @@
                 "in",
                 "Sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -216,7 +207,6 @@
                 "request",
                 "Spicy"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

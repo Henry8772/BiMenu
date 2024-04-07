@@ -1,0 +1,97 @@
+[
+    {
+        "chinese_name": [
+            "干锅",
+            "口味",
+            "菜"
+        ],
+        "english_name": [
+            "DRY",
+            "POT",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福福"
+        ],
+        "english_name": [],
+        "chinese_description": [
+            [
+                "福"
+            ]
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "手撕",
+            "羊排"
+        ],
+        "english_name": [
+            "Lamb",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "土豆",
+            "片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Potatoes",
+            "and",
+            "Hunan",
+            "Bacon"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

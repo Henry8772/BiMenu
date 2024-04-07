@@ -1,0 +1,276 @@
+[
+    {
+        "chinese_name": [
+            "廚師",
+            "推介"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "餐前",
+            "小碟"
+        ],
+        "english_name": [
+            "Selection",
+            "of",
+            "Cold",
+            "Mini",
+            "Starters"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "拍",
+            "黃瓜",
+            "青瓜",
+            "海蜇",
+            "八爪魚",
+            "帶子",
+            "邊",
+            "涼拌",
+            "雜菌",
+            "雪菜",
+            "毛豆",
+            "土豆",
+            "絲",
+            "日本",
+            "海草"
+        ],
+        "english_name": [
+            "Smacked",
+            "Cucumber",
+            "Jelly",
+            "Fish",
+            "with",
+            "Cucumber",
+            "Octopus",
+            "Scallops",
+            "Edge",
+            "Assorted",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Preserved",
+                "Vegetables",
+                "with",
+                "Edamame",
+                "Shredded",
+                "Potato",
+                "Japanese",
+                "Seaweed"
+            ],
+            [
+                "Each"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "口水",
+            "雞"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Sichuan",
+            "Spicy",
+            "Peanut",
+            "Dressing",
+            "Serve",
+            "Chilled",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醉雞"
+        ],
+        "english_name": [
+            "Drunken",
+            "Chicken",
+            "Serve",
+            "Chilled"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "鴨",
+            "翼"
+        ],
+        "english_name": [
+            "Marinated",
+            "Duck",
+            "Wings",
+            "in",
+            "Spicy",
+            "Sauce",
+            "Serve",
+            "Chilled",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "凍",
+            "牛肉"
+        ],
+        "english_name": [
+            "Chilled",
+            "Marinated",
+            "Beef",
+            "Serve",
+            "Chilled",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "涼拌",
+            "木耳"
+        ],
+        "english_name": [
+            "Black",
+            "Fungus",
+            "Salad",
+            "with",
+            "Fresh",
+            "Garlic",
+            "Serve",
+            "Chilled",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "尖椒",
+            "皮蛋"
+        ],
+        "english_name": [
+            "Preserved",
+            "Egg",
+            "with",
+            "Hot",
+            "Pepper",
+            "Serve",
+            "Chilled",
+            "V",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻醬",
+            "雞絲",
+            "拌",
+            "粉皮"
+        ],
+        "english_name": [
+            "Shredded",
+            "Chicken",
+            "and",
+            "Glass",
+            "Noodles",
+            "in",
+            "Sesame",
+            "Dressing",
+            "Serve",
+            "Chilled"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "櫻花",
+            "蝦",
+            "乾",
+            "蒸",
+            "水",
+            "蛋"
+        ],
+        "english_name": [
+            "Steamed",
+            "Egg",
+            "with",
+            "Dried",
+            "Sakura",
+            "Shrimp"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "汁",
+            "菌",
+            "皇",
+            "腐皮",
+            "卷"
+        ],
+        "english_name": [
+            "Assorted",
+            "Mushrooms",
+            "in",
+            "Crispy",
+            "Tofu",
+            "Rolls",
+            "with",
+            "Black",
+            "Truffle",
+            "Sauce",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian"
+            ],
+            [
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

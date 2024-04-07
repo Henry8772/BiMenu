@@ -6,14 +6,10 @@
             "鸡煲"
         ],
         "english_name": [
-            "Braised",
-            "Chicken",
-            "Hot",
-            "Pot"
+            "L12"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -22,25 +18,44 @@
             "包菜"
         ],
         "english_name": [
-            "Griddle",
-            "Cooked",
-            "Sliced",
-            "Cabbage"
+            "L13"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "with",
-                "Pork"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "啫",
             "啫",
             "海鳗",
+            "煲"
+        ],
+        "english_name": [
+            "with",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "支",
+            "竹",
+            "羊",
+            "腩",
+            "煲"
+        ],
+        "english_name": [
+            "L14"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斑",
+            "楠",
+            "豆腐",
             "煲"
         ],
         "english_name": [
@@ -54,52 +69,7 @@
             [
                 "L19"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "支",
-            "竹",
-            "羊",
-            "腩",
-            "煲"
-        ],
-        "english_name": [
-            "Braised",
-            "Lamb",
-            "Hot",
-            "Pot"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "L15"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "斑",
-            "楠",
-            "豆腐",
-            "煲"
-        ],
-        "english_name": [
-            "Fish",
-            "and",
-            "Tofu",
-            "Hot",
-            "Pot"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "HOME"
-            ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -108,14 +78,10 @@
             "鸡煲"
         ],
         "english_name": [
-            "Sizzling",
-            "Chicken",
-            "Hot",
-            "Pot"
+            "L15"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -124,6 +90,23 @@
             "野菌",
             "什",
             "菜",
+            "煲"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Chicken",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸鱼",
+            "鸡",
+            "茄子",
+            "豆腐",
             "煲"
         ],
         "english_name": [
@@ -139,41 +122,6 @@
                 "Hot",
                 "Pot"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "咸鱼",
-            "鸡",
-            "茄子",
-            "豆腐",
-            "煲"
-        ],
-        "english_name": [
-            "Salted",
-            "Fish",
-            "Chicken",
-            "Aubergine"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "and",
-                "Tofu",
-                "Hot",
-                "Pot"
-            ],
-            [
-                "V",
-                "Vegetarian",
-                "VG",
-                "Vegan",
-                "on",
-                "request",
-                "Spicy"
-            ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

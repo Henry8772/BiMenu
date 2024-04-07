@@ -5,17 +5,29 @@
             "湯類"
         ],
         "english_name": [
+            "VEGETARIAN",
+            "SOUPS"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
             "Sweet",
             "Corn",
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "粟米",
+            "冬菇",
+            "酸辣",
             "羹"
         ],
         "english_name": [
@@ -26,23 +38,7 @@
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "冬菇",
-            "酸辣",
-            "羹"
-        ],
-        "english_name": [
-            "Chinese",
-            "Mushroom",
-            "Soup"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -52,24 +48,26 @@
             "菜羹"
         ],
         "english_name": [
-            "Tofu",
-            "and",
-            "Spinach",
+            "Chinese",
+            "Mushroom",
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "菠菜",
             "豆腐"
         ],
-        "english_name": [],
+        "english_name": [
+            "Tofu",
+            "and",
+            "Spinach",
+            "Soup"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -87,8 +85,7 @@
             "STARTERS"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -111,31 +108,8 @@
                 "Platter",
                 "Min",
                 "Persons"
-            ],
-            [
-                "Pan",
-                "Fried",
-                "Lo",
-                "Han",
-                "Dumpling",
-                "Steamed",
-                "Vegetable",
-                "and",
-                "Nut",
-                "Dumplings",
-                "Vegetarian",
-                "Spring",
-                "Rolls",
-                "Spring",
-                "Onion",
-                "Pancakes",
-                "Seaweed",
-                "and",
-                "Pickled",
-                "Vegetables"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -160,14 +134,32 @@
             "酸菜"
         ],
         "english_name": [
-            "Lettuce",
-            "Wrap",
-            "with",
-            "Nuts"
+            "Pan",
+            "Fried",
+            "Lo",
+            "Han",
+            "Dumpling",
+            "Steamed",
+            "Vegetable",
+            "and",
+            "Nut",
+            "Dumplings",
+            "Vegetarian",
+            "Spring",
+            "Rolls"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Spring",
+                "Onion",
+                "Pancakes",
+                "Seaweed",
+                "and",
+                "Pickled",
+                "Vegetables"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -176,10 +168,14 @@
             "生菜",
             "包"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lettuce",
+            "Wrap",
+            "with",
+            "Nuts"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -195,8 +191,7 @@
             "Parcels"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -212,8 +207,7 @@
             "Rolls"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -229,8 +223,7 @@
             "Dumplings"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -244,16 +237,7 @@
             "Pancakes"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Spicy",
-                "Vegetable",
-                "and",
-                "Nut",
-                "Dumplings"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -264,6 +248,22 @@
             "果"
         ],
         "english_name": [
+            "Spicy",
+            "Vegetable",
+            "and",
+            "Nut",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "素菜",
+            "飽"
+        ],
+        "english_name": [
             "Pan",
             "Fried",
             "Lo",
@@ -272,18 +272,6 @@
             "Bun"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "香煎",
-            "素菜",
-            "飽"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

@@ -1,0 +1,41 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜泥白肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "boiled",
+            "pork",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "mashed",
+                "garlic",
+                "N"
+            ],
+            [
+                "TASTING",
+                "VERY"
+            ],
+            [
+                "DELICIOUS"
+            ]
+        ]
+    }
+]

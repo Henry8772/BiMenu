@@ -1,0 +1,199 @@
+[
+    {
+        "chinese_name": [
+            "主菜"
+        ],
+        "english_name": [
+            "Main",
+            "Course"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑",
+            "蒜",
+            "燒",
+            "汁",
+            "和",
+            "牛"
+        ],
+        "english_name": [
+            "A5",
+            "150g"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "和",
+            "牛"
+        ],
+        "english_name": [
+            "Grilled",
+            "A5",
+            "Wagyu",
+            "eef",
+            "Fillet",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Teriyaki",
+                "Sauce",
+                "with",
+                "Black",
+                "Garlic",
+                "150g"
+            ],
+            [
+                "A5",
+                "150g"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "羊仔",
+            "扒"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "A5",
+            "Wagyu",
+            "Beef",
+            "Fillet",
+            "150g"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖哩",
+            "羊",
+            "膝"
+        ],
+        "english_name": [
+            "Wok",
+            "Grilled",
+            "Baby",
+            "Lamb",
+            "Chop",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鹹蛋",
+            "蒸",
+            "黑",
+            "豚",
+            "肉餅"
+        ],
+        "english_name": [
+            "Braised",
+            "Lamb",
+            "Shank",
+            "in",
+            "Curry",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "冰鎮",
+            "咕嚕",
+            "肉"
+        ],
+        "english_name": [
+            "Steamed",
+            "Minced",
+            "beria",
+            "Pork",
+            "with",
+            "Salted",
+            "Duck",
+            "Egg",
+            "Yolk"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川",
+            "式",
+            "麻辣",
+            "雞丁"
+        ],
+        "english_name": [
+            "Chef's",
+            "Special",
+            "Sweet",
+            "and",
+            "Sour",
+            "Pork",
+            "on",
+            "Dry",
+            "Ice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "麥芽",
+            "雞"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Spicy",
+            "Chicken",
+            "with",
+            "Dried",
+            "Chilli",
+            "and",
+            "Pepper",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "碧綠",
+            "雞柳"
+        ],
+        "english_name": [
+            "Sautéed",
+            "Chicken",
+            "in",
+            "Mildly",
+            "Spicy",
+            "Malt",
+            "Caramel",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

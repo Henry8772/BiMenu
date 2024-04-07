@@ -1,0 +1,74 @@
+[
+    {
+        "chinese_name": [
+            "椒盐",
+            "软",
+            "壳",
+            "蟹"
+        ],
+        "english_name": [
+            "y"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鱿鱼",
+            "塩"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "SQUID"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "排骨",
+            "塩"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "SPARE",
+            "RIBS"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "芦笋"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "平菇",
+            "一",
+            "才"
+        ],
+        "english_name": [
+            "SALT",
+            "AND",
+            "PEPPER",
+            "OYSTER",
+            "MUSHROOM"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "chinese_name": [
+            "麵"
+        ],
+        "english_name": [
+            "Noodle",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "炒麵"
+        ],
+        "english_name": [
+            "Orient",
+            "House",
+            "crispy",
+            "noodle"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "a",
+                "selection",
+                "of",
+                "mixed",
+                "meat",
+                "and",
+                "seafood"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "肉絲",
+            "炒麵"
+        ],
+        "english_name": [
+            "Fried",
+            "crispy",
+            "noodle",
+            "with",
+            "shredded",
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蝦球",
+            "湯麵"
+        ],
+        "english_name": [
+            "King",
+            "prawn",
+            "noodle",
+            "in",
+            "soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鴨",
+            "絲",
+            "炆",
+            "伊",
+            "麵"
+        ],
+        "english_name": [
+            "Braised",
+            "E",
+            "Fun",
+            "noodle",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "shredded",
+                "duck"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "五穀",
+            "炒飯"
+        ],
+        "english_name": [
+            "Chef's",
+            "special",
+            "rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鮮",
+            "炒",
+            "河"
+        ],
+        "english_name": [
+            "Fried",
+            "ho",
+            "fun",
+            "topped",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "seafood",
+                "in",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "牛",
+            "柳河"
+        ],
+        "english_name": [
+            "Teppan",
+            "fried",
+            "ho",
+            "fun",
+            "with",
+            "beef",
+            "fillet",
+            "dry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛柳",
+            "炒",
+            "河"
+        ],
+        "english_name": [
+            "Teppan",
+            "fried",
+            "ho",
+            "fun",
+            "topped",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "beef",
+                "fillet",
+                "in",
+                "black",
+                "bean",
+                "chilli",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "馬來",
+            "炒",
+            "貴",
+            "刁"
+        ],
+        "english_name": [
+            "Char",
+            "Kuay",
+            "Teow"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Teppan",
+                "ho",
+                "fun",
+                "with",
+                "roast",
+                "pork",
+                "shrimp",
+                "and",
+                "curry",
+                "powder"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雪菜",
+            "鴨",
+            "絲",
+            "炆",
+            "米粉"
+        ],
+        "english_name": [
+            "Braised",
+            "vermicelli",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "shredded",
+                "duck",
+                "and",
+                "preserved",
+                "vegetable"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "星",
+            "州",
+            "炒米"
+        ],
+        "english_name": [
+            "g"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Singapore",
+                "vermicelli"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "海鮮",
+            "炒",
+            "烏",
+            "冬"
+        ],
+        "english_name": [
+            "XO",
+            "Fried",
+            "udon",
+            "with",
+            "mixed",
+            "seafood",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "X",
+                "chili",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "湯",
+            "烏",
+            "冬"
+        ],
+        "english_name": [
+            "Seafood",
+            "udon",
+            "in",
+            "soup",
+            "Japanese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "螞蟻",
+            "上",
+            "樹"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "牛",
+            "柳河"
+        ],
+        "english_name": [
+            "Teppan",
+            "fried",
+            "ho",
+            "fun",
+            "with",
+            "beef",
+            "fillet",
+            "dry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "圖片",
+            "只",
+            "作",
+            "參考"
+        ],
+        "english_name": [
+            "Images",
+            "are",
+            "for",
+            "reference",
+            "only"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot",
+                "and",
+                "Spicy",
+                "Contain",
+                "Nuts"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "chinese_name": [
+            "饭",
+            "面"
+        ],
+        "english_name": [
+            "RICE",
+            "NOODLE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "丝苗",
+            "白米"
+        ],
+        "english_name": [
+            "Stamed",
+            "Ricc"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Frid",
+            "Ricc"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "上",
+            "素",
+            "炒饭"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Frid",
+            "Rice",
+            "v"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡丝",
+            "炒饭"
+        ],
+        "english_name": [
+            "Chicken",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "扬州",
+            "炒饭"
+        ],
+        "english_name": [
+            "Special",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒饭"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "瑶柱",
+            "蟹肉",
+            "蛋白",
+            "炒饭"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Choi",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Egg",
+                "White",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "w",
+                "Crab",
+                "Flakes"
+            ],
+            [
+                "w",
+                "Salted",
+                "Pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "咸肉",
+            "菜饭"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Choi",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "w",
+                "Salted",
+                "Pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "腊味",
+            "煲仔饭"
+        ],
+        "english_name": [
+            "Preserved",
+            "Pork",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sausage",
+                "Rice",
+                "Pot"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "炒饭"
+        ],
+        "english_name": [
+            "Seafood",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "w",
+                "XO",
+                "Sauce"
+            ],
+            [
+                "XO"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "上海",
+            "菜",
+            "炒饭"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Choi",
+            "Fried"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "饭",
+            "面"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "图片",
+            "仅供",
+            "参考",
+            "以",
+            "实物",
+            "为准"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -20,8 +20,7 @@
             "Ginger"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -40,8 +39,7 @@
             "Garlic"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -59,8 +57,7 @@
             "Garlic"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -80,8 +77,7 @@
             "shrimps"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -99,8 +95,7 @@
             "Garlic"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -126,8 +121,7 @@
                 "curd",
                 "sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -135,8 +129,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -154,8 +147,7 @@
             "sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -165,19 +157,9 @@
             "通",
             "菜"
         ],
-        "english_name": [
-            "Stir",
-            "Fried",
-            "Tung",
-            "Choi",
-            "in",
-            "Sambal",
-            "Belacan",
-            "Sauce"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -193,8 +175,7 @@
             "Garlic"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -212,8 +193,7 @@
             "Fungus"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -234,8 +214,7 @@
             "Fungus"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -261,7 +240,6 @@
             "person"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

@@ -13,6 +13,35 @@ import nltk
 import json
 from models.word_unit import WordUnit
 
+from sentence_transformers import SentenceTransformer, util
+
+# Initialize the model, using a pre-trained transformer. This only needs to be done once.
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+def calculate_semantic_correlation(text1, text2, penalization_factor=0):
+    """
+    Calculate semantic correlation between two pieces of text.
+
+    Args:
+    text1 (str): First text to be compared.
+    text2 (str): Second text to be compared.
+
+    Returns:
+    float: A semantic correlation score between 0 and 1, where 1 means very high similarity.
+    """
+    if text1.strip() == "" or text2.strip() == "":
+        # Return a penalized score for cases with empty text
+        return penalization_factor
+    # Generate the embeddings for both texts
+    embedding1 = model.encode(text1, convert_to_tensor=True)
+    embedding2 = model.encode(text2, convert_to_tensor=True)
+    
+    # Compute cosine similarity between the embeddings
+    cosine_scores = util.pytorch_cos_sim(embedding1, embedding2)
+    
+    # Return the cosine similarity score as a float
+    return cosine_scores.item()
+
 
 nlp_en = None
 nlp_zh = None

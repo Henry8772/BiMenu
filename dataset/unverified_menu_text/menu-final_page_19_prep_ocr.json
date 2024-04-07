@@ -17,8 +17,7 @@
             "Garlic"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -34,8 +33,7 @@
             "Aubergine"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -60,8 +58,7 @@
                 "chilli",
                 "sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -69,8 +66,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -93,8 +89,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -115,37 +110,13 @@
             "Bamboo"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "炒",
             "地",
             "三鲜"
-        ],
-        "english_name": [
-            "Stir",
-            "Fried",
-            "Potato",
-            "Aubergine",
-            "and",
-            "Green",
-            "Pepper",
-            "in",
-            "Sweet",
-            "Soy",
-            "Sauce"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "上",
-            "汤娃",
-            "娃菜"
         ],
         "english_name": [
             "Chinese",
@@ -158,8 +129,7 @@
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -179,8 +149,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -200,7 +169,6 @@
             "customers"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

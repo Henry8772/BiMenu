@@ -7,18 +7,12 @@
             "豆腐"
         ],
         "english_name": [
-            "Sichuan",
-            "Mrs",
-            "Spotty's",
-            "Recipe",
-            "Beancurd",
-            "with",
-            "Minced",
-            "Pork"
+            "Live",
+            "Seafood",
+            "Ltd"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -26,16 +20,12 @@
             "金针菇"
         ],
         "english_name": [
-            "Steamed",
-            "Enoki",
-            "Mushrooms",
             "with",
-            "Pickled",
-            "Chilli"
+            "Minced",
+            "Pork"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -43,14 +33,27 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "红烧肉",
             "末",
             "豆腐"
+        ],
+        "english_name": [
+            "Live",
+            "Seafood",
+            "Ltd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "四季豆"
         ],
         "english_name": [
             "Deep",
@@ -61,14 +64,15 @@
             "pork"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "干",
-            "煸",
-            "四季豆"
+            "酸菜",
+            "白",
+            "肉冻",
+            "豆腐",
+            "煲"
         ],
         "english_name": [
             "Stired",
@@ -82,14 +86,13 @@
             "Pork"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "酸菜",
-            "白",
-            "肉冻",
+            "砂锅",
+            "粉丝",
+            "白菜",
             "豆腐",
             "煲"
         ],
@@ -106,28 +109,7 @@
             "Stew"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "砂锅",
-            "粉丝",
-            "白菜",
-            "豆腐",
-            "煲"
-        ],
-        "english_name": [
-            "Beancurd",
-            "Chinese",
-            "Cabbage",
-            "and",
-            "Vermicelli",
-            "Casserole"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -139,18 +121,26 @@
             "费"
         ],
         "english_name": [
-            "Corkage",
-            "charge",
-            "applies",
-            "if",
-            "you",
-            "bring",
-            "your",
-            "own",
-            "wines"
+            "Beancurd",
+            "Chinese",
+            "Cabbage",
+            "and",
+            "Vermicelli",
+            "Casserole"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Corkage",
+                "charge",
+                "applies",
+                "if",
+                "you",
+                "bring",
+                "your",
+                "own",
+                "wines"
+            ]
+        ]
     }
 ]

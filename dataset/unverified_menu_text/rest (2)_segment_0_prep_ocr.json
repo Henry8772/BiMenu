@@ -1,0 +1,71 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "TAS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "HONGU",
+                "NOLE",
+                "BAR"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "頭",
+            "盤"
+        ],
+        "english_name": [
+            "TAS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Appetizer"
+            ],
+            [
+                "A"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "香茅草",
+            "烤",
+            "鸡翅"
+        ],
+        "english_name": [
+            "Chicken",
+            "Wings",
+            "Baked",
+            "With",
+            "Lemongrass"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A12"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "南瓜",
+            "饼"
+        ],
+        "english_name": [
+            "Pumpkin",
+            "Pie",
+            "shanghai",
+            "style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

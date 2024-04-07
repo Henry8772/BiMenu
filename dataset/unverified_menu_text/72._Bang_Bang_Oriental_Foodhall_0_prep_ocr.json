@@ -1,0 +1,299 @@
+[
+    {
+        "chinese_name": [
+            "椒鹽",
+            "或",
+            "辣椒",
+            "雞飯",
+            "麵"
+        ],
+        "english_name": [
+            "BANG",
+            "BANG",
+            "HOT",
+            "SPICY"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "CHICKEN",
+                "WITH"
+            ],
+            [
+                "RICE",
+                "OR",
+                "NOODLES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "咕噜",
+            "或",
+            "宮保",
+            "雞飯",
+            "麵"
+        ],
+        "english_name": [
+            "SWEET",
+            "and",
+            "SOUR",
+            "OR"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "NOODLES",
+                "OR",
+                "RICE"
+            ],
+            [
+                "N"
+            ],
+            [
+                "G"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣",
+            "雞",
+            "扒"
+        ],
+        "english_name": [
+            "SPICY",
+            "CHICKEN",
+            "THIGH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "WITH",
+                "SALAD"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "乾",
+            "撈",
+            "肉",
+            "板",
+            "麵",
+            "湯麵"
+        ],
+        "english_name": [
+            "MINCED",
+            "MEAT"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "NOODLES",
+                "OR",
+                "SOUP",
+                "BASE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "五",
+            "寶",
+            "豆腐",
+            "湯麵"
+        ],
+        "english_name": [
+            "FIVE",
+            "TREASURE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "NOODLES",
+                "IN",
+                "BASE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雜",
+            "菜炒",
+            "麵"
+        ],
+        "english_name": [
+            "FRIED",
+            "NOODLE",
+            "WITH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "MIXED",
+                "VEGETABLES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣",
+            "汁",
+            "鮮魷"
+        ],
+        "english_name": [
+            "FRIED",
+            "SQUID",
+            "WITH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "HOT",
+                "and",
+                "SPICY",
+                "SAUCE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芋頭",
+            "扣肉",
+            "飯"
+        ],
+        "english_name": [
+            "STEWED",
+            "BELLY",
+            "PORK",
+            "and",
+            "YAM"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "WITH",
+                "RICE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "蝦",
+            "飯",
+            "麵"
+        ],
+        "english_name": [
+            "SPICY",
+            "KING",
+            "PRAWN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "RICE",
+                "OR",
+                "NOODLES"
+            ],
+            [
+                "MIXED",
+                "SEAFOOD",
+                "SOUP"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "辣椒",
+            "雞腿"
+        ],
+        "english_name": [
+            "FRIED",
+            "CHICKEN",
+            "WITH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SALT",
+                "and",
+                "PEPPER",
+                "OR"
+            ],
+            [
+                "SPICY",
+                "CHILLI",
+                "SAUCE"
+            ],
+            [
+                "PLAIN",
+                "FRIED",
+                "NOODLES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "辣",
+            "汁",
+            "牛肉",
+            "飯",
+            "麵"
+        ],
+        "english_name": [
+            "BEEF",
+            "and",
+            "BLACK",
+            "PEPPER",
+            "OR"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SPICY",
+                "SAUCE",
+                "WITH"
+            ],
+            [
+                "RICE",
+                "OR",
+                "NOODLES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "海鮮",
+            "湯麵"
+        ],
+        "english_name": [
+            "MIXED",
+            "SEAFOOD",
+            "SOUP"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "WITH",
+                "NOODLE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "淨",
+            "炒麵"
+        ],
+        "english_name": [
+            "PLAIN",
+            "FRIED",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

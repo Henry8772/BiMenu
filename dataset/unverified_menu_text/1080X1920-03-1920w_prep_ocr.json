@@ -1,0 +1,576 @@
+[
+    {
+        "chinese_name": [
+            "圖片",
+            "只供",
+            "參考"
+        ],
+        "english_name": [
+            "Al",
+            "Pictures",
+            "shown",
+            "ore",
+            "for",
+            "lustrtion",
+            "purpose",
+            "only"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "S4"
+            ],
+            [
+                "Cream",
+                "of",
+                "Mushroom",
+                "Soup"
+            ],
+            [
+                "A10"
+            ],
+            [
+                "Japanese",
+                "Fried",
+                "Chicken",
+                "Karaage"
+            ],
+            [
+                "A11"
+            ],
+            [
+                "A12"
+            ],
+            [
+                "Korean",
+                "Fried",
+                "Chicken",
+                "Diced",
+                "in"
+            ],
+            [
+                "A13"
+            ],
+            [
+                "A14"
+            ],
+            [
+                "Deep",
+                "Fried",
+                "Pork",
+                "Chop",
+                "with",
+                "Chips"
+            ],
+            [
+                "A15"
+            ],
+            [
+                "Deep",
+                "Fried",
+                "Chicken",
+                "Leg",
+                "with",
+                "Chips"
+            ],
+            [
+                "A16"
+            ],
+            [
+                "Shared",
+                "Starter",
+                "Set",
+                "Minimum",
+                "for",
+                "People"
+            ],
+            [
+                "Spring",
+                "Roll",
+                "Ribs",
+                "Prawn",
+                "on",
+                "Toast",
+                "Prawn",
+                "Cracker"
+            ],
+            [
+                "per",
+                "person"
+            ],
+            [
+                "A17"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "湯類"
+        ],
+        "english_name": [
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "忌廉",
+            "蘑菇",
+            "湯"
+        ],
+        "english_name": [
+            "Cream",
+            "of",
+            "Mushroom",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "羹"
+        ],
+        "english_name": [
+            "S1"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot",
+                "and",
+                "Sour",
+                "Broth"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雞",
+            "蓉",
+            "栗",
+            "米",
+            "羹"
+        ],
+        "english_name": [
+            "Creamy",
+            "Sweet",
+            "Corn",
+            "with",
+            "Minced",
+            "Chicken",
+            "Broth"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雲吞",
+            "湯"
+        ],
+        "english_name": [
+            "Wonton",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "羅宋湯"
+        ],
+        "english_name": [
+            "S3"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "滋味",
+            "小食"
+        ],
+        "english_name": [
+            "Appetizer"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "西多士"
+        ],
+        "english_name": [
+            "A1"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hong",
+                "Kong",
+                "Style",
+                "French",
+                "Toast"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "炸雞",
+            "塊"
+        ],
+        "english_name": [
+            "Japanese",
+            "Fried",
+            "Chicken",
+            "Karaage"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸",
+            "牛肉",
+            "炒蛋",
+            "多",
+            "士"
+        ],
+        "english_name": [
+            "A2"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Toast",
+                "with",
+                "Corned",
+                "Beef",
+                "Fried",
+                "Egg"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "煎",
+            "餃子"
+        ],
+        "english_name": [
+            "Gyoza"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "韓式",
+            "辣",
+            "炸雞",
+            "粒"
+        ],
+        "english_name": [
+            "Korean",
+            "Fried",
+            "Chicken",
+            "Diced",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spicy",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "土匪",
+            "雞翼"
+        ],
+        "english_name": [
+            "A3"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Signature",
+                "Bandit",
+                "Chicken",
+                "Wings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "風沙",
+            "雞翼"
+        ],
+        "english_name": [
+            "A4"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Garlic",
+                "and",
+                "Blown",
+                "Chicken",
+                "Wings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "韓式",
+            "海鮮",
+            "煎餅"
+        ],
+        "english_name": [
+            "Korean",
+            "Seafood",
+            "Pancake"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [
+            "A5"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Quarter"
+            ],
+            [
+                "Boneless",
+                "Aromatic",
+                "Crispy",
+                "Duck"
+            ],
+            [
+                "Half"
+            ],
+            [
+                "Served",
+                "with",
+                "pancakes",
+                "and",
+                "cucumbers",
+                "spring",
+                "onions",
+                "and"
+            ],
+            [
+                "Whole"
+            ],
+            [
+                "Zhou",
+                "Sin",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "脆",
+            "炸",
+            "豬扒",
+            "配",
+            "薯條"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Pork",
+            "Chop",
+            "with",
+            "Chips"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "脆",
+            "炸雞",
+            "脾",
+            "配",
+            "薯條"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Chicken",
+            "Leg",
+            "with",
+            "Chips"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "雞",
+            "串"
+        ],
+        "english_name": [
+            "A6"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Skewered",
+                "Chicken",
+                "with",
+                "Satay",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小食",
+            "拼盤",
+            "二人",
+            "起"
+        ],
+        "english_name": [
+            "Shared",
+            "Starter",
+            "Set",
+            "Minimum",
+            "for",
+            "People"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spring",
+                "Roll",
+                "Ribs",
+                "Prawn",
+                "on",
+                "Toast",
+                "Prawn",
+                "Cracker"
+            ],
+            [
+                "Chicken",
+                "Wings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "多",
+            "士"
+        ],
+        "english_name": [
+            "A7"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Prawn",
+                "Toast"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "排骨"
+        ],
+        "english_name": [
+            "A8"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Ribs"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雪白",
+            "蝦片"
+        ],
+        "english_name": [
+            "Prawn",
+            "Cracker"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "紅燒",
+            "排骨"
+        ],
+        "english_name": [
+            "A9"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Honey",
+                "Glazed",
+                "Ribs"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "價",
+            "加",
+            "一",
+            "服務",
+            "費",
+            "價錢",
+            "已",
+            "包含",
+            "外賣",
+            "盒"
+        ],
+        "english_name": [
+            "VAT"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Subject",
+                "to",
+                "service",
+                "charge",
+                "ll",
+                "Prices",
+                "include",
+                "VA",
+                "Takeaway",
+                "Container"
+            ]
+        ]
+    }
+]

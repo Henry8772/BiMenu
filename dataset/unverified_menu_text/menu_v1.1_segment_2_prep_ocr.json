@@ -1,0 +1,418 @@
+[
+    {
+        "chinese_name": [
+            "干",
+            "拌面"
+        ],
+        "english_name": [
+            "DRY",
+            "Mixed",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干",
+            "拌",
+            "豌",
+            "杂面"
+        ],
+        "english_name": [
+            "Wan",
+            "Za",
+            "Mian",
+            "Minced",
+            "Pork",
+            "ellow"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Peas",
+                "With",
+                "House",
+                "Chilli",
+                "Oil"
+            ],
+            [
+                "can",
+                "be",
+                "changed",
+                "to",
+                "Beef",
+                "lextra",
+                "or",
+                "Tofu"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "椒",
+            "杂",
+            "酱",
+            "面"
+        ],
+        "english_name": [
+            "Su",
+            "Jiao",
+            "Mian",
+            "Minced",
+            "Pork",
+            "Sesame"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sauce",
+                "House",
+                "Chill",
+                "Oil"
+            ],
+            [
+                "can",
+                "be",
+                "changed",
+                "to",
+                "Beef",
+                "lextra",
+                "or",
+                "Tofu"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "双",
+            "椒",
+            "拌面"
+        ],
+        "english_name": [
+            "Twin",
+            "Chilli",
+            "Mixed",
+            "Noodle",
+            "Pickled",
+            "Red"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chilli",
+                "Grilled",
+                "Green",
+                "Chilli",
+                "Minced",
+                "Pork"
+            ],
+            [
+                "can",
+                "be",
+                "changed",
+                "to",
+                "Beef",
+                "lextra",
+                "or",
+                "Tofu"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "宜宾",
+            "燃",
+            "面"
+        ],
+        "english_name": [
+            "Burning",
+            "Noodles",
+            "Preserved"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vegetables",
+                "Crushed",
+                "Peanuts"
+            ],
+            [
+                "can",
+                "be",
+                "changed",
+                "to",
+                "Beef",
+                "lextra",
+                "or",
+                "Tofu"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "葱油",
+            "拌面"
+        ],
+        "english_name": [
+            "Scallion",
+            "Oil",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "With",
+                "Soysauce"
+            ],
+            [
+                "can",
+                "be",
+                "changed",
+                "to",
+                "Beef",
+                "lextra",
+                "or",
+                "Tofu"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干",
+            "拌",
+            "抄手"
+        ],
+        "english_name": [
+            "Oil",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "凉面"
+        ],
+        "english_name": [
+            "Szechuan",
+            "Cold",
+            "Chilli",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "炒面"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Noodle",
+            "With",
+            "Char",
+            "Siu",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杂",
+            "菜炒",
+            "面"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Noodle",
+            "With",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "生",
+            "椒",
+            "牛肉",
+            "拌面"
+        ],
+        "english_name": [
+            "Beef",
+            "cubes",
+            "with",
+            "pickled",
+            "chilli",
+            "and",
+            "Fresh"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chopped",
+                "Red",
+                "Chilli"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "汤面",
+            "米线"
+        ],
+        "english_name": [
+            "Soup",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "竹笋",
+            "牛肉",
+            "面",
+            "米线",
+            "户"
+        ],
+        "english_name": [
+            "Spicy",
+            "Stewed",
+            "Beef",
+            "Brisket",
+            "With",
+            "Bamboo"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shoots"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "泡椒",
+            "鸡杂",
+            "面"
+        ],
+        "english_name": [
+            "Chicken",
+            "Giblets",
+            "With",
+            "Pickled",
+            "Chillis"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Served",
+                "With",
+                "Soup",
+                "Noodle"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "酸辣",
+            "粉"
+        ],
+        "english_name": [
+            "Sweet",
+            "Potato",
+            "Vermicelli",
+            "In",
+            "Spicy",
+            "And"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sour",
+                "Soup",
+                "With",
+                "Or",
+                "Without",
+                "Pork",
+                "Mince"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "番茄",
+            "煎蛋",
+            "面"
+        ],
+        "english_name": [
+            "Fresh",
+            "Tomato",
+            "Soup",
+            "Noodle",
+            "With",
+            "Crispy"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "Egg"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "粉蒸",
+            "牛肉",
+            "酸菜",
+            "米线"
+        ],
+        "english_name": [
+            "House",
+            "Special",
+            "Rice",
+            "Noodle",
+            "With",
+            "Steamed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef",
+                "Served",
+                "With",
+                "Pickled",
+                "Vegetable"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "红油",
+            "抄手"
+        ],
+        "english_name": [
+            "Pork",
+            "Wonton",
+            "In",
+            "Spicy",
+            "Red",
+            "Chilli",
+            "Oil",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

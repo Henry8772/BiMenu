@@ -1,0 +1,182 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "頭",
+            "盤"
+        ],
+        "english_name": [
+            "Appetizer"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "时",
+            "菜",
+            "猪肉",
+            "锅贴",
+            "水饺"
+        ],
+        "english_name": [
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Guotie",
+                "Dumpling"
+            ],
+            [
+                "Pan",
+                "fried",
+                "Sangh",
+                "style",
+                "pork",
+                "and"
+            ],
+            [
+                "chinese",
+                "leaf",
+                "dupling",
+                "ith",
+                "ginger"
+            ],
+            [
+                "and",
+                "coriander",
+                "soy",
+                "sance"
+            ],
+            [
+                "A14"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鸡肉",
+            "锅贴",
+            "水饺"
+        ],
+        "english_name": [
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Guotie"
+            ],
+            [
+                "Dumpling"
+            ],
+            [
+                "fried",
+                "cnt",
+                "style"
+            ],
+            [
+                "chicken",
+                "dping",
+                "with",
+                "inger"
+            ],
+            [
+                "and",
+                "coriander",
+                "s"
+            ],
+            [
+                "A15"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "东北",
+            "三鲜",
+            "锅贴",
+            "水饺"
+        ],
+        "english_name": [
+            "Leek",
+            "prawn",
+            "and",
+            "Minced",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dumpling"
+            ],
+            [
+                "Guotie"
+            ],
+            [
+                "Traditional",
+                "poched",
+                "pr"
+            ],
+            [
+                "dpling",
+                "ith",
+                "vegetables",
+                "frsh"
+            ],
+            [
+                "TASTING",
+                "VERY"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鱿鱼"
+        ],
+        "english_name": [
+            "Salt",
+            "And",
+            "Chilli",
+            "Squid",
+            "Braised",
+            "Spare",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫廷",
+            "酱",
+            "烤",
+            "骨"
+        ],
+        "english_name": [
+            "Salt",
+            "And",
+            "Chilli",
+            "Squid",
+            "Braised",
+            "Spare",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

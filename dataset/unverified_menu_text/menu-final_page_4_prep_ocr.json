@@ -5,8 +5,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -29,17 +28,18 @@
                 "melon",
                 "soup"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "时价"
         ],
-        "english_name": [],
+        "english_name": [
+            "Market",
+            "Price"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -62,17 +62,18 @@
                 "Market",
                 "Price"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "时价"
         ],
-        "english_name": [],
+        "english_name": [
+            "Market",
+            "Price"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -91,17 +92,19 @@
             "soup",
             "for",
             "people",
-            "need",
-            "to",
-            "book",
-            "two",
-            "days",
-            "in",
-            "advance"
+            "need"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "to",
+                "book",
+                "two",
+                "days",
+                "in",
+                "advance"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -109,8 +112,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -124,20 +126,21 @@
             "seafood",
             "with",
             "winter",
-            "melon",
-            "Assorted",
-            "seafood",
-            "soup",
-            "with",
-            "tofu"
+            "melon"
         ],
         "chinese_description": [],
         "english_description": [
             [
                 "soup"
+            ],
+            [
+                "Assorted",
+                "seafood",
+                "soup",
+                "with",
+                "tofu"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -147,8 +150,7 @@
             "erperson"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -174,7 +176,6 @@
             "person"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

@@ -8,6 +8,19 @@
             "酸辣"
         ],
         "english_name": [
+            "Live",
+            "Seafood",
+            "Ltd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [
             "Stir",
             "Fried",
             "Frog's",
@@ -24,13 +37,26 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "辣子",
-            "鸡"
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "野",
+            "山椒",
+            "炒鸡",
+            "胗",
+            "子",
+            "然",
+            "鸡",
+            "胗"
         ],
         "english_name": [
             "Dry",
@@ -50,28 +76,12 @@
                 "dried",
                 "chilli"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
-            "海"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "野",
-            "山椒",
-            "炒鸡",
-            "胗",
-            "子",
-            "然",
-            "鸡",
-            "胗"
+            "冒",
+            "菜"
         ],
         "english_name": [
             "Stir",
@@ -85,13 +95,15 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "冒",
-            "菜"
+            "葱爆",
+            "羊肉",
+            "子",
+            "然",
+            "羊肉"
         ],
         "english_name": [
             "Spicy",
@@ -105,15 +117,11 @@
             "Vegetables"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "葱爆",
-            "羊肉",
-            "子",
-            "然",
+            "水煮",
             "羊肉"
         ],
         "english_name": [
@@ -128,13 +136,15 @@
             "Cumin"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "水煮",
-            "羊肉"
+            "葱爆",
+            "牛肉",
+            "子",
+            "然",
+            "牛肉"
         ],
         "english_name": [
             "Spicy",
@@ -146,16 +156,16 @@
             "Oil"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "葱爆",
-            "牛肉",
-            "子",
-            "然",
-            "牛肉"
+            "自带",
+            "酒水",
+            "加收",
+            "开",
+            "瓶",
+            "费"
         ],
         "english_name": [
             "Sti",
@@ -169,31 +179,18 @@
             "Cumin"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "自带",
-            "酒水",
-            "加收",
-            "开",
-            "瓶",
-            "费"
-        ],
-        "english_name": [
-            "Corkage",
-            "charge",
-            "applies",
-            "if",
-            "you",
-            "bring",
-            "your",
-            "own",
-            "wines"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Corkage",
+                "charge",
+                "applies",
+                "if",
+                "you",
+                "bring",
+                "your",
+                "own",
+                "wines"
+            ]
+        ]
     }
 ]

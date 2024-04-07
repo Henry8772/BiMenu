@@ -1,0 +1,515 @@
+[
+    {
+        "chinese_name": [
+            "粉麵",
+            "類"
+        ],
+        "english_name": [
+            "NOODLE",
+            "and",
+            "HO",
+            "FUN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "牛",
+            "河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "with",
+            "Ho",
+            "Fun",
+            "Dry"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fresh",
+                "Juice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "牛腩",
+            "炒",
+            "河",
+            "麵"
+        ],
+        "english_name": [
+            "Beef",
+            "Flank",
+            "with",
+            "Ho",
+            "Fun",
+            "or",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雜",
+            "會",
+            "炒",
+            "河",
+            "麵"
+        ],
+        "english_name": [
+            "Mixed",
+            "Meat",
+            "with",
+            "Ho",
+            "Fun",
+            "or",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛肉",
+            "炒",
+            "河",
+            "麵"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Green",
+            "Pepper",
+            "in",
+            "Black",
+            "Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sauce",
+                "with",
+                "Ho",
+                "Fun",
+                "or",
+                "Noodles"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "星洲",
+            "炒米"
+        ],
+        "english_name": [
+            "Singapore",
+            "Style",
+            "Fried",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "三鮮",
+            "炒",
+            "河",
+            "麵"
+        ],
+        "english_name": [
+            "Mixed",
+            "Seafood",
+            "with",
+            "Ho",
+            "Fun",
+            "or",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蝦球",
+            "炒",
+            "河",
+            "麵"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "with",
+            "Ho",
+            "Fun",
+            "or",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "肉絲",
+            "炒",
+            "河",
+            "麵"
+        ],
+        "english_name": [
+            "Apple",
+            "Juice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shredded",
+                "Pork",
+                "with",
+                "Ho",
+                "Fun",
+                "or",
+                "Noodles"
+            ],
+            [
+                "Orange",
+                "Juice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雪菜",
+            "鴨",
+            "絲",
+            "湯",
+            "炆",
+            "米"
+        ],
+        "english_name": [
+            "Mix",
+            "Juice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shredded",
+                "Duck",
+                "with",
+                "Preserved",
+                "Vegetables"
+            ],
+            [
+                "Apple",
+                "Orange",
+                "and",
+                "Carrot"
+            ],
+            [
+                "YI",
+                "BAN"
+            ],
+            [
+                "with",
+                "Noodles",
+                "in",
+                "Soup",
+                "or",
+                "Braised",
+                "with",
+                "Vermicelli"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雲吞",
+            "湯",
+            "撈麵"
+        ],
+        "english_name": [
+            "YI",
+            "BAN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Won",
+                "Tun",
+                "with",
+                "Noodle",
+                "in",
+                "Soup",
+                "or",
+                "Lo",
+                "mein"
+            ],
+            [
+                "CHINESE",
+                "RESTAURANT"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "三鮮",
+            "炒",
+            "烏",
+            "冬"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mixed",
+                "Seafood",
+                "with",
+                "Udon"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "三鮮",
+            "伊",
+            "麵"
+        ],
+        "english_name": [
+            "Mixed",
+            "Seafood",
+            "with",
+            "Yee",
+            "Min"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "三",
+            "燒飯"
+        ],
+        "english_name": [
+            "BBQ",
+            "Mixed",
+            "Meat",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸魚",
+            "雞",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Chicken",
+            "and",
+            "Salt",
+            "Fish",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福建",
+            "炒飯"
+        ],
+        "english_name": [
+            "Vietnamese"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "Rice",
+                "Fu",
+                "Jin",
+                "style"
+            ],
+            [
+                "Ice",
+                "Coffee"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "艇仔粥"
+        ],
+        "english_name": [
+            "CONGEE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "艇仔粥"
+        ],
+        "english_name": [
+            "Savoury",
+            "Meat",
+            "Congee"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "皮蛋瘦肉粥"
+        ],
+        "english_name": [
+            "Lean",
+            "Pork",
+            "with",
+            "Preserved",
+            "Egg",
+            "Congee"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "粥"
+        ],
+        "english_name": [
+            "Minced",
+            "Beef",
+            "Congee"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vietnamese"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "金銀",
+            "火",
+            "鴨",
+            "粥"
+        ],
+        "english_name": [
+            "Lemon",
+            "Juice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shredded",
+                "Duck",
+                "Congee"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "魚片",
+            "粥"
+        ],
+        "english_name": [
+            "Shredded",
+            "Fish",
+            "Congee"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "特色",
+            "美",
+            "點"
+        ],
+        "english_name": [
+            "SPECIAL",
+            "DIM",
+            "SUM"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "海蜇",
+            "鴨舌"
+        ],
+        "english_name": [
+            "Spicy",
+            "jelly",
+            "Fish",
+            "with",
+            "Duck",
+            "Tongue"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海蜇",
+            "薰",
+            "蹄"
+        ],
+        "english_name": [
+            "Cold",
+            "Marinated",
+            "Pork",
+            "with",
+            "Jelly",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dim",
+                "Sum",
+                "Menu"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "乳豬",
+            "每份"
+        ],
+        "english_name": [
+            "Suckling",
+            "Pigs",
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "all",
+                "price",
+                "are",
+                "inclusive",
+                "of",
+                "VA"
+            ]
+        ]
+    }
+]

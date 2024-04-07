@@ -8,8 +8,7 @@
             "COOLDISHES"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -17,16 +16,9 @@
             "式",
             "烧鸭"
         ],
-        "english_name": [
-            "Roast",
-            "Duck",
-            "Hong",
-            "Kong",
-            "Style"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -39,8 +31,7 @@
             "Whole"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -55,8 +46,7 @@
             "Oil"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -70,8 +60,7 @@
             "Chicken"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -87,8 +76,7 @@
             "Oil"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -102,31 +90,24 @@
             "Salad"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "宫保鸡丁"
         ],
         "english_name": [
-            "Kong",
-            "Po",
-            "Chicken"
+            "ChongQing",
+            "Style"
         ],
         "chinese_description": [],
         "english_description": [
-            [
-                "ChongQing",
-                "Style"
-            ],
             [
                 "Chicken",
                 "with",
                 "Chilli"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -138,8 +119,7 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -155,8 +135,7 @@
             "Chilli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -172,8 +151,7 @@
             "Chestnuts"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -187,21 +165,15 @@
             "Chicken"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "宫保鸡丁"
         ],
-        "english_name": [
-            "Kong",
-            "Po",
-            "Chicken"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -210,8 +182,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -224,8 +195,15 @@
             "Stew"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Sliced",
+                "Fish",
+                "with",
+                "Chilli",
+                "Oil"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -237,8 +215,7 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -253,24 +230,16 @@
             "Oil"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "水煮",
             "鱼"
         ],
-        "english_name": [
-            "Sliced",
-            "Fish",
-            "with",
-            "Chilli",
-            "Oil"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -284,8 +253,7 @@
             "Cabbage"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -302,8 +270,7 @@
             "Onion"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -317,8 +284,7 @@
             "Squid"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -340,7 +306,6 @@
             [
                 "Sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

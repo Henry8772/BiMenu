@@ -1,0 +1,235 @@
+[
+    {
+        "chinese_name": [
+            "汤"
+        ],
+        "english_name": [
+            "SOUPS"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "的"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋"
+        ],
+        "english_name": [
+            "Sour"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [
+            "Sour"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seafood"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "明"
+        ],
+        "english_name": [
+            "Day"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋"
+        ],
+        "english_name": [
+            "Sour"
+        ],
+        "chinese_description": [
+            [
+                "酸"
+            ]
+        ],
+        "english_description": [
+            [
+                "Vegetarian"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "高"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "老"
+        ],
+        "english_name": [
+            "Cantonese"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Day"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "火"
+        ],
+        "english_name": [
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "米"
+        ],
+        "english_name": [
+            "Seafood"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Soup"
+            ],
+            [
+                "Hot"
+            ],
+            [
+                "and"
+            ],
+            [
+                "Sweet"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸"
+        ],
+        "english_name": [
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot"
+            ],
+            [
+                "v"
+            ],
+            [
+                "and"
+            ],
+            [
+                "of"
+            ],
+            [
+                "the"
+            ],
+            [
+                "Sour"
+            ],
+            [
+                "Lobster"
+            ],
+            [
+                "Chicken"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "龙"
+        ],
+        "english_name": [
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Soup"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蟹肉"
+        ],
+        "english_name": [
+            "Corn"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Soup"
+            ],
+            [
+                "Crab",
+                "meat"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鸡"
+        ],
+        "english_name": [
+            "chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "片",
+            "供",
+            "考",
+            "出品",
+            "以",
+            "实物"
+        ],
+        "english_name": [
+            "Hot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot"
+            ],
+            [
+                "and"
+            ],
+            [
+                "and"
+            ],
+            [
+                "Sour"
+            ],
+            [
+                "Soup"
+            ]
+        ]
+    }
+]

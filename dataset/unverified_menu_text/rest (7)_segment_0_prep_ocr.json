@@ -1,0 +1,77 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "點心"
+        ],
+        "english_name": [
+            "Dim",
+            "SUM"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ADI"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "晶莹",
+            "鲜虾",
+            "饺"
+        ],
+        "english_name": [
+            "umplings"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "AD2"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蠔",
+            "皇",
+            "叉烧包"
+        ],
+        "english_name": [
+            "Cha",
+            "Siu",
+            "Bun"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "AD3"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "奶",
+            "黄",
+            "包"
+        ],
+        "english_name": [
+            "Egg",
+            "Custard"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

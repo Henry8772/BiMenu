@@ -1,0 +1,94 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NOOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "點心"
+        ],
+        "english_name": [
+            "Dim",
+            "SUM"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "糯米",
+            "鸡"
+        ],
+        "english_name": [
+            "Sticky",
+            "Rice",
+            "in",
+            "tus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Leaf",
+                "with",
+                "Chicken"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "墨鱼",
+            "饼"
+        ],
+        "english_name": [
+            "Minced",
+            "Octopus",
+            "Cakes"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "AD10"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蟹黄",
+            "烧麦"
+        ],
+        "english_name": [
+            "Sui",
+            "Mai",
+            "Meat",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "AD"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "火爆",
+            "鱿鱼",
+            "串"
+        ],
+        "english_name": [
+            "Squid",
+            "skewer"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

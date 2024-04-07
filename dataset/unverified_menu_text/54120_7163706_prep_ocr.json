@@ -1,0 +1,136 @@
+[
+    {
+        "chinese_name": [
+            "小炒",
+            "称心",
+            "菜"
+        ],
+        "english_name": [
+            "HOME",
+            "STYLE",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香菜",
+            "牛",
+            "羊肉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "Lamb",
+            "in",
+            "Coriander"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "牛",
+            "羊肉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "Lamb",
+            "in",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "猪",
+            "牛",
+            "羊肉"
+        ],
+        "english_name": [
+            "Boiled",
+            "Pork",
+            "Beef",
+            "Lamb",
+            "Slices",
+            "in",
+            "a",
+            "Fiery",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香",
+            "回锅肉"
+        ],
+        "english_name": [
+            "Back",
+            "in",
+            "the",
+            "pot",
+            "Pork",
+            "with",
+            "Smoked",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "牛腩"
+        ],
+        "english_name": [
+            "Brasied",
+            "Beef",
+            "in",
+            "Hot",
+            "and",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mapo",
+                "Tofu",
+                "Fresh",
+                "Beancurd"
+            ],
+            [
+                "in",
+                "Hot",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [
+            "Dry",
+            "Fried",
+            "Diced",
+            "Spring"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,456 @@
+[
+    {
+        "chinese_name": [
+            "鸡",
+            "类"
+        ],
+        "english_name": [
+            "Chicken",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "炒鸡",
+            "丁"
+        ],
+        "english_name": [
+            "Stir",
+            "fried",
+            "Chicken",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "炒鸡",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Green",
+            "Pepper",
+            "t",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "果汁",
+            "甜酸",
+            "鸡"
+        ],
+        "english_name": [
+            "Sweet",
+            "t",
+            "Sour",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "鸡",
+            "球"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Satay",
+            "and",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蜜糖",
+            "柠檬",
+            "鸡"
+        ],
+        "english_name": [
+            "Lemon",
+            "and",
+            "Honey",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫保鸡丁"
+        ],
+        "english_name": [
+            "Chilli",
+            "Chicken",
+            "Kunpo",
+            "Style",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "鸡"
+        ],
+        "english_name": [
+            "Chilli",
+            "Sichuan",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "京",
+            "葱",
+            "鸡",
+            "球"
+        ],
+        "english_name": [
+            "Chilli",
+            "Chicken",
+            "with",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "鸡",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "鸡"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "鸡"
+        ],
+        "english_name": [
+            "Sliced",
+            "Chicken",
+            "with",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "鸡"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "鸡",
+            "片"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干炒",
+            "鸡丝"
+        ],
+        "english_name": [
+            "Crispy",
+            "Chilli",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鸡",
+            "球"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "羊肉",
+            "类"
+        ],
+        "english_name": [
+            "Lamb",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "羊",
+            "柳"
+        ],
+        "english_name": [
+            "Chilli",
+            "Lamb",
+            "Fillet",
+            "Kunpo",
+            "Style",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "羊",
+            "柳"
+        ],
+        "english_name": [
+            "Sliced",
+            "Lamb",
+            "Fillet",
+            "with",
+            "Garlic",
+            "in",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "羊",
+            "柳"
+        ],
+        "english_name": [
+            "Lamb",
+            "Fillet",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "羊",
+            "柳"
+        ],
+        "english_name": [
+            "Curried",
+            "Sliced",
+            "Lamb",
+            "Fillet"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "酱爆",
+            "羊",
+            "柳"
+        ],
+        "english_name": [
+            "Lamb",
+            "Fillet",
+            "with",
+            "Chilli",
+            "Spicy",
+            "Sichuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "姜葱",
+            "爆",
+            "羊",
+            "柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Lamb",
+            "Fillet",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "豉",
+            "椒",
+            "羊",
+            "柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Lamb",
+            "Fillet",
+            "with",
+            "Green",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "t",
+                "Black",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "沙爹",
+            "羊",
+            "柳"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Lamb",
+            "Fillet",
+            "in",
+            "Satay",
+            "and",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

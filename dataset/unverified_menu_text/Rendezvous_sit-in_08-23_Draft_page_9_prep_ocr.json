@@ -8,8 +8,7 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -22,22 +21,12 @@
             "Blubber"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "拌",
-            "鴨掌",
-            "拌",
-            "三",
-            "絲",
-            "辣",
-            "白菜",
-            "醬",
-            "牛肉",
-            "韓國",
-            "牛肉"
+            "鴨掌"
         ],
         "english_name": [
             "Boneless",
@@ -48,29 +37,64 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Shredded",
-                "Chicken",
-                "Cucumber",
-                "and",
-                "Bean",
-                "Vermicelli",
-                "Pickled",
-                "Cabbage",
-                "with",
-                "Chilli",
-                "Sauce",
-                "Sliced",
-                "Soya",
-                "Beef"
-            ],
-            [
-                "Korean",
-                "Beef"
-            ]
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "拌",
+            "三",
+            "絲"
         ],
-        "raw_text": null
+        "english_name": [
+            "Shredded",
+            "Chicken",
+            "Cucumber",
+            "and",
+            "Bean",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "辣",
+            "白菜"
+        ],
+        "english_name": [
+            "Pickled",
+            "Cabbage",
+            "with",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "牛肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Soya",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "韓國",
+            "牛肉"
+        ],
+        "english_name": [
+            "Korean",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -81,29 +105,7 @@
             "Beef"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Grilled",
-                "Dumpling",
-                "Pork"
-            ],
-            [
-                "Hand",
-                "Made",
-                "Noodles",
-                "House",
-                "Special"
-            ],
-            [
-                "Fried",
-                "Thick",
-                "Pancake",
-                "with",
-                "Spring",
-                "Onion"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -120,8 +122,7 @@
             "SNACK"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -134,14 +135,12 @@
             "Pork"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "湯",
-            "水餃",
-            "蒸餃"
+            "水餃"
         ],
         "english_name": [
             "Dumpling",
@@ -149,20 +148,23 @@
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Steamed",
-                "Dumpling"
-            ]
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒸餃"
         ],
-        "raw_text": null
+        "english_name": [
+            "Steamed",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
             "北京",
-            "拉麵",
-            "三鮮",
-            "湯麵"
+            "拉麵"
         ],
         "english_name": [
             "Hand",
@@ -172,18 +174,24 @@
             "Special"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Hand",
-                "Made",
-                "Soup",
-                "Noodle",
-                "with",
-                "Assorted",
-                "Meat"
-            ]
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "三鮮",
+            "湯麵"
         ],
-        "raw_text": null
+        "english_name": [
+            "Hand",
+            "Made",
+            "Soup",
+            "Noodle",
+            "with",
+            "Assorted",
+            "Meat"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -202,13 +210,7 @@
             "and"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Preserved",
-                "Cabbage"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -217,20 +219,22 @@
             "湯麵"
         ],
         "english_name": [
-            "Hand",
-            "Made",
-            "Soup",
-            "Noodles",
-            "with",
-            "Shredded",
-            "Pork",
-            "and",
             "Preserved",
-            "Vegetable"
+            "Cabbage"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Hand",
+                "Made",
+                "Soup",
+                "Noodles",
+                "with",
+                "Shredded",
+                "Pork",
+                "and"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -238,76 +242,62 @@
             "鹵麵"
         ],
         "english_name": [
-            "Hand",
-            "Made",
-            "Soup",
-            "Noodles",
-            "with",
-            "Assorted",
-            "Meat",
-            "and",
+            "Preserved",
             "Vegetable"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Hand",
+                "Made",
+                "Soup",
+                "Noodles",
+                "with",
+                "Assorted",
+                "Meat",
+                "and"
+            ]
+        ]
     },
     {
         "chinese_name": [
             "炸醬麵"
         ],
         "english_name": [
-            "Hand",
-            "Made",
-            "Noodles",
-            "with",
-            "Minced",
-            "Pork",
-            "in"
+            "Vegetable"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Yellow",
-                "Bean",
-                "Sauce"
+                "Hand",
+                "Made",
+                "Noodles",
+                "with",
+                "Minced",
+                "Pork",
+                "in"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "蔥油餅"
         ],
         "english_name": [
-            "Fried",
-            "Thick",
-            "Pancake",
-            "with",
-            "Spring",
-            "Onion"
+            "Yellow",
+            "Bean",
+            "Sauce"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Please",
-                "inform",
-                "us",
-                "of",
-                "any",
-                "allergies",
-                "as",
-                "most",
-                "dishes",
-                "could",
-                "contain",
-                "some",
-                "amount",
-                "of",
-                "common",
-                "allergens"
+                "Fried",
+                "Thick",
+                "Pancake",
+                "with",
+                "Spring",
+                "Onion"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

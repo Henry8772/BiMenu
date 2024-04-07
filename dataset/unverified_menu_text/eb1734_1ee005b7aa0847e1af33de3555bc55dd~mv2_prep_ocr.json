@@ -1,0 +1,198 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "湯",
+            "品"
+        ],
+        "english_name": [
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "TASTING"
+            ],
+            [
+                "VERY"
+            ],
+            [
+                "DELICIOUS"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "湯",
+            "品"
+        ],
+        "english_name": [
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "冬瓜",
+            "虾仁",
+            "粉丝",
+            "汤"
+        ],
+        "english_name": [
+            "Chinese",
+            "Melon",
+            "Prawn",
+            "and",
+            "Vrmicelli",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小",
+            "大"
+        ],
+        "english_name": [
+            "Sml",
+            "Large"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A07"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "白菜",
+            "猪",
+            "骨汤"
+        ],
+        "english_name": [
+            "Chinese",
+            "Leaf",
+            "Pork",
+            "Ribs",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小",
+            "大"
+        ],
+        "english_name": [
+            "Small",
+            "Large"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "冬",
+            "阴"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小",
+            "大"
+        ],
+        "english_name": [
+            "Smal",
+            "Lange"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A09"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "番茄",
+            "青瓜",
+            "蛋花汤"
+        ],
+        "english_name": [
+            "Cucuber",
+            "Tomato",
+            "and",
+            "Egg",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小",
+            "大"
+        ],
+        "english_name": [
+            "Small",
+            "Large"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "紫菜",
+            "蛋花汤"
+        ],
+        "english_name": [
+            "Sealaver",
+            "and",
+            "Egg",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Small",
+                "Large"
+            ]
+        ]
+    }
+]

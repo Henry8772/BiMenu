@@ -1,0 +1,196 @@
+[
+    {
+        "chinese_name": [
+            "甜品"
+        ],
+        "english_name": [
+            "Desserts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "号"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "楊枝",
+            "甘露"
+        ],
+        "english_name": [
+            "Fresh",
+            "mango",
+            "compote",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "sago",
+                "pearls",
+                "and",
+                "pomelo"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "杞子",
+            "桂花",
+            "糕"
+        ],
+        "english_name": [
+            "manthus",
+            "jelly",
+            "with",
+            "wolfberry",
+            "w"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椰汁",
+            "糕"
+        ],
+        "english_name": [
+            "Coconut",
+            "pudding"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芒果",
+            "布丁"
+        ],
+        "english_name": [
+            "Mango",
+            "pudding"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雷沙",
+            "湯丸"
+        ],
+        "english_name": [
+            "Black",
+            "sesame",
+            "balls",
+            "o"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豆",
+            "沙鍋",
+            "餅"
+        ],
+        "english_name": [
+            "Pan",
+            "fried",
+            "red",
+            "bean",
+            "pancake"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑金",
+            "流沙",
+            "包"
+        ],
+        "english_name": [
+            "Steamed",
+            "charcoal",
+            "lava",
+            "buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "香蕉"
+        ],
+        "english_name": [
+            "Banana",
+            "fritters",
+            "with",
+            "syrup",
+            "w"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑金",
+            "流沙",
+            "包"
+        ],
+        "english_name": [
+            "Steamed",
+            "charcoal",
+            "lava",
+            "buns",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Suitable",
+                "for",
+                "vegetarian",
+                "Denotes",
+                "option"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "糖水",
+            "荔枝"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "圖片",
+            "只",
+            "作",
+            "參考"
+        ],
+        "english_name": [
+            "Images",
+            "are",
+            "for",
+            "reference",
+            "only",
+            "Hot",
+            "and",
+            "Spicy",
+            "Contain",
+            "Nuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

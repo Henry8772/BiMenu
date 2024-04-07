@@ -1,0 +1,335 @@
+[
+    {
+        "chinese_name": [
+            "糕"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "点"
+        ],
+        "english_name": [
+            "Desserts"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Custard",
+                "Lava",
+                "Buns"
+            ],
+            [
+                "3pcs",
+                "666kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鼎"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杨枝",
+            "甘露",
+            "冷"
+        ],
+        "english_name": [
+            "Mango",
+            "Pomelo",
+            "Sago",
+            "Chilled"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "78kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芒果",
+            "布丁",
+            "冷"
+        ],
+        "english_name": [
+            "Mango",
+            "Pudding",
+            "Chilled"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "冷",
+            "製"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豆沙",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Red",
+            "Bean",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芋泥",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Sweet",
+            "Taro",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "4pcs",
+            "240kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "8pcs",
+                "358kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "夕",
+            "口",
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "8pcs",
+            "358kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "4pcs",
+                "179kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "流沙",
+            "包"
+        ],
+        "english_name": [
+            "Salted",
+            "Egg",
+            "Yolk"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Custard",
+                "Lava",
+                "Buns"
+            ],
+            [
+                "3pcs",
+                "366kcal"
+            ],
+            [
+                "pc",
+                "222kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豆沙包"
+        ],
+        "english_name": [
+            "Red",
+            "Bean",
+            "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "pc",
+                "122kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芋泥",
+            "包"
+        ],
+        "english_name": [
+            "Sweet",
+            "Taro",
+            "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "巧克力",
+            "豆沙",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Red",
+            "Bean",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Chocolate",
+                "Lava"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "8pcs",
+            "546kcal",
+            "4pcs",
+            "273kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Smooth",
+                "earthy",
+                "red",
+                "bean",
+                "paste"
+            ],
+            [
+                "specially",
+                "imported",
+                "from",
+                "Taiwan"
+            ],
+            [
+                "encases",
+                "a",
+                "flowing",
+                "lava",
+                "centre",
+                "of",
+                "rich"
+            ],
+            [
+                "bittersweet",
+                "Caraibe",
+                "Valrhona"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣"
+        ],
+        "english_name": [
+            "Spicy"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素食"
+        ],
+        "english_name": [
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "师",
+            "推荐"
+        ],
+        "english_name": [
+            "Chef's",
+            "Recommendation"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "approach",
+                "our",
+                "staff",
+                "for",
+                "preference",
+                "Product",
+                "images",
+                "are",
+                "for",
+                "illustrative",
+                "purposes",
+                "only"
+            ],
+            [
+                "Adults",
+                "need",
+                "around",
+                "2000kcal",
+                "a",
+                "day"
+            ]
+        ]
+    }
+]

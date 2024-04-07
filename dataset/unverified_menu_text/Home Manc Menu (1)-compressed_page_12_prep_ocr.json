@@ -7,6 +7,21 @@
             "炒蛋"
         ],
         "english_name": [
+            "J38"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "马来",
+            "盏",
+            "牛肉",
+            "炒",
+            "通",
+            "菜"
+        ],
+        "english_name": [
             "King",
             "Prawn",
             "Foo",
@@ -18,17 +33,45 @@
                 "Cantonese",
                 "Style"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
-            "马来",
-            "盏",
-            "牛肉",
-            "炒",
-            "通",
-            "菜"
+            "香煎",
+            "嫩",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Home",
+            "Pan",
+            "Fried",
+            "Soft"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "青椒",
+            "豆腐皮"
+        ],
+        "english_name": [
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "四季豆"
         ],
         "english_name": [
             "Beef",
@@ -44,83 +87,6 @@
                 "Paste",
                 "Sauce"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "香煎",
-            "嫩",
-            "豆腐"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [],
-        "english_name": [
-            "Home",
-            "Pan",
-            "Fried",
-            "Soft",
-            "Tofu"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "青椒",
-            "豆腐皮"
-        ],
-        "english_name": [
-            "Beancurd",
-            "Sheet",
-            "with"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "Green",
-                "Pepper"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "干",
-            "煸",
-            "四季豆"
-        ],
-        "english_name": [
-            "Stir",
-            "Fried",
-            "Green",
-            "Beans"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "with",
-                "Minced",
-                "Pork"
-            ],
-            [
-                "V",
-                "Vegetarian",
-                "VG",
-                "Vegan",
-                "on",
-                "request"
-            ],
-            [
-                "Spicy"
-            ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

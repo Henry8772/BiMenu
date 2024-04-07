@@ -1,0 +1,83 @@
+[
+    {
+        "chinese_name": [
+            "干锅",
+            "大虾",
+            "匕",
+            "鍋炒"
+        ],
+        "english_name": [
+            "DRY",
+            "WOK",
+            "PRAWNS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "虾球",
+            "匕",
+            "术",
+            "儿",
+            "鍋炒"
+        ],
+        "english_name": [
+            "DRY",
+            "WOK",
+            "PRAWN",
+            "BALL",
+            "OFF",
+            "THE",
+            "SHELL"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "回锅肉",
+            "鍋炒"
+        ],
+        "english_name": [
+            "DRY",
+            "WOK",
+            "PIG'S",
+            "INTESTINES"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "DRY",
+                "WOK",
+                "TWICE",
+                "COOKED",
+                "PORK"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "花菜",
+            "鍋炒"
+        ],
+        "english_name": [
+            "DRY",
+            "WOK",
+            "CAULIFLOWER"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    }
+]

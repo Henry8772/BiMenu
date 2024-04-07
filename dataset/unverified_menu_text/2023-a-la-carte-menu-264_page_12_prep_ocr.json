@@ -1,0 +1,379 @@
+[
+    {
+        "chinese_name": [
+            "斋",
+            "头",
+            "盘"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Appetizers"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "迷你",
+            "蒜蓉",
+            "露",
+            "筍"
+        ],
+        "english_name": [
+            "Fresh",
+            "Asparagus",
+            "Starter",
+            "in",
+            "Garlic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "辣",
+            "豆腐",
+            "盒"
+        ],
+        "english_name": [
+            "Spicy",
+            "Beancurd",
+            "Waffle",
+            "with",
+            "Soya",
+            "Bean"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Produce",
+                "Vegetables"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "豆腐"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Beancurd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "净",
+            "海草"
+        ],
+        "english_name": [
+            "Plain",
+            "Cweed"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "炸",
+            "云吞"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Vegetarian",
+            "Won",
+            "Ton"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "海草",
+            "拼"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "C'weed",
+            "Special"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "C'weed",
+                "Coconut",
+                "Milk",
+                "Balls",
+                "Glazed",
+                "Cashewnut"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "炒鸡",
+            "米"
+        ],
+        "english_name": [
+            "Lettuce",
+            "Wrap",
+            "with",
+            "Cashewnuts",
+            "t",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "风味",
+            "茄子"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Spicy",
+            "Aubergine",
+            "Deep",
+            "Fried",
+            "Ethnic",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "茄子"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杏仁",
+            "薯",
+            "蓉",
+            "饼"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Almond",
+            "and",
+            "Potato",
+            "Burger"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "鲜菇",
+            "串"
+        ],
+        "english_name": [
+            "Skewered",
+            "Mushroom",
+            "Fritter",
+            "in",
+            "Satay",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Peanut",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "香酥",
+            "鸭"
+        ],
+        "english_name": [
+            "Mock",
+            "Pancake",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Served",
+                "with",
+                "Cucumber",
+                "Leek",
+                "Hot",
+                "Pancakes"
+            ],
+            [
+                "Hoi",
+                "Sin",
+                "Sauce",
+                "Extra",
+                "Pancake",
+                "20p",
+                "Each"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "汤类"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "净",
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
+            "Sweetcorn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "七彩",
+            "豆腐",
+            "羹"
+        ],
+        "english_name": [
+            "Rainbow",
+            "Beancurd",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "南瓜",
+            "薏米",
+            "羹"
+        ],
+        "english_name": [
+            "Pumpkin",
+            "t",
+            "Pearl",
+            "Barley",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "冬菇",
+            "三",
+            "丝",
+            "羹"
+        ],
+        "english_name": [
+            "Shredded",
+            "Mixed",
+            "Vegetables",
+            "Chinese",
+            "Mushroom",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "酸辣",
+            "汤"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Hot",
+            "t",
+            "Sour",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "云吞",
+            "汤"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Won",
+            "Ton",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

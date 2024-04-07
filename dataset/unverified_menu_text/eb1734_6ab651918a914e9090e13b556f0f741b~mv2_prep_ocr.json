@@ -1,0 +1,550 @@
+[
+    {
+        "chinese_name": [
+            "干烧",
+            "蕨菜"
+        ],
+        "english_name": [
+            "Wok",
+            "fried",
+            "bracken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素",
+            "烧",
+            "冬瓜",
+            "煲"
+        ],
+        "english_name": [
+            "Chinese",
+            "melon",
+            "with",
+            "soy",
+            "sauce",
+            "in",
+            "clay",
+            "pot"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腰",
+            "豆",
+            "炖",
+            "豆腐"
+        ],
+        "english_name": [
+            "Stewed",
+            "Tofu",
+            "with",
+            "kidney",
+            "beans"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "年糕",
+            "系列",
+            "素炒",
+            "辣炒"
+        ],
+        "english_name": [
+            "Rice",
+            "cae",
+            "Stir",
+            "fry",
+            "fry",
+            "with",
+            "ch",
+            "wolk",
+            "fry",
+            "with",
+            "paste"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "MAIN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Wok",
+                "fried",
+                "Chinese",
+                "Sauerkrut",
+                "with",
+                "konja",
+                "tofu",
+                "Soechuan",
+                "style"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "白菜",
+            "豆腐",
+            "丸子",
+            "炖",
+            "粉条"
+        ],
+        "english_name": [
+            "Chinese",
+            "leaf",
+            "tofu",
+            "mix",
+            "vege",
+            "balls",
+            "with",
+            "vermicelli",
+            "in",
+            "clay",
+            "pot"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "豆腐"
+        ],
+        "english_name": [
+            "ling",
+            "tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "魔芋",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "彩椒",
+            "菇"
+        ],
+        "english_name": [
+            "Wokofried",
+            "mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "手撕",
+            "包菜"
+        ],
+        "english_name": [
+            "Stew",
+            "fried",
+            "cabbage",
+            "in",
+            "spicy",
+            "sauce",
+            "S",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香菇",
+            "青瓜",
+            "炒",
+            "鸡蛋"
+        ],
+        "english_name": [
+            "Wolfried",
+            "eggs",
+            "with",
+            "mushroom",
+            "and",
+            "cucumber"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大白菜",
+            "酸",
+            "醋溜",
+            "椒"
+        ],
+        "english_name": [
+            "Wk",
+            "fried",
+            "Chinese",
+            "eaf",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "chilli",
+                "sour",
+                "and",
+                "spicy",
+                "sauce",
+                "red",
+                "vinegar",
+                "chopped",
+                "peppers"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "茄子",
+            "烧",
+            "豆角"
+        ],
+        "english_name": [
+            "Stir",
+            "fried",
+            "aubergine",
+            "and",
+            "French",
+            "beans",
+            "in",
+            "fresh",
+            "gari"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "凉菜"
+        ],
+        "english_name": [
+            "COLD",
+            "DISH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vermicelli",
+                "with",
+                "beans",
+                "sprouts",
+                "in",
+                "Szechuan",
+                "style",
+                "S"
+            ],
+            [
+                "Chinese",
+                "cabbage",
+                "shredded",
+                "carrots",
+                "and",
+                "vermicell"
+            ],
+            [
+                "A",
+                "good",
+                "harvest",
+                "in",
+                "the",
+                "countryside",
+                "ucumbers",
+                "shallos"
+            ],
+            [
+                "Becoming",
+                "vegan",
+                "is",
+                "the",
+                "most",
+                "important",
+                "and",
+                "direct",
+                "change"
+            ],
+            [
+                "we",
+                "can",
+                "immediately",
+                "make",
+                "to",
+                "save",
+                "the",
+                "planet",
+                "and",
+                "its",
+                "species"
+            ],
+            [
+                "Chris",
+                "Hedges"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "地",
+            "三鲜"
+        ],
+        "english_name": [
+            "Fried",
+            "aubergine",
+            "with",
+            "potato",
+            "and",
+            "green",
+            "pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "served",
+                "with",
+                "Beijing",
+                "sae"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小白菜",
+            "蓉",
+            "蚝油",
+            "清炒"
+        ],
+        "english_name": [
+            "Pakcho",
+            "garli",
+            "oyster",
+            "sauce",
+            "stir",
+            "fry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "油炸",
+            "花生米"
+        ],
+        "english_name": [
+            "Fried",
+            "fresh",
+            "peanuts",
+            "N"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芥兰",
+            "蒜蓉",
+            "蚝油",
+            "清炒"
+        ],
+        "english_name": [
+            "Kai",
+            "lan",
+            "garlic",
+            "oyster",
+            "sauce",
+            "str",
+            "fry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "老醋",
+            "木耳"
+        ],
+        "english_name": [
+            "Black",
+            "fungus",
+            "with",
+            "vinegar",
+            "s"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "尖椒",
+            "春笋"
+        ],
+        "english_name": [
+            "Bamboo",
+            "shoots",
+            "with",
+            "hot",
+            "peppers"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "asparagus",
+                "with",
+                "arlic"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "川味",
+            "芽菜",
+            "拌",
+            "粉丝"
+        ],
+        "english_name": [
+            "Vermicelli",
+            "with",
+            "beans",
+            "sprouts",
+            "in",
+            "Szechuan",
+            "style",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "爽口",
+            "三",
+            "丝"
+        ],
+        "english_name": [
+            "The",
+            "refreshing",
+            "three"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chinese",
+                "cabbage",
+                "shredded",
+                "carrots",
+                "and",
+                "vermicell"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "什锦",
+            "麻",
+            "汤锅"
+        ],
+        "english_name": [
+            "Mied",
+            "vegetable",
+            "with",
+            "sesame",
+            "sauce",
+            "soup",
+            "pot"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "乡村",
+            "大",
+            "丰收"
+        ],
+        "english_name": [
+            "A",
+            "good",
+            "harvest",
+            "in",
+            "the",
+            "countryside",
+            "ucumbers",
+            "shallos"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "carrots",
+                "lettuce",
+                "home",
+                "made",
+                "paste",
+                "and",
+                "pancake"
+            ],
+            [
+                "Becoming",
+                "vegan",
+                "is",
+                "the",
+                "most",
+                "important",
+                "and",
+                "direct",
+                "change"
+            ],
+            [
+                "we",
+                "can",
+                "immediately",
+                "make",
+                "to",
+                "save",
+                "the",
+                "planet",
+                "and",
+                "its",
+                "species"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "香",
+            "杏鮑菇"
+        ],
+        "english_name": [
+            "Apricot",
+            "mushroom",
+            "with",
+            "soy",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

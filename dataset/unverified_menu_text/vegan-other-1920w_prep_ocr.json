@@ -1,0 +1,277 @@
+[
+    {
+        "chinese_name": [
+            "素食",
+            "之",
+            "選"
+        ],
+        "english_name": [
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "素雞",
+            "白飯"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Mock",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素",
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "V1"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素",
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "豆腐"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "其他"
+        ],
+        "english_name": [
+            "Extra",
+            "Portions"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋炒飯"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白飯"
+        ],
+        "english_name": [
+            "Boiled",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "薑",
+            "蓉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Soft",
+            "Noodles",
+            "with",
+            "Beansprouts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芽菜",
+            "炒",
+            "軟",
+            "麵"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖哩",
+            "汁"
+        ],
+        "english_name": [
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "辣椒",
+            "油",
+            "醬"
+        ],
+        "english_name": [
+            "Chilli",
+            "Oil",
+            "Chilli",
+            "Sauce",
+            "Dip"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "汁"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "汁"
+        ],
+        "english_name": [
+            "Szechuan",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "薯條"
+        ],
+        "english_name": [
+            "Chips"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "嗲",
+            "汁"
+        ],
+        "english_name": [
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "外賣",
+            "盒"
+        ],
+        "english_name": [
+            "Takeaway",
+            "Container"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "薯條"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Chips"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "脆",
+            "麵"
+        ],
+        "english_name": [
+            "Crispy",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "價目",
+            "另",
+            "設",
+            "加",
+            "一",
+            "服務",
+            "費",
+            "價錢",
+            "已",
+            "包含",
+            "外賣",
+            "盒"
+        ],
+        "english_name": [
+            "VAT"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Subject",
+                "to",
+                "service",
+                "charge",
+                "All",
+                "Prices",
+                "include",
+                "VT",
+                "Takeway",
+                "Container"
+            ]
+        ]
+    }
+]

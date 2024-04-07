@@ -1,0 +1,202 @@
+[
+    {
+        "chinese_name": [
+            "沙律",
+            "明蝦",
+            "角"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "墨魚",
+            "餅"
+        ],
+        "english_name": [
+            "ORLENT"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "越",
+            "式",
+            "炸",
+            "春卷"
+        ],
+        "english_name": [
+            "EN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "荔",
+            "蓉",
+            "炸",
+            "芋",
+            "角"
+        ],
+        "english_name": [
+            "Deep",
+            "fried",
+            "prawn",
+            "dumplings",
+            "with",
+            "salad",
+            "cream"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "contain",
+                "pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "脆皮",
+            "咸水",
+            "角"
+        ],
+        "english_name": [
+            "Thai",
+            "style",
+            "squid",
+            "cakes",
+            "contain",
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮮蝦",
+            "腐皮",
+            "卷"
+        ],
+        "english_name": [
+            "Vietnamese",
+            "spring",
+            "rolls",
+            "contain",
+            "pork",
+            "and",
+            "prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酥",
+            "皮蛋",
+            "撻",
+            "仔"
+        ],
+        "english_name": [
+            "Taro",
+            "croquette",
+            "contain",
+            "pork",
+            "and",
+            "shrimp"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "魷魚",
+            "圈"
+        ],
+        "english_name": [
+            "Crispy",
+            "pastry",
+            "savoury",
+            "meat",
+            "croquette",
+            "contain",
+            "shrimp"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ORIENT"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉燒",
+            "酥"
+        ],
+        "english_name": [
+            "Deep",
+            "fried",
+            "beancurd",
+            "skin",
+            "with",
+            "prawn",
+            "roll",
+            "contain",
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ORIENT"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "圖片",
+            "只",
+            "作",
+            "參考"
+        ],
+        "english_name": [
+            "Roast",
+            "pork",
+            "puff"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Deep",
+                "fried",
+                "squid",
+                "ring"
+            ],
+            [
+                "Hot",
+                "and",
+                "Spicy",
+                "Contain",
+                "Nuts",
+                "Suitable",
+                "for",
+                "vegetarian",
+                "Denotes",
+                "option"
+            ],
+            [
+                "Images",
+                "are",
+                "for",
+                "reference",
+                "only"
+            ]
+        ]
+    }
+]

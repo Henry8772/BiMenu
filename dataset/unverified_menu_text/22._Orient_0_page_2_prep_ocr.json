@@ -1,0 +1,239 @@
+[
+    {
+        "chinese_name": [
+            "點心",
+            "推介"
+        ],
+        "english_name": [
+            "Chef's",
+            "Recommendations"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "上",
+            "湯海皇",
+            "餃"
+        ],
+        "english_name": [
+            "Seafood",
+            "dumpling",
+            "in",
+            "supreme",
+            "stock"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "pork",
+                "soup",
+                "based"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "金錢",
+            "肚"
+        ],
+        "english_name": [
+            "Beef",
+            "honeycomb",
+            "tripes",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "black",
+                "pepper",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "野菇",
+            "蒸",
+            "粉",
+            "果"
+        ],
+        "english_name": [
+            "Mixed",
+            "wild",
+            "mushrooms",
+            "dumplings",
+            "w"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "炒",
+            "蘿蔔",
+            "糕"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "turnip",
+                "cake",
+                "with",
+                "XO",
+                "chilli",
+                "sauce"
+            ],
+            [
+                "contains",
+                "pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芝麻",
+            "炸蝦",
+            "卷"
+        ],
+        "english_name": [
+            "Sesame",
+            "prawn",
+            "rolls"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "叉燒",
+            "餐",
+            "飽",
+            "仔"
+        ],
+        "english_name": [
+            "Baked",
+            "mini",
+            "roast",
+            "pork",
+            "buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "臘味",
+            "糯米",
+            "飯"
+        ],
+        "english_name": [
+            "Glutinous",
+            "rice",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "savoury",
+                "meat",
+                "and",
+                "dried",
+                "shrimp"
+            ],
+            [
+                "contains",
+                "pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑金",
+            "流沙",
+            "包"
+        ],
+        "english_name": [
+            "Steamed",
+            "charcoal",
+            "lava",
+            "buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酥皮",
+            "菠蘿",
+            "飽"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "上",
+            "湯海皇",
+            "餃"
+        ],
+        "english_name": [
+            "Seafood",
+            "dumpling",
+            "in",
+            "supreme",
+            "stock"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "pork",
+                "soup",
+                "based"
+            ],
+            [
+                "Suitable",
+                "for",
+                "vegetarian"
+            ],
+            [
+                "Denotes",
+                "option"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "圖片",
+            "只",
+            "作",
+            "參考"
+        ],
+        "english_name": [
+            "Images",
+            "are",
+            "for",
+            "reference",
+            "only"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot",
+                "and",
+                "Spicy",
+                "Contain",
+                "Nuts"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,509 @@
+[
+    {
+        "chinese_name": [
+            "星洲",
+            "炒米"
+        ],
+        "english_name": [
+            "Fried",
+            "Spicy",
+            "Vermicelli",
+            "Singapore",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "BBQ",
+                "Pork",
+                "Shrimps",
+                "t",
+                "Sesame"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "云吞",
+            "汤面",
+            "河粉",
+            "乌",
+            "冬"
+        ],
+        "english_name": [
+            "Won",
+            "Ton",
+            "in",
+            "Soup",
+            "with",
+            "Noodle",
+            "Rice",
+            "Stick",
+            "Udon"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "球",
+            "汤面",
+            "河粉",
+            "乌",
+            "冬"
+        ],
+        "english_name": [
+            "Chicken",
+            "t",
+            "Vegetable",
+            "in",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Noodle",
+                "Rice",
+                "Stick",
+                "Udon"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "叉",
+            "鸭汤",
+            "面",
+            "河粉",
+            "乌",
+            "冬"
+        ],
+        "english_name": [
+            "BBQ",
+            "Pork",
+            "t",
+            "Duck",
+            "with",
+            "Vegetable",
+            "in",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Noodle",
+                "Rice",
+                "Stick",
+                "Udon"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "牛腩",
+            "汤面"
+        ],
+        "english_name": [
+            "Beef",
+            "Brisket",
+            "in",
+            "Soup",
+            "with",
+            "Noodle",
+            "Rice",
+            "Stick",
+            "Udon"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酱",
+            "三",
+            "丝乌",
+            "冬"
+        ],
+        "english_name": [
+            "XO",
+            "Stir",
+            "Fried",
+            "Shredded",
+            "Chicken",
+            "BBQ",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "XO",
+                "Sauce",
+                "with",
+                "Udon",
+                "S"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酱",
+            "三鲜",
+            "乌",
+            "冬"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "Fried",
+                "Seafood",
+                "Trio",
+                "Prawn",
+                "Scallop",
+                "t",
+                "Squid"
+            ],
+            [
+                "in",
+                "XO",
+                "Sauce",
+                "with",
+                "Udon"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "配菜",
+            "类"
+        ],
+        "english_name": [
+            "Side",
+            "Portions"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "虾片"
+        ],
+        "english_name": [
+            "Prawn",
+            "Crackers"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "汁"
+        ],
+        "english_name": [
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "甜酸",
+            "汁"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "汁"
+        ],
+        "english_name": [
+            "Satay",
+            "and",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "汁"
+        ],
+        "english_name": [
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒",
+            "丝",
+            "豉",
+            "油"
+        ],
+        "english_name": [
+            "Fresh",
+            "Chilli",
+            "in",
+            "Soya",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸薯条"
+        ],
+        "english_name": [
+            "Chips"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "召",
+            "盐",
+            "炸薯条"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Chips"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒",
+            "软",
+            "面"
+        ],
+        "english_name": [
+            "Plain",
+            "Fried",
+            "Soft",
+            "Noodles",
+            "with",
+            "Beansprouts",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "清炒",
+            "芽菜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beansprouts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菠菜"
+        ],
+        "english_name": [
+            "Spinach",
+            "Garlic",
+            "Beancurd",
+            "Cheese",
+            "Chilli",
+            "Chilli",
+            "Spicy"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "椒",
+            "丝",
+            "腐乳",
+            "马拉",
+            "盏"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜",
+            "心"
+        ],
+        "english_name": [
+            "Choi",
+            "Sum",
+            "Chinese",
+            "Green"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Oyster",
+                "Sauce",
+                "Garlic",
+                "Soy",
+                "Sauce",
+                "t",
+                "Shallots"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "蒜茸",
+            "豉",
+            "油",
+            "皇"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白菜"
+        ],
+        "english_name": [
+            "Pak",
+            "Choi",
+            "Chinese",
+            "Vegetable"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Oyster",
+                "Sauce",
+                "Garlic",
+                "Soy",
+                "Sauce",
+                "Shallots"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "蒜茸",
+            "豉",
+            "油",
+            "皇"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芥蘭"
+        ],
+        "english_name": [
+            "Chinese",
+            "Broccoli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fresh",
+                "Minced",
+                "Ginger",
+                "Oyster",
+                "Sauce",
+                "Soy",
+                "Sauce",
+                "Shallots"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "姜汁",
+            "蠔油",
+            "豉",
+            "油",
+            "皇"
+        ],
+        "english_name": [
+            "spicy",
+            "dishes"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

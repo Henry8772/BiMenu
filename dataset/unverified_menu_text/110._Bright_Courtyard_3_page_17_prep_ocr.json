@@ -1,0 +1,133 @@
+[
+    {
+        "chinese_name": [
+            "和",
+            "牛"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "和",
+            "牛",
+            "粒"
+        ],
+        "english_name": [
+            "Wagyu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pepper",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "和",
+            "牛"
+        ],
+        "english_name": [
+            "Pan",
+            "grilled",
+            "A5",
+            "wagyu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A5",
+                "150g"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "川",
+            "辣",
+            "牛柳",
+            "粉丝",
+            "煲"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Glass",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Sichuan",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雀巢",
+            "牛",
+            "柳丝"
+        ],
+        "english_name": [
+            "Classic",
+            "Crispy",
+            "Shredded"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef",
+                "Stripes"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "牛柳",
+            "粒"
+        ],
+        "english_name": [
+            "Diced",
+            "Beef",
+            "in",
+            "Black"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pepper",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "肉类"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "片",
+            "仅供",
+            "考",
+            "出品",
+            "以",
+            "实物",
+            "准"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "chinese_name": [
+            "头"
+        ],
+        "english_name": [
+            "APPETIZER"
+        ],
+        "chinese_description": [
+            [
+                "盘"
+            ]
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "盘"
+        ],
+        "english_name": [
+            "APPETIZER"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "锅贴"
+        ],
+        "english_name": [
+            "Grilled",
+            "Vegetarian",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "锅贴"
+        ],
+        "english_name": [
+            "Grilled",
+            "Chicken",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "猪",
+            "锅贴"
+        ],
+        "english_name": [
+            "Grilled",
+            "Pork",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "春卷"
+        ],
+        "english_name": [
+            "Crispy",
+            "Vegetarian",
+            "Spring",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸鸡",
+            "球"
+        ],
+        "english_name": [
+            "Fried",
+            "Chicken",
+            "Ball"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "虾片"
+        ],
+        "english_name": [
+            "Prawn",
+            "Cracker"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香酥",
+            "鸭"
+        ],
+        "english_name": [
+            "Crispy",
+            "Aromatic",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Quarter"
+            ],
+            [
+                "Half"
+            ],
+            [
+                "Minimum",
+                "Charge",
+                "per",
+                "person"
+            ],
+            [
+                "Debit",
+                "and",
+                "Credit",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "values",
+                "over"
+            ]
+        ]
+    }
+]

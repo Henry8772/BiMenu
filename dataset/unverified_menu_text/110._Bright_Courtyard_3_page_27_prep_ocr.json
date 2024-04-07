@@ -1,0 +1,111 @@
+[
+    {
+        "chinese_name": [
+            "生"
+        ],
+        "english_name": [
+            "Assorted"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "生"
+        ],
+        "english_name": [
+            "Fresh"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "甜点"
+        ],
+        "english_name": [
+            "DESSERTS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mango",
+                "Pomelo",
+                "Sago"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "海"
+        ],
+        "english_name": [
+            "Assorted"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seafood"
+            ],
+            [
+                "Congee"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "龙"
+        ],
+        "english_name": [
+            "Lobster"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Congee"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "杨枝",
+            "甘露"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芒果",
+            "布丁"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "饭",
+            "面"
+        ],
+        "english_name": [
+            "RICE",
+            "NOODLE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "图片",
+            "仅供",
+            "参",
+            "实物",
+            "为准"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

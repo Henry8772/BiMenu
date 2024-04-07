@@ -1,0 +1,252 @@
+[
+    {
+        "chinese_name": [
+            "大虾",
+            "类"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Dishes",
+            "shell",
+            "off"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "炒",
+            "虾球"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "炒",
+            "虾球"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Green",
+            "Pepper",
+            "t",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "甜酸",
+            "大虾",
+            "球"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Satay",
+            "and",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Kunpo",
+            "Style",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "酱爆",
+            "虾球"
+        ],
+        "english_name": [
+            "Chilli",
+            "Spicy",
+            "Sichuan",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "in",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "in",
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西",
+            "柠",
+            "芝麻",
+            "虾球"
+        ],
+        "english_name": [
+            "Sesame",
+            "King",
+            "Prawn",
+            "in",
+            "Lemon",
+            "and",
+            "Honey",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "焗",
+            "虾球"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "with",
+            "Salt",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

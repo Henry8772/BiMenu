@@ -1,0 +1,419 @@
+[
+    {
+        "chinese_name": [
+            "海鲜",
+            "类"
+        ],
+        "english_name": [
+            "Seafood"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "鮮鱿"
+        ],
+        "english_name": [
+            "Squid",
+            "with",
+            "Green",
+            "Pepper",
+            "and",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鲜鱿"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Squid"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "鮮鱿"
+        ],
+        "english_name": [
+            "Squid",
+            "in",
+            "Chilli",
+            "Sichuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "鲜鱿"
+        ],
+        "english_name": [
+            "Squid",
+            "with",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "和尚",
+            "鱼"
+        ],
+        "english_name": [
+            "Fillet",
+            "Monk",
+            "Fish",
+            "with",
+            "Garlic",
+            "t",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "和尚",
+            "鱼"
+        ],
+        "english_name": [
+            "Monk",
+            "Fish",
+            "with",
+            "Green",
+            "Pepper",
+            "t",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "酱爆",
+            "和尚",
+            "鱼"
+        ],
+        "english_name": [
+            "Monk",
+            "Fish",
+            "with",
+            "Chilli",
+            "Sichuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "和尚",
+            "鱼"
+        ],
+        "english_name": [
+            "Fillet",
+            "Monk",
+            "Fish",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "京",
+            "葱",
+            "和尚",
+            "鱼"
+        ],
+        "english_name": [
+            "Monk",
+            "Fish",
+            "with",
+            "Spring",
+            "Onion",
+            "t"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot",
+                "Bean",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "炸鱼",
+            "块"
+        ],
+        "english_name": [
+            "Fish",
+            "Fillet",
+            "with",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "古",
+            "汁",
+            "鱼块"
+        ],
+        "english_name": [
+            "Fish",
+            "Fillet",
+            "with",
+            "Sweet",
+            "t",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酱",
+            "芦笋",
+            "鱼",
+            "球"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fish",
+                "Fillet",
+                "with",
+                "Asparagus",
+                "in",
+                "XO",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酱",
+            "炒",
+            "三鲜",
+            "虾",
+            "带子",
+            "鲜鱿"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seafood",
+                "Trio",
+                "Prawn",
+                "Scallop",
+                "Et",
+                "Squid"
+            ],
+            [
+                "in",
+                "XO",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "鲈鱼"
+        ],
+        "english_name": [
+            "Steamed",
+            "Sea",
+            "Bass",
+            "Whole"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Black",
+                "Bean",
+                "Sauce",
+                "Ginger",
+                "t",
+                "Spring",
+                "Onion"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "姜葱"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "炒",
+            "带子"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Scallop",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "带子"
+        ],
+        "english_name": [
+            "Fried",
+            "Scallop",
+            "in",
+            "Spicy",
+            "Sichuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "带子"
+        ],
+        "english_name": [
+            "Scallop",
+            "in",
+            "Satay",
+            "and",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "带子"
+        ],
+        "english_name": [
+            "Scallop",
+            "in",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "带子"
+        ],
+        "english_name": [
+            "Scallop",
+            "Kunpo",
+            "Style",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

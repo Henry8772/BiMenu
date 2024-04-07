@@ -6,8 +6,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -54,8 +53,7 @@
                 "Sichuan",
                 "Peppercorn"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -70,8 +68,7 @@
             "Egg"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -89,8 +86,7 @@
             "yam"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -98,8 +94,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -108,18 +103,24 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "鲍鱼",
             "泡饭"
         ],
-        "english_name": [],
+        "english_name": [
+            "Soaked",
+            "Cooked",
+            "Rice",
+            "with",
+            "Slices",
+            "of",
+            "Abalone"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -146,7 +147,9 @@
                 "Fried",
                 "with",
                 "Dried",
-                "Shallots",
+                "Shallots"
+            ],
+            [
                 "Salt",
                 "and",
                 "Pepper",
@@ -158,12 +161,13 @@
                 "Spicy",
                 "Chilli",
                 "Sauce",
-                "with",
+                "with"
+            ],
+            [
                 "Sichuan",
                 "Peppercorn"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -186,7 +190,6 @@
             "wines"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

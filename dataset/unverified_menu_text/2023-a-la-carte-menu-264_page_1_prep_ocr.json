@@ -1,0 +1,402 @@
+[
+    {
+        "chinese_name": [
+            "点心"
+        ],
+        "english_name": [
+            "Dim",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "点心"
+        ],
+        "english_name": [
+            "Steamed",
+            "Dim",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "虾",
+            "饺"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "烧卖"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "牛肉",
+            "饺"
+        ],
+        "english_name": [
+            "Siu",
+            "Mai",
+            "Prawn",
+            "and",
+            "Pork",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "潮州",
+            "粉",
+            "果"
+        ],
+        "english_name": [
+            "Ow",
+            "Yuk",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Steamed",
+                "Beef",
+                "Parcels",
+                "with",
+                "Ginger",
+                "t",
+                "Spring",
+                "Onion"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Chui",
+            "Chow",
+            "Fun",
+            "Kuo"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spicy",
+                "Pork",
+                "Et",
+                "Nut",
+                "Dumplings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "叉",
+            "包"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Style",
+            "Mini",
+            "Buns",
+            "with",
+            "Pork",
+            "Meat"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "粒",
+            "烧卖"
+        ],
+        "english_name": [
+            "Steamed",
+            "Char",
+            "Siu",
+            "Pork",
+            "Bun"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蠔油",
+            "鮮",
+            "竹",
+            "卷"
+        ],
+        "english_name": [
+            "Chicken",
+            "Siu",
+            "Mai"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "鸡",
+            "卷"
+        ],
+        "english_name": [
+            "Steamed",
+            "Chicken",
+            "Roll",
+            "in",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "带子",
+            "饺"
+        ],
+        "english_name": [
+            "Chicken",
+            "Roll",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜苗",
+            "饺"
+        ],
+        "english_name": [
+            "Scallop",
+            "Dumplings",
+            "with",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "韭菜",
+            "饺"
+        ],
+        "english_name": [
+            "Steamed",
+            "Minced",
+            "Prawn",
+            "t",
+            "Vegetables",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "上",
+            "汤",
+            "水饺"
+        ],
+        "english_name": [
+            "Steamed",
+            "Prawn",
+            "Dumpling",
+            "with",
+            "Chinese",
+            "Chives"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "蒸",
+            "鳳爪"
+        ],
+        "english_name": [
+            "Steamed",
+            "Pork",
+            "and",
+            "Prawn",
+            "Dumplings",
+            "in",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Glutinous",
+                "Rice",
+                "Parcel",
+                "with",
+                "Dried",
+                "Shrimps",
+                "t",
+                "Meat"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "蒸",
+            "排骨"
+        ],
+        "english_name": [
+            "Steamed",
+            "Chicken",
+            "Feet",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "奶",
+            "皇",
+            "包"
+        ],
+        "english_name": [
+            "Steamed",
+            "Mini",
+            "Ribs",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海草",
+            "点心",
+            "拼盘"
+        ],
+        "english_name": [
+            "Steamed",
+            "Custard",
+            "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "鱼饼"
+        ],
+        "english_name": [
+            "C'weeds",
+            "Dim",
+            "Sum",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "per",
+                "head"
+            ],
+            [
+                "Fish",
+                "Cake"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鸭",
+            "春卷"
+        ],
+        "english_name": [
+            "Crispy",
+            "Duck",
+            "Spring",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "牛角"
+        ],
+        "english_name": [
+            "Beef",
+            "Curried",
+            "Samosa"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "松露",
+            "烧卖"
+        ],
+        "english_name": [
+            "Steamed",
+            "Prawn",
+            "Meat",
+            "Dumpling",
+            "with",
+            "Black",
+            "Truffle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "鸡",
+            "卷"
+        ],
+        "english_name": [
+            "Chicken",
+            "Roll",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

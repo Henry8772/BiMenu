@@ -1,0 +1,48 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NOODLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "d",
+                "in"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "老汤",
+            "卤",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "seasoned"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "five",
+                "spicy",
+                "soy",
+                "sauce"
+            ],
+            [
+                "TASTING",
+                "VERY"
+            ],
+            [
+                "DELICIOUS"
+            ]
+        ]
+    }
+]

@@ -7,60 +7,7 @@
             "Drinks"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Coke",
-                "Diet",
-                "Coke",
-                "7up",
-                "Tango"
-            ],
-            [
-                "Water"
-            ],
-            [
-                "Orange",
-                "Juice"
-            ],
-            [
-                "Apple",
-                "Juice"
-            ],
-            [
-                "Herbal",
-                "Tea"
-            ],
-            [
-                "Aloe",
-                "Vera"
-            ],
-            [
-                "Ice",
-                "Red",
-                "Tea"
-            ],
-            [
-                "Ice",
-                "Green",
-                "Tea"
-            ],
-            [
-                "Coconut",
-                "Milk"
-            ],
-            [
-                "Young",
-                "Coconut"
-            ],
-            [
-                "Budweiser"
-            ],
-            [
-                "Tsingtao",
-                "Beer"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -68,37 +15,42 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "橙汁"
         ],
-        "english_name": [],
+        "english_name": [
+            "Orange",
+            "Juice"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "苹果",
             "汁"
         ],
-        "english_name": [],
+        "english_name": [
+            "Apple",
+            "Juice"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "王老",
             "吉"
         ],
-        "english_name": [],
+        "english_name": [
+            "Herbal",
+            "Tea"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -107,47 +59,56 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "冰",
             "红茶"
         ],
-        "english_name": [],
+        "english_name": [
+            "Ice",
+            "Red",
+            "Tea"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "冰",
             "绿茶"
         ],
-        "english_name": [],
+        "english_name": [
+            "Ice",
+            "Green",
+            "Tea"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "椰奶"
         ],
-        "english_name": [],
+        "english_name": [
+            "Coconut",
+            "Milk"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "新鲜",
             "椰子"
         ],
-        "english_name": [],
+        "english_name": [
+            "Young",
+            "Coconut"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -155,17 +116,18 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "青岛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Tsingtao",
+            "Beer"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -173,8 +135,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -187,29 +148,8 @@
             "红酒",
             "威士忌酒"
         ],
-        "english_name": [
-            "We",
-            "have",
-            "a",
-            "selection",
-            "of",
-            "Chinese",
-            "wines",
-            "white",
-            "wines",
-            "red",
-            "wines",
-            "and",
-            "whiskeys",
-            "Please",
-            "ask",
-            "staff",
-            "for",
-            "further",
-            "information"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

@@ -6,26 +6,16 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "大",
             "酒楼"
         ],
-        "english_name": [
-            "A",
-            "PLUS"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Oriental",
-                "Restaurant"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -36,240 +26,7 @@
             "COURSES"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Sweet",
-                "and",
-                "Sour"
-            ],
-            [
-                "Chicken",
-                "Pork"
-            ],
-            [
-                "King",
-                "Prawns"
-            ],
-            [
-                "Curry"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Satay"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Pepper",
-                "with",
-                "Black"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Bean",
-                "Sauce"
-            ],
-            [
-                "Black",
-                "Pepper",
-                "Sauce"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Kung",
-                "Bao",
-                "Style"
-            ],
-            [
-                "King",
-                "Prawn"
-            ],
-            [
-                "Cantonese",
-                "Style"
-            ],
-            [
-                "Chicken",
-                "Shredded",
-                "Chicken"
-            ],
-            [
-                "Pork",
-                "Beef",
-                "Shredded",
-                "Beef"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Szechuan",
-                "Style"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Thai",
-                "Style"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef",
-                "Shredded",
-                "Beef"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Salt",
-                "and",
-                "Pepper"
-            ],
-            [
-                "Chicken",
-                "Shredded",
-                "Chicken",
-                "Beef",
-                "Shredded",
-                "Beef"
-            ],
-            [
-                "King",
-                "Prawn"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Ginger",
-                "and",
-                "Spring",
-                "Onion"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Oyster",
-                "Sauce"
-            ],
-            [
-                "Chicken",
-                "Pork"
-            ],
-            [
-                "King",
-                "Prawns"
-            ],
-            [
-                "Cashew",
-                "Nuts"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Lamb",
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Chicken",
-                "Pork",
-                "Beef"
-            ],
-            [
-                "Seasonal"
-            ],
-            [
-                "King",
-                "Prawn",
-                "Mixed",
-                "Seafood"
-            ],
-            [
-                "Vegetable"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -279,8 +36,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -288,10 +44,12 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "King",
+            "Prawns"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -300,10 +58,17 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Curry"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -312,10 +77,15 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lamb",
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -325,10 +95,17 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Satay"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -338,10 +115,15 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lamb",
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -351,10 +133,19 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Chicken",
+            "Pork",
+            "Beef"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Pepper",
+                "with",
+                "Black"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -364,10 +155,20 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lamb",
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Bean",
+                "Sauce"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -376,10 +177,18 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Black",
+            "Pepper"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -388,10 +197,19 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lamb",
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Sauce"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -400,10 +218,13 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Chicken",
+            "Pork",
+            "Beef"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -412,10 +233,12 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "King",
+            "Prawn"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -424,10 +247,18 @@
             "片",
             "雞絲"
         ],
-        "english_name": [],
+        "english_name": [
+            "Cantonese",
+            "Style"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Chicken",
+                "Shredded",
+                "Chicken"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -436,10 +267,14 @@
             "牛",
             "絲"
         ],
-        "english_name": [],
+        "english_name": [
+            "Pork",
+            "Beef",
+            "Shredded",
+            "Beef"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -448,10 +283,15 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lamb",
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -460,10 +300,18 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Szechuan",
+            "Style"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -472,10 +320,15 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lamb",
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -486,10 +339,20 @@
             "牛",
             "絲"
         ],
-        "english_name": [],
+        "english_name": [
+            "Thai",
+            "Style"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Chicken",
+                "Pork",
+                "Beef",
+                "Shredded",
+                "Beef"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -498,10 +361,15 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lamb",
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -509,24 +377,46 @@
             "雞",
             "片",
             "雞絲",
-            "牛",
+            "牛"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Shredded",
+                "Chicken",
+                "Beef"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
             "牛",
             "絲"
         ],
-        "english_name": [],
+        "english_name": [
+            "Shredded",
+            "Beef"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "椒鹽",
             "大蝦"
         ],
-        "english_name": [],
+        "english_name": [
+            "King",
+            "Prawn"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -535,10 +425,19 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Chicken",
+            "Pork",
+            "Beef"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Ginger",
+                "and",
+                "Spring"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -547,10 +446,19 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Onion"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Lamb",
+                "King",
+                "Prawn",
+                "Mixed",
+                "Seafood"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -559,10 +467,17 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Oyster",
+            "Sauce"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Chicken",
+                "Pork"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -571,10 +486,12 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "King",
+            "Prawns"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -583,10 +500,18 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Cashew",
+            "Nuts"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Chicken",
+                "Pork",
+                "Beef"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -595,10 +520,15 @@
             "大蝦",
             "三鮮"
         ],
-        "english_name": [],
+        "english_name": [
+            "Lamb",
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -608,10 +538,17 @@
             "豬",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Chicken",
+            "Pork",
+            "Beef"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Seasonal"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -621,10 +558,16 @@
             "三鮮"
         ],
         "english_name": [
-            "Page"
+            "King",
+            "Prawn",
+            "Mixed",
+            "Seafood"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Vegetable"
+            ]
+        ]
     }
 ]

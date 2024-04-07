@@ -1,0 +1,306 @@
+[
+    {
+        "chinese_name": [
+            "小"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜"
+        ],
+        "english_name": [
+            "Col"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Appetisers"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "手",
+            "拍",
+            "黄瓜"
+        ],
+        "english_name": [
+            "Cucumber",
+            "in",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芝麻",
+            "菠菜"
+        ],
+        "english_name": [
+            "Spinach",
+            "Dressed",
+            "in",
+            "Sesame",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "85kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "才",
+            "儿",
+            "漬",
+            "汁"
+        ],
+        "english_name": [
+            "h"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "8kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "油"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "前",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜丝",
+            "云",
+            "耳"
+        ],
+        "english_name": [
+            "Wood",
+            "Ear",
+            "Mushrooms",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ginger",
+                "Strips",
+                "and",
+                "Vinegar",
+                "Dressing"
+            ],
+            [
+                "70kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "四季豆"
+        ],
+        "english_name": [
+            "Sautéed",
+            "String",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Minced",
+                "Pork",
+                "and",
+                "Dried",
+                "Shrimp"
+            ],
+            [
+                "118kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鼎"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "上海",
+            "醉鸡"
+        ],
+        "english_name": [
+            "Original",
+            "Shanghainese"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Drunken",
+                "Chicken"
+            ],
+            [
+                "148kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "糖醋",
+            "小",
+            "排"
+        ],
+        "english_name": [
+            "Honey",
+            "and",
+            "Vinegar",
+            "Short",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酢豚"
+        ],
+        "english_name": [],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "特色",
+            "小菜"
+        ],
+        "english_name": [
+            "Oriental",
+            "Salad",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Special",
+                "Vinegar",
+                "Dressing"
+            ],
+            [
+                "177kcal"
+            ],
+            [
+                "Din",
+                "Tai",
+                "Fung's",
+                "unique",
+                "chilled"
+            ],
+            [
+                "appetiser",
+                "is",
+                "made",
+                "with",
+                "julienne"
+            ],
+            [
+                "seaweed",
+                "beansprouts",
+                "tofu",
+                "and",
+                "rice"
+            ],
+            [
+                "vermicelli",
+                "tossed",
+                "in",
+                "a",
+                "light",
+                "and",
+                "tangy"
+            ],
+            [
+                "sesame",
+                "oil",
+                "dressing"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣"
+        ],
+        "english_name": [
+            "Spicy"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素食"
+        ],
+        "english_name": [
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "厨师",
+            "推荐"
+        ],
+        "english_name": [
+            "Chef's",
+            "Recommendation"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "approach",
+                "our",
+                "staff",
+                "for",
+                "preference",
+                "Product",
+                "images",
+                "are",
+                "for",
+                "illustrative",
+                "purposes",
+                "only"
+            ]
+        ]
+    }
+]

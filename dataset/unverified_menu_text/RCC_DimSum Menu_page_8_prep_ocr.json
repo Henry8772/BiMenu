@@ -1,0 +1,163 @@
+[
+    {
+        "chinese_name": [
+            "甜品"
+        ],
+        "english_name": [
+            "Dessert"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑糖",
+            "龜苓膏"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "木瓜",
+            "雪梨",
+            "燉",
+            "燕",
+            "露"
+        ],
+        "english_name": [
+            "Chinese",
+            "Herb",
+            "Jelly",
+            "with",
+            "Brown",
+            "Sugar",
+            "Syrup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "千",
+            "絲",
+            "拔",
+            "蕉"
+        ],
+        "english_name": [
+            "Supreme",
+            "Bird's",
+            "Nest",
+            "Soup",
+            "with",
+            "Pears",
+            "and",
+            "Papaya"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "橙",
+            "香",
+            "柳",
+            "汁",
+            "紅豆",
+            "糕"
+        ],
+        "english_name": [
+            "Toffee",
+            "Banana"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "each",
+                "min",
+                "2pcs"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "擂",
+            "沙",
+            "湯圓"
+        ],
+        "english_name": [
+            "Red",
+            "Bean",
+            "Cake"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香芒",
+            "布丁"
+        ],
+        "english_name": [
+            "Coconut",
+            "Moss",
+            "Dumplings",
+            "with",
+            "Black",
+            "Sesame"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮮果",
+            "杏仁",
+            "豆腐",
+            "花"
+        ],
+        "english_name": [
+            "Sweet",
+            "Mango",
+            "Pudding"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "奶",
+            "皇",
+            "壽",
+            "包"
+        ],
+        "english_name": [
+            "Sweet",
+            "Almond",
+            "Tofu",
+            "Pudding",
+            "with",
+            "Fresh",
+            "Fruits",
+            "Chilled"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑金",
+            "流沙",
+            "包"
+        ],
+        "english_name": [
+            "Oriental",
+            "Steamed",
+            "Custard",
+            "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

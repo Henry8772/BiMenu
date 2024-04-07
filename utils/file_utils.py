@@ -27,12 +27,14 @@ def load_json(file_path):
     with open(file_path, 'r') as file:
         return json.load(file)
 
-def save_json(content, filename):
+def save_json(content, filename, verbose=True):
     dir_name = os.path.dirname(filename)
     create_dir(dir_name)
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(content, f, ensure_ascii=False, indent=4)
-    print(f"File has been saved to {filename}")
+        
+    if verbose:
+        print(f"File has been saved to {filename}")
 
 def alphanumeric_key(s):
     """

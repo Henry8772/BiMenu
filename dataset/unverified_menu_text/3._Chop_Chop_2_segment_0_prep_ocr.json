@@ -1,0 +1,150 @@
+[
+    {
+        "chinese_name": [
+            "海鮮",
+            "炒麵",
+            "河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Seafood",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Soft",
+                "egg",
+                "noodles",
+                "Dry",
+                "kcal"
+            ],
+            [
+                "Crispy",
+                "egg",
+                "noodles",
+                "kcal"
+            ],
+            [
+                "Ho",
+                "fun",
+                "noodles",
+                "kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Ho",
+            "Fun",
+            "Noodles",
+            "Dry"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef",
+                "kcal"
+            ],
+            [
+                "Mixed",
+                "Vegetables",
+                "VG",
+                "kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "炒"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "in",
+            "Black",
+            "Bean",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Crispy",
+                "egg",
+                "noodles",
+                "kcal"
+            ],
+            [
+                "Ho",
+                "fun",
+                "noodles",
+                "kcal"
+            ],
+            [
+                "Steamed",
+                "rice",
+                "kcal"
+            ],
+            [
+                "Chicken",
+                "kcal"
+            ],
+            [
+                "Beef",
+                "kcal"
+            ],
+            [
+                "Prawns",
+                "kcal"
+            ],
+            [
+                "Seafood",
+                "kcal"
+            ],
+            [
+                "Tofu",
+                "VG",
+                "kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "星洲",
+            "炒"
+        ],
+        "english_name": [
+            "Singapore",
+            "Fried"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork",
+                "and",
+                "Prawn",
+                "vermicelli",
+                "noodles",
+                "P",
+                "kcal"
+            ],
+            [
+                "Pork",
+                "and",
+                "Prawn",
+                "rice",
+                "P",
+                "kcal"
+            ]
+        ]
+    }
+]

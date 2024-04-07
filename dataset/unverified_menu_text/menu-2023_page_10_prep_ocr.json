@@ -16,8 +16,7 @@
             "Pepper"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -35,8 +34,7 @@
             "Chilli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -45,17 +43,6 @@
             "炒",
             "通",
             "菜"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "蒜蓉",
-            "炒",
-            "芥蘭"
         ],
         "english_name": [
             "Stir",
@@ -66,16 +53,23 @@
             "Garlic"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Sweet",
-                "and",
-                "Sour",
-                "Chinese",
-                "Lettuce"
-            ]
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "炒",
+            "芥蘭"
         ],
-        "raw_text": null
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Chinese",
+            "Lettuce"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -90,8 +84,7 @@
             "Tofu"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -99,16 +92,9 @@
             "扒",
             "豆腐"
         ],
-        "english_name": [
-            "Stir",
-            "Fried",
-            "Lo",
-            "Han",
-            "Vegetables"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -128,8 +114,7 @@
             "Tout"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -143,10 +128,20 @@
             "豆",
             "絲"
         ],
-        "english_name": [],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Mushroom",
+            "Sugar",
+            "Snap",
+            "Silver",
+            "Sprouts",
+            "and",
+            "Mange",
+            "Tout"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -165,29 +160,6 @@
             "銀芽"
         ],
         "english_name": [
-            "Stir",
-            "Fried",
-            "Mushroom",
-            "Sugar",
-            "Snap",
-            "Silver",
-            "Sprouts",
-            "and",
-            "Mange",
-            "Tout"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "雜",
-            "菜",
-            "粉絲",
-            "煲"
-        ],
-        "english_name": [
             "Mixed",
             "Vegetables",
             "and",
@@ -198,15 +170,23 @@
             "Pot"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Asparagus",
-                "in",
-                "Szechuan",
-                "Sauce"
-            ]
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雜",
+            "菜",
+            "粉絲",
+            "煲"
         ],
-        "raw_text": null
+        "english_name": [
+            "Asparagus",
+            "in",
+            "Szechuan",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -224,8 +204,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -246,8 +225,7 @@
             "Broccoli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -255,17 +233,6 @@
             "甜豆",
             "玉蘭",
             "心"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "上",
-            "素",
-            "豆腐"
         ],
         "english_name": [
             "Stir",
@@ -276,35 +243,29 @@
             "Green"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Chinese",
-                "Mushroom",
-                "and",
-                "Yee",
-                "Mein"
-            ]
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "上",
+            "素",
+            "豆腐"
         ],
-        "raw_text": null
+        "english_name": [
+            "Chinese",
+            "Mushroom",
+            "and",
+            "Yee",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
             "乾燒",
             "伊",
             "麵"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "菜",
-            "粒",
-            "冬菇",
-            "粒",
-            "炒飯"
         ],
         "english_name": [
             "Diced",
@@ -316,15 +277,24 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Mixed",
-                "Vegetables",
-                "Chow",
-                "Mein"
-            ]
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜",
+            "粒",
+            "冬菇",
+            "粒",
+            "炒飯"
         ],
-        "raw_text": null
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -338,8 +308,7 @@
             "Vermicelli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -357,8 +326,7 @@
             "Fan"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -373,8 +341,7 @@
             "Aubergine"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -393,8 +360,7 @@
             "Onion"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -411,8 +377,7 @@
             "Vegetables"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -425,7 +390,6 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

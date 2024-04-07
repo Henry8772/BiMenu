@@ -1,0 +1,273 @@
+[
+    {
+        "chinese_name": [
+            "廚師",
+            "推介"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "牛",
+            "根",
+            "腩",
+            "煲"
+        ],
+        "english_name": [
+            "Braised",
+            "Beef",
+            "Brisket",
+            "and",
+            "Tenderloin",
+            "in",
+            "Home",
+            "made",
+            "Spicy",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "尖椒",
+            "炒黑",
+            "豚",
+            "肉"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "beria",
+            "Pork",
+            "and",
+            "Green",
+            "Chilli",
+            "Pepper",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "韓式",
+            "炭燒",
+            "黑",
+            "豚",
+            "肉"
+        ],
+        "english_name": [
+            "Charcoal",
+            "Grilled",
+            "beria",
+            "Pork",
+            "in",
+            "Korean",
+            "Style",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑",
+            "豚",
+            "肉",
+            "紅燒",
+            "獅子頭"
+        ],
+        "english_name": [
+            "Braised",
+            "beria",
+            "Pork",
+            "Ball",
+            "in",
+            "Brown",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "嗲",
+            "蝦球",
+            "粉絲",
+            "煲"
+        ],
+        "english_name": [
+            "Braised",
+            "King",
+            "Prawns",
+            "and",
+            "Glass",
+            "Noodles",
+            "in",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海皇",
+            "粒",
+            "炒",
+            "毛豆",
+            "菜脯"
+        ],
+        "english_name": [
+            "X0"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "XO",
+                "Fried",
+                "Diced",
+                "Seafood",
+                "with",
+                "Edamame",
+                "and",
+                "Preserved",
+                "Radish"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "秘",
+            "制",
+            "麻辣",
+            "法國",
+            "走",
+            "地",
+            "雞煲",
+            "半",
+            "隻"
+        ],
+        "english_name": [
+            "French",
+            "Corn",
+            "Fed",
+            "Chicken",
+            "in",
+            "Home",
+            "made",
+            "Spicy",
+            "Sauce",
+            "Half",
+            "Chicken",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "水煮",
+            "鱸魚"
+        ],
+        "english_name": [
+            "Poached",
+            "Wild",
+            "Sea",
+            "Bass",
+            "in",
+            "Sichuan",
+            "Spicy",
+            "Chilli",
+            "Soup",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "時價"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "重慶",
+            "酸菜",
+            "鱸魚"
+        ],
+        "english_name": [
+            "Wild",
+            "Sea",
+            "Bass",
+            "with",
+            "Preserved",
+            "Vegetables",
+            "and",
+            "Chilli",
+            "in",
+            "Soup",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "時價"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian"
+            ],
+            [
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

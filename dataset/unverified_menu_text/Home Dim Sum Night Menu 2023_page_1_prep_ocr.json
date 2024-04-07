@@ -1,5 +1,30 @@
 [
-
+    {
+        "chinese_name": [
+            "蒸",
+            "点心"
+        ],
+        "english_name": [
+            "STEAMED",
+            "DIM",
+            "SUM"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "包",
+            "点",
+            "类"
+        ],
+        "english_name": [
+            "STEAMED",
+            "BAO"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
     {
         "chinese_name": [
             "蒸",
@@ -13,6 +38,20 @@
         "chinese_description": [],
         "english_description": [
             [
+                "Stuffed",
+                "Mixed",
+                "Meat",
+                "Dumplings"
+            ],
+            [
+                "Tripe",
+                "with",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion"
+            ],
+            [
                 "Chicken",
                 "Feet",
                 "in",
@@ -21,11 +60,9 @@
                 "Sauce"
             ],
             [
-                "Budda's",
-                "Delight",
-                "Dumplings",
-                "V",
-                "VG"
+                "Mini",
+                "Shanghai",
+                "Dumplings"
             ],
             [
                 "Chicken",
@@ -60,8 +97,7 @@
                 "Abalone",
                 "Sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -77,8 +113,7 @@
             "Dumplings"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -95,8 +130,7 @@
             "Onion"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -105,10 +139,16 @@
             "蒸",
             "凤爪"
         ],
-        "english_name": [],
+        "english_name": [
+            "Chicken",
+            "Feet",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -119,8 +159,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -134,8 +173,7 @@
             "V"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -149,8 +187,7 @@
             "Bao"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -162,14 +199,16 @@
         "english_name": [
             "Home",
             "Mango",
-            "Liu",
-            "Sha",
-            "Bao",
-            "V"
+            "Liu"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Sha",
+                "Bao",
+                "V"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -183,8 +222,7 @@
             "Dumplings"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -198,8 +236,7 @@
             "Tripe"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -213,8 +250,7 @@
             "Squid"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -231,18 +267,23 @@
             "dumplings"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "迷你",
             "珍珠鸡"
         ],
-        "english_name": [],
+        "english_name": [
+            "Chicken",
+            "Glutinous",
+            "Rice",
+            "in",
+            "Lotus",
+            "Leaf"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -267,18 +308,23 @@
                 "Vegetable",
                 "Bao"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "黑椒",
             "牛仔骨"
         ],
-        "english_name": [],
+        "english_name": [
+            "Calf",
+            "Bone",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -296,8 +342,7 @@
             "V"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -305,10 +350,17 @@
             "粟米",
             "饺"
         ],
-        "english_name": [],
+        "english_name": [
+            "Chinese",
+            "Mushroom",
+            "and",
+            "Corn",
+            "Dumplings",
+            "V",
+            "VG"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -316,10 +368,16 @@
             "蒸",
             "凤爪"
         ],
-        "english_name": [],
+        "english_name": [
+            "Steamed",
+            "Chicken",
+            "Feet",
+            "in",
+            "Abalone",
+            "Sauce"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -330,8 +388,7 @@
             "SPECIAL"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -344,8 +401,7 @@
             "SUM"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -361,8 +417,7 @@
             "Fun"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -374,13 +429,15 @@
             "King",
             "Prawn",
             "and",
-            "Chive",
-            "Leaf",
-            "Dumplings"
+            "Chive"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Leaf",
+                "Dumplings"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -401,8 +458,7 @@
                 "Bean",
                 "Sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -417,8 +473,7 @@
             "Croquette"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -437,8 +492,7 @@
                 "Chilli",
                 "Peppers"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -450,12 +504,14 @@
             "Deep",
             "Fried",
             "King",
-            "Prawn",
-            "Dumplings"
+            "Prawn"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Dumplings"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -469,8 +525,7 @@
             "Style"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -482,19 +537,18 @@
             "糕"
         ],
         "english_name": [
-            "Coconut",
-            "Milk",
-            "Rolls",
-            "V"
+            "Turnip",
+            "Paste"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Turnip",
-                "Paste"
+                "Coconut",
+                "Milk",
+                "Rolls",
+                "V"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -508,23 +562,16 @@
             "Dumplings"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "杨枝",
             "甘露"
         ],
-        "english_name": [
-            "Mango",
-            "Pomelo",
-            "Sago",
-            "V"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -538,8 +585,7 @@
             "V"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -552,8 +598,7 @@
             "V"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -569,15 +614,10 @@
         "english_name": [
             "Stuffed",
             "Tofu",
-            "Roll",
-            "Har",
-            "Kau",
-            "Prawn",
-            "Dumplings"
+            "Roll"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -592,8 +632,7 @@
             "Ball"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -604,12 +643,14 @@
         "english_name": [
             "Pan",
             "Fried",
-            "Pumpkin",
-            "Cake",
-            "V"
+            "Pumpkin"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Cake",
+                "V"
+            ]
+        ]
     }
 ]

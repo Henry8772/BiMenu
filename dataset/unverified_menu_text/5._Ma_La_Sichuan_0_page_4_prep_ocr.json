@@ -1,0 +1,561 @@
+[
+    {
+        "chinese_name": [
+            "熱",
+            "葷",
+            "頭",
+            "盤"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "拼盤"
+        ],
+        "english_name": [
+            "Hot",
+            "Appetisers"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "點心",
+            "拼盤"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豬肉",
+            "小籠",
+            "包"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "粟米",
+            "蝦",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菠菜",
+            "蝦",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "帶子",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "叉燒包"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Hot",
+            "Appetisers"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ma",
+                "La",
+                "Special",
+                "Mixed",
+                "Platter"
+            ],
+            [
+                "minimum",
+                "persons"
+            ],
+            [
+                "per",
+                "person"
+            ],
+            [
+                "Crispy",
+                "Seaweed",
+                "Veg",
+                "Spring",
+                "Rolls",
+                "Salt",
+                "and",
+                "Pepper",
+                "Squid"
+            ],
+            [
+                "Shredded",
+                "Smoked",
+                "Chicken",
+                "Sesame",
+                "Prawn",
+                "Baguette"
+            ],
+            [
+                "Dim",
+                "Sum",
+                "Platter",
+                "pieces"
+            ],
+            [
+                "A",
+                "selection",
+                "of",
+                "delicate",
+                "steamed",
+                "homemade",
+                "dim",
+                "sum"
+            ],
+            [
+                "Prawn",
+                "Dumpling",
+                "Scallop",
+                "and",
+                "Prawn",
+                "Dumpling"
+            ],
+            [
+                "Spinach",
+                "and",
+                "Prawn",
+                "Dumpling",
+                "Babycorn",
+                "and",
+                "Prawn",
+                "Dumpling"
+            ],
+            [
+                "Xiao",
+                "Long",
+                "Bao"
+            ],
+            [
+                "Steamed",
+                "dumplings",
+                "with",
+                "pork",
+                "filling"
+            ],
+            [
+                "Veg",
+                "Dumpling"
+            ],
+            [
+                "Prawn",
+                "Dumpling"
+            ],
+            [
+                "Babycorn",
+                "and",
+                "Prawn",
+                "Dumpling"
+            ],
+            [
+                "Spinach",
+                "and",
+                "Prawn",
+                "Dumpling"
+            ],
+            [
+                "Scallop",
+                "and",
+                "Prawn",
+                "Dumpling"
+            ],
+            [
+                "Sichuanese",
+                "Chao",
+                "Shou",
+                "Duplings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "紅油",
+            "抄手"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Chicken",
+            "dumplings",
+            "in",
+            "hot",
+            "chilli",
+            "oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sesame",
+                "Chao",
+                "Shou",
+                "Dumplings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "麻醬",
+            "抄手"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "北方",
+            "水餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豬肉",
+            "韭菜"
+        ],
+        "english_name": [
+            "Pork",
+            "prawn",
+            "Chinese",
+            "chives",
+            "dumplings",
+            "with",
+            "soya"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "傳統",
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [
+            "vinegar",
+            "dressing",
+            "contains",
+            "egg"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Classic",
+                "Crispy",
+                "Aromatic",
+                "Duck"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "香酥",
+            "鴨"
+        ],
+        "english_name": [
+            "Served",
+            "with",
+            "steamed",
+            "pancakes",
+            "shredded"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "cucumber",
+                "and",
+                "spring",
+                "onion",
+                "with",
+                "hoi",
+                "sin",
+                "sauce"
+            ],
+            [
+                "portion"
+            ],
+            [
+                "portion"
+            ],
+            [
+                "Vegetarian",
+                "Aromatic",
+                "Duck"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "春卷"
+        ],
+        "english_name": [
+            "Served",
+            "with",
+            "steamed",
+            "pancakes",
+            "shredded"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "cucumber",
+                "and",
+                "spring",
+                "onion",
+                "with",
+                "hoi",
+                "sin",
+                "sauce"
+            ],
+            [
+                "portion"
+            ],
+            [
+                "portion"
+            ],
+            [
+                "Vegetarian",
+                "Spring",
+                "Rolls"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鴨",
+            "卷"
+        ],
+        "english_name": [
+            "Aromatic",
+            "Duck",
+            "Spring",
+            "Rolls"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "糖醋",
+            "排骨"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Spare",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "多",
+            "士"
+        ],
+        "english_name": [
+            "Sesame",
+            "Prawn",
+            "On",
+            "Baguette"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "分",
+            "雞絲"
+        ],
+        "english_name": [
+            "Shredded",
+            "Smoked",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "鮮魷"
+        ],
+        "english_name": [
+            "Lightly",
+            "wok",
+            "fried",
+            "in",
+            "spicy",
+            "salt",
+            "chilli",
+            "garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Squid"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "大蝦"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "口水",
+            "雞"
+        ],
+        "english_name": [
+            "Mouth",
+            "watering",
+            "Sichuan",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "軟",
+            "殼",
+            "蟹"
+        ],
+        "english_name": [
+            "Cornfed",
+            "chicken",
+            "skin",
+            "on",
+            "served",
+            "with",
+            "bamboo",
+            "shoots"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "a",
+                "tingling",
+                "spicy",
+                "sauce",
+                "with",
+                "cashew",
+                "nut",
+                "topping"
+            ],
+            [
+                "Crispy",
+                "Soft",
+                "Shell",
+                "Crab",
+                "with",
+                "Dry",
+                "Roasted"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "軟",
+            "殼",
+            "蟹"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Pepper",
+            "and",
+            "Spicy",
+            "Salt"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Crispy",
+                "Soft",
+                "Shell",
+                "Crab",
+                "with",
+                "Fragrant"
+            ]
+        ]
+    }
+]

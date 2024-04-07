@@ -3,16 +3,9 @@
         "chinese_name": [
             "蔬菜"
         ],
-        "english_name": [
-            "VEGETABLE"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [
-            [
-                "DISHES"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -38,22 +31,23 @@
             "in",
             "the",
             "following",
-            "options",
-            "Stir",
-            "Fried",
-            "Garlic",
-            "Shrimp",
-            "Paste",
-            "Preserved",
-            "Tofu"
+            "options"
         ],
         "chinese_description": [],
         "english_description": [
             [
+                "Stir",
+                "Fried",
+                "Garlic",
+                "Shrimp",
+                "Paste",
+                "Preserved",
+                "Tofu"
+            ],
+            [
                 "M1"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -61,18 +55,10 @@
             "菜"
         ],
         "english_name": [
-            "Tong",
-            "Choi",
-            "V",
-            "VG"
+            "M5"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "M5"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -89,31 +75,11 @@
             [
                 "M2"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "小白菜"
-        ],
-        "english_name": [
-            "Siu",
-            "Pak",
-            "Choi",
-            "V",
-            "VG"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "M6"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "菠菜"
         ],
         "english_name": [
             "Chinese",
@@ -124,14 +90,40 @@
         "chinese_description": [],
         "english_description": [
             [
-                "M3"
+                "Siu",
+                "Pak",
+                "Choi",
+                "V",
+                "VG"
+            ],
+            [
+                "M6"
             ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "菠菜"
         ],
-        "raw_text": null
+        "english_name": [
+            "M3"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
             "生菜"
+        ],
+        "english_name": [
+            "M7"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大白菜"
         ],
         "english_name": [
             "Lettuce",
@@ -141,28 +133,9 @@
         "chinese_description": [],
         "english_description": [
             [
-                "M7"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "大白菜"
-        ],
-        "english_name": [
-            "Chinese",
-            "Cabbage",
-            "V",
-            "VG"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
                 "M"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -171,8 +144,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -205,8 +177,7 @@
             [
                 "M8"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -216,23 +187,11 @@
             "双"
         ],
         "english_name": [
-            "Pea",
-            "Greens",
-            "Garlic",
-            "Broth",
-            "Double",
-            "Egg",
-            "in",
-            "Broth"
+            "V",
+            "VG"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "V",
-                "VG"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -254,8 +213,7 @@
                 "V",
                 "VG"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -277,8 +235,7 @@
             [
                 "M12"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -297,8 +254,7 @@
             "VG"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -324,7 +280,6 @@
                 "request",
                 "Spicy"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

@@ -27,8 +27,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -45,8 +44,7 @@
             "Dip"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -66,8 +64,7 @@
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -76,23 +73,6 @@
             "香辣",
             "甜",
             "辣"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "蛏",
-            "子",
-            "豉",
-            "汁",
-            "炒",
-            "辣炒",
-            "酱",
-            "炒",
-            "白灼"
         ],
         "english_name": [
             "Deep",
@@ -112,12 +92,10 @@
             "In",
             "Sweet",
             "Chilli",
-            "Sauce",
-            "XO"
+            "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -125,8 +103,44 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛏",
+            "子",
+            "豉",
+            "汁",
+            "炒",
+            "辣炒",
+            "酱",
+            "炒",
+            "白灼"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "Fried",
+                "Razor",
+                "Clams",
+                "in",
+                "Black",
+                "Bean",
+                "Sauce",
+                "In",
+                "Spicy",
+                "Chilli",
+                "Sauce",
+                "With",
+                "XO",
+                "Sauce",
+                "Blanched"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -137,34 +151,14 @@
         "english_name": [
             "Stir",
             "Fried",
-            "Razor",
-            "Clams",
+            "Crayfish",
             "in",
-            "Black",
-            "Bean",
-            "Sauce",
-            "In",
             "Spicy",
             "Chilli",
-            "Sauce",
-            "With",
-            "XO",
-            "Sauce",
-            "Blanched"
+            "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Stir",
-                "Fried",
-                "Crayfish",
-                "in",
-                "Spicy",
-                "Chilli",
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -184,7 +178,6 @@
             "customers"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

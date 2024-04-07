@@ -1,0 +1,249 @@
+[
+    {
+        "chinese_name": [
+            "蒸",
+            "点",
+            "三",
+            "喜",
+            "拼"
+        ],
+        "english_name": [
+            "COMPLIMETARY",
+            "TEA",
+            "OF",
+            "CHOICE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Steamed",
+                "Dim",
+                "Sum",
+                "Platter"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "饺"
+        ],
+        "english_name": [
+            "Seafood",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "带子",
+            "烧麦"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣蟹",
+            "肉",
+            "饺"
+        ],
+        "english_name": [
+            "Spicy",
+            "Crab",
+            "Meat",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "四喜",
+            "拼"
+        ],
+        "english_name": [
+            "Fried",
+            "Baked",
+            "Dim",
+            "Sum",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉烧",
+            "酥"
+        ],
+        "english_name": [
+            "Barbecued",
+            "Roast",
+            "Pork",
+            "Puffs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "越南",
+            "春卷"
+        ],
+        "english_name": [
+            "Vietnamese",
+            "Spring",
+            "Rolls"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "荔",
+            "茸",
+            "芋",
+            "角"
+        ],
+        "english_name": [
+            "Fried",
+            "Yam",
+            "Paste",
+            "Meat",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "煎",
+            "叉烧包"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Barbecued",
+            "Roast",
+            "Pork",
+            "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "主食",
+            "甜点"
+        ],
+        "english_name": [
+            "Main",
+            "Dish",
+            "and",
+            "Dissert"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "and"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭",
+            "星洲",
+            "炒",
+            "米粉"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice",
+            "Spicy",
+            "Singapore",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杨枝",
+            "甘露"
+        ],
+        "english_name": [
+            "Chilled",
+            "Mango",
+            "Pudding",
+            "with",
+            "Pomelo"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "点心",
+            "下午茶"
+        ],
+        "english_name": [
+            "Steamed",
+            "Dim",
+            "Sum",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "Baked",
+                "Dim",
+                "Sum",
+                "Platter"
+            ],
+            [
+                "Fried",
+                "Yam",
+                "Paste",
+                "Meat",
+                "Dumplings"
+            ],
+            [
+                "Pan",
+                "Fried",
+                "Barbecued",
+                "Roast",
+                "Pork",
+                "Buns"
+            ],
+            [
+                "Egg",
+                "Fried",
+                "Rice",
+                "Spicy",
+                "Singapore",
+                "Noodle"
+            ],
+            [
+                "Chilled",
+                "Mango",
+                "Pudding",
+                "with",
+                "Pomelo"
+            ],
+            [
+                "High",
+                "tea",
+                "Dim",
+                "Sum",
+                "Set"
+            ]
+        ]
+    }
+]

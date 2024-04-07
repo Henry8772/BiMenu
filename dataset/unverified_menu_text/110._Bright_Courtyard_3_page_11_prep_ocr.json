@@ -1,0 +1,73 @@
+[
+    {
+        "chinese_name": [
+            "上海",
+            "凉菜"
+        ],
+        "english_name": [
+            "SHANGHAI",
+            "COLD",
+            "DISH"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "糟",
+            "味",
+            "熏",
+            "蹄"
+        ],
+        "english_name": [
+            "Marinated",
+            "Pork",
+            "Knuckle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "莲藕"
+        ],
+        "english_name": [
+            "Sliced",
+            "Lotus",
+            "Root",
+            "in",
+            "Honey",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芥",
+            "味",
+            "裙带",
+            "菜"
+        ],
+        "english_name": [
+            "Mustard",
+            "Wakame"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "供",
+            "考",
+            "出品",
+            "以",
+            "实物",
+            "为准"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -1,0 +1,308 @@
+[
+    {
+        "chinese_name": [
+            "点"
+        ],
+        "english_name": [
+            "Steamed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dumplings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣椒",
+            "螃蟹",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Chilli",
+            "Crab",
+            "and",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Xiao",
+                "Long",
+                "Bao"
+            ],
+            [
+                "5pcs",
+                "305kcal"
+            ],
+            [
+                "5pcs",
+                "240kcal"
+            ],
+            [
+                "pc",
+                "6kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "松露",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Truffle",
+            "and",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Xiao",
+                "Long",
+                "Bao"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "pc",
+            "48kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "餃子"
+        ],
+        "english_name": [
+            "10pcs",
+            "494kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蟹粉",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Crab",
+            "and",
+            "Pork",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Beef",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡肉",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Chicken",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蟹",
+            "入口",
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "10pcs",
+            "588kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "8pcs",
+                "320kcal"
+            ],
+            [
+                "5pcs",
+                "294kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "牛肉",
+            "入",
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "D"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "10pcs",
+                "318kcal"
+            ],
+            [
+                "4pcs",
+                "160kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鷄肉",
+            "入",
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "D"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "5pcs",
+                "159kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Pork",
+            "Xiao",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "5pcs",
+                "247kcal"
+            ],
+            [
+                "Din",
+                "Tai",
+                "Fung's",
+                "world",
+                "famous"
+            ],
+            [
+                "Xiao",
+                "Long",
+                "Bao",
+                "features",
+                "a",
+                "minimum"
+            ],
+            [
+                "of",
+                "exquisite",
+                "folds",
+                "Each",
+                "handmade"
+            ],
+            [
+                "with",
+                "succulent",
+                "minced",
+                "pork",
+                "wrapped"
+            ],
+            [
+                "in",
+                "a",
+                "delicate",
+                "dough",
+                "skin",
+                "which",
+                "is"
+            ],
+            [
+                "pleated",
+                "twisted",
+                "and",
+                "then",
+                "steamed"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣",
+            "素食"
+        ],
+        "english_name": [
+            "Spicy",
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "师",
+            "推荐"
+        ],
+        "english_name": [
+            "Chef's",
+            "Recommendation"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "approach",
+                "our",
+                "staff",
+                "for",
+                "preference",
+                "Product",
+                "images",
+                "are",
+                "for",
+                "illustrative",
+                "purposes",
+                "only"
+            ]
+        ]
+    }
+]

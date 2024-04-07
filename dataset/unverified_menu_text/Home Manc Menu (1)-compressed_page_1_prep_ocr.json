@@ -7,15 +7,7 @@
             "P"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "A1"
-            ],
-            [
-                "A7"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -24,24 +16,29 @@
             "羹"
         ],
         "english_name": [
-            "Chicken",
-            "and",
-            "Sweetcorn",
-            "Soup"
+            "A1"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "A2"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "海鲜",
             "豆腐",
             "羹"
+        ],
+        "english_name": [
+            "A7"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芥菜",
+            "咸蛋",
+            "肉片",
+            "汤"
         ],
         "english_name": [
             "Mixed",
@@ -56,14 +53,38 @@
                 "A",
                 "B"
             ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蟹柳",
+            "粟米",
+            "羹"
         ],
-        "raw_text": null
+        "english_name": [
+            "A2"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
+            "A3"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
             "芥菜",
-            "咸蛋",
-            "肉片",
+            "鸭",
+            "丝",
+            "豆腐",
             "汤"
         ],
         "english_name": [
@@ -80,84 +101,44 @@
                 "Pork",
                 "Soup"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "蟹柳",
-            "粟米",
-            "羹"
-        ],
-        "english_name": [
-            "Crab",
-            "Meat",
-            "and",
-            "Sweetcorn",
-            "Soup"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "A3"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "斋",
-            "粟米",
-            "羹"
-        ],
-        "english_name": [
-            "Sweet",
-            "Corn",
-            "Soup",
-            "V",
-            "VG"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "A4"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "芥菜",
-            "鸭",
-            "丝",
-            "豆腐",
-            "汤"
-        ],
-        "english_name": [
-            "Mustard",
-            "Green",
-            "with",
-            "Duck",
-            "Blood"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "and",
-                "Tofu",
-                "Soup"
-            ],
-            [
-                "A10"
-            ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "西京",
             "汤",
             "斋"
+        ],
+        "english_name": [
+            "A4"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "三",
+            "丝",
+            "丝",
+            "羹"
+        ],
+        "english_name": [
+            "and",
+            "Tofu",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A10"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "老",
+            "火",
+            "汤"
         ],
         "english_name": [
             "Hot",
@@ -170,53 +151,23 @@
             "U"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "A5"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "三",
-            "丝",
-            "丝",
-            "羹"
-        ],
-        "english_name": [
-            "Duck",
-            "and",
-            "Vegetables",
-            "Soup"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "老",
-            "火",
-            "汤"
-        ],
-        "english_name": [
-            "Home",
-            "Traditional",
-            "Soup"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "M",
-                "L"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "云吞",
+            "汤"
+        ],
+        "english_name": [
+            "A5"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香菜",
+            "鱼片",
             "汤"
         ],
         "english_name": [
@@ -230,33 +181,6 @@
             [
                 "A6"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "香菜",
-            "鱼片",
-            "汤"
-        ],
-        "english_name": [
-            "Coriander",
-            "Fish",
-            "Fillet",
-            "Soup"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "V",
-                "Vegetarian",
-                "VG",
-                "Vegan",
-                "on",
-                "request",
-                "Spicy"
-            ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

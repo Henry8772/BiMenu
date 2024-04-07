@@ -8,29 +8,10 @@
             "咕"
         ],
         "english_name": [
-            "King",
-            "Prawns",
-            "in",
-            "Black",
-            "Bean",
-            "Ginger"
+            "G"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "and",
-                "Spring",
-                "Onions",
-                "Sweet",
-                "and",
-                "Sour",
-                "Sauce"
-            ],
-            [
-                "G3"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -38,23 +19,45 @@
             "虾球"
         ],
         "english_name": [
-            "Home",
-            "Kung",
-            "Po"
+            "SEAFOOD",
+            "DISHES"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "King",
-                "Prawns"
+                "G2"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "腰果",
             "虾"
+        ],
+        "english_name": [
+            "G3"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鲜鱿",
+            "椒",
+            "葱"
+        ],
+        "english_name": [
+            "G4"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鲈鱼",
+            "清蒸",
+            "椒",
+            "干烧"
         ],
         "english_name": [
             "King",
@@ -68,14 +71,49 @@
             [
                 "G"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
-            "鲜鱿",
-            "椒",
-            "葱"
+            "多",
+            "宝",
+            "鱼",
+            "清蒸",
+            "古法",
+            "蒸"
+        ],
+        "english_name": [
+            "Sea",
+            "Bass",
+            "Steamed",
+            "Steamed",
+            "with",
+            "Mixed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Peppers",
+                "Dry",
+                "Braised"
+            ],
+            [
+                "G8"
+            ],
+            [
+                "Seasonal",
+                "Price"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "基围虾",
+            "咸蛋",
+            "黄",
+            "椒盐",
+            "无",
+            "壳"
         ],
         "english_name": [
             "Squid",
@@ -95,68 +133,15 @@
             [
                 "G5"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
-            "鲈鱼",
-            "清蒸",
-            "椒",
-            "干烧"
-        ],
-        "english_name": [
-            "Sea",
-            "Bass",
-            "Steamed",
-            "Steamed",
-            "with",
-            "Mixed",
-            "Peppers",
-            "Dry",
-            "Braised"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "G8"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "多",
-            "宝",
-            "鱼",
-            "清蒸",
-            "古法",
+            "龙虾",
+            "葱",
+            "蛋黃",
+            "蒜蓉",
             "蒸"
-        ],
-        "english_name": [
-            "Seasonal",
-            "Price"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "Turbot",
-                "Steamed",
-                "Steamed",
-                "Traditional",
-                "Style"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "基围虾",
-            "咸蛋",
-            "黄",
-            "椒盐",
-            "无",
-            "壳"
         ],
         "english_name": [
             "King",
@@ -179,48 +164,11 @@
             ],
             [
                 "G6"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "龙虾",
-            "葱",
-            "蛋黃",
-            "蒜蓉",
-            "蒸"
-        ],
-        "english_name": [
-            "Seasonal",
-            "Price"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "Lobster",
-                "Ginger",
-                "and",
-                "Spring",
-                "Onions",
-                "Salty",
-                "Duck",
-                "Egg",
-                "Yolk",
-                "Steamed",
-                "with",
-                "Garlic"
             ],
             [
-                "V",
-                "Vegetarian",
-                "VG",
-                "Vegan",
-                "on",
-                "request",
-                "Spicy"
+                "Seasonal",
+                "Price"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

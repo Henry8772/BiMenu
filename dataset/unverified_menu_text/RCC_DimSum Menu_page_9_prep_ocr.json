@@ -1,0 +1,77 @@
+[
+    {
+        "chinese_name": [
+            "茶"
+        ],
+        "english_name": [
+            "a"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香片",
+            "王"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "高山",
+            "烏龍"
+        ],
+        "english_name": [
+            "Jasmine",
+            "Tea"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鐵",
+            "觀音",
+            "王"
+        ],
+        "english_name": [
+            "Oolong",
+            "Tea"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牡丹",
+            "王",
+            "壽眉"
+        ],
+        "english_name": [
+            "Te",
+            "Guan",
+            "Yin",
+            "Tea"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "珍藏",
+            "普洱",
+            "拾",
+            "貳",
+            "年"
+        ],
+        "english_name": [
+            "Shou",
+            "Mei",
+            "Tea"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

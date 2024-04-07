@@ -1,0 +1,222 @@
+[
+    {
+        "chinese_name": [
+            "主菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "油爆",
+            "龍",
+            "利",
+            "球"
+        ],
+        "english_name": [
+            "Sautéed",
+            "Fillets",
+            "of",
+            "Dover",
+            "Sole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "米酒",
+            "焗",
+            "斑",
+            "魚",
+            "球",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "Braised",
+            "Fish",
+            "Fillet",
+            "and",
+            "Tofu",
+            "in",
+            "Clay",
+            "Pot",
+            "with",
+            "Rice",
+            "Wine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "皇",
+            "煎",
+            "封",
+            "龍",
+            "利"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Whole",
+            "Dover",
+            "Sole",
+            "in",
+            "XO",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "野生",
+            "海",
+            "鱸魚"
+        ],
+        "english_name": [
+            "Steamed",
+            "Whole",
+            "Wild",
+            "Sea",
+            "Bass",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "時價"
+        ],
+        "english_name": [
+            "Seasonal",
+            "Price"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "潮",
+            "式",
+            "帶子",
+            "皇"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Chiu",
+            "Chow",
+            "Style",
+            "Sautéed",
+            "King",
+            "Scallop",
+            "with",
+            "Baby",
+            "Asparagus",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蕃茄",
+            "乾",
+            "奶油",
+            "明",
+            "蝦球"
+        ],
+        "english_name": [
+            "Sautéed",
+            "Creamy",
+            "King",
+            "Prawns",
+            "with",
+            "Dried",
+            "Tomatoes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑",
+            "蒜",
+            "梅子",
+            "蒜香",
+            "蒸",
+            "中",
+            "蝦"
+        ],
+        "english_name": [
+            "Steamed",
+            "King",
+            "Prawns",
+            "with",
+            "Black",
+            "Garlic",
+            "and",
+            "Plum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "蝦球",
+            "煲"
+        ],
+        "english_name": [
+            "Sizzling",
+            "King",
+            "Prawns",
+            "in",
+            "Sichuan",
+            "Spicy",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

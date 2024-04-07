@@ -1,10 +1,55 @@
 [
-    
     {
         "chinese_name": [
+            "素食",
+            "套餐"
+        ],
+        "english_name": [
+            "per",
+            "Head"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "CHRISTMAS",
+                "VEGETARIAN",
+                "APPETISER"
+            ],
+            [
+                "Vegetable",
+                "Spring",
+                "Rolls",
+                "Vegetable",
+                "Won",
+                "Ton",
+                "Salt",
+                "and",
+                "Pepper",
+                "Mock",
+                "Chicken",
+                "Salt"
+            ],
+            [
+                "and",
+                "Pepper",
+                "Tofu",
+                "Crispy",
+                "Seaweed"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "春卷",
+            "素",
+            "云吞",
+            "椒盐",
             "斋",
-            "麻婆",
-            "豆腐"
+            "鸡",
+            "椒盐",
+            "豆腐",
+            "海草"
         ],
         "english_name": [
             "Vegetarian",
@@ -15,14 +60,14 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "price": 11.5
+        "english_description": []
     },
     {
         "chinese_name": [
-            "清炒",
-            "野菌",
-            "四季豆"
+            "斋",
+            "麻",
+            "婆",
+            "豆腐"
         ],
         "english_name": [
             "Stir",
@@ -34,18 +79,13 @@
             "Mushroom"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-               
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "咕噜",
-            "斋",
-            "鸡"
+            "清炒",
+            "野菌",
+            "四季豆"
         ],
         "english_name": [
             "Sweet",
@@ -55,11 +95,24 @@
             "Chicken",
             "Cantonese",
             "Style"
-            
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咕噜",
+            "斋",
+            "鸡"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetable",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -67,15 +120,8 @@
             "菜",
             "炒饭"
         ],
-        "english_name": [
-            
-            "Mixed",
-            "Vegetable",
-            "Fried",
-            "Rice"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

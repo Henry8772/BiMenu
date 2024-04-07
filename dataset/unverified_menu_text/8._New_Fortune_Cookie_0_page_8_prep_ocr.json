@@ -1,0 +1,179 @@
+[
+    {
+        "chinese_name": [
+            "絲苗",
+            "白飯"
+        ],
+        "english_name": [
+            "RICE",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Boiled",
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鹹魚",
+            "雞",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Yeung",
+                "Chow",
+                "Fried",
+                "Rice",
+                "pork",
+                "and",
+                "shrimp"
+            ],
+            [
+                "Chicken",
+                "and",
+                "Salted",
+                "Fish",
+                "Fried",
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "仔",
+            "炒飯"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice",
+            "with",
+            "Seafood",
+            "fook",
+            "chow",
+            "style",
+            "in",
+            "gravy"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "Rice",
+                "with",
+                "Smoked",
+                "Shredded",
+                "Chicken"
+            ],
+            [
+                "Roast",
+                "Duck",
+                "on",
+                "Rice"
+            ],
+            [
+                "Crispy",
+                "Pork",
+                "on"
+            ],
+            [
+                "Roast",
+                "Pork",
+                "on",
+                "Rice"
+            ],
+            [
+                "Soya",
+                "Chicken",
+                "on",
+                "Ric"
+            ],
+            [
+                "Minced",
+                "Beef",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "Shrimps",
+                "Fried",
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蝦球",
+            "炒飯"
+        ],
+        "english_name": [
+            "Prawn",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "菠蘿"
+        ],
+        "english_name": [
+            "DESSERT"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Deep",
+                "Fried",
+                "Ice",
+                "Cream"
+            ],
+            [
+                "Black",
+                "Sesame",
+                "Glutinous",
+                "Rice",
+                "Balls"
+            ],
+            [
+                "Toffee",
+                "Banana"
+            ],
+            [
+                "Toffee",
+                "Appl"
+            ],
+            [
+                "Banana",
+                "Fritters"
+            ],
+            [
+                "Pineapple",
+                "Fritters"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "荔枝"
+        ],
+        "english_name": [
+            "Lychees"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

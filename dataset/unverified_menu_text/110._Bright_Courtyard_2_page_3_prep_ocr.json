@@ -1,0 +1,333 @@
+[
+    {
+        "chinese_name": [
+            "蒸",
+            "點"
+        ],
+        "english_name": [
+            "STEAMED"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "King",
+            "prawn",
+            "dumplings",
+            "har",
+            "gau"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮮蝦",
+            "韭菜",
+            "餃"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seafood",
+                "dumplings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水晶",
+            "蝦",
+            "餃",
+            "皇"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Scallop",
+                "dumplings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "罗汉",
+            "上",
+            "素",
+            "餃"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "什",
+            "菌",
+            "餃"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "PORK"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "饺"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "翡翠",
+            "帶子",
+            "餃"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mini",
+                "sponge",
+                "cake",
+                "v"
+            ],
+            [
+                "Beef",
+                "Meatball",
+                "w",
+                "coriander"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Shanghai",
+            "pork",
+            "dumplings",
+            "Siu",
+            "long",
+            "bao"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "馬拉",
+            "糕"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香",
+            "牛肉",
+            "球"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小籠",
+            "包"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "流沙",
+            "包"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "牛",
+            "柏叶"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "珍珠",
+            "糯米",
+            "雞"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "奶",
+            "黄",
+            "包"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "feet",
+                "in",
+                "black",
+                "bean",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "帶子",
+            "燒賣"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mini",
+                "ribs",
+                "in",
+                "black",
+                "bean",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蟹黃",
+            "燒賣"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spare"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "鳳爪"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "猪猪",
+            "包"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醬汁",
+            "排骨"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Roasted",
+            "pork",
+            "buns",
+            "Char",
+            "siu",
+            "bao"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蠔",
+            "皇",
+            "叉燒包"
+        ],
+        "english_name": [
+            "Portion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "點"
+        ],
+        "english_name": [
+            "STEAMED"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

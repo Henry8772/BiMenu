@@ -1,0 +1,86 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONG",
+            "NOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜瓣",
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [
+            "Wok",
+            "Fried",
+            "Chicken",
+            "Dry",
+            "Chilli",
+            "And",
+            "Carlic",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sichuan",
+                "Style"
+            ],
+            [
+                "A52"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "山城",
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [
+            "Mountain",
+            "City",
+            "Wok",
+            "Fried",
+            "Chicken",
+            "And",
+            "Chilli",
+            "With"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Garlic",
+                "And",
+                "Szechuan",
+                "Peppercorns",
+                "Authentic",
+                "And"
+            ],
+            [
+                "Typical",
+                "Dish",
+                "Worth",
+                "Trying"
+            ]
+        ]
+    }
+]

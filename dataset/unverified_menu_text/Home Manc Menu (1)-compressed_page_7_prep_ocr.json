@@ -15,8 +15,7 @@
                 "ROASTED",
                 "MEATS"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -36,8 +35,7 @@
                 "Cantonese",
                 "Style"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -50,8 +48,7 @@
             "Pork"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -69,8 +66,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -83,8 +79,7 @@
             "Pork"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -104,8 +99,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -124,8 +118,7 @@
             "Roasts"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -149,8 +142,7 @@
                 "Boiled",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -174,8 +166,7 @@
                 "Boiled",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -196,8 +187,7 @@
                 "Spring",
                 "Onions"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -219,8 +209,7 @@
                 "request",
                 "Spicy"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -244,7 +233,6 @@
                 "Boiled",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

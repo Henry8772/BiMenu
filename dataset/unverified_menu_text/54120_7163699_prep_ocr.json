@@ -1,0 +1,175 @@
+[
+    {
+        "chinese_name": [
+            "铁板",
+            "湘",
+            "味",
+            "菜"
+        ],
+        "english_name": [
+            "SIZZLING",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "酸辣",
+            "鸡"
+        ],
+        "english_name": [
+            "Spring",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "酸辣",
+            "鱼",
+            "仔"
+        ],
+        "english_name": [
+            "Cuttlefish"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "吊",
+            "烧",
+            "茄子"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Braised",
+            "Aubergine",
+            "in",
+            "Garlic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "水晶",
+            "粉"
+        ],
+        "english_name": [
+            "Pork",
+            "Mints",
+            "with",
+            "Crystals"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Rice",
+                "Threads",
+                "Noodles"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [
+            "Fresh",
+            "Egg",
+            "Tofu",
+            "with",
+            "Pork",
+            "Mince",
+            "and",
+            "Garden",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福福福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "玉",
+            "子",
+            "豆腐"
+        ],
+        "english_name": [
+            "Fresh",
+            "Egg",
+            "Tofu",
+            "with",
+            "Pork",
+            "Mince",
+            "and",
+            "Garden",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "OR",
+                "without",
+                "Pork",
+                "Mince"
+            ]
+        ]
+    }
+]

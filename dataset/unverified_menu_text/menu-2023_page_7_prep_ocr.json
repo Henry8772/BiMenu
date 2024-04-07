@@ -8,8 +8,7 @@
             "DUCK"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -27,19 +26,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Roasted",
-                "Duck",
-                "with",
-                "Plum",
-                "Sauce",
-                "in",
-                "Clay",
-                "Pot"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -49,15 +36,17 @@
             "煲"
         ],
         "english_name": [
-            "Sweet",
-            "and",
-            "Spicy",
+            "Roasted",
             "Duck",
-            "Dome"
+            "with",
+            "Plum",
+            "Sauce",
+            "in",
+            "Clay",
+            "Pot"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -68,10 +57,15 @@
             "子",
             "鴨"
         ],
-        "english_name": [],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Spicy",
+            "Duck",
+            "Dome"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -94,19 +88,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Pak",
-                "Far",
-                "Roasted",
-                "Duck",
-                "with",
-                "Prawn",
-                "Meat",
-                "Stuffing"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -116,17 +98,35 @@
             "片"
         ],
         "english_name": [
-            "SIZZLING",
-            "DISHES"
+            "Pak",
+            "Far",
+            "Roasted",
+            "Duck",
+            "with",
+            "Prawn",
+            "Meat",
+            "Stuffing"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "鐵板",
             "類"
+        ],
+        "english_name": [
+            "SIZZLING",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鐵板",
+            "中式",
+            "牛柳"
         ],
         "english_name": [
             "Sizzling",
@@ -136,13 +136,12 @@
             "Style"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "鐵板",
-            "中式",
+            "沙爹",
             "牛柳"
         ],
         "english_name": [
@@ -155,19 +154,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "鐵板",
-            "沙爹",
-            "牛柳"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -189,19 +176,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Sizzling",
-                "King",
-                "Prawns",
-                "with",
-                "Ginger",
-                "and",
-                "Spring",
-                "Onions"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -213,13 +188,14 @@
             "Sizzling",
             "King",
             "Prawns",
-            "in",
-            "Szechuan",
-            "Sauce"
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onions"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -227,10 +203,16 @@
             "四川",
             "大蝦"
         ],
-        "english_name": [],
+        "english_name": [
+            "Sizzling",
+            "King",
+            "Prawns",
+            "in",
+            "Szechuan",
+            "Sauce"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -249,8 +231,7 @@
             "Onions"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -268,16 +249,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "FRIED",
-                "RICE",
-                "NOODLES",
-                "and",
-                "VERMICELLI"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -287,10 +259,15 @@
             "米粉",
             "類"
         ],
-        "english_name": [],
+        "english_name": [
+            "FRIED",
+            "RICE",
+            "NOODLES",
+            "and",
+            "VERMICELLI"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -305,15 +282,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Yeung",
-                "Chow",
-                "Fried",
-                "Rice"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -322,14 +291,13 @@
             "炒飯"
         ],
         "english_name": [
-            "Sliced",
-            "Chicken",
+            "Yeung",
             "Chow",
-            "Mein"
+            "Fried",
+            "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -338,23 +306,26 @@
             "炒麵"
         ],
         "english_name": [
-            "Special",
+            "Sliced",
+            "Chicken",
             "Chow",
             "Mein"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "招牌",
             "炒麵"
         ],
-        "english_name": [],
+        "english_name": [
+            "Special",
+            "Chow",
+            "Mein"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -370,16 +341,24 @@
             "Mein"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Singapore",
-                "Vermicelli"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
+            "星洲",
+            "炒",
+            "米粉"
+        ],
+        "english_name": [
+            "Singapore",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鮮",
             "星洲",
             "炒",
             "米粉"
@@ -390,19 +369,6 @@
             "Vermicelli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "海鮮",
-            "星洲",
-            "炒",
-            "米粉"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

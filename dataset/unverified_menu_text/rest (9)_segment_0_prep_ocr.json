@@ -1,0 +1,100 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NOLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A8"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "豆角",
+            "肉沫",
+            "素"
+        ],
+        "english_name": [
+            "Wok",
+            "Fried",
+            "Pickled",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "With",
+                "Chopped",
+                "French",
+                "Bean"
+            ],
+            [
+                "And",
+                "Minced",
+                "Pork",
+                "Vegetarian"
+            ],
+            [
+                "A57"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Mapo",
+            "Tofu",
+            "in",
+            "Sichuan",
+            "Yellow"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Bean",
+                "Sauce",
+                "With",
+                "Minced",
+                "or"
+            ],
+            [
+                "Vegetarian"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "四季豆"
+        ],
+        "english_name": [
+            "DELICIOUS"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

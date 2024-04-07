@@ -1,0 +1,379 @@
+[
+    {
+        "chinese_name": [
+            "圖片",
+            "只供",
+            "參考"
+        ],
+        "english_name": [
+            "All",
+            "Pictures",
+            "shown",
+            "are",
+            "for",
+            "urpose",
+            "only"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Signature",
+                "Char",
+                "Siu",
+                "with",
+                "Scrambled",
+                "Egg",
+                "On",
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Signature",
+                "Curry",
+                "Beef",
+                "Brisket",
+                "Served",
+                "With",
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Curry",
+                "Pork",
+                "Served",
+                "With",
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Curry",
+                "Chicken",
+                "Served",
+                "With",
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Yeung",
+                "Chow",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "Hong",
+                "Kong",
+                "Style",
+                "Omelette",
+                "with",
+                "Char",
+                "Siu",
+                "and"
+            ],
+            [
+                "Prawn",
+                "on",
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Hong",
+                "Kong",
+                "Style",
+                "Western",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "Fried",
+                "Rice",
+                "with",
+                "Salted",
+                "Fish",
+                "and",
+                "Chicken"
+            ],
+            [
+                "Fried",
+                "Rice",
+                "with",
+                "Salted",
+                "Fish",
+                "and",
+                "Roasted",
+                "Meat"
+            ],
+            [
+                "Minced",
+                "Beef",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "Chinese",
+                "Braised",
+                "Beef",
+                "Brisket",
+                "on",
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Scrambled",
+                "Eggs",
+                "with",
+                "Beef",
+                "on",
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Chinese",
+                "beef",
+                "tenderloin",
+                "on",
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Salad",
+                "Pork",
+                "Chop",
+                "on",
+                "Boiled",
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "飯",
+            "麵"
+        ],
+        "english_name": [
+            "Main",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒飯",
+            "底"
+        ],
+        "english_name": [
+            "With",
+            "Fried",
+            "Rice",
+            "Extra"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "黯然銷魂",
+            "飯"
+        ],
+        "english_name": [
+            "M1"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "咖喱",
+            "牛腩",
+            "飯"
+        ],
+        "english_name": [
+            "M2"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "豬扒",
+            "飯"
+        ],
+        "english_name": [
+            "M3"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "雞飯"
+        ],
+        "english_name": [
+            "M4"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "揚州",
+            "炒飯"
+        ],
+        "english_name": [
+            "M5"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芺",
+            "蓉",
+            "蛋",
+            "飯"
+        ],
+        "english_name": [
+            "M6"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西",
+            "炒飯"
+        ],
+        "english_name": [
+            "M7"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸魚",
+            "雞",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "M8"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸魚",
+            "燒肉",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "M9"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "生",
+            "炒",
+            "牛肉",
+            "飯"
+        ],
+        "english_name": [
+            "M10"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "柱",
+            "侯",
+            "牛腩",
+            "飯"
+        ],
+        "english_name": [
+            "M11"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "滑蛋",
+            "牛肉",
+            "飯"
+        ],
+        "english_name": [
+            "M12"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "牛柳",
+            "飯"
+        ],
+        "english_name": [
+            "M13"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙拉",
+            "豬扒",
+            "飯"
+        ],
+        "english_name": [
+            "M14"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "價目",
+            "設",
+            "加",
+            "一",
+            "服務",
+            "費",
+            "價錢",
+            "已",
+            "包含",
+            "外賣",
+            "盒"
+        ],
+        "english_name": [
+            "VAT"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Subject",
+                "to",
+                "service",
+                "charge",
+                "All",
+                "Prices",
+                "include",
+                "VAT",
+                "Takeaway",
+                "Container"
+            ]
+        ]
+    }
+]

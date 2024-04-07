@@ -1,0 +1,275 @@
+[
+    {
+        "chinese_name": [
+            "煌",
+            "庭"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "煌",
+            "庭",
+            "招牌",
+            "菜"
+        ],
+        "english_name": [
+            "SIGNATURE",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "花",
+            "胶",
+            "鸡汤",
+            "半",
+            "只鸡"
+        ],
+        "english_name": [
+            "Braised",
+            "Hua",
+            "Jiao",
+            "Chicken",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "和",
+            "牛",
+            "粒"
+        ],
+        "english_name": [
+            "Diced",
+            "Wagyu",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Black",
+                "Pepper",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "粉丝",
+            "蒸",
+            "特大",
+            "老虎",
+            "虾"
+        ],
+        "english_name": [
+            "Bright",
+            "Courtyard"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "LONDON",
+                "SHANGHAL"
+            ],
+            [
+                "Emperor",
+                "King",
+                "Prawn",
+                "Glass"
+            ],
+            [
+                "Noodle",
+                "w",
+                "Garlic"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "红烧",
+            "大",
+            "鲍翅"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红烧",
+            "鲍鱼"
+        ],
+        "english_name": [
+            "Braised",
+            "Abalone"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芥末",
+            "虾球"
+        ],
+        "english_name": [
+            "Wasabi",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "头",
+            "头"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鹅肝",
+            "煎",
+            "带"
+        ],
+        "english_name": [
+            "half"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pan",
+                "grilled",
+                "Scallop",
+                "with"
+            ],
+            [
+                "Foie",
+                "Gras",
+                "each"
+            ],
+            [
+                "Classic",
+                "Shanghai",
+                "Smoked",
+                "Fish"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "蜜汁",
+            "焗",
+            "羊",
+            "架"
+        ],
+        "english_name": [
+            "Pan",
+            "Grilled",
+            "Honey"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Lamb",
+                "Shank"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "上海",
+            "熏鱼"
+        ],
+        "english_name": [
+            "Classic",
+            "Shanghai",
+            "Smoked",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "外婆",
+            "红烧肉"
+        ],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "Belly",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Grandmum",
+                "Recipe"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "石锅",
+            "蟹粉",
+            "豆腐"
+        ],
+        "english_name": [
+            "Crab",
+            "Roc",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "银",
+            "鳕",
+            "鱼"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Black",
+            "Cod"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "位"
+        ],
+        "english_name": [
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "位"
+        ],
+        "english_name": [
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "chinese_name": [
+            "黑椒",
+            "金錢",
+            "肚"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "臘味",
+            "糯米",
+            "飯"
+        ],
+        "english_name": [
+            "Glutinous",
+            "rice",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "contain",
+                "pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "野菇",
+            "蒸",
+            "粉",
+            "果"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芝麻",
+            "炸蝦",
+            "卷"
+        ],
+        "english_name": [
+            "Sesame",
+            "prawn",
+            "rolls"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑金",
+            "流沙",
+            "包"
+        ],
+        "english_name": [
+            "mages",
+            "are",
+            "for",
+            "reference",
+            "only",
+            "Hot",
+            "and",
+            "Spicy",
+            "Contain",
+            "Nuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "叉燒",
+            "餐",
+            "飽",
+            "仔"
+        ],
+        "english_name": [
+            "Suitable",
+            "for",
+            "vegetarian",
+            "Denotes",
+            "option"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

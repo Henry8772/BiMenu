@@ -1,0 +1,147 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "特别",
+            "推薦"
+        ],
+        "english_name": [
+            "Special",
+            "Recommendation"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小白菜",
+            "蒜蓉",
+            "清炒",
+            "蚝油"
+        ],
+        "english_name": [
+            "Pak",
+            "Choi",
+            "Oyster",
+            "Sauces",
+            "Garlic",
+            "Stir",
+            "fry"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A93"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芥兰",
+            "蒜蓉",
+            "清炒",
+            "蚝油"
+        ],
+        "english_name": [
+            "Kai",
+            "an",
+            "Oyster",
+            "Sauces",
+            "Garlic",
+            "Stir",
+            "fry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白菜",
+            "豆腐",
+            "粉丝",
+            "煲"
+        ],
+        "english_name": [
+            "Chinese",
+            "Leaf",
+            "With",
+            "Vermicelli",
+            "And",
+            "Tofu",
+            "in",
+            "Cloy",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A95"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "魔芋",
+            "豆腐"
+        ],
+        "english_name": [
+            "Wok",
+            "Fried",
+            "Chinese",
+            "Sauerkraut",
+            "With"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Konjac",
+                "Tofu",
+                "By",
+                "Sichuan",
+                "Style",
+                "s"
+            ],
+            [
+                "A9"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "土豆",
+            "丝",
+            "剁椒",
+            "醋溜"
+        ],
+        "english_name": [
+            "Shredded",
+            "potatoes",
+            "with",
+            "szechuan",
+            "chopped",
+            "pepper"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "red",
+                "Vinegar",
+                "stir",
+                "fry"
+            ]
+        ]
+    }
+]

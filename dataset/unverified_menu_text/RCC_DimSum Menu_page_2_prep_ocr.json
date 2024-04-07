@@ -1,0 +1,157 @@
+[
+    {
+        "chinese_name": [
+            "蒸",
+            "點"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蟹肉",
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Pork",
+            "Dumplings",
+            "with",
+            "Crab",
+            "Meat"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鱸魚",
+            "卷"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Style",
+            "Sea",
+            "Bass",
+            "Rolls",
+            "in",
+            "Chilli",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉燒包"
+        ],
+        "english_name": [
+            "Barbecue",
+            "Pork",
+            "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "梅花",
+            "野菌",
+            "餃"
+        ],
+        "english_name": [
+            "Supreme",
+            "Vegetarian",
+            "Dumplings",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "紅油",
+            "餃子"
+        ],
+        "english_name": [
+            "Poached",
+            "Pork",
+            "Dumplings",
+            "in",
+            "Chilli",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "竹筍",
+            "鮮蝦",
+            "餃"
+        ],
+        "english_name": [
+            "Prawn",
+            "and",
+            "Bamboo",
+            "Shoot",
+            "Dumplings",
+            "Har",
+            "Gau"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮑汁",
+            "糯米",
+            "雞"
+        ],
+        "english_name": [
+            "Mini",
+            "Glutinous",
+            "Rice",
+            "with",
+            "Meat",
+            "Wrapped",
+            "in",
+            "Lotus",
+            "Leaf"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian",
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

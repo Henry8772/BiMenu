@@ -8,14 +8,19 @@
             "Pork",
             "Belly",
             "in",
-            "Spicy",
-            "Garlic",
-            "Sauce",
-            "L"
+            "Spicy"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Garlic",
+                "Sauce",
+                "L"
+            ],
+            [
+                "K9"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -33,8 +38,7 @@
             [
                 "Tongue"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -55,16 +59,7 @@
                 "with",
                 "Sesame",
                 "Paste"
-            ],
-            [
-                "Vegetarian",
-                "G",
-                "Vegan",
-                "on",
-                "request",
-                "Spicy"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

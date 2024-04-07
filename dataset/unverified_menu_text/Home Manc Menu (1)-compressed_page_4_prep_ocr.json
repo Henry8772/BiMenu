@@ -15,15 +15,20 @@
         "chinese_description": [],
         "english_description": [
             [
+                "F1"
+            ],
+            [
                 "Sweet",
                 "and",
                 "Sour",
                 "Pork",
                 "Cantonese",
                 "Style"
+            ],
+            [
+                "F2"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -33,19 +38,10 @@
             "丝"
         ],
         "english_name": [
-            "Crispy",
-            "Shredded",
-            "Beefin",
-            "Cantonese",
-            "Sauce"
+            "F3"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "F3"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -56,29 +52,10 @@
             "沙"
         ],
         "english_name": [
-            "Satay",
-            "Sauce"
+            "F4"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Beef",
-                "in",
-                "Black",
-                "Pepper",
-                "Black",
-                "Bean",
-                "Ginger",
-                "and",
-                "Spring",
-                "Onions",
-                "Curry"
-            ],
-            [
-                "F4"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -91,35 +68,9 @@
             "沙爹"
         ],
         "english_name": [
-            "Sliced",
-            "Lamb",
-            "in",
-            "Black",
-            "Pepper",
-            "Black",
-            "Bean",
-            "Ginger",
-            "and",
-            "Spring",
-            "Onions",
-            "Curry",
-            "Satay"
+            "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Sauce"
-            ],
-            [
-                "V",
-                "Vegetarian",
-                "VG",
-                "Vegan",
-                "on",
-                "request",
-                "Spic"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     }
 ]

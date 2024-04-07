@@ -1,0 +1,306 @@
+[
+    {
+        "chinese_name": [
+            "精美",
+            "小菜"
+        ],
+        "english_name": [
+            "Plates",
+            "to",
+            "Share"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "牛"
+        ],
+        "english_name": [
+            "P1"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "P2"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "P3"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "牛肉"
+        ],
+        "english_name": [
+            "P4"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "牛肉"
+        ],
+        "english_name": [
+            "P5"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蝦醬",
+            "牛肉",
+            "炒",
+            "通",
+            "菜"
+        ],
+        "english_name": [
+            "P6"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "牛肉",
+            "炒",
+            "西蘭",
+            "花"
+        ],
+        "english_name": [
+            "P7"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "時",
+            "菜炒",
+            "牛肉"
+        ],
+        "english_name": [
+            "P8"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮮菇",
+            "炒",
+            "牛肉"
+        ],
+        "english_name": [
+            "P9"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛柳"
+        ],
+        "english_name": [
+            "P10"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "牛柳"
+        ],
+        "english_name": [
+            "P11"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "牛柳"
+        ],
+        "english_name": [
+            "P12"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "牛柳"
+        ],
+        "english_name": [
+            "P13"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "牛柳"
+        ],
+        "english_name": [
+            "P14"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西",
+            "檸",
+            "雞",
+            "球"
+        ],
+        "english_name": [
+            "P15"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖哩",
+            "雞柳"
+        ],
+        "english_name": [
+            "P16"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "雞柳"
+        ],
+        "english_name": [
+            "P17"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "雞柳"
+        ],
+        "english_name": [
+            "P18"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宮保雞丁"
+        ],
+        "english_name": [
+            "P19"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咕嚕",
+            "雞"
+        ],
+        "english_name": [
+            "P20"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西蘭",
+            "花",
+            "腰果",
+            "炒雞",
+            "柳"
+        ],
+        "english_name": [
+            "P21"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西芹",
+            "炒雞",
+            "柳"
+        ],
+        "english_name": [
+            "P22"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "價目",
+            "另",
+            "設",
+            "加",
+            "一",
+            "服務",
+            "費",
+            "已",
+            "包含",
+            "外",
+            "金"
+        ],
+        "english_name": [
+            "VAT"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Subject",
+                "to",
+                "service",
+                "charge",
+                "All",
+                "Prices",
+                "include",
+                "VAT",
+                "Takeway",
+                "Container"
+            ]
+        ]
+    }
+]

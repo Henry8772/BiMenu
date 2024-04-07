@@ -1,0 +1,253 @@
+[
+    {
+        "chinese_name": [
+            "主食"
+        ],
+        "english_name": [
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shaozi",
+                "noodle",
+                "soup",
+                "potato",
+                "cubes",
+                "carrot",
+                "cubes",
+                "mushroom"
+            ],
+            [
+                "cubes",
+                "tofu",
+                "cubes",
+                "celery",
+                "cubes",
+                "pepper",
+                "cubes",
+                "sweet",
+                "cons"
+            ],
+            [
+                "Zhajiang",
+                "Noodles",
+                "with",
+                "home",
+                "made",
+                "Hongfu",
+                "paste"
+            ],
+            [
+                "Noodles",
+                "served",
+                "with",
+                "sesame",
+                "and",
+                "peant",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "甜品"
+        ],
+        "english_name": [
+            "DESSERT"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "香蕉"
+        ],
+        "english_name": [
+            "Deep",
+            "fried",
+            "bananas"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "罗汉",
+            "斋",
+            "面"
+        ],
+        "english_name": [
+            "Monk's",
+            "vegetarian",
+            "soft",
+            "noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香",
+            "炸",
+            "雪糕"
+        ],
+        "english_name": [
+            "Deep",
+            "fried",
+            "ice",
+            "cream"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "罗汉",
+            "汤面",
+            "汤",
+            "米粉"
+        ],
+        "english_name": [
+            "Monk's",
+            "vegetarian",
+            "oodle",
+            "vermicelli",
+            "soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "冰淇淋"
+        ],
+        "english_name": [
+            "e",
+            "cream"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "哨"
+        ],
+        "english_name": [
+            "Shaozi",
+            "noodle",
+            "soup",
+            "potato",
+            "cubes",
+            "carrot",
+            "cubes",
+            "mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "cubes",
+                "tofu",
+                "cubes",
+                "celery",
+                "cubes",
+                "pepper",
+                "cubes",
+                "sweet",
+                "cons"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "丝",
+            "香蕉"
+        ],
+        "english_name": [
+            "Bananas",
+            "in",
+            "hot",
+            "toffee"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Daly",
+                "fresh",
+                "sweet",
+                "soup"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "炸酱面"
+        ],
+        "english_name": [
+            "Zhajiang",
+            "Noodles",
+            "with",
+            "home",
+            "made",
+            "Hongfu",
+            "paste"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "丁丁",
+            "炒面"
+        ],
+        "english_name": [
+            "Tintin",
+            "fried",
+            "nodles",
+            "with",
+            "mixed",
+            "vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻酱",
+            "拌面"
+        ],
+        "english_name": [
+            "Noodles",
+            "served",
+            "with",
+            "sesame",
+            "and",
+            "peant",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西红柿",
+            "炒",
+            "鸡蛋",
+            "木耳",
+            "青椒",
+            "蘑菇",
+            "素",
+            "五味"
+        ],
+        "english_name": [
+            "Home",
+            "made",
+            "noodles",
+            "topped",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

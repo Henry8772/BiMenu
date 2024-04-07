@@ -1,0 +1,527 @@
+[
+    {
+        "chinese_name": [
+            "雞肉",
+            "類"
+        ],
+        "english_name": [
+            "Chicken",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "糖醋",
+            "雞"
+        ],
+        "english_name": [
+            "Sweet",
+            "Sour",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "variation",
+                "on",
+                "a",
+                "popular",
+                "Hunan",
+                "dish",
+                "Chicken",
+                "chunks"
+            ],
+            [
+                "and",
+                "pineapples",
+                "coated",
+                "in",
+                "a",
+                "treacly",
+                "sweet",
+                "and",
+                "tangy"
+            ],
+            [
+                "sa"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "雞"
+        ],
+        "english_name": [
+            "Chicken",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sliced",
+                "chicken",
+                "stir",
+                "fried",
+                "with",
+                "mix",
+                "peppers",
+                "in"
+            ],
+            [
+                "black",
+                "bean",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "魚香",
+            "雞絲"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Fish",
+            "Fragrant",
+            "Chicken",
+            "Slivers"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "This",
+                "is",
+                "one",
+                "of",
+                "the",
+                "Flavours",
+                "of",
+                "Sichuan"
+            ],
+            [
+                "The",
+                "blend",
+                "of",
+                "spices",
+                "used",
+                "in",
+                "this",
+                "type",
+                "of",
+                "flavouring",
+                "is"
+            ],
+            [
+                "based",
+                "on",
+                "the",
+                "flavours",
+                "used",
+                "in",
+                "fish",
+                "dishes",
+                "giving",
+                "it",
+                "the"
+            ],
+            [
+                "name",
+                "fish",
+                "fragrant",
+                "A",
+                "blend",
+                "of",
+                "pickled",
+                "red",
+                "chillies"
+            ],
+            [
+                "garlic",
+                "ginger",
+                "cloud",
+                "ears",
+                "and",
+                "Sichuan",
+                "chilli",
+                "bean",
+                "paste"
+            ],
+            [
+                "in",
+                "a",
+                "salty",
+                "sweet",
+                "sour",
+                "and",
+                "spicy",
+                "sauce"
+            ],
+            [
+                "There",
+                "is",
+                "no",
+                "fish",
+                "in",
+                "this",
+                "dish"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "宮保雞丁"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Classic",
+            "Imperial",
+            "Gongbao",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Named",
+                "after",
+                "an",
+                "Imperial",
+                "Governor",
+                "of",
+                "Sichuan"
+            ],
+            [
+                "A",
+                "medley",
+                "of",
+                "chicken",
+                "cubes",
+                "cashew",
+                "nuts",
+                "and",
+                "red",
+                "chillies"
+            ],
+            [
+                "in",
+                "a",
+                "tangy",
+                "sweet",
+                "sauce",
+                "laced",
+                "with",
+                "chilli",
+                "spice",
+                "fresh"
+            ],
+            [
+                "garlic",
+                "and",
+                "a",
+                "touch",
+                "of",
+                "numbing",
+                "Sichuan",
+                "pepper"
+            ],
+            [
+                "Fragrant",
+                "Chilli",
+                "Chicken"
+            ],
+            [
+                "Stir",
+                "fried",
+                "tender",
+                "chicken",
+                "pieces",
+                "with",
+                "dried",
+                "hot",
+                "red"
+            ],
+            [
+                "chillies",
+                "garlic",
+                "Sichuan",
+                "peppercorns",
+                "and",
+                "red",
+                "chilli",
+                "oil"
+            ],
+            [
+                "until",
+                "spicy",
+                "and",
+                "fragrant"
+            ],
+            [
+                "This",
+                "dish",
+                "can",
+                "be",
+                "made",
+                "extra",
+                "spicy",
+                "super",
+                "spicy"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "雞"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Beancurd",
+            "Tofu",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "A",
+            "much",
+            "loved",
+            "Sichuan",
+            "dish",
+            "dating",
+            "back",
+            "to"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "the",
+                "Qing",
+                "Dynasty",
+                "named",
+                "after",
+                "the",
+                "pock",
+                "marked"
+            ],
+            [
+                "old",
+                "Mrs",
+                "Chen",
+                "Minced",
+                "pork",
+                "in",
+                "a",
+                "spicy",
+                "chilli",
+                "bean",
+                "paste"
+            ],
+            [
+                "with",
+                "ginger",
+                "garlic",
+                "and",
+                "braised",
+                "silken",
+                "tofu"
+            ],
+            [
+                "This",
+                "dish",
+                "can",
+                "be",
+                "made",
+                "extra",
+                "spicy",
+                "super",
+                "spicy"
+            ],
+            [
+                "Vegetarian",
+                "Option",
+                "Available"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "家常",
+            "豆腐"
+        ],
+        "english_name": [
+            "Home",
+            "Style",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Another",
+                "type",
+                "of",
+                "Sichuan",
+                "Flavour",
+                "inspired",
+                "by"
+            ],
+            [
+                "home",
+                "style",
+                "cooking",
+                "Deep",
+                "fried",
+                "thick",
+                "sliced",
+                "tofu"
+            ],
+            [
+                "and",
+                "pork",
+                "belly",
+                "in",
+                "a",
+                "savoury",
+                "medium",
+                "hot",
+                "chilli",
+                "bean"
+            ],
+            [
+                "sauce",
+                "with",
+                "a",
+                "touch",
+                "of",
+                "sweetness"
+            ],
+            [
+                "Vegetarian",
+                "Option",
+                "Available"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "tofu",
+                "with",
+                "mixed",
+                "peppers",
+                "in",
+                "black",
+                "bean",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "甜酸",
+            "豆腐"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "tofu",
+                "with",
+                "pineapples",
+                "coated",
+                "in",
+                "a",
+                "treacly"
+            ],
+            [
+                "sweet",
+                "and",
+                "tangy",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "豆腐"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "tofu",
+                "in",
+                "spicy",
+                "salt",
+                "chilli",
+                "garlic"
+            ]
+        ]
+    }
+]

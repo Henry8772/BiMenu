@@ -1,0 +1,192 @@
+[
+    {
+        "chinese_name": [
+            "重庆",
+            "小",
+            "面"
+        ],
+        "english_name": [
+            "WITH",
+            "MINCED",
+            "PORK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "CHONGQING",
+                "NOODLES",
+                "WITH"
+            ],
+            [
+                "MINCED",
+                "PORK"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "重庆",
+            "小",
+            "面",
+            "素",
+            "儿"
+        ],
+        "english_name": [
+            "CHONGQING",
+            "NOODLES"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "农家",
+            "酱油",
+            "炒饭",
+            "油"
+        ],
+        "english_name": [
+            "FARMHOUSE",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "时",
+            "蔬",
+            "炒饭",
+            "仨",
+            "野菜",
+            "一",
+            "八"
+        ],
+        "english_name": [
+            "MIXED",
+            "VEGETABLE",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒饭",
+            "工"
+        ],
+        "english_name": [
+            "KING",
+            "PRAWN",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡丁",
+            "炒饭",
+            "一",
+            "八"
+        ],
+        "english_name": [
+            "CHICKEN",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干炒",
+            "牛",
+            "河",
+            "牛肉",
+            "炒",
+            "才",
+            "一"
+        ],
+        "english_name": [
+            "DRY",
+            "FRIED",
+            "HOR",
+            "FUN",
+            "WITH",
+            "BEEF"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒",
+            "河",
+            "一"
+        ],
+        "english_name": [
+            "DRY",
+            "FRIED",
+            "HOR",
+            "FUN",
+            "WITH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "KING",
+                "PRAWNS"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鸡丁",
+            "炒",
+            "河",
+            "鷄",
+            "炒",
+            "才",
+            "一"
+        ],
+        "english_name": [
+            "DRY",
+            "FRIED",
+            "HOR",
+            "FUN",
+            "WITH",
+            "CHICKEN"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "扬州",
+            "炒饭",
+            "楊",
+            "州",
+            "八"
+        ],
+        "english_name": [
+            "SPECIAL",
+            "FRIED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

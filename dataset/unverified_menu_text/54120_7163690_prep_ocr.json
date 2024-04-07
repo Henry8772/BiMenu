@@ -1,0 +1,73 @@
+[
+    {
+        "chinese_name": [
+            "毛",
+            "家",
+            "传统",
+            "菜"
+        ],
+        "english_name": [
+            "CLASSEC",
+            "HUNAN",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸",
+            "豆角",
+            "肉泥"
+        ],
+        "english_name": [
+            "Fried",
+            "Preserved",
+            "String",
+            "Beans"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "过桥",
+            "牛",
+            "百叶"
+        ],
+        "english_name": [
+            "The",
+            "Bridge",
+            "Style",
+            "Beef",
+            "Tripe"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "农家",
+            "小",
+            "炒肉"
+        ],
+        "english_name": [
+            "Countryside",
+            "Style",
+            "Green",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "Fried",
+                "Pork"
+            ],
+            [
+                "Beef",
+                "Lamb"
+            ]
+        ]
+    }
+]

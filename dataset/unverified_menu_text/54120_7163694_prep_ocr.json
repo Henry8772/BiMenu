@@ -1,0 +1,137 @@
+[
+    {
+        "chinese_name": [
+            "风味",
+            "蒸笼",
+            "菜"
+        ],
+        "english_name": [
+            "STEAMED",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "蒸",
+            "排骨"
+        ],
+        "english_name": [
+            "Diced",
+            "Spare",
+            "Ribs",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chopped",
+                "Salt",
+                "Chillies"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "粉丝",
+            "大白菜"
+        ],
+        "english_name": [
+            "Chinese",
+            "Leaf",
+            "and",
+            "Bean",
+            "Thread"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Noodles",
+                "with",
+                "Garlic"
+            ],
+            [
+                "Spear",
+                "Ribs",
+                "with",
+                "Glutious",
+                "Rice",
+                "in",
+                "Lotus",
+                "Leaf"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "竹筒",
+            "香",
+            "腊",
+            "排骨"
+        ],
+        "english_name": [
+            "Diced",
+            "Smoked",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "荷叶",
+            "粉蒸",
+            "排骨"
+        ],
+        "english_name": [
+            "Spear",
+            "Ribs",
+            "with",
+            "Glutious",
+            "Rice",
+            "in",
+            "Lotus",
+            "Leaf"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白",
+            "辣椒",
+            "蒸",
+            "腊肉"
+        ],
+        "english_name": [
+            "Hunan",
+            "Smoky",
+            "Bacon",
+            "with",
+            "White",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白",
+            "辣椒",
+            "蒸",
+            "排骨"
+        ],
+        "english_name": [
+            "Spare",
+            "Ribs",
+            "with",
+            "White",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

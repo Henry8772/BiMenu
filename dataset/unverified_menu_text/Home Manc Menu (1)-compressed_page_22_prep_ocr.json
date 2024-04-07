@@ -4,24 +4,12 @@
             "套餐"
         ],
         "english_name": [
-            "SET",
-            "MENU"
+            "Set",
+            "Menu",
+            "A"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Set",
-                "Menu",
-                "A"
-            ],
-            [
-                "Minimum",
-                "Persons",
-                "Per",
-                "Person"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -45,8 +33,7 @@
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -86,8 +73,7 @@
                 "Pepper",
                 "Chicken"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -96,31 +82,6 @@
             "蛋炒饭",
             "或",
             "白饭"
-        ],
-        "english_name": [
-            "Yeung",
-            "Chow",
-            "Fried",
-            "Rice",
-            "Egg",
-            "Fried"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "Rice",
-                "or",
-                "Boiled",
-                "Rice"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "豉",
-            "椒",
-            "牛肉"
         ],
         "english_name": [
             "Beef",
@@ -134,10 +95,32 @@
         "chinese_description": [],
         "english_description": [
             [
-                "Sauce"
+                "Yeung",
+                "Chow",
+                "Fried",
+                "Rice",
+                "Egg",
+                "Fried"
+            ],
+            [
+                "Rice",
+                "or",
+                "Boiled",
+                "Rice"
             ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛肉"
         ],
-        "raw_text": null
+        "english_name": [
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -145,21 +128,11 @@
             "猪"
         ],
         "english_name": [
-            "Sweet",
-            "and",
-            "Sour",
-            "Pork",
-            "Cantonese",
-            "Style"
+            "Chicken",
+            "Curry"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Chicken",
-                "Curry"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -167,17 +140,9 @@
             "鸡",
             "片"
         ],
-        "english_name": [
-            "Chicken",
-            "with",
-            "Ginger",
-            "and",
-            "Spring",
-            "Onions"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -205,8 +170,7 @@
                 "Minimum",
                 "Persons"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -238,8 +202,7 @@
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -277,8 +240,7 @@
                 "Pepper",
                 "Chicken"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -300,70 +262,44 @@
         "chinese_description": [],
         "english_description": [
             [
+                "Aromatic",
+                "Crispy",
+                "Duck"
+            ],
+            [
                 "Rice",
                 "or",
                 "Boiled",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "香酥",
             "鸭"
         ],
-        "english_name": [
-            "Aromatic",
-            "Crispy",
-            "Duck"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "咕嚕",
             "虾"
         ],
-        "english_name": [
-            "Sweet",
-            "and",
-            "Sour",
-            "King",
-            "Prawns",
-            "Cantonese",
-            "Style"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "腰果",
             "鸡"
         ],
-        "english_name": [
-            "Chicken",
-            "with",
-            "Cashew",
-            "nuts"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [
-            [
-                "V",
-                "Vegetarian",
-                "VG",
-                "Vegan",
-                "on",
-                "request",
-                "Spicy"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -372,20 +308,10 @@
             "牛柳"
         ],
         "english_name": [
-            "Sizzling",
-            "Fillet",
-            "Steak",
-            "in",
-            "Black",
-            "Pepper"
+            "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -397,8 +323,7 @@
             "Curry"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -413,7 +338,6 @@
             "Plus"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

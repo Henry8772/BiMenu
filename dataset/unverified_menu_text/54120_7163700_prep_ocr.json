@@ -1,0 +1,42 @@
+[
+    {
+        "chinese_name": [
+            "铁板",
+            "湘",
+            "味",
+            "菜"
+        ],
+        "english_name": [
+            "SIZZLING",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "牛肉"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "串",
+            "虾"
+        ],
+        "english_name": [
+            "Skewered",
+            "King",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

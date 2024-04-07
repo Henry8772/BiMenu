@@ -1,0 +1,70 @@
+[
+    {
+        "chinese_name": [
+            "重庆",
+            "辣子",
+            "鸡",
+            "大",
+            "辛",
+            "鷄",
+            "唐",
+            "揚"
+        ],
+        "english_name": [
+            "f"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "左宗棠",
+            "鸡",
+            "唐辛",
+            "子",
+            "和",
+            "之"
+        ],
+        "english_name": [
+            "GENERAL",
+            "TSO'S",
+            "CHICKEN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "浏阳",
+            "豆豉",
+            "鸡",
+            "鷄肉",
+            "黑豆",
+            "仁",
+            "仁",
+            "炒"
+        ],
+        "english_name": [
+            "GONG",
+            "BAO",
+            "CHICKEN",
+            "WITH",
+            "PEANUTS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "STIR",
+                "FRIED",
+                "CHICKEN",
+                "WITH"
+            ],
+            [
+                "BLACK",
+                "BEAN",
+                "AND",
+                "GARLIC"
+            ]
+        ]
+    }
+]

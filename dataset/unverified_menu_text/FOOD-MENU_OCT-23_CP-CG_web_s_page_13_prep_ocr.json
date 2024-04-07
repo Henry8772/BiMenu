@@ -1,0 +1,312 @@
+[
+    {
+        "chinese_name": [
+            "素"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "食"
+        ],
+        "english_name": [
+            "Cucumber",
+            "in",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Vegetarian"
+            ],
+            [
+                "Menu"
+            ],
+            [
+                "8pc",
+                "390kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "手",
+            "拍",
+            "黄瓜"
+        ],
+        "english_name": [
+            "Spinach",
+            "Dressed",
+            "in",
+            "Sesame",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Cucumber",
+                "in",
+                "Spicy",
+                "Sauce"
+            ],
+            [
+                "8kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芝麻",
+            "菠菜"
+        ],
+        "english_name": [
+            "Spinach",
+            "Dressed",
+            "in",
+            "Sesame",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "85kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "姜丝",
+            "云",
+            "耳"
+        ],
+        "english_name": [
+            "Wood",
+            "Ear",
+            "Mushrooms",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ginger",
+                "Strips",
+                "and",
+                "Vinegar",
+                "Dressing"
+            ],
+            [
+                "70kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "特色",
+            "小菜"
+        ],
+        "english_name": [
+            "Oriental",
+            "Salad",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Wood",
+                "Ear",
+                "Mushrooms",
+                "with"
+            ],
+            [
+                "Special",
+                "Vinegar",
+                "Dressing"
+            ],
+            [
+                "Ginger",
+                "Strips",
+                "and",
+                "Vinegar",
+                "Dressing"
+            ],
+            [
+                "177kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素菜",
+            "蒸饺"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Jiao",
+            "Zi"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "4pcs",
+                "195kcal"
+            ],
+            [
+                "3pcs",
+                "366kcal"
+            ],
+            [
+                "Chef's",
+                "Recommendation"
+            ],
+            [
+                "Please",
+                "approach",
+                "our",
+                "staff",
+                "for",
+                "preference",
+                "Product",
+                "images",
+                "are",
+                "for",
+                "illustrative",
+                "purposes",
+                "only"
+            ],
+            [
+                "Adults",
+                "need",
+                "around",
+                "2000kcal",
+                "a",
+                "day"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素菜",
+            "包"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菌菇",
+            "松露",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Mushroom",
+            "and",
+            "Truffle"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Xiao",
+                "Long",
+                "Bao"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "入",
+            "小籠",
+            "包"
+        ],
+        "english_name": [
+            "10pcs",
+            "348kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "5pcs",
+                "174kcal"
+            ],
+            [
+                "Handmade",
+                "with",
+                "Shiitake",
+                "Shimeji"
+            ],
+            [
+                "Enoki",
+                "and",
+                "Eryngii",
+                "mushroom",
+                "filling"
+            ],
+            [
+                "Enriched",
+                "with",
+                "white",
+                "truffle",
+                "oil",
+                "and"
+            ],
+            [
+                "seasoned",
+                "with",
+                "truffle",
+                "salt",
+                "to",
+                "ensure"
+            ],
+            [
+                "a",
+                "perfect",
+                "balance",
+                "of",
+                "flavour",
+                "and"
+            ],
+            [
+                "texture"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣"
+        ],
+        "english_name": [
+            "Spicy"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素食"
+        ],
+        "english_name": [
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

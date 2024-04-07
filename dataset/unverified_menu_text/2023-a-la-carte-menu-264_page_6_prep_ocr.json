@@ -1,0 +1,259 @@
+[
+    {
+        "chinese_name": [
+            "牛肉",
+            "牛柳"
+        ],
+        "english_name": [
+            "Beef",
+            "Fillet",
+            "Steak",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Green",
+            "Pepper",
+            "t",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "in",
+            "Satay",
+            "and",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宫保",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "Kunpo",
+            "Style",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "in",
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "酱",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干炒",
+            "牛",
+            "柳丝"
+        ],
+        "english_name": [
+            "Crispy",
+            "Chilli",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "牛柳",
+            "粒"
+        ],
+        "english_name": [
+            "Teriyaki",
+            "Diced",
+            "Beef",
+            "Steak",
+            "Fillet"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "沙爹",
+            "焗",
+            "牛柳"
+        ],
+        "english_name": [
+            "Fillet",
+            "Steak",
+            "with",
+            "Satay",
+            "Peanut",
+            "Sauce",
+            "Sizzling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "中式",
+            "焗",
+            "牛柳"
+        ],
+        "english_name": [
+            "Fillet",
+            "Steak",
+            "in",
+            "Cantonese",
+            "Sauce",
+            "Sizzling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "姜葱",
+            "煸",
+            "牛柳"
+        ],
+        "english_name": [
+            "Fillet",
+            "Steak",
+            "with",
+            "Ginger",
+            "Spring",
+            "Onion",
+            "Sizzling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "黑椒",
+            "牛柳",
+            "粒"
+        ],
+        "english_name": [
+            "Diced",
+            "Beef",
+            "Steak",
+            "Fillet",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black",
+                "Pepper",
+                "Sauce",
+                "Sizzling"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "川椒",
+            "牛柳"
+        ],
+        "english_name": [
+            "Fillet",
+            "Steak",
+            "in",
+            "Chilli",
+            "Sichuan",
+            "Sauce",
+            "Sizzling"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

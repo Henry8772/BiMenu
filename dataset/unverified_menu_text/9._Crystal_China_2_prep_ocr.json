@@ -1,0 +1,98 @@
+[
+    {
+        "chinese_name": [
+            "香菜",
+            "拌",
+            "肚丝"
+        ],
+        "english_name": [
+            "wwwhuituc"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "皮蛋",
+            "豆腐"
+        ],
+        "english_name": [
+            "OLD"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "DISHES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "东北",
+            "五彩",
+            "拉皮"
+        ],
+        "english_name": [
+            "Century",
+            "Egg",
+            "with",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "夫妻肺片"
+        ],
+        "english_name": [
+            "Pig's",
+            "Tripe",
+            "with",
+            "Coriander"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "椒",
+            "鸡"
+        ],
+        "english_name": [
+            "Crystal",
+            "Noodle",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork",
+                "and",
+                "Mixed",
+                "Vegetables"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜泥白肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "and",
+            "Ox",
+            "Tongue"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Chilli",
+                "Sauce"
+            ]
+        ]
+    }
+]

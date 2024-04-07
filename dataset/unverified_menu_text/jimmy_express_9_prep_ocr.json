@@ -7,27 +7,19 @@
         "english_name": [
             "Dry",
             "Pot",
-            "Beef",
-            "Brisket"
+            "Chicken"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "干锅",
             "牛腩"
         ],
-        "english_name": [
-            "Dry",
-            "Pot",
-            "Lamb",
-            "Brisket"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -35,30 +27,18 @@
             "羊",
             "腩"
         ],
-        "english_name": [
-            "Dry",
-            "Pot",
-            "Pork",
-            "Intestines"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "干锅",
             "肥肠"
         ],
-        "english_name": [
-            "Dry",
-            "Pot",
-            "Pork",
-            "Tripe"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -69,20 +49,23 @@
             "Dry",
             "Pot",
             "Pork",
-            "Shank"
+            "Tripe"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "干锅",
             "猪手"
         ],
-        "english_name": [],
+        "english_name": [
+            "Dry",
+            "Pot",
+            "Pork",
+            "Shank"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

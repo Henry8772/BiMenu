@@ -1,0 +1,113 @@
+[
+    {
+        "chinese_name": [
+            "东北"
+        ],
+        "english_name": [
+            "NORTH"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "特色"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "小鸡",
+            "炖",
+            "蘑菇"
+        ],
+        "english_name": [
+            "Braised",
+            "Chicken",
+            "with",
+            "Chinese",
+            "Dry",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "COM"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "大妈",
+            "茄子"
+        ],
+        "english_name": [
+            "Braised",
+            "Aubergine",
+            "in",
+            "Yellow",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "一碗",
+            "香"
+        ],
+        "english_name": [
+            "Special",
+            "Cooked",
+            "Braised",
+            "Pork",
+            "Belly"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "烹",
+            "刀鱼"
+        ],
+        "english_name": [
+            "Dry",
+            "Fried",
+            "Ribbon",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "羊肉"
+        ],
+        "english_name": [
+            "Fried",
+            "Lamb",
+            "with",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Debit",
+                "and",
+                "Credit",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "values",
+                "over"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "chinese_name": [
+            "精美",
+            "点心"
+        ],
+        "english_name": [
+            "SIDE",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "麻仁"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Crispy",
+            "Tanyan"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "手工",
+            "南瓜",
+            "饼"
+        ],
+        "english_name": [
+            "Chinese",
+            "Pumpkin",
+            "Cake"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸汤",
+            "水饺"
+        ],
+        "english_name": [
+            "Pork",
+            "and",
+            "Chinese",
+            "Leaf",
+            "Dumpling",
+            "In",
+            "Picked"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "湘",
+            "之",
+            "味甜",
+            "酒",
+            "汤圆"
+        ],
+        "english_name": [
+            "Pork",
+            "and",
+            "Chinese",
+            "Leaf",
+            "Dumpling",
+            "In",
+            "Picked"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "手工",
+            "猪肉",
+            "白菜",
+            "水饺"
+        ],
+        "english_name": [
+            "Tanyan",
+            "in",
+            "Sweet",
+            "Glutinous"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Rice",
+                "Wine"
+            ]
+        ]
+    }
+]

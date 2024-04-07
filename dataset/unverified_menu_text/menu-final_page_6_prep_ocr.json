@@ -5,8 +5,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -34,8 +33,7 @@
                 "spicy",
                 "sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -60,8 +58,7 @@
                 "crushed",
                 "peanuts"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -72,8 +69,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -98,8 +94,7 @@
                 "Sichuan",
                 "peppercorns"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -124,8 +119,7 @@
                 "Sichuan",
                 "peppercorns"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -133,8 +127,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -150,8 +143,7 @@
             "sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -159,15 +151,23 @@
             "木耳"
         ],
         "english_name": [
-            "Black",
-            "fungus",
-            "with",
-            "crushed",
-            "garlic"
+            "Shredded",
+            "pig's",
+            "maw",
+            "in",
+            "chilli",
+            "sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Black",
+                "fungus",
+                "with",
+                "crushed",
+                "garlic"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -185,8 +185,7 @@
             "sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -194,18 +193,16 @@
             "金针菇"
         ],
         "english_name": [
-            "Enoki",
-            "mushroom",
+            "Yoba",
+            "skin",
             "with",
-            "gralic",
+            "peanuts",
             "and",
-            "pickle",
-            "chilli",
+            "garlic",
             "sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -223,8 +220,7 @@
             "sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -247,7 +243,6 @@
             "wines"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

@@ -1,0 +1,57 @@
+[
+    {
+        "chinese_name": [
+            "茄子",
+            "炒",
+            "豆角"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "时令",
+            "美味",
+            "蔬菜"
+        ],
+        "english_name": [
+            "VEGETARIAN",
+            "HAVEN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "手撕",
+            "卷心菜"
+        ],
+        "english_name": [
+            "Hand",
+            "Torn",
+            "Cabbage"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Vinegar"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "西红柿",
+            "炒蛋"
+        ],
+        "english_name": [
+            "Fried",
+            "Egg",
+            "and",
+            "Tomatoes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

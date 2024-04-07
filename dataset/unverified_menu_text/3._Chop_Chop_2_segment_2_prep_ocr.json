@@ -1,0 +1,45 @@
+[
+    {
+        "chinese_name": [
+            "榨菜",
+            "火",
+            "鴨",
+            "絲",
+            "炆",
+            "米粉"
+        ],
+        "english_name": [
+            "Braised",
+            "Rice",
+            "Vermicelli",
+            "Noodles",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "炒",
+            "烏",
+            "冬"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒飯"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

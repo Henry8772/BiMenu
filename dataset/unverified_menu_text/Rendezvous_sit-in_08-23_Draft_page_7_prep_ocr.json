@@ -10,15 +10,25 @@
             "DISHES"
         ],
         "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "招牌"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "with",
+            "Onions",
+            "Peppers",
+            "Straw",
+            "Mushroom"
+        ],
+        "chinese_description": [],
         "english_description": [
             [
-                "Stir",
-                "Fried",
-                "with",
-                "Onions",
-                "Peppers",
-                "Straw",
-                "Mushroom",
                 "Baby",
                 "Corn",
                 "and",
@@ -27,54 +37,42 @@
                 "in",
                 "Chilli",
                 "Sauce"
+            ],
+            [
+                "254S",
+                "Lar",
+                "Chee",
+                "Special",
+                "with",
+                "Mixed",
+                "Meat",
+                "and",
+                "Prawn"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "辣子",
-            "招牌",
-            "辣子",
-            "大蝦",
-            "辣子",
-            "牛",
-            "辣子",
-            "雞丁",
-            "辣子",
-            "魷魚",
-            "辣子",
-            "什",
-            "菜",
-            "辣子",
-            "豬肉",
-            "片",
-            "辣子",
-            "羊"
+            "大蝦"
         ],
         "english_name": [
-            "254S",
-            "Lar",
-            "Chee",
-            "Special",
-            "with",
-            "Mixed",
-            "Meat",
-            "and",
-            "Prawn",
             "254K",
             "Lar",
             "Chee",
             "King",
-            "Prawn",
-            "254B",
-            "254C",
-            "Lar",
-            "Chee",
-            "Chicken",
-            "254Q",
-            "254P",
-            "254L"
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "牛"
+        ],
+        "english_name": [
+            "254B"
         ],
         "chinese_description": [],
         "english_description": [
@@ -82,30 +80,89 @@
                 "Lar",
                 "Chee",
                 "Beef"
-            ],
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "雞丁"
+        ],
+        "english_name": [
+            "254C",
+            "Lar",
+            "Chee",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "魷魚"
+        ],
+        "english_name": [
+            "254Q"
+        ],
+        "chinese_description": [],
+        "english_description": [
             [
                 "Lar",
                 "Chee",
                 "Squid"
-            ],
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Lar",
+            "Chee",
+            "Mixed",
+            "Vegetable"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "豬肉",
+            "片"
+        ],
+        "english_name": [
+            "Lar",
+            "Chee",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
             [
-                "Lar",
-                "Chee",
-                "Mixed",
-                "Vegetable"
-            ],
-            [
-                "Lar",
-                "Chee",
-                "Pork"
-            ],
+                "254P"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣子",
+            "羊"
+        ],
+        "english_name": [
+            "254L"
+        ],
+        "chinese_description": [],
+        "english_description": [
             [
                 "Lar",
                 "Chee",
                 "Lamb"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -117,23 +174,15 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "咖哩",
-            "招牌",
-            "咖哩",
-            "大蝦",
-            "咖哩",
-            "雞",
-            "咖哩",
-            "牛"
+            "招牌"
         ],
         "english_name": [
-            "3S",
-            "31K"
+            "3S"
         ],
         "chinese_description": [],
         "english_description": [
@@ -145,25 +194,53 @@
                 "Meat",
                 "and",
                 "Prawn"
-            ],
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "咖哩",
+            "大蝦"
+        ],
+        "english_name": [
+            "31K"
+        ],
+        "chinese_description": [],
+        "english_description": [
             [
                 "King",
                 "Prawn",
                 "Curry"
-            ],
-            [
-                "Chicken",
-                "Curry"
-            ],
-            [
-                "Beef",
-                "Curry"
-            ],
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "咖哩",
+            "雞"
+        ],
+        "english_name": [
+            "Chicken",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖哩",
+            "牛"
+        ],
+        "english_name": [
+            "Beef",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": [
             [
                 "31B"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -179,8 +256,7 @@
                 "Pork",
                 "Curry"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -196,8 +272,7 @@
                 "Lamb",
                 "Curry"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -215,8 +290,7 @@
             [
                 "31R"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -233,8 +307,7 @@
             [
                 "31D"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -248,8 +321,7 @@
             "Curry"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -263,16 +335,7 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Stir",
-                "Fried",
-                "with",
-                "Mixed",
-                "Vegetable"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -281,10 +344,17 @@
             "水"
         ],
         "english_name": [
-            "133S"
+            "Stir",
+            "Fried",
+            "with",
+            "Mixed",
+            "Vegetable"
         ],
         "chinese_description": [],
         "english_description": [
+            [
+                "133S"
+            ],
             [
                 "Special",
                 "Chop",
@@ -295,15 +365,11 @@
                 "and",
                 "Prawn"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "大蝦",
-            "雜",
-            "水",
-            "雞肉",
             "雜",
             "水"
         ],
@@ -317,16 +383,23 @@
                 "Prawn",
                 "Chop",
                 "Suey"
-            ],
-            [
-                "133C",
-                "Chicken",
-                "Chop",
-                "Suey",
-                "133B"
             ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雞肉",
+            "雜",
+            "水"
         ],
-        "raw_text": null
+        "english_name": [
+            "133C",
+            "Chicken",
+            "Chop",
+            "Suey"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -335,13 +408,16 @@
             "水"
         ],
         "english_name": [
-            "Beef",
-            "Chop",
-            "Suey"
+            "133B"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Beef",
+                "Chop",
+                "Suey"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -361,8 +437,7 @@
                 "Chop",
                 "Suey"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -381,34 +456,16 @@
                 "Chop",
                 "Suey"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "芙蓉",
             "蛋類"
         ],
-        "english_name": [
-            "EGG",
-            "FOO",
-            "YUNG",
-            "DISHES"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Fried",
-                "Scrambled",
-                "Egg",
-                "with",
-                "Onions",
-                "and",
-                "Bean",
-                "Sprouts"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -416,32 +473,31 @@
             "芙蓉"
         ],
         "english_name": [
-            "233S"
+            "Fried",
+            "Scrambled",
+            "Egg",
+            "with",
+            "Onions",
+            "and",
+            "Bean",
+            "Sprouts"
         ],
         "chinese_description": [],
         "english_description": [
+            [
+                "233S"
+            ],
             [
                 "Special",
                 "Egg",
                 "Foo",
                 "Yung"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "大蝦",
-            "芙蓉",
-            "雞",
-            "芙蓉",
-            "义",
-            "燒",
-            "芙蓉",
-            "蘑菇",
-            "芙蓉",
-            "什",
-            "菜",
             "芙蓉"
         ],
         "english_name": [
@@ -452,36 +508,68 @@
             "Yung"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "233C",
-                "Chicken",
-                "Egg",
-                "Foo",
-                "Yung"
-            ],
-            [
-                "Roast",
-                "Pork",
-                "Egg",
-                "Foo",
-                "Yung"
-            ],
-            [
-                "233M",
-                "Mushroom",
-                "Egg",
-                "Foo",
-                "Yung"
-            ],
-            [
-                "Mixed",
-                "Vegetable",
-                "Egg",
-                "Foo",
-                "Yung"
-            ]
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雞",
+            "芙蓉"
         ],
-        "raw_text": null
+        "english_name": [
+            "233C",
+            "Chicken",
+            "Egg",
+            "Foo",
+            "Yung"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "义",
+            "燒",
+            "芙蓉"
+        ],
+        "english_name": [
+            "Roast",
+            "Pork",
+            "Egg",
+            "Foo",
+            "Yung"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蘑菇",
+            "芙蓉"
+        ],
+        "english_name": [
+            "233M",
+            "Mushroom",
+            "Egg",
+            "Foo",
+            "Yung"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "什",
+            "菜",
+            "芙蓉"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetable",
+            "Egg",
+            "Foo",
+            "Yung"
+        ],
+        "chinese_description": [],
+        "english_description": []
     }
 ]

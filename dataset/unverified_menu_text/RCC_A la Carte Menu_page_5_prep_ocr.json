@@ -1,0 +1,134 @@
+[
+    {
+        "chinese_name": [
+            "晚",
+            "市",
+            "蒸",
+            "炸",
+            "點心"
+        ],
+        "english_name": [
+            "Evening",
+            "Dim",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雜",
+            "錦",
+            "海鮮",
+            "點心",
+            "拼盤",
+            "件"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮮",
+            "蟹肉",
+            "小籠",
+            "包",
+            "件"
+        ],
+        "english_name": [
+            "Steamed",
+            "Mixed",
+            "Seafood",
+            "Dim",
+            "Sum",
+            "Platter",
+            "pcs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "煎鍋",
+            "貼",
+            "件"
+        ],
+        "english_name": [
+            "Shanghai",
+            "Style",
+            "Juicy",
+            "Pork",
+            "Dumplings",
+            "with",
+            "Crab",
+            "Meat",
+            "pcs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "筍尖",
+            "蝦",
+            "餃",
+            "件"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Japanese",
+            "Style",
+            "Shrimp",
+            "and",
+            "Pork",
+            "Dumplings",
+            "pcs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雜",
+            "錦",
+            "炸",
+            "點",
+            "拼盤",
+            "件"
+        ],
+        "english_name": [
+            "Steamed",
+            "Prawn",
+            "Dumplings",
+            "Har",
+            "Gau",
+            "pcs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "羅漢",
+            "上",
+            "素齋",
+            "餃",
+            "件"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Mixed",
+            "Dim",
+            "Sum",
+            "Platter",
+            "pcs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

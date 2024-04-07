@@ -1,0 +1,438 @@
+[
+    {
+        "chinese_name": [
+            "回味無窮",
+            "小食"
+        ],
+        "english_name": [
+            "APPETIZERS"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "口水",
+            "雞"
+        ],
+        "english_name": [
+            "Poached",
+            "Chicken",
+            "in",
+            "Chilli",
+            "Oil",
+            "Peanut",
+            "Dressing"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "牛",
+            "展"
+        ],
+        "english_name": [
+            "Beef",
+            "Shin",
+            "in",
+            "Chilli",
+            "Oil",
+            "Dressing"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "松花",
+            "皮蛋"
+        ],
+        "english_name": [
+            "Preserved",
+            "Egg",
+            "with",
+            "Pickle",
+            "Chilli",
+            "and",
+            "Soya"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "芥辣",
+            "蝦球"
+        ],
+        "english_name": [
+            "Crispy",
+            "King",
+            "Prawn",
+            "Marinated",
+            "in",
+            "Wasabi"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "吹",
+            "筒"
+        ],
+        "english_name": [
+            "Calamari",
+            "with",
+            "Chilli",
+            "Garlic",
+            "and",
+            "Peppercorn",
+            "Salt"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "避風塘",
+            "鐵公雞"
+        ],
+        "english_name": [
+            "Chicken",
+            "Wing",
+            "with",
+            "Chilli",
+            "Garlic",
+            "and",
+            "Herb"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酥炸",
+            "蟹鉗"
+        ],
+        "english_name": [
+            "Crispy",
+            "Stuffed",
+            "Crab",
+            "Claw",
+            "with",
+            "Prawn",
+            "Paste"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "鳳爪"
+        ],
+        "english_name": [
+            "Boneless",
+            "Chicken",
+            "Claw",
+            "in",
+            "Spicy",
+            "Vinaigrette"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜",
+            "心",
+            "蘿",
+            "白",
+            "糕"
+        ],
+        "english_name": [
+            "X"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "XO",
+                "Choi",
+                "Sum",
+                "Turnip",
+                "Cube"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鮑汁",
+            "扣",
+            "鵝掌"
+        ],
+        "english_name": [
+            "Goose",
+            "Web",
+            "in",
+            "Abalone",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "迷你",
+            "鮑魚",
+            "燴",
+            "双掌"
+        ],
+        "english_name": [
+            "Baby",
+            "Abalone",
+            "with",
+            "Double",
+            "Goose",
+            "Web"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "精美",
+            "甜品"
+        ],
+        "english_name": [
+            "DESSERT"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椰香",
+            "奶",
+            "皇",
+            "包"
+        ],
+        "english_name": [
+            "Cream",
+            "Custard",
+            "Bun"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "迷你",
+            "雞蛋",
+            "撻"
+        ],
+        "english_name": [
+            "Baked",
+            "Egg",
+            "Tart"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雷沙",
+            "芝麻",
+            "圓"
+        ],
+        "english_name": [
+            "Sesame",
+            "Peanut",
+            "Glutinous",
+            "Rice",
+            "Ball"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "荔",
+            "芋",
+            "西米",
+            "露"
+        ],
+        "english_name": [
+            "Sago",
+            "and",
+            "Yam",
+            "in",
+            "Coconut",
+            "Cream"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "楊枝",
+            "金",
+            "露"
+        ],
+        "english_name": [
+            "Mango",
+            "and",
+            "Tapioca",
+            "Sweet",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芒果",
+            "凍",
+            "布甸"
+        ],
+        "english_name": [
+            "Chilled",
+            "Mango",
+            "Pudding"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香滑",
+            "椰汁",
+            "糕"
+        ],
+        "english_name": [
+            "Chilled",
+            "Coconut",
+            "Cream",
+            "Pudding"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杏仁",
+            "豆腐"
+        ],
+        "english_name": [
+            "Almond",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雪糕",
+            "糯米糍"
+        ],
+        "english_name": [
+            "Mochi",
+            "Ice",
+            "Cream"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中國",
+            "茶",
+            "每位"
+        ],
+        "english_name": [
+            "CHINESE",
+            "TEA"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chinese",
+                "Tea",
+                "per",
+                "Person"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "香片"
+        ],
+        "english_name": [
+            "Jasmine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "普洱"
+        ],
+        "english_name": [
+            "Pu",
+            "er"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "烏龍"
+        ],
+        "english_name": [
+            "Oolong"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菊花"
+        ],
+        "english_name": [
+            "Chrysanthemum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鐵",
+            "觀音",
+            "龍井"
+        ],
+        "english_name": [
+            "Tieguanyin",
+            "Longjing"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白開水",
+            "每位"
+        ],
+        "english_name": [
+            "Hot",
+            "Water",
+            "per",
+            "Person"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

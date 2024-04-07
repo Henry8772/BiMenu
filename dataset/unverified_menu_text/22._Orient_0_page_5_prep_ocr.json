@@ -1,0 +1,361 @@
+[
+    {
+        "chinese_name": [
+            "點"
+        ],
+        "english_name": [
+            "Steamed",
+            "Dim",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shanghai",
+                "pork",
+                "dumplings"
+            ],
+            [
+                "Crystal",
+                "prawn",
+                "and",
+                "pork",
+                "dumplings",
+                "har",
+                "gau"
+            ],
+            [
+                "Scallop",
+                "dumplings"
+            ],
+            [
+                "Pork",
+                "and",
+                "prawn",
+                "dumplings"
+            ],
+            [
+                "topped",
+                "with",
+                "crab",
+                "roe",
+                "siu",
+                "mai"
+            ],
+            [
+                "Prawn",
+                "and",
+                "chives",
+                "dumplings",
+                "contains",
+                "pork"
+            ],
+            [
+                "Beef",
+                "dumplings",
+                "contains",
+                "pork"
+            ],
+            [
+                "Beancurd",
+                "skin",
+                "roll",
+                "with",
+                "prawn",
+                "and",
+                "pork"
+            ],
+            [
+                "Chicken",
+                "claws",
+                "in",
+                "black",
+                "bean",
+                "sauce"
+            ],
+            [
+                "Spare",
+                "ribs",
+                "in",
+                "black",
+                "bean",
+                "sauce"
+            ],
+            [
+                "Glutinous",
+                "rice",
+                "in",
+                "lotus",
+                "leaves"
+            ],
+            [
+                "contains",
+                "pork",
+                "and",
+                "prawn"
+            ],
+            [
+                "Roast",
+                "pork",
+                "buns",
+                "char",
+                "siu",
+                "bun"
+            ],
+            [
+                "Steamed",
+                "Rice",
+                "Pot"
+            ],
+            [
+                "Spare",
+                "ribs",
+                "and",
+                "chicken",
+                "claws"
+            ],
+            [
+                "Chicken",
+                "and",
+                "Chinese",
+                "mushroom"
+            ],
+            [
+                "Salted",
+                "fish",
+                "and",
+                "sliced",
+                "pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "号"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "魚子",
+            "小籠",
+            "飽"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "晶瑩",
+            "鮮蝦",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "翡翠",
+            "帶子",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蟹",
+            "皇",
+            "蒸",
+            "燒賣"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮮蝦",
+            "韭菜",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蟹",
+            "皇",
+            "蒸",
+            "燒賣"
+        ],
+        "english_name": [
+            "Pork",
+            "and",
+            "prawn",
+            "dumplings",
+            "topped",
+            "with",
+            "crab",
+            "roe",
+            "Siu",
+            "Mai"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "山竹",
+            "牛肉",
+            "球"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蠔",
+            "皇",
+            "鮮",
+            "竹",
+            "卷"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "蒸",
+            "鳳爪"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "蒸",
+            "排骨"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "荷香",
+            "珍珠雞"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蠔",
+            "皇",
+            "叉燒",
+            "飽"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鳳爪",
+            "排骨",
+            "飯"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "北",
+            "菇",
+            "滑",
+            "雞飯"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鹹魚",
+            "肉片",
+            "飯"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鳳爪",
+            "排骨",
+            "飯"
+        ],
+        "english_name": [
+            "Spare",
+            "ribs",
+            "and",
+            "chicken",
+            "claws",
+            "rice",
+            "pot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Suitable",
+                "for",
+                "vegetarian",
+                "Denotes",
+                "option"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "圖片",
+            "只",
+            "作",
+            "參考"
+        ],
+        "english_name": [
+            "Images",
+            "are",
+            "for",
+            "reference",
+            "only"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot",
+                "and",
+                "Spicy"
+            ],
+            [
+                "Contain",
+                "Nuts"
+            ]
+        ]
+    }
+]

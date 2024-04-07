@@ -1,0 +1,61 @@
+[
+    {
+        "chinese_name": [
+            "素",
+            "煎饺"
+        ],
+        "english_name": [
+            "G"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "VEG",
+                "GYOZA"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鸭",
+            "卷"
+        ],
+        "english_name": [
+            "ICHUAN",
+            "SALIVA",
+            "CHICKEN",
+            "BONE",
+            "IN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "G"
+            ],
+            [
+                "CHICKEN",
+                "GYOZA"
+            ],
+            [
+                "DUCK",
+                "SPRING",
+                "ROLL"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "迷你",
+            "小菜",
+            "卷"
+        ],
+        "english_name": [
+            "MINI",
+            "VEG",
+            "SPRING",
+            "ROLL"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

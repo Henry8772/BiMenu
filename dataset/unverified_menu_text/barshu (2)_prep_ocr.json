@@ -1,0 +1,201 @@
+[
+    {
+        "chinese_name": [
+            "素",
+            "干",
+            "煸",
+            "四季豆",
+            "列"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "POTATO",
+            "SLIVERS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "WITH",
+                "GREEN",
+                "PEPPERS"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "尖椒",
+            "土豆",
+            "丝",
+            "青",
+            "唐辛",
+            "子",
+            "春雨",
+            "炒"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "POTATO",
+            "SLIVERS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "WITH",
+                "VINEGAR",
+                "AND",
+                "CHILLIES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "土豆",
+            "丝",
+            "細",
+            "切",
+            "术",
+            "卜",
+            "酸味",
+            "唐辛",
+            "子",
+            "炒"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "BEANCURD",
+            "SLICES"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "WITH",
+                "CHINESE",
+                "CHIVES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "韭菜",
+            "香干",
+            "豆腐",
+            "炒",
+            "物"
+        ],
+        "english_name": [
+            "SCRAMBLED",
+            "EGGS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "WITH",
+                "CHINESE",
+                "CHIVES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "韭菜",
+            "炒蛋",
+            "豚",
+            "肉",
+            "唐辛",
+            "子",
+            "炒"
+        ],
+        "english_name": [
+            "SCRAMBLED",
+            "EGGS",
+            "WITH",
+            "TOMATO"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西红柿",
+            "炒蛋"
+        ],
+        "english_name": [
+            "BRAISED",
+            "AUBERGINES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红烧",
+            "茄子",
+            "唐辛",
+            "子",
+            "炒"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "YARD",
+            "LONG",
+            "BEANS",
+            "WITH"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "MINCED",
+                "PORK",
+                "AND",
+                "OLIVE",
+                "VEGETABLE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "榄",
+            "菜",
+            "肉末",
+            "豆角",
+            "夕",
+            "使",
+            "炒",
+            "大",
+            "庭",
+            "長",
+            "豆"
+        ],
+        "english_name": [
+            "PENG'S",
+            "BEANCURD",
+            "WITH",
+            "MINCED",
+            "PORK"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "PENG'S",
+                "BEANCURD"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "chinese_name": [
+            "鴻",
+            "洒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鴻"
+        ],
+        "english_name": [
+            "HONGU",
+            "NE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A22"
+            ],
+            [
+                "A23"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "茶香",
+            "排骨"
+        ],
+        "english_name": [
+            "Salt",
+            "And",
+            "Chilli",
+            "spare"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ribs",
+                "With",
+                "Tea",
+                "Leaf"
+            ],
+            [
+                "A24"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "铁锅",
+            "茄子"
+        ],
+        "english_name": [
+            "Aubergine",
+            "with",
+            "Five",
+            "Spices"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sauce",
+                "in",
+                "Iron",
+                "Pan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "肉丝"
+        ],
+        "english_name": [
+            "YU",
+            "XIANG",
+            "SHREDDED",
+            "PORK",
+            "COOKED",
+            "IN",
+            "THE",
+            "STYLE",
+            "OF",
+            "THE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SOUTHERN",
+                "REACHES",
+                "OF",
+                "THE",
+                "YANGZE",
+                "RIVER",
+                "S"
+            ],
+            [
+                "A28"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "排骨"
+        ],
+        "english_name": [
+            "Wok",
+            "Fried",
+            "Spare",
+            "Ribs",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A25"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "京",
+            "酱肉",
+            "丝"
+        ],
+        "english_name": [
+            "TRADITIONAL",
+            "BEJING",
+            "STYLE",
+            "SHREDDED",
+            "PORK",
+            "IN",
+            "A"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SPECIAL",
+                "SAUCE",
+                "SERVED",
+                "WITH",
+                "A",
+                "PANCAKE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "排骨"
+        ],
+        "english_name": [
+            "Salt",
+            "And",
+            "Chilli",
+            "Spare",
+            "Ribs"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "香辣",
+            "排骨"
+        ],
+        "english_name": [
+            "Chilli",
+            "Spare",
+            "Ribs",
+            "in",
+            "Red",
+            "il",
+            "on",
+            "Pot",
+            "s",
+            "s"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

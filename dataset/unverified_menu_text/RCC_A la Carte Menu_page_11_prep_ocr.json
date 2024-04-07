@@ -1,0 +1,271 @@
+[
+    {
+        "chinese_name": [
+            "主菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "秘",
+            "汁",
+            "煎",
+            "牛柳"
+        ],
+        "english_name": [
+            "Sautéed",
+            "Fillet",
+            "Steak",
+            "Cubes",
+            "with",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜香",
+            "燒",
+            "汁",
+            "牛仔骨"
+        ],
+        "english_name": [
+            "Grilled",
+            "Veal",
+            "Short",
+            "Ribs",
+            "in",
+            "BBQ",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "炒",
+            "菌",
+            "皇"
+        ],
+        "english_name": [
+            "Sautéed",
+            "Assorted",
+            "Wild",
+            "Mushrooms",
+            "Topped",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shaved",
+                "Black",
+                "Truffles",
+                "V"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "魚香",
+            "肉鬆",
+            "茄子",
+            "煲"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Aubergine",
+            "Braised",
+            "with",
+            "Minced",
+            "Pork",
+            "in",
+            "Sea",
+            "Spice",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "燒",
+            "玉",
+            "子",
+            "豆腐"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Braised",
+                "Japanese",
+                "Tofu",
+                "with",
+                "Minced",
+                "Pork",
+                "in",
+                "XO",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Ma",
+            "Po",
+            "Tofu",
+            "with",
+            "Minced",
+            "Beef",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雜菌",
+            "豆腐",
+            "石頭",
+            "鍋"
+        ],
+        "english_name": [
+            "Braised",
+            "Tofu",
+            "with",
+            "Assorted",
+            "Wild",
+            "Mushrooms",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "三",
+            "蔬"
+        ],
+        "english_name": [
+            "Mixed",
+            "Chinese",
+            "Baby",
+            "Greens",
+            "with",
+            "Garlic",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "素雞"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Style",
+            "Mock",
+            "Chicken",
+            "V",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "是",
+            "日",
+            "時",
+            "蔬"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Seasonal",
+            "Vegetables",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白菜",
+            "苗",
+            "菠菜",
+            "苗",
+            "菜",
+            "心",
+            "芥蘭",
+            "通",
+            "菜"
+        ],
+        "english_name": [
+            "Pak",
+            "Choi",
+            "Baby",
+            "Spinach",
+            "Choi",
+            "Sum",
+            "Kai",
+            "Lan",
+            "Morning",
+            "Glory"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian"
+            ],
+            [
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

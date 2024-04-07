@@ -1,0 +1,273 @@
+[
+    {
+        "chinese_name": [
+            "招牌",
+            "炒饭"
+        ],
+        "english_name": [
+            "RICE",
+            "and",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Special",
+                "Fried",
+                "Rice",
+                "Chow",
+                "Mein"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "星洲",
+            "炒米"
+        ],
+        "english_name": [
+            "Singapore",
+            "Rice",
+            "Noddles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "广",
+            "式",
+            "招牌",
+            "炒面"
+        ],
+        "english_name": [
+            "Special",
+            "Chow",
+            "Mein",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "广",
+            "式",
+            "海鲜",
+            "炒面"
+        ],
+        "english_name": [
+            "Seafood",
+            "Chow",
+            "Mein",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "介",
+            "炒饭",
+            "面"
+        ],
+        "english_name": [
+            "Chicken",
+            "Fried",
+            "Rice",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛",
+            "炒饭",
+            "面"
+        ],
+        "english_name": [
+            "Beef",
+            "Fried",
+            "Rice",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "伴",
+            "餐"
+        ],
+        "english_name": [
+            "Singapore",
+            "ice",
+            "Noddes"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SIDE",
+                "DISHES"
+            ],
+            [
+                "BEVERAGES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "古"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Liqueur",
+                "coffee"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "白饭"
+        ],
+        "english_name": [
+            "Espresso"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Boiled",
+                "Rice"
+            ],
+            [
+                "Coffee",
+                "Americano"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "炒饭"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "汁"
+        ],
+        "english_name": [
+            "English",
+            "Tea"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Curry",
+                "Sauce"
+            ],
+            [
+                "China",
+                "Tea",
+                "Per",
+                "Person"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "古老",
+            "计"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot",
+                "chocolate"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "召",
+            "条"
+        ],
+        "english_name": [
+            "Food",
+            "Allergies",
+            "and",
+            "Intolerances"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "hip"
+            ],
+            [
+                "Before",
+                "you",
+                "order",
+                "your",
+                "food",
+                "and",
+                "drinks"
+            ],
+            [
+                "please",
+                "speak",
+                "to",
+                "our",
+                "staff",
+                "if",
+                "you",
+                "want",
+                "to"
+            ],
+            [
+                "know",
+                "about",
+                "our",
+                "ingredients"
+            ],
+            [
+                "Salt",
+                "and",
+                "Chilli",
+                "Chips"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芽菜"
+        ],
+        "english_name": [
+            "Allergies",
+            "information"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

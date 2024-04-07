@@ -1,0 +1,448 @@
+[
+    {
+        "chinese_name": [
+            "飯"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "燒",
+            "味"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "明",
+            "爐",
+            "燒鴨"
+        ],
+        "english_name": [
+            "Barbecue",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Roast",
+                "duck",
+                "quarter",
+                "this",
+                "dish",
+                "contains",
+                "bones"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "炒飯"
+        ],
+        "english_name": [
+            "Rice",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Orient",
+                "house",
+                "special",
+                "rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉燒"
+        ],
+        "english_name": [
+            "Honey",
+            "roast",
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鹹魚",
+            "雞",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "a",
+            "selection",
+            "of",
+            "mixed",
+            "meat",
+            "and",
+            "seafood"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "rice",
+                "with",
+                "salted",
+                "fish",
+                "and"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "碳",
+            "燒",
+            "五花",
+            "腩"
+        ],
+        "english_name": [
+            "Crackling",
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "燒",
+            "味",
+            "雙拼"
+        ],
+        "english_name": [
+            "Barbecue",
+            "platter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "起"
+        ],
+        "english_name": [
+            "from"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福建",
+            "炒飯"
+        ],
+        "english_name": [
+            "minced",
+            "chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fu",
+                "Jin",
+                "fried",
+                "rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "西",
+            "施太子",
+            "炒飯"
+        ],
+        "english_name": [
+            "topped",
+            "with",
+            "duck",
+            "and",
+            "seafood",
+            "in",
+            "sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Prince",
+                "fried",
+                "rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "燒",
+            "味",
+            "三",
+            "拼"
+        ],
+        "english_name": [
+            "choice",
+            "of",
+            "any",
+            "items",
+            "roast",
+            "duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "honey",
+                "roast",
+                "pork",
+                "or",
+                "crackling",
+                "pork"
+            ],
+            [
+                "this",
+                "dish",
+                "contains",
+                "bones"
+            ],
+            [
+                "Mixed",
+                "barbecue",
+                "platter"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "五穀",
+            "炒飯"
+        ],
+        "english_name": [
+            "with",
+            "scallop",
+            "prawn",
+            "egg",
+            "white",
+            "and",
+            "asparagus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chef's",
+                "special",
+                "rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "馬拉",
+            "炒飯"
+        ],
+        "english_name": [
+            "dried",
+            "shrimp",
+            "sweet",
+            "corn",
+            "preserved",
+            "veg"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "diced",
+                "mushroom",
+                "brown",
+                "rice"
+            ],
+            [
+                "Malaysian",
+                "style",
+                "fried",
+                "rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "生",
+            "炒",
+            "牛肉",
+            "飯"
+        ],
+        "english_name": [
+            "Minced",
+            "beef",
+            "fried",
+            "rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蔬菜"
+        ],
+        "english_name": [
+            "consist",
+            "of",
+            "roast",
+            "duck",
+            "honey",
+            "roast",
+            "pork",
+            "and"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "crackling",
+                "pork",
+                "this",
+                "dish",
+                "contains",
+                "bones"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "起"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seasonal",
+                "Chinese",
+                "vegetables",
+                "from"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "時",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白菜"
+        ],
+        "english_name": [
+            "Spinach"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "波",
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芥蘭",
+            "菜",
+            "心"
+        ],
+        "english_name": [
+            "Choi",
+            "sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "通",
+            "菜"
+        ],
+        "english_name": [
+            "Morning",
+            "glory"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "薑汁",
+            "蒜茸",
+            "蠔油",
+            "上"
+        ],
+        "english_name": [
+            "with",
+            "choice",
+            "of"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ginger",
+                "garlic",
+                "oyster",
+                "sauce",
+                "in",
+                "supreme",
+                "stock"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "西",
+            "施太子",
+            "炒飯"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "圖片",
+            "只",
+            "作",
+            "參考"
+        ],
+        "english_name": [
+            "Images",
+            "are",
+            "for",
+            "reference",
+            "only"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Hot",
+                "and",
+                "Spicy",
+                "Contain",
+                "Nuts",
+                "Suitable",
+                "for",
+                "vegetarian"
+            ]
+        ]
+    }
+]

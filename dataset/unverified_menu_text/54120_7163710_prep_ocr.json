@@ -1,0 +1,150 @@
+[
+    {
+        "chinese_name": [
+            "各色",
+            "饭",
+            "粉"
+        ],
+        "english_name": [
+            "RICE",
+            "NOODLES",
+            "AND",
+            "PHO",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "炒饭"
+        ],
+        "english_name": [
+            "House",
+            "Special",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "扬州",
+            "炒饭"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "田园",
+            "炒饭"
+        ],
+        "english_name": [
+            "Garden",
+            "Spring",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "星洲",
+            "炒饭"
+        ],
+        "english_name": [
+            "Singapore",
+            "Style",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "净",
+            "脆",
+            "面"
+        ],
+        "english_name": [
+            "Fried",
+            "Crispy",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒",
+            "芽",
+            "面"
+        ],
+        "english_name": [
+            "Fried",
+            "Soft",
+            "Noodles",
+            "with",
+            "Beansprout"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白饭"
+        ],
+        "english_name": [
+            "Boiled",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "星洲",
+            "炒",
+            "米粉"
+        ],
+        "english_name": [
+            "Singapore",
+            "Style",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "炒饭"
+        ],
+        "english_name": [
+            "Assorted",
+            "Seafood",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

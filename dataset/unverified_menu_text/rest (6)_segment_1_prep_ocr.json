@@ -1,0 +1,58 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NDLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "特別",
+            "推薦"
+        ],
+        "english_name": [
+            "Special",
+            "Recommendation"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红烧",
+            "冬瓜"
+        ],
+        "english_name": [
+            "Stewed",
+            "Chinese",
+            "Melon",
+            "with",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酱香",
+            "杏鲍菇"
+        ],
+        "english_name": [
+            "Apricot",
+            "Mushroom",
+            "With",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

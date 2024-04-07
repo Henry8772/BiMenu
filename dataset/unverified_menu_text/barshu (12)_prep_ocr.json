@@ -1,0 +1,164 @@
+[
+    {
+        "chinese_name": [
+            "金汤",
+            "酸菜",
+            "鱼",
+            "酸辣",
+            "煮"
+        ],
+        "english_name": [
+            "SEA",
+            "BASS",
+            "FILLET",
+            "WITH",
+            "SICHUAN",
+            "PICKLES"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "IN",
+                "GOLDEN",
+                "SOUP"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "金汤",
+            "酸菜",
+            "鱼",
+            "小",
+            "酸辣",
+            "万",
+            "煮"
+        ],
+        "english_name": [
+            "FISH",
+            "FILLET",
+            "WITH",
+            "SICHUAN",
+            "PICKLES"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "IN",
+                "GOLDEN",
+                "SOUP",
+                "SMALL",
+                "PORTION"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "蒸",
+            "鲈鱼",
+            "唐辛",
+            "子",
+            "蒸"
+        ],
+        "english_name": [
+            "STEAMED",
+            "SEA",
+            "BASS",
+            "WITH"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "CHOPPED",
+                "SALTED",
+                "CHILLIES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "巴山",
+            "香辣",
+            "虾",
+            "殼",
+            "付",
+            "海",
+            "老",
+            "唐辛",
+            "子",
+            "炒"
+        ],
+        "english_name": [
+            "ADD",
+            "NOODLE",
+            "FOR"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "BARSHU",
+                "FRAGRANT",
+                "AND"
+            ],
+            [
+                "HOT",
+                "PRAWNS",
+                "IN",
+                "SHELL"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "豆腐",
+            "虾球",
+            "豆腐",
+            "匕",
+            "辛",
+            "味"
+        ],
+        "english_name": [
+            "GONG",
+            "BAO",
+            "PRAWNS",
+            "WITH",
+            "CASHEW",
+            "NUTS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "STIR",
+                "FRIED",
+                "PRAWNS",
+                "WITH",
+                "SICHUAN",
+                "CHILLIES"
+            ],
+            [
+                "FRIED",
+                "PRAWNS",
+                "AND",
+                "BEANCURD",
+                "IN"
+            ],
+            [
+                "FISH",
+                "FRAGRANT",
+                "SAUCE"
+            ]
+        ]
+    }
+]

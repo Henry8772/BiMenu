@@ -6,26 +6,16 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "大",
             "酒楼"
         ],
-        "english_name": [
-            "A",
-            "PLUS"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Oriental",
-                "Restaurant"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -40,21 +30,89 @@
             "pm"
         ],
         "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "燒賣"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "韭菜",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸雞",
+            "春卷"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "雲吞"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "明蝦",
+            "角"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "雜",
+            "錦",
+            "素菜",
+            "餃"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "齋",
+            "頭",
+            "盤"
+        ],
+        "english_name": [
+            "Sui",
+            "Mai",
+            "Pork",
+            "and",
+            "Prawn",
+            "Dumpling"
+        ],
+        "chinese_description": [],
         "english_description": [
-            [
-                "Sui",
-                "Mai",
-                "Pork",
-                "and",
-                "Prawn",
-                "Dumpling"
-            ],
-            [
-                "Har",
-                "Gau",
-                "Prawn",
-                "Dumpling"
-            ],
             [
                 "Shrimp",
                 "and",
@@ -89,109 +147,80 @@
                 "Dumpling",
                 "Platter",
                 "4pcs"
+            ],
+            [
+                "VEGETARIAN",
+                "STARTER"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "燒賣"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "蝦",
-            "餃"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "韭菜",
-            "餃"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "炸雞",
-            "春卷"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "炸",
-            "雲吞"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "明蝦",
-            "角"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "蒸",
-            "雜",
-            "錦",
-            "素菜",
-            "餃"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "齋",
-            "頭",
-            "盤"
+            "春卷"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素",
+            "生菜",
+            "包"
         ],
         "english_name": [
-            "VEGETARIAN",
-            "STARTER"
+            "Vegetarian",
+            "Lettuce",
+            "Wrap",
+            "served",
+            "with",
+            "Hoi",
+            "sin",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "毛",
+            "菇"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "茄子"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "豆腐"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "湯"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Spring",
+            "Rolls"
         ],
         "chinese_description": [],
         "english_description": [
-            [
-                "Vegetable",
-                "Spring",
-                "Rolls"
-            ],
-            [
-                "Vegetarian",
-                "Lettuce",
-                "Wrap",
-                "served",
-                "with",
-                "Hoi",
-                "sin",
-                "Sauce"
-            ],
             [
                 "Salt",
                 "and",
@@ -211,129 +240,11 @@
                 "Tofu",
                 "Bean",
                 "curd"
+            ],
+            [
+                "SOUP"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "齋",
-            "春卷"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "素",
-            "生菜",
-            "包"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "椒鹽",
-            "毛",
-            "菇"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "椒鹽",
-            "茄子"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "椒鹽",
-            "豆腐"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "湯"
-        ],
-        "english_name": [
-            "SOUP"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
-                "Chicken",
-                "Sweet",
-                "Corn",
-                "Soup"
-            ],
-            [
-                "Crab",
-                "Meat",
-                "and",
-                "Sweet",
-                "Corn",
-                "Soup"
-            ],
-            [
-                "Hot",
-                "and",
-                "Sour",
-                "Soup"
-            ],
-            [
-                "Wonton",
-                "Soup"
-            ],
-            [
-                "West",
-                "Lake",
-                "Mince",
-                "Meat",
-                "Soup"
-            ],
-            [
-                "Rainbow",
-                "Seafood",
-                "and",
-                "Tofu",
-                "Soup"
-            ],
-            [
-                "Vegetarian",
-                "Sweet",
-                "Corn",
-                "Soup"
-            ],
-            [
-                "Vegetarian",
-                "Hot",
-                "and",
-                "Sour",
-                "Soup"
-            ],
-            [
-                "Rainbow",
-                "Tofu",
-                "Soup"
-            ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -343,8 +254,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -352,29 +262,41 @@
             "粟米",
             "羹"
         ],
-        "english_name": [],
+        "english_name": [
+            "Crab",
+            "Meat",
+            "and",
+            "Sweet",
+            "Corn",
+            "Soup"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "酸辣"
         ],
-        "english_name": [],
+        "english_name": [
+            "Hot",
+            "and",
+            "Sour",
+            "Soup"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "雲吞",
             "湯"
         ],
-        "english_name": [],
+        "english_name": [
+            "Wonton",
+            "Soup"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -382,10 +304,15 @@
             "牛",
             "肉羹"
         ],
-        "english_name": [],
+        "english_name": [
+            "West",
+            "Lake",
+            "Mince",
+            "Meat",
+            "Soup"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -394,10 +321,15 @@
             "豆腐",
             "羹"
         ],
-        "english_name": [],
+        "english_name": [
+            "Rainbow",
+            "Seafood",
+            "and",
+            "Tofu",
+            "Soup"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -405,10 +337,14 @@
             "粟米",
             "羹"
         ],
-        "english_name": [],
+        "english_name": [
+            "Vegetarian",
+            "Sweet",
+            "Corn",
+            "Soup"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -416,10 +352,15 @@
             "酸辣",
             "羹"
         ],
-        "english_name": [],
+        "english_name": [
+            "Vegetarian",
+            "Hot",
+            "and",
+            "Sour",
+            "Soup"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -428,10 +369,11 @@
             "羹"
         ],
         "english_name": [
-            "Page"
+            "Rainbow",
+            "Tofu",
+            "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

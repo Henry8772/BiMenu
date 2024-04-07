@@ -1,0 +1,122 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "頭",
+            "盤"
+        ],
+        "english_name": [
+            "Appetizer"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "re"
+            ],
+            [
+                "all"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "老醋",
+            "木耳"
+        ],
+        "english_name": [
+            "Black",
+            "Fungus",
+            "in",
+            "Chinese",
+            "Sour",
+            "Sauce",
+            "V",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A2"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "豆腐"
+        ],
+        "english_name": [
+            "Salt",
+            "And",
+            "Chilli",
+            "Tofu",
+            "V",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素",
+            "春卷"
+        ],
+        "english_name": [
+            "Malachite",
+            "Green",
+            "Vegetable",
+            "Spring",
+            "Rolls"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "辣",
+            "毛豆"
+        ],
+        "english_name": [
+            "Spicy",
+            "Edamame"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Bea",
+                "S",
+                "V"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "花生",
+            "豆"
+        ],
+        "english_name": [
+            "Fried",
+            "Fresh"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Peanuts",
+                "V",
+                "N"
+            ]
+        ]
+    }
+]

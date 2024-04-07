@@ -1,0 +1,274 @@
+[
+    {
+        "chinese_name": [
+            "斋",
+            "点心"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Dim",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "春卷"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Spring",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "葱油餅"
+        ],
+        "english_name": [
+            "Spring",
+            "Onion",
+            "Bauble"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "咖喱",
+            "角"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Crispy",
+            "Curried",
+            "Samosa"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "炸",
+            "粉",
+            "果"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Half",
+            "Moon",
+            "Dumpling",
+            "with",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "薯",
+            "饼"
+        ],
+        "english_name": [
+            "Curry",
+            "Potato",
+            "Cake"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "罗汉",
+            "腐皮",
+            "卷"
+        ],
+        "english_name": [
+            "Beancurd",
+            "Sheet",
+            "Roll",
+            "with",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "潮",
+            "果"
+        ],
+        "english_name": [
+            "Steamed",
+            "Spicy",
+            "Nut",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "石榴",
+            "果"
+        ],
+        "english_name": [
+            "Steamed",
+            "Vegetable",
+            "Sachet"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "黑椒",
+            "鱼翅",
+            "饺"
+        ],
+        "english_name": [
+            "Steamed",
+            "Vegetarian",
+            "Dumpling",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海草",
+            "斋",
+            "点心",
+            "拼盘"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "C'weed",
+            "Dim",
+            "Sum",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "per",
+                "head"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "咖喱",
+            "角"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Curry",
+            "Samosa"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "春卷"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Spring",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "松子",
+            "凤冠",
+            "饺"
+        ],
+        "english_name": [
+            "Steamed",
+            "Crystal",
+            "Sachet",
+            "with",
+            "Pine",
+            "Kernels"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜肉",
+            "云吞"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Crispy",
+            "Won",
+            "Ton"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "葱油饼"
+        ],
+        "english_name": [
+            "Spring",
+            "Onion",
+            "Bauble"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "chinese_name": [
+            "点"
+        ],
+        "english_name": [
+            "Steamed"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Dumplings"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "虾肉",
+            "烧卖"
+        ],
+        "english_name": [
+            "Prawn",
+            "and",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shao",
+                "Mai"
+            ],
+            [
+                "8pcs",
+                "452kcal"
+            ],
+            [
+                "4pcs",
+                "289kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "腐皮",
+            "糯",
+            "肉",
+            "烧卖"
+        ],
+        "english_name": [
+            "Minced",
+            "Pork",
+            "and",
+            "Glutinous",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Shao",
+                "Mai"
+            ],
+            [
+                "8pcs",
+                "452kcal"
+            ],
+            [
+                "4pcs",
+                "226kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "餃子"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鼎"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "虾肉",
+            "蒸饺"
+        ],
+        "english_name": [
+            "Prawn",
+            "and",
+            "Pork",
+            "Jiao",
+            "Zi"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "8pcs",
+                "416kcal",
+                "4pcs",
+                "208kcal"
+            ],
+            [
+                "8pcs",
+                "496kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素菜",
+            "蒸饺"
+        ],
+        "english_name": [
+            "Vegetable",
+            "Jiao",
+            "Zi"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菜肉",
+            "蒸饺"
+        ],
+        "english_name": [
+            "Pork",
+            "and",
+            "Vegetable",
+            "Jiao",
+            "Zi"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "4pcs",
+                "248kcal"
+            ],
+            [
+                "8pcs",
+                "390kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "餃子"
+        ],
+        "english_name": [
+            "4pcs",
+            "195kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "菌菇",
+            "松露",
+            "小笼",
+            "包"
+        ],
+        "english_name": [
+            "Mushroom",
+            "and",
+            "Truffle"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Xiao",
+                "Long",
+                "Bao"
+            ],
+            [
+                "10pcs",
+                "348kcal",
+                "5pcs",
+                "174kcal"
+            ],
+            [
+                "Handmade",
+                "with",
+                "Shiitake",
+                "Shimeji"
+            ],
+            [
+                "Enoki",
+                "and",
+                "Eryngii",
+                "mushroom",
+                "filling"
+            ],
+            [
+                "Enriched",
+                "with",
+                "white",
+                "truffle",
+                "oil",
+                "and"
+            ],
+            [
+                "seasoned",
+                "with",
+                "truffle",
+                "salt",
+                "to",
+                "ensure"
+            ],
+            [
+                "a",
+                "perfect",
+                "balance",
+                "of",
+                "flavour",
+                "and"
+            ],
+            [
+                "texture"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "chinese_name": [
+            "时令",
+            "美味",
+            "蔬菜"
+        ],
+        "english_name": [
+            "VEGETARIAN",
+            "HAVEN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "选择",
+            "通",
+            "心",
+            "菜",
+            "菜",
+            "心",
+            "白菜",
+            "菠菜",
+            "生菜",
+            "西兰",
+            "花"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "做法",
+            "湖南",
+            "水煮",
+            "蒜蓉",
+            "姜汁",
+            "剁椒",
+            "蚝油",
+            "素炒",
+            "盐水"
+        ],
+        "english_name": [
+            "Vegetables",
+            "choice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Morning",
+                "Glory",
+                "Mustard",
+                "Cabbage",
+                "Chinese",
+                "Leaf",
+                "Spinach"
+            ],
+            [
+                "Iceberg",
+                "Lettuce",
+                "Broccoli",
+                "Cooking",
+                "choice"
+            ],
+            [
+                "Cooking",
+                "choice"
+            ],
+            [
+                "Hunan",
+                "style",
+                "Stir",
+                "Fried",
+                "with",
+                "Garlic",
+                "Ginger",
+                "Oyster",
+                "Sauce"
+            ]
+        ]
+    }
+]

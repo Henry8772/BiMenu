@@ -1,5 +1,29 @@
 [
-
+    {
+        "chinese_name": [
+            "包",
+            "点",
+            "类"
+        ],
+        "english_name": [
+            "STEAMED",
+            "BAO"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "肠粉",
+            "类"
+        ],
+        "english_name": [
+            "CHEUNG",
+            "FUN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
     {
         "chinese_name": [
             "香",
@@ -13,8 +37,7 @@
             "Fun"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -27,13 +50,15 @@
             "Fried",
             "Dough",
             "Stick",
-            "Cheung",
-            "Fun"
-            
+            "Cheung"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Fun",
+                "V"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -47,8 +72,7 @@
             "Fun"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -57,12 +81,16 @@
         ],
         "english_name": [
             "Vegetarian",
-            "Cheung",
-            "Fun"
+            "Cheung"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Fun",
+                "V",
+                "VG"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -78,8 +106,7 @@
             "Fun"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -93,8 +120,7 @@
             "Fun"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -106,13 +132,16 @@
             "Spring",
             "Onion",
             "and",
-            "Egg",
-            "Cheung",
-            "Fun"
+            "Egg"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Cheung",
+                "Fun",
+                "V"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -124,13 +153,15 @@
             "Pan",
             "Fried",
             "Dried",
-            "Shrimp",
-            "Cheung",
-            "Fun"
+            "Shrimp"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Cheung",
+                "Fun"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -148,18 +179,24 @@
             "Bao"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "蚝油",
             "叉烧包"
         ],
-        "english_name": [],
+        "english_name": [
+            "Steamed",
+            "Sponge",
+            "V",
+            "Char",
+            "Siu",
+            "Pork",
+            "Bao"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -171,14 +208,16 @@
         "english_name": [
             "Home",
             "Mango",
-            "Liu",
-            "Sha",
-                "Bao"
+            "Liu"
         ],
         "chinese_description": [],
         "english_description": [
-        ],
-        "raw_text": null
+            [
+                "Sha",
+                "Bao",
+                "V"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -188,13 +227,15 @@
         ],
         "english_name": [
             "Buddha's",
-            "Delight",
-            "Cheung",
-            "Fun"
+            "Delight"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Cheung",
+                "Fun"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -206,34 +247,62 @@
         "english_name": [
             "Crispy",
             "Brown",
-            "Rice",
-            "Cheung",
-            "Fun"
+            "Rice"
         ],
         "chinese_description": [],
         "english_description": [
-
-        ],
-        "raw_text": null
+            [
+                "Cheung",
+                "Fun"
+            ]
+        ]
     },
     {
         "chinese_name": [
             "香滑",
             "奶",
             "黄",
-            "包"
-            
+            "包",
+            "蒸菜",
+            "肉包"
         ],
         "english_name": [
             "Cream",
             "Custard",
-            "Bao"
+            "Bao",
+            "V"
         ],
         "chinese_description": [],
         "english_description": [
-
+            [
+                "Pork",
+                "and",
+                "Vegetable",
+                "Bao"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "特别",
+            "推荐"
         ],
-        "raw_text": null
+        "english_name": [
+            "SPECIAL"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "粥",
+            "品类"
+        ],
+        "english_name": [
+            "CONGEE"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -251,34 +320,15 @@
             "V"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-
-            "泡椒",
-            "凤爪"
-        ],
-        "english_name": [
-            "Chicken",
-                "Feet",
-                "with",
-                "Pickled",
-                "Chilli",
-                "Peppers"
-        ],
-        "chinese_description": [],
-        "english_description": [
-
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "滑蛋",
             "牛肉",
-            "粥"
+            "粥",
+            "泡椒",
+            "凤爪"
         ],
         "english_name": [
             "Beef",
@@ -288,9 +338,24 @@
         ],
         "chinese_description": [],
         "english_description": [
-
+            [
+                "Chicken",
+                "Feet",
+                "with",
+                "Pickled"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "盅",
+            "仔",
+            "饭",
+            "类"
         ],
-        "raw_text": null
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -304,10 +369,18 @@
             "Congee"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
-
+    {
+        "chinese_name": [
+            "家"
+        ],
+        "english_name": [
+            "HOME"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
     {
         "chinese_name": [
             "泰式",
@@ -320,8 +393,7 @@
             "Style"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -338,8 +410,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -353,8 +424,7 @@
             "Congee"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -362,10 +432,14 @@
             "脆皮",
             "奶"
         ],
-        "english_name": [],
+        "english_name": [
+            "Coconut",
+            "Milk",
+            "Rolls",
+            "V"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -379,8 +453,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -390,28 +463,83 @@
         "english_name": [
             "Fried",
             "Dough",
-            "Stick",
-            "Congee",
-            "V"
+            "Stick"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Congee",
+                "V"
+            ]
+        ]
     },
-    
+    {
+        "chinese_name": [
+            "食物",
+            "過敏"
+        ],
+        "english_name": [
+            "FOOD",
+            "ALLERGIES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Management",
+                "advises",
+                "that",
+                "food",
+                "prepared",
+                "here",
+                "may",
+                "contain",
+                "or",
+                "have"
+            ],
+            [
+                "come",
+                "in",
+                "contact",
+                "with",
+                "nuts",
+                "soybeans",
+                "milk",
+                "eggs",
+                "wheat",
+                "shellfish",
+                "or"
+            ],
+            [
+                "fish",
+                "Please",
+                "ask",
+                "a",
+                "member",
+                "of",
+                "staff",
+                "about",
+                "the",
+                "ingredients",
+                "in",
+                "your",
+                "meal"
+            ],
+            [
+                "betore",
+                "placing",
+                "your",
+                "order"
+            ]
+        ]
+    },
     {
         "chinese_name": [
             "杨枝",
             "甘露"
         ],
-        "english_name": [
-            "Mango",
-            "Pomelo",
-            "Sago"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -428,8 +556,20 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖啡",
+            "糕"
+        ],
+        "english_name": [
+            "Coffee",
+            "Cake",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -439,12 +579,14 @@
             "Pork",
             "and",
             "Century",
-            "Egg",
-            "Congee"
+            "Egg"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Congee"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -463,8 +605,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -483,8 +624,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -498,10 +638,37 @@
             "Congee"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
-    
+    {
+        "chinese_name": [
+            "如果",
+            "您",
+            "对",
+            "某些",
+            "食物",
+            "过敏",
+            "请",
+            "再",
+            "下",
+            "单",
+            "前",
+            "告知",
+            "服务",
+            "人员"
+        ],
+        "english_name": [
+            "V",
+            "Vegetarian",
+            "VG",
+            "Vegan",
+            "on",
+            "request",
+            "Spicy"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
     {
         "chinese_name": [
             "腊味",
@@ -515,8 +682,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -528,10 +694,11 @@
         "english_name": [
             "Choi",
             "Sum",
-            "Congee"
+            "Congee",
+            "V",
+            "VG"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

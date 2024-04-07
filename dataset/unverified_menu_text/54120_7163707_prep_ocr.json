@@ -1,0 +1,112 @@
+[
+    {
+        "chinese_name": [
+            "经典",
+            "广",
+            "粤菜"
+        ],
+        "english_name": [
+            "CLASSIC",
+            "CANTONESE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "玉",
+            "子",
+            "豆腐"
+        ],
+        "english_name": [
+            "Seafood",
+            "with",
+            "Egg",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "古老",
+            "鸡",
+            "大虾"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "三鲜",
+            "琵琶",
+            "豆腐"
+        ],
+        "english_name": [
+            "House",
+            "Special",
+            "Seafood",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙",
+            "鸡",
+            "牛"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chicken",
+            "Beef",
+            "in",
+            "Satay",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "保",
+            "鸡",
+            "牛",
+            "大虾"
+        ],
+        "english_name": [
+            "Kungpo",
+            "Chicken",
+            "Beef",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "梅子",
+            "鸭"
+        ],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "in",
+            "Plum",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

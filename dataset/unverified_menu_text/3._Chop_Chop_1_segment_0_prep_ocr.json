@@ -1,0 +1,60 @@
+[
+    {
+        "chinese_name": [
+            "粵式",
+            "燒鴨"
+        ],
+        "english_name": [
+            "Cantonese",
+            "Style",
+            "Roast",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "油",
+            "雞"
+        ],
+        "english_name": [
+            "Soya",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "脆皮",
+            "燒肉"
+        ],
+        "english_name": [
+            "Crispy",
+            "Pork",
+            "Belly",
+            "P",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉燒"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "BBQ",
+            "Pork",
+            "P",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

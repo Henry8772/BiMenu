@@ -1,0 +1,469 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NDLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "飯",
+            "面"
+        ],
+        "english_name": [
+            "NOODLES",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "面食"
+        ],
+        "english_name": [
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸酱面"
+        ],
+        "english_name": [
+            "ZHAJIANG",
+            "MAIN",
+            "pork",
+            "fermented",
+            "soy",
+            "sauce",
+            "shallot",
+            "oni"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干炒",
+            "牛肉",
+            "面"
+        ],
+        "english_name": [
+            "SLICE",
+            "BEEF",
+            "WITH",
+            "BEAN",
+            "SPROUTS",
+            "AND",
+            "CHINESE",
+            "OODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "奇",
+            "香鱼",
+            "面"
+        ],
+        "english_name": [
+            "SHANGHAI",
+            "STYLE",
+            "WOK",
+            "FRIED",
+            "HADDOCK",
+            "WITH",
+            "FIVE",
+            "SPICES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "AND",
+                "SOFT",
+                "NOODLES",
+                "IN",
+                "STRONG",
+                "SOY",
+                "SAUCE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "罗汉",
+            "斋",
+            "面"
+        ],
+        "english_name": [
+            "MONKS",
+            "VEGETARIAN",
+            "SOFT",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "cloud",
+                "ear",
+                "mushroom",
+                "bean",
+                "curd",
+                "and",
+                "pak",
+                "choi"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "三鲜",
+            "烧",
+            "面"
+        ],
+        "english_name": [
+            "SEA",
+            "FOOD",
+            "WITH",
+            "GINGER",
+            "and",
+            "SPRING",
+            "ONION",
+            "ON",
+            "CRISPY",
+            "OR"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SOFT",
+                "NOODLES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "台湾",
+            "牛肉",
+            "面",
+            "卤肉",
+            "汤面"
+        ],
+        "english_name": [
+            "TAIWANESE",
+            "BRAISED",
+            "BEEF",
+            "NOODLES",
+            "BEIJING",
+            "GRAVY"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "PORK",
+                "NOODLES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "大虾",
+            "捞面"
+        ],
+        "english_name": [
+            "CURRIED",
+            "PRAWN",
+            "LAO",
+            "MIAN",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "汤面",
+            "海鲜",
+            "汤",
+            "米粉"
+        ],
+        "english_name": [
+            "SEAFOOD",
+            "HOMEMADE",
+            "NOODLE",
+            "SOUP",
+            "RICE",
+            "SOUP",
+            "NOODLE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "鸡",
+            "面"
+        ],
+        "english_name": [
+            "CURRIED",
+            "CHICKEN",
+            "ON",
+            "SOFT",
+            "NOODLES",
+            "WITH",
+            "DELICIOUS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "CURRY",
+                "SAUCE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "鸭",
+            "丝",
+            "面",
+            "汤",
+            "米粉"
+        ],
+        "english_name": [
+            "SHREDDED",
+            "DUCK",
+            "WITH",
+            "CHINESE",
+            "PICKLED",
+            "CABBAGE",
+            "SOUP",
+            "NOODLE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "冬菇",
+            "鸡",
+            "面"
+        ],
+        "english_name": [
+            "DRIED",
+            "MUSHROOMS",
+            "AND",
+            "CHICKEN",
+            "ON",
+            "CRISPY",
+            "OR",
+            "SOFT",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "罗汉",
+            "斋",
+            "汤面",
+            "汤",
+            "米粉"
+        ],
+        "english_name": [
+            "MONKS",
+            "VEGETARIAN",
+            "NOODLE",
+            "RICE",
+            "NOODLE",
+            "SOUP"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "black",
+                "fungus",
+                "mushroom",
+                "bean",
+                "curd",
+                "and",
+                "pak",
+                "choi"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "牛",
+            "面"
+        ],
+        "english_name": [
+            "CURRIED",
+            "BEEF",
+            "ON",
+            "SOFT",
+            "NOODLES",
+            "WITH",
+            "DELICIOUS",
+            "CURRY",
+            "SAUCE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "烧鸭",
+            "面"
+        ],
+        "english_name": [
+            "CHINESE",
+            "ROAST",
+            "DUCK",
+            "AND",
+            "CHINESE",
+            "PAK",
+            "CH",
+            "WITH",
+            "SOFT",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "IN",
+                "HONGFU",
+                "SAUCE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "日",
+            "式",
+            "炒",
+            "拉面",
+            "猪",
+            "牛",
+            "鸭",
+            "鸡",
+            "虾",
+            "豆腐"
+        ],
+        "english_name": [
+            "JAPANESE",
+            "FRIED",
+            "RAMEN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork",
+                "BEEF",
+                "Duck",
+                "Chicken",
+                "King",
+                "Prawn",
+                "Tofu"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "牛",
+            "面"
+        ],
+        "english_name": [
+            "SATAY",
+            "BEEF",
+            "ON",
+            "SOFT",
+            "OR",
+            "SOFT",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "盖",
+            "浇",
+            "可",
+            "改",
+            "米饭"
+        ],
+        "english_name": [
+            "ALL",
+            "NOODLES",
+            "CAN",
+            "BE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "CHANGED",
+                "TO",
+                "RICE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鸡丝",
+            "面",
+            "肉丝",
+            "面"
+        ],
+        "english_name": [
+            "WOK",
+            "FRIED",
+            "SHREDDED",
+            "CHICKEN",
+            "FILLET",
+            "OR",
+            "PORK",
+            "WITH",
+            "BEAN"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SPROUTS",
+                "and",
+                "DRIED",
+                "MUSHROOM",
+                "OODLES"
+            ]
+        ]
+    }
+]

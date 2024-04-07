@@ -5,23 +5,16 @@
             "推介"
         ],
         "english_name": [
-            "WING'S",
-            "SPECIAL",
-            "RECOMMENDATIONS"
+            "Sliced",
+            "Chicken",
+            "in",
+            "Sweet",
+            "and",
+            "Tangy",
+            "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Sliced",
-                "Chicken",
-                "in",
-                "Sweet",
-                "and",
-                "Tangy",
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -42,28 +35,12 @@
                 "Seasonal",
                 "price"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "鸳鸯",
             "鱸魚"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "一半",
-            "薑蔥",
-            "蒸",
-            "另一",
-            "半",
-            "煎",
-            "封"
         ],
         "english_name": [
             "Half",
@@ -84,19 +61,31 @@
             "Soya"
         ],
         "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "一半",
+            "薑蔥",
+            "蒸",
+            "另一",
+            "半",
+            "煎",
+            "封"
+        ],
+        "english_name": [
+            "Seasonal",
+            "price"
+        ],
+        "chinese_description": [],
         "english_description": [
-            [
-                "Seasonal",
-                "price"
-            ],
             [
                 "Yin",
                 "Yan",
                 "Dover",
                 "Sole"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -104,19 +93,6 @@
             "龍",
             "利",
             "魚"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "一半",
-            "薑蔥",
-            "另一",
-            "半",
-            "四川"
         ],
         "english_name": [
             "Half",
@@ -135,18 +111,15 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "椒鹽",
-            "鱸魚",
-            "片",
+            "一半",
+            "薑蔥",
+            "另一",
             "半",
-            "只",
-            "全",
-            "只"
+            "四川"
         ],
         "english_name": [
             "Seasonal",
@@ -164,19 +137,31 @@
                 "Half",
                 "or",
                 "Whole"
-            ],
-            [
-                "Yin",
-                "Yan",
-                "Pak",
-                "Far",
-                "Tofu",
-                "and",
-                "Aubergine",
-                "Pieces"
             ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "鱸魚",
+            "片",
+            "半",
+            "只",
+            "全",
+            "只"
         ],
-        "raw_text": null
+        "english_name": [
+            "Yin",
+            "Yan",
+            "Pak",
+            "Far",
+            "Tofu",
+            "and",
+            "Aubergine",
+            "Pieces"
+        ],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -215,8 +200,7 @@
                 "Prawns",
                 "Pieces"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -253,8 +237,7 @@
                 "Treasures",
                 "Pieces"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -295,8 +278,7 @@
                 "Fruit",
                 "Sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -312,8 +294,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -352,8 +333,7 @@
                 "Fried",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -364,7 +344,6 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

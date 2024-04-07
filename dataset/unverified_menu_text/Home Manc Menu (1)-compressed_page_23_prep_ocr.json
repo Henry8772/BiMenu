@@ -20,8 +20,7 @@
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -64,8 +63,7 @@
                 "Pumpkin",
                 "Cake"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -91,8 +89,7 @@
                 "Boiled",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -107,8 +104,7 @@
             "Prawns"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -132,8 +128,7 @@
                 "Plain",
                 "Fried"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -149,8 +144,7 @@
             "Stew"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -170,8 +164,7 @@
                 "Minced",
                 "Beef"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -186,8 +179,7 @@
             "Soy"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -203,8 +195,7 @@
             "Plus"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -232,8 +223,7 @@
                 "Minimum",
                 "Persons"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -258,8 +248,7 @@
             "Soup"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -304,8 +293,7 @@
                 "W",
                 "To"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -332,8 +320,7 @@
                 "Boiled",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -366,8 +353,7 @@
                 "with",
                 "Ginger"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -382,8 +368,7 @@
             "Curd"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -392,10 +377,16 @@
             "鱼香",
             "茄子"
         ],
-        "english_name": [],
+        "english_name": [
+            "Sizzling",
+            "Aubergine",
+            "with",
+            "Sweet",
+            "Chilli",
+            "Sauce"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -403,12 +394,6 @@
             "另加"
         ],
         "english_name": [
-            "Sizzling",
-            "Aubergine",
-            "with",
-            "Sweet",
-            "Chilli",
-            "Sauce",
             "For",
             "Persons",
             "as",
@@ -427,7 +412,6 @@
                 "request",
                 "Spicy"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

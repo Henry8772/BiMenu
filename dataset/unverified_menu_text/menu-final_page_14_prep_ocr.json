@@ -9,6 +9,19 @@
             "皮"
         ],
         "english_name": [
+            "Live",
+            "Seafood",
+            "Ltd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "尖椒",
+            "肉丝"
+        ],
+        "english_name": [
             "Sautéed",
             "Shredded",
             "Pork",
@@ -21,13 +34,11 @@
             "pancakes"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "尖椒",
-            "肉丝"
+            "回锅肉"
         ],
         "english_name": [
             "Stir",
@@ -39,12 +50,19 @@
             "Chilli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "回锅肉"
+            "海"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红烧肉"
         ],
         "english_name": [
             "Sautéed",
@@ -56,21 +74,12 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "海"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "红烧肉"
+            "蒜苔",
+            "炒肉"
         ],
         "english_name": [
             "Braised",
@@ -81,26 +90,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "蒜苔",
-            "炒肉"
-        ],
-        "english_name": [
-            "Stir",
-            "Fried",
-            "shredded",
-            "pork",
-            "with",
-            "garlic",
-            "sprout"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -110,15 +100,62 @@
             "参考"
         ],
         "english_name": [
-            "All",
-            "photos",
-            "are",
-            "for",
-            "reference",
-            "only"
+            "Sautéed",
+            "Shredded",
+            "Pork",
+            "in",
+            "Hoi",
+            "Sin",
+            "Sauce",
+            "served",
+            "with",
+            "pancakes"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Stir",
+                "Fried",
+                "Shredded",
+                "Pork",
+                "with",
+                "Spicy",
+                "Chilli"
+            ],
+            [
+                "Sautéed",
+                "Sliced",
+                "Pork",
+                "Belly",
+                "in",
+                "Chilli",
+                "Sauce"
+            ],
+            [
+                "Braised",
+                "Pork",
+                "in",
+                "Sweet",
+                "Soy",
+                "Sauce"
+            ],
+            [
+                "Stir",
+                "Fried",
+                "shredded",
+                "pork",
+                "with",
+                "garlic",
+                "sprout"
+            ],
+            [
+                "All",
+                "photos",
+                "are",
+                "for",
+                "reference",
+                "only"
+            ]
+        ]
     }
 ]

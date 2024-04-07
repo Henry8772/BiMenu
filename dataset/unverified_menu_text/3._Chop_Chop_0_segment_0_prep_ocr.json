@@ -1,0 +1,104 @@
+[
+    {
+        "chinese_name": [
+            "蝦片"
+        ],
+        "english_name": [
+            "Prawn",
+            "Crackers",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香酥",
+            "鴨",
+            "配",
+            "鴨",
+            "皮",
+            "蔥絲",
+            "黃瓜",
+            "條"
+        ],
+        "english_name": [
+            "Aromatic",
+            "Crispy",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "pancakes",
+                "spring",
+                "onions",
+                "and",
+                "cucumber"
+            ],
+            [
+                "Whole",
+                "kcal"
+            ],
+            [
+                "Half",
+                "kcal"
+            ],
+            [
+                "Per",
+                "Portion",
+                "kcal"
+            ],
+            [
+                "Extra",
+                "Pancakes",
+                "kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "額外",
+            "蔥絲",
+            "黃瓜",
+            "條"
+        ],
+        "english_name": [
+            "and",
+            "Extra",
+            "Spring",
+            "onion",
+            "and",
+            "cucumbers"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt",
+                "and",
+                "Pepper"
+            ],
+            [
+                "Prawns",
+                "kcal"
+            ],
+            [
+                "Squid",
+                "kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "椒鹽"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "chinese_name": [
+            "巴山",
+            "冒",
+            "菜",
+            "鱼丸",
+            "虾",
+            "牛",
+            "柏叶",
+            "午餐肉",
+            "肥牛",
+            "等等"
+        ],
+        "english_name": [
+            "BARSHU",
+            "SPECIAL",
+            "MAOCAI"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "FISH",
+                "BALL",
+                "PRAWN",
+                "BEEF",
+                "TRIPE",
+                "LUNCHEON",
+                "PORK",
+                "THIN",
+                "SLICED",
+                "BEEF",
+                "ETC"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "巴山",
+            "冒",
+            "菜",
+            "金针菇",
+            "木耳",
+            "竹",
+            "轮",
+            "腐竹",
+            "大白菜",
+            "等等"
+        ],
+        "english_name": [
+            "BARSHU",
+            "SPECIAL",
+            "MEATFREE",
+            "MAOCAI"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ENOKI",
+                "MUSHROOM",
+                "CLOUD",
+                "EAR",
+                "FUNGUS",
+                "CHIKUWA",
+                "BEANCURD",
+                "STICK",
+                "CHINESE",
+                "LEAVES",
+                "ETC"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "毛血旺",
+            "鸭血",
+            "金钱",
+            "肚",
+            "牛",
+            "柏叶",
+            "肥肠",
+            "午餐肉",
+            "等等"
+        ],
+        "english_name": [
+            "ASSORTED",
+            "MEATS",
+            "IN",
+            "FIERY",
+            "SAUCE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "DUCK",
+                "BLOOD",
+                "HONEYCOMB",
+                "BEEF",
+                "TRIPE",
+                "BEEF",
+                "TRIPE",
+                "PIG'S",
+                "INTESTINE",
+                "LUNCHEON",
+                "PORK",
+                "ETC"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "香",
+            "锅",
+            "虾",
+            "肥肠",
+            "鱼丸",
+            "牛",
+            "柏叶",
+            "金钱",
+            "肚",
+            "等等"
+        ],
+        "english_name": [
+            "ASSORTED",
+            "DRY",
+            "WOK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "KING",
+                "PRAWN",
+                "PIG'S",
+                "INTESTINE",
+                "FISH",
+                "BALL",
+                "BEEF",
+                "TRIPE",
+                "HONEYCOMB",
+                "BEEF",
+                "TRIPE",
+                "ETC"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "麻辣",
+            "香",
+            "锅",
+            "木耳",
+            "金针菇",
+            "花菜",
+            "西芹",
+            "腐竹",
+            "等等"
+        ],
+        "english_name": [
+            "MEATFREE",
+            "ASSORTED",
+            "DRY",
+            "WOK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "CLOUD",
+                "EAR",
+                "FUNGUS",
+                "ENOKI",
+                "MUSHROOM",
+                "CAULIFLOWER",
+                "CELERY",
+                "BEANCURD",
+                "STICK",
+                "ETC"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "品",
+            "香",
+            "锅",
+            "龙虾",
+            "带子",
+            "大虾",
+            "鲍鱼",
+            "金钱",
+            "肚",
+            "等等"
+        ],
+        "english_name": [
+            "ASSORTED",
+            "SUPERIOR",
+            "DRY",
+            "WOK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "LOBSTER",
+                "SCALLOPS",
+                "KING",
+                "PRAWN",
+                "ABALONE",
+                "HONEYCOMB",
+                "BEEF",
+                "TRIPE",
+                "ETC"
+            ]
+        ]
+    }
+]

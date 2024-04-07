@@ -1,0 +1,365 @@
+[
+    {
+        "chinese_name": [
+            "胡"
+        ],
+        "english_name": [
+            "Flavours",
+            "of",
+            "Hutong"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Three",
+                "course",
+                "set",
+                "lunch",
+                "available",
+                "from",
+                "Monday",
+                "to",
+                "Friday",
+                "12pm",
+                "230pm"
+            ],
+            [
+                "per",
+                "person"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素菜",
+            "春卷"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "spring",
+            "rolls"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Filled",
+                "with",
+                "mushrooms",
+                "and",
+                "cabbage",
+                "served",
+                "with",
+                "spring",
+                "onions",
+                "V"
+            ],
+            [
+                "or"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑",
+            "毛猪",
+            "笼",
+            "抄手"
+        ],
+        "english_name": [
+            "berico",
+            "pork",
+            "dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Sichuan",
+                "garlic",
+                "sauce"
+            ],
+            [
+                "or"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "雲吞"
+        ],
+        "english_name": [
+            "Scallop",
+            "prawn",
+            "wontons"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "hot",
+                "and",
+                "spicy",
+                "sauce"
+            ],
+            [
+                "or"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "香",
+            "煸",
+            "口",
+            "口",
+            "脆",
+            "牛",
+            "丝"
+        ],
+        "english_name": [
+            "Sichuan",
+            "shredded",
+            "beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Crispy",
+                "beef",
+                "juliennes",
+                "in",
+                "a",
+                "sweet",
+                "chilli",
+                "glaze",
+                "supplement",
+                "of"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "山城",
+            "辣子",
+            "鸡"
+        ],
+        "english_name": [
+            "Fried",
+            "chicken",
+            "fillet"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Sichuan",
+                "dried",
+                "chilli"
+            ],
+            [
+                "or"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "婆",
+            "豆腐"
+        ],
+        "english_name": [
+            "Mapo",
+            "tofu"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chilli",
+                "sauce",
+                "V"
+            ],
+            [
+                "or"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黄金",
+            "虾"
+        ],
+        "english_name": [
+            "Salted",
+            "egg",
+            "yolk",
+            "prawns"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "or"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "老干妈",
+            "煸",
+            "炒",
+            "牛柳"
+        ],
+        "english_name": [
+            "Ma",
+            "La",
+            "beef",
+            "tenderloin"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "peppers",
+                "chilli",
+                "and",
+                "black",
+                "bean",
+                "sauce",
+                "supplement",
+                "of"
+            ],
+            [
+                "Bell"
+            ],
+            [
+                "with"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "白飯"
+        ],
+        "english_name": [
+            "Steam",
+            "rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "or"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "师傅",
+            "炒饭"
+        ],
+        "english_name": [
+            "Chefs",
+            "egg",
+            "fried",
+            "rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "pickled",
+                "vegetables",
+                "supplement",
+                "of"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "柑橘",
+            "雪",
+            "芭"
+        ],
+        "english_name": [
+            "or"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芒果",
+            "布丁"
+        ],
+        "english_name": [
+            "Mango",
+            "pudding"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "fruit",
+                "salsa",
+                "supplement",
+                "of"
+            ],
+            [
+                "All",
+                "dim",
+                "sum",
+                "may",
+                "contain",
+                "traces",
+                "of",
+                "nuts",
+                "most",
+                "of",
+                "our",
+                "dishes",
+                "contain",
+                "sesame"
+            ],
+            [
+                "Please",
+                "let",
+                "your",
+                "waiter",
+                "or",
+                "waitress",
+                "know",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "or",
+                "intolerances",
+                "Minimum",
+                "people",
+                "to",
+                "order",
+                "set",
+                "menu"
+            ],
+            [
+                "Our",
+                "menus",
+                "are",
+                "sample",
+                "menus",
+                "are",
+                "subject",
+                "to",
+                "change"
+            ],
+            [
+                "V",
+                "vegetarian",
+                "VG",
+                "vegan",
+                "GF",
+                "gluten",
+                "free"
+            ]
+        ]
+    }
+]

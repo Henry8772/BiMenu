@@ -1,0 +1,289 @@
+[
+    {
+        "chinese_name": [
+            "菜"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "类"
+        ],
+        "english_name": [
+            "Vegetable"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "Fries"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "高丽",
+            "菜"
+        ],
+        "english_name": [
+            "Cabbage",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Original",
+                "166kcal"
+            ],
+            [
+                "Our",
+                "dishes",
+                "are",
+                "cooked",
+                "with"
+            ],
+            [
+                "Superior",
+                "Broth",
+                "made",
+                "with",
+                "a"
+            ],
+            [
+                "base",
+                "of",
+                "chicken",
+                "and",
+                "pork",
+                "which",
+                "is"
+            ],
+            [
+                "Vegan",
+                "Vegetarian"
+            ],
+            [
+                "Options",
+                "available",
+                "upon",
+                "request"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "四季豆"
+        ],
+        "english_name": [
+            "String",
+            "Beans",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Original",
+                "180kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "野菜",
+            "炒"
+        ],
+        "english_name": [
+            "Superior",
+            "Broth"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "Our",
+                "dishes",
+                "are",
+                "cooked",
+                "with"
+            ],
+            [
+                "Superior",
+                "Broth",
+                "made",
+                "with",
+                "a"
+            ],
+            [
+                "base",
+                "of",
+                "chicken",
+                "and",
+                "pork",
+                "which",
+                "is"
+            ],
+            [
+                "simmered",
+                "for",
+                "hours"
+            ],
+            [
+                "Vegan",
+                "Vegetarian"
+            ],
+            [
+                "Options",
+                "available",
+                "upon",
+                "request"
+            ],
+            [
+                "Vegan"
+            ],
+            [
+                "With",
+                "Prawns",
+                "409kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "西兰",
+            "花"
+        ],
+        "english_name": [
+            "Broccoli",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Original",
+                "255kcal"
+            ],
+            [
+                "Original",
+                "227kcal",
+                "With",
+                "Prawns",
+                "343kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "菠菜"
+        ],
+        "english_name": [
+            "Spinach",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "With",
+                "Prawns",
+                "371kcal"
+            ],
+            [
+                "Prawn",
+                "Dou",
+                "Miao",
+                "with",
+                "Garlic"
+            ],
+            [
+                "Original",
+                "293kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "虾仁",
+            "豆苗"
+        ],
+        "english_name": [
+            "Prawn",
+            "Dou",
+            "Miao",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Original",
+                "293kcal"
+            ],
+            [
+                "With",
+                "Prawns",
+                "409kcal"
+            ],
+            [
+                "All",
+                "of",
+                "our",
+                "Dou",
+                "Miao",
+                "is",
+                "specially"
+            ],
+            [
+                "grown",
+                "in",
+                "the",
+                "UK",
+                "for",
+                "Din",
+                "Tai",
+                "Fung"
+            ],
+            [
+                "Every",
+                "batch",
+                "is",
+                "selected",
+                "with",
+                "only"
+            ],
+            [
+                "young",
+                "and",
+                "tender",
+                "shoots",
+                "of",
+                "almost"
+            ],
+            [
+                "identical",
+                "length"
+            ]
+        ]
+    }
+]

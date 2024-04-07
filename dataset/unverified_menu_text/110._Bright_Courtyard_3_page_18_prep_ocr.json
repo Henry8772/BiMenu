@@ -1,0 +1,152 @@
+[
+    {
+        "chinese_name": [
+            "四川"
+        ],
+        "english_name": [
+            "Sichuan"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "肉类"
+        ],
+        "english_name": [
+            "MEAT"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川"
+        ],
+        "english_name": [
+            "Sichuan"
+        ],
+        "chinese_description": [
+            [
+                "子"
+            ]
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡"
+        ],
+        "english_name": [
+            "Dry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸鱼",
+            "鸡",
+            "粒",
+            "茄子",
+            "煲"
+        ],
+        "english_name": [
+            "Salty",
+            "Fish",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Aubergine",
+                "Hotpot"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "台式",
+            "三杯",
+            "雞"
+        ],
+        "english_name": [
+            "Three",
+            "Marinated",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "w",
+                "Sweet",
+                "Basil"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "果",
+            "保",
+            "鸡"
+        ],
+        "english_name": [
+            "w",
+            "Cashew",
+            "Nuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "湘",
+            "干",
+            "小",
+            "炒肉"
+        ],
+        "english_name": [
+            "Pork",
+            "Slice",
+            "w",
+            "Dry"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Bean",
+                "Curd",
+                "and",
+                "Chili"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "肉类"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "考",
+            "出品",
+            "以",
+            "实物",
+            "为准"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

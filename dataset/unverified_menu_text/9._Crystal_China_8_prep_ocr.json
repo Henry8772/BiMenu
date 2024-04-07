@@ -1,0 +1,119 @@
+[
+    {
+        "chinese_name": [
+            "肥肠",
+            "炒",
+            "土豆",
+            "片"
+        ],
+        "english_name": [
+            "Special",
+            "Cooked",
+            "Pig",
+            "Intestines",
+            "and",
+            "Potato"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "双",
+            "椒",
+            "牛肉"
+        ],
+        "english_name": [
+            "Beef",
+            "Sliced",
+            "with",
+            "Green",
+            "and",
+            "Red",
+            "Peppers"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "茶树菇"
+        ],
+        "english_name": [
+            "Dry",
+            "Fried",
+            "Chinese",
+            "Mushroom",
+            "and",
+            "Chinese",
+            "Sausage"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mapo",
+                "Tofu",
+                "Chilli",
+                "Sauce"
+            ],
+            [
+                "A",
+                "Discretionary",
+                "Service",
+                "Charge",
+                "will",
+                "be",
+                "ad"
+            ],
+            [
+                "Minimum",
+                "Charge",
+                "per",
+                "person"
+            ],
+            [
+                "Debit",
+                "and",
+                "C",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "value",
+                "over"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "虎皮",
+            "尖椒",
+            "肥牛"
+        ],
+        "english_name": [
+            "Beef",
+            "Sliced",
+            "with",
+            "Long",
+            "Green",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "牛腩"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Spicy",
+            "Beef",
+            "Flank"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

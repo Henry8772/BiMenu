@@ -1,0 +1,253 @@
+[
+    {
+        "chinese_name": [
+            "麵",
+            "類"
+        ],
+        "english_name": [
+            "NOODLES",
+            "IN",
+            "SOUP"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "E",
+                "Fu",
+                "Noodles",
+                "with",
+                "Crab",
+                "Meat",
+                "Sauce",
+                "in",
+                "Sou"
+            ],
+            [
+                "E",
+                "Fu",
+                "Noodles",
+                "with",
+                "Assorted",
+                "Meat",
+                "in",
+                "Soup",
+                "meat",
+                "and",
+                "seafood"
+            ],
+            [
+                "Braised",
+                "E",
+                "Fu",
+                "Noodles",
+                "with",
+                "Vegetables",
+                "vegetarian"
+            ],
+            [
+                "Won",
+                "Ton",
+                "Noodles",
+                "in",
+                "Soup"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水餃",
+            "湯麵"
+        ],
+        "english_name": [
+            "Shrimp",
+            "Dumpling",
+            "Noodles",
+            "in",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雪菜",
+            "鴨",
+            "絲",
+            "鴛鴦",
+            "米"
+        ],
+        "english_name": [
+            "Shredded",
+            "Duck",
+            "with",
+            "Vermicelli",
+            "and",
+            "Rice",
+            "Stick",
+            "in",
+            "Sou"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "粉麵",
+            "類"
+        ],
+        "english_name": [
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mixed",
+                "Seafood",
+                "with",
+                "Crispy",
+                "Soft",
+                "Noodles"
+            ],
+            [
+                "Mixed",
+                "Assorted",
+                "Meat",
+                "with",
+                "Crispy",
+                "Soft",
+                "Noodles",
+                "meat",
+                "and",
+                "seafood"
+            ],
+            [
+                "Mixed",
+                "Vegetables",
+                "with",
+                "Crispy",
+                "Soft",
+                "Noodles"
+            ],
+            [
+                "Chicken",
+                "with",
+                "Green",
+                "Pepper",
+                "in",
+                "Black",
+                "Bean",
+                "Sauce",
+                "on",
+                "Fried",
+                "Noodles"
+            ],
+            [
+                "Plain",
+                "Fried",
+                "Noodles",
+                "with",
+                "Bean",
+                "Sprouts"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "乾炒",
+            "牛",
+            "河"
+        ],
+        "english_name": [
+            "Beef",
+            "Ho",
+            "Fun",
+            "with",
+            "Soya",
+            "Sauce",
+            "dry"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beef",
+                "Ho",
+                "Fun",
+                "with",
+                "Green",
+                "Pepper",
+                "and",
+                "Chilli",
+                "in",
+                "Black",
+                "Bean",
+                "Sauce"
+            ],
+            [
+                "Fried",
+                "Ho",
+                "Fun",
+                "Malaysian",
+                "Style"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "星洲",
+            "炒米"
+        ],
+        "english_name": [
+            "Singapore",
+            "Fried",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salted",
+                "Fish",
+                "and",
+                "Chicken",
+                "Vermicell"
+            ],
+            [
+                "Fried",
+                "Wu",
+                "Don",
+                "Shanghai",
+                "Style",
+                "Japanese",
+                "noodles"
+            ],
+            [
+                "Hot",
+                "and",
+                "Spicy"
+            ],
+            [
+                "There",
+                "is",
+                "a",
+                "service",
+                "charge"
+            ],
+            [
+                "Please",
+                "note",
+                "all",
+                "prices",
+                "are",
+                "inclusive",
+                "of",
+                "VAT"
+            ],
+            [
+                "We",
+                "accept",
+                "Major",
+                "Credit",
+                "Cards"
+            ]
+        ]
+    }
+]

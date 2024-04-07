@@ -1,0 +1,188 @@
+[
+    {
+        "chinese_name": [
+            "精選",
+            "美",
+            "點",
+            "推介"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "肥牛",
+            "卷"
+        ],
+        "english_name": [
+            "Wagyu",
+            "Beef",
+            "Rolls",
+            "in",
+            "Sichuan",
+            "Spicy",
+            "Sauce",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑松",
+            "露",
+            "蘑菇",
+            "包"
+        ],
+        "english_name": [
+            "Steamed",
+            "Mushroom",
+            "Buns",
+            "with",
+            "Black",
+            "Truffle",
+            "V"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "生煎",
+            "鴨肉",
+            "包"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Golden",
+            "Fragrant",
+            "Farm",
+            "Duck",
+            "Bun"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "鴨肉",
+            "酥"
+        ],
+        "english_name": [
+            "Baked",
+            "Minced",
+            "Duck",
+            "Pastry",
+            "with",
+            "Black",
+            "Pepper",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "生煎",
+            "咖哩",
+            "雞",
+            "包"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Curry",
+            "Chicken",
+            "Buns",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "腐皮",
+            "蝦",
+            "卷"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Crispy",
+            "Tofu",
+            "Rolls",
+            "with",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "日本",
+            "和",
+            "牛丸"
+        ],
+        "english_name": [
+            "Steamed",
+            "Japanese",
+            "Wagyu",
+            "Minced",
+            "Beef",
+            "Balls"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "避風塘",
+            "龍蝦",
+            "餃",
+            "皇"
+        ],
+        "english_name": [
+            "Crispy",
+            "Lobster",
+            "Dumplings",
+            "with",
+            "Herbs",
+            "and",
+            "Garlic",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "inform",
+                "your",
+                "host",
+                "if",
+                "you",
+                "have",
+                "any",
+                "allergies",
+                "food",
+                "intolerances",
+                "and",
+                "or",
+                "dietary",
+                "requirements"
+            ],
+            [
+                "V",
+                "Vegetarian",
+                "S",
+                "Spicy",
+                "Chef",
+                "Recommendation"
+            ]
+        ]
+    }
+]

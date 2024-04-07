@@ -1,0 +1,491 @@
+[
+    {
+        "chinese_name": [
+            "煲仔",
+            "类"
+        ],
+        "english_name": [
+            "Casserole",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "茄子",
+            "煲"
+        ],
+        "english_name": [
+            "Aromatic",
+            "Minced",
+            "Pork",
+            "and",
+            "Aubergine",
+            "in",
+            "Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "湖南",
+            "鸡煲"
+        ],
+        "english_name": [
+            "Chilli",
+            "Chicken",
+            "in",
+            "Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "柱",
+            "候",
+            "牛腩",
+            "煲"
+        ],
+        "english_name": [
+            "Brisket",
+            "of",
+            "Beef",
+            "with",
+            "Spices",
+            "in",
+            "Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "羊",
+            "腩",
+            "煲"
+        ],
+        "english_name": [
+            "Curry",
+            "Lamb",
+            "Brisket",
+            "in",
+            "Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红烧",
+            "豆腐",
+            "鱼",
+            "球",
+            "煲"
+        ],
+        "english_name": [
+            "Braised",
+            "Fish",
+            "t",
+            "Beancurd",
+            "in",
+            "Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "带子",
+            "三鮮",
+            "煲"
+        ],
+        "english_name": [
+            "Seafood",
+            "Treasure",
+            "with",
+            "Whole",
+            "Garlic",
+            "in",
+            "Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蝦",
+            "帶子",
+            "和尚",
+            "魚"
+        ],
+        "english_name": [
+            "King",
+            "Prawns",
+            "Fresh",
+            "Scallop",
+            "Monk",
+            "Fish"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "粉面",
+            "饭",
+            "类"
+        ],
+        "english_name": [
+            "Rice",
+            "Noodle",
+            "Rice",
+            "Stick",
+            "Vermicelli"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白饭"
+        ],
+        "english_name": [
+            "Boiled",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杨",
+            "州",
+            "炒饭"
+        ],
+        "english_name": [
+            "Yeung",
+            "Chow",
+            "Fried",
+            "Rice",
+            "With",
+            "BBQ",
+            "Pork",
+            "t",
+            "Shrimps"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒饭"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "球",
+            "炒饭"
+        ],
+        "english_name": [
+            "Chicken",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "炒饭"
+        ],
+        "english_name": [
+            "Special",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "BBQ",
+                "Pork",
+                "Shrimps",
+                "Chicken",
+                "t",
+                "Sweetcorn"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "虾",
+            "仔",
+            "鸡",
+            "粒",
+            "栗",
+            "米粒"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "时",
+            "菜",
+            "叉烧",
+            "炒面"
+        ],
+        "english_name": [
+            "Barbecued",
+            "Pork",
+            "t",
+            "Vegetable",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Crispy",
+                "or",
+                "Soft",
+                "Noodle"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "时",
+            "菜",
+            "鸡",
+            "球",
+            "炒面"
+        ],
+        "english_name": [
+            "Chicken",
+            "with",
+            "Vegetable",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Crispy",
+                "or",
+                "Soft",
+                "Noodle"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛肉",
+            "炒面"
+        ],
+        "english_name": [
+            "Beef",
+            "with",
+            "Black",
+            "Bean",
+            "Sauce",
+            "Green",
+            "Pepper",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Crispy",
+                "or",
+                "Soft",
+                "Noodle"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "葱",
+            "鸭",
+            "丝",
+            "炒面"
+        ],
+        "english_name": [
+            "Shredded",
+            "Duck",
+            "with",
+            "Black",
+            "Bean",
+            "t"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Spring",
+                "Onion",
+                "Chow",
+                "Mein",
+                "with",
+                "Crispy",
+                "or",
+                "Soft",
+                "Noodle"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "炒面"
+        ],
+        "english_name": [
+            "Little",
+            "Yang",
+            "Sing",
+            "Special",
+            "Chow",
+            "Mein"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Prawn",
+                "t",
+                "Assorted",
+                "Meat",
+                "with",
+                "Crispy",
+                "or",
+                "Soft",
+                "Noodle"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "虾球",
+            "炒面"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Chow",
+            "Mein",
+            "with",
+            "Crispy",
+            "or",
+            "Soft",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "牛",
+            "炒",
+            "河"
+        ],
+        "english_name": [
+            "Beef",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce",
+            "and",
+            "Green",
+            "Pepper",
+            "Rice",
+            "Sticks"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干炒",
+            "牛",
+            "河"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beef",
+            "with",
+            "Rice",
+            "Sticks"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

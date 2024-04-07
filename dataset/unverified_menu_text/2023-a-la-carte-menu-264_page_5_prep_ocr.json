@@ -1,0 +1,434 @@
+[
+    {
+        "chinese_name": [
+            "猪肉",
+            "类"
+        ],
+        "english_name": [
+            "Pork",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "腰果",
+            "炒肉",
+            "丁"
+        ],
+        "english_name": [
+            "Pork",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "炒肉",
+            "片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "with",
+            "Green",
+            "Pepper",
+            "t",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "果汁",
+            "甜酸",
+            "肉"
+        ],
+        "english_name": [
+            "Sweet",
+            "Sour",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "肉片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "with",
+            "Satay",
+            "and",
+            "Peanut",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "宮保",
+            "肉丁"
+        ],
+        "english_name": [
+            "Chilli",
+            "Pork",
+            "Kunpo",
+            "Style",
+            "with",
+            "Cashewnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "川椒",
+            "酱爆",
+            "肉片"
+        ],
+        "english_name": [
+            "Chilli",
+            "Spicy",
+            "Sichuan",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "肉片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中式",
+            "肉片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "in",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "肉片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "with",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "肉片"
+        ],
+        "english_name": [
+            "Pork",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "肉片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Pork",
+            "in",
+            "Curry",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "热",
+            "密",
+            "汁",
+            "叉烧"
+        ],
+        "english_name": [
+            "Barbecued",
+            "Pork",
+            "with",
+            "Soya",
+            "Sauce",
+            "served",
+            "hot"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻",
+            "婆",
+            "肉松",
+            "豆腐"
+        ],
+        "english_name": [
+            "Fried",
+            "Beancurd",
+            "with",
+            "Minced",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Chilli",
+                "Sichuan",
+                "Sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "猪扒",
+            "中式",
+            "椒盐",
+            "韩式",
+            "煎"
+        ],
+        "english_name": [
+            "Mini",
+            "Pork",
+            "Chop",
+            "in",
+            "Cantonese",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt",
+                "and",
+                "Pepper",
+                "Korean",
+                "Style"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鸭",
+            "类"
+        ],
+        "english_name": [
+            "Duck",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒",
+            "鸭",
+            "片"
+        ],
+        "english_name": [
+            "Sliced",
+            "Duck",
+            "with",
+            "Green",
+            "Pepper",
+            "t",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜头",
+            "酱汁",
+            "鸭",
+            "片"
+        ],
+        "english_name": [
+            "Duck",
+            "with",
+            "Garlic",
+            "and",
+            "Mild",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "姜葱",
+            "鸭"
+        ],
+        "english_name": [
+            "Duck",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "西",
+            "柠",
+            "煎",
+            "软",
+            "鸭"
+        ],
+        "english_name": [
+            "BBQ",
+            "Roast",
+            "Duck",
+            "with",
+            "Lemon",
+            "t",
+            "Honey",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "橙花",
+            "鸭"
+        ],
+        "english_name": [
+            "BBQ",
+            "Roast",
+            "Duck",
+            "with",
+            "Fresh",
+            "Orange",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "梅子"
+        ],
+        "english_name": [
+            "BBQ",
+            "Roast",
+            "Duck",
+            "in",
+            "Plum",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "明",
+            "炉",
+            "烧鸭"
+        ],
+        "english_name": [
+            "BBQ",
+            "Roast",
+            "Duck",
+            "served",
+            "hot",
+            "boneless",
+            "with",
+            "Soya",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

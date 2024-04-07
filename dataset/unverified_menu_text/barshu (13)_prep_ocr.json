@@ -1,0 +1,139 @@
+[
+    {
+        "chinese_name": [
+            "招牌",
+            "烤鱼",
+            "四川",
+            "辛",
+            "焼",
+            "魚"
+        ],
+        "english_name": [
+            "ROAST",
+            "SEA",
+            "BASS",
+            "WITH"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "NUMBING",
+                "AND",
+                "SPICY",
+                "SAUCE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "烤鱼",
+            "四川",
+            "焼",
+            "魚"
+        ],
+        "english_name": [
+            "ROAST",
+            "SEA",
+            "BASS",
+            "WITH"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "AROMATIC",
+                "AND",
+                "SPICY",
+                "SAUCE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豆豉",
+            "烤鱼",
+            "四川",
+            "于",
+            "焼",
+            "魚"
+        ],
+        "english_name": [
+            "ROAST",
+            "SEA",
+            "BASS",
+            "WITH",
+            "BLACK",
+            "BEAN",
+            "SAUCE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "烤鱼",
+            "川",
+            "切唐辛",
+            "子",
+            "焼",
+            "魚"
+        ],
+        "english_name": [
+            "ROAST",
+            "SEA",
+            "BASS",
+            "WITH",
+            "CHOPPED"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "SALTED",
+                "CHILLIES",
+                "SAUCE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜香",
+            "烤鱼",
+            "四",
+            "魚"
+        ],
+        "english_name": [
+            "ROAST",
+            "SEA",
+            "BASS",
+            "WITH",
+            "GARLICKY",
+            "SAUCE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "番茄",
+            "烤鱼",
+            "四",
+            "川卜",
+            "焼",
+            "魚"
+        ],
+        "english_name": [
+            "ROAST",
+            "SEA",
+            "BASS",
+            "WITH",
+            "JUICY",
+            "TOMATO",
+            "SAUCE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

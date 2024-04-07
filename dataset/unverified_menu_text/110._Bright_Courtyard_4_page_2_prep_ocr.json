@@ -1,0 +1,260 @@
+[
+    {
+        "chinese_name": [
+            "煌",
+            "庭",
+            "爱马仕",
+            "火锅",
+            "套餐"
+        ],
+        "english_name": [
+            "Bright",
+            "Courtyard",
+            "Hot",
+            "Pot",
+            "Set",
+            "Menu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "位"
+        ],
+        "english_name": [
+            "Person",
+            "Mimimum",
+            "Person"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "龙虾",
+            "海鲜",
+            "大",
+            "拼盘"
+        ],
+        "english_name": [
+            "Mix",
+            "Seafood",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "苏格兰",
+            "手",
+            "切",
+            "羊肉"
+        ],
+        "english_name": [
+            "Canadian",
+            "Lobster",
+            "Sea",
+            "bass",
+            "Blue",
+            "Crab",
+            "King",
+            "Prawn",
+            "Fresh",
+            "Scallops"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Scottish",
+                "Sliced",
+                "Lamb"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "特色",
+            "手工",
+            "饺子",
+            "拼盘"
+        ],
+        "english_name": [
+            "Mix",
+            "Pork",
+            "Dumplings",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豆制品",
+            "拼盘"
+        ],
+        "english_name": [
+            "Handmade",
+            "Dumplings",
+            "Handmade",
+            "small",
+            "Wonton"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mix",
+                "meat",
+                "Balls"
+            ],
+            [
+                "Mix",
+                "Beancurd",
+                "Platter"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "什",
+            "菌",
+            "拼盘"
+        ],
+        "english_name": [
+            "Mix",
+            "Mushroom",
+            "Platter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "新鲜",
+            "时",
+            "蔬"
+        ],
+        "english_name": [
+            "Coprinus",
+            "Crab",
+            "Comatus",
+            "Enoki",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mix",
+                "Vegetables",
+                "Platter"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "锅底",
+            "可选",
+            "松茸",
+            "清汤",
+            "四川",
+            "麻辣"
+        ],
+        "english_name": [
+            "Veg",
+            "Platter",
+            "Chinese",
+            "leaf",
+            "Pea",
+            "Sprouts",
+            "Baby",
+            "Pak",
+            "Choi"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Soup",
+                "Base",
+                "Black",
+                "Truffle",
+                "Base",
+                "Sichuan",
+                "Spicy",
+                "Base",
+                "free"
+            ],
+            [
+                "Chicken",
+                "with",
+                "Fish",
+                "Maw",
+                "Base",
+                "Half",
+                "whole"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "花",
+            "胶",
+            "鸡汤",
+            "锅底",
+            "半",
+            "只",
+            "只"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酱料",
+            "火锅",
+            "酱油",
+            "生",
+            "蒜蓉",
+            "尖",
+            "辣椒",
+            "海鲜",
+            "酱",
+            "香菜"
+        ],
+        "english_name": [
+            "Sauce",
+            "Hot",
+            "Pot",
+            "Soy",
+            "Sauce",
+            "Raw",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mix",
+                "Chop",
+                "Chilli",
+                "Seafood",
+                "Sauce",
+                "Coriander"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "火锅",
+            "套餐"
+        ],
+        "english_name": [
+            "HOT",
+            "POT",
+            "SET",
+            "MENU"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

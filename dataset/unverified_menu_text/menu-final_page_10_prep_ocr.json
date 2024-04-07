@@ -6,8 +6,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -56,8 +55,7 @@
                 "Sichuan",
                 "Peppercorn"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -77,8 +75,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -96,8 +93,7 @@
             "Dip"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -124,8 +120,7 @@
             "Pancake"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -170,8 +165,7 @@
                 "Soy",
                 "Sauce"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -179,8 +173,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -198,8 +191,7 @@
             "Egg"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -222,19 +214,21 @@
             "Ginger",
             "and",
             "Spring",
-            "Onion",
-            "in",
-            "Spicy",
-            "Chilli",
-            "Oil",
-            "In",
-            "Spicy",
-            "Beer",
-            "Sauce"
+            "Onion"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "in",
+                "Spicy",
+                "Chilli",
+                "Oil",
+                "In",
+                "Spicy",
+                "Beer",
+                "Sauce"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -252,7 +246,6 @@
             "only"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

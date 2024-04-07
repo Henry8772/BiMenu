@@ -1,0 +1,114 @@
+[
+    {
+        "chinese_name": [
+            "拌",
+            "干",
+            "豆腐",
+            "丝"
+        ],
+        "english_name": [
+            "Shredded",
+            "Dry",
+            "Bean",
+            "Curd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "拌",
+            "海带",
+            "丝"
+        ],
+        "english_name": [
+            "Shredded",
+            "Kelp",
+            "Salad"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炝",
+            "拌",
+            "鸡",
+            "胗"
+        ],
+        "english_name": [
+            "Cold",
+            "Fried",
+            "Chicken",
+            "Gizzard"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红油",
+            "猪耳"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Style",
+            "Pig",
+            "Ears"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "拍",
+            "黄瓜"
+        ],
+        "english_name": [
+            "Patted",
+            "Cucumber",
+            "with",
+            "Garlic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Minimum",
+                "Charge",
+                "per",
+                "person"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "秘",
+            "制",
+            "酱",
+            "牛肉"
+        ],
+        "english_name": [
+            "Sliced",
+            "Beef",
+            "Stew",
+            "in",
+            "Soya",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Debit",
+                "and",
+                "Credit",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "values",
+                "over"
+            ]
+        ]
+    }
+]

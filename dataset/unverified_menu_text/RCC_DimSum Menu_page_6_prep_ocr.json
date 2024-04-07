@@ -1,0 +1,183 @@
+[
+    {
+        "chinese_name": [
+            "飯"
+        ],
+        "english_name": [
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "和",
+            "牛",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "A5"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮑魚",
+            "撈飯"
+        ],
+        "english_name": [
+            "Diced",
+            "Wagyu",
+            "Beef",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "揚州",
+            "炒飯"
+        ],
+        "english_name": [
+            "Chef's",
+            "Special",
+            "Whole",
+            "Abalone",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "瑤柱",
+            "蛋白",
+            "蝦",
+            "炒飯"
+        ],
+        "english_name": [
+            "Yeung",
+            "Chow",
+            "Fried",
+            "Rice",
+            "with",
+            "Prawn",
+            "and",
+            "Diced",
+            "Roast",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮑汁",
+            "蛋",
+            "包飯"
+        ],
+        "english_name": [
+            "Prawn",
+            "Fried",
+            "Rice",
+            "with",
+            "Egg",
+            "White",
+            "and",
+            "Dried",
+            "Scallop"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "金牌",
+            "荷葉",
+            "飯"
+        ],
+        "english_name": [
+            "Egg",
+            "Wrap",
+            "Fried",
+            "Rice",
+            "with",
+            "Abalone",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福州",
+            "炒飯"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice",
+            "with",
+            "Mixed",
+            "Meat",
+            "and",
+            "Prawn",
+            "Steamed",
+            "and",
+            "Wrapped",
+            "in",
+            "Lotus",
+            "Leaf"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑",
+            "蒜",
+            "海鮮",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice",
+            "with",
+            "Shrimps",
+            "and",
+            "Diced",
+            "Roast",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黃金",
+            "龍蝦",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice",
+            "with",
+            "Diced",
+            "Mixed",
+            "Seafood",
+            "and",
+            "Black",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

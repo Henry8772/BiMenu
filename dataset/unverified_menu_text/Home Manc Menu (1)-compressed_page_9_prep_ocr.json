@@ -3,41 +3,172 @@
         "chinese_name": [
             "主厨"
         ],
-        "english_name": [],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "Belly",
+            "in",
+            "Soy"
+        ],
         "chinese_description": [
             [
                 "推荐"
             ]
         ],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Intestine",
+                "with",
+                "Dried",
+                "Chilli"
+            ],
+            [
+                "Intestine",
+                "with",
+                "Green",
+                "Chilli"
+            ],
+            [
+                "Shredded",
+                "Pork",
+                "in",
+                "Spicy",
+                "Sauce"
+            ],
+            [
+                "Shredded",
+                "Pork",
+                "in",
+                "Soybean",
+                "Paste"
+            ],
+            [
+                "Sauce",
+                "Served",
+                "with",
+                "Pancakes"
+            ],
+            [
+                "Fried",
+                "Squid",
+                "with",
+                "Dried",
+                "Chilli"
+            ],
+            [
+                "Vegetarian",
+                "G",
+                "Vegan",
+                "on",
+                "request",
+                "L",
+                "Spicy"
+            ]
+        ]
     },
     {
         "chinese_name": [
             "主廚"
         ],
-        "english_name": [],
+        "english_name": [
+            "RED"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "推荐"
         ],
-        "english_name": [],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "Belly",
+            "in",
+            "Soy"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Intestine",
+                "with",
+                "Dried",
+                "Chilli"
+            ],
+            [
+                "Intestine",
+                "with",
+                "Green",
+                "Chilli"
+            ],
+            [
+                "Shredded",
+                "Pork",
+                "in",
+                "Spicy",
+                "Sauce"
+            ],
+            [
+                "Shredded",
+                "Pork",
+                "in",
+                "Soybean",
+                "Paste"
+            ],
+            [
+                "Sauce",
+                "Served",
+                "with",
+                "Pancakes"
+            ],
+            [
+                "Fried",
+                "Squid",
+                "with",
+                "Dried",
+                "Chilli"
+            ],
+            [
+                "Vegetarian",
+                "G",
+                "Vegan",
+                "on",
+                "request",
+                "L",
+                "Spicy"
+            ]
+        ]
     },
     {
         "chinese_name": [
             "推荐"
         ],
-        "english_name": [],
+        "english_name": [
+            "Crispy",
+            "Pork",
+            "Chop",
+            "in",
+            "Fruity",
+            "Sauce"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Sichuan",
+                "Style",
+                "Double",
+                "Cooked",
+                "Pork"
+            ],
+            [
+                "Sliced",
+                "Beef",
+                "with",
+                "Spring",
+                "Onions",
+                "Cumin"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -56,8 +187,7 @@
             [
                 "J6"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -66,20 +196,10 @@
             "肉"
         ],
         "english_name": [
-            "Crispy",
-            "Pork",
-            "Chop",
-            "in",
-            "Fruity",
-            "Sauce"
+            "J12"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "J12"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -94,8 +214,7 @@
             "Chilli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -117,8 +236,7 @@
             [
                 "J13"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -136,8 +254,7 @@
             [
                 "J8"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -158,8 +275,7 @@
             [
                 "J14"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -174,8 +290,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -184,22 +299,13 @@
             "丝"
         ],
         "english_name": [
-            "Shredded",
-            "Pork",
-            "in",
-            "Soybean",
-            "Paste"
+            "Sauce",
+            "Served",
+            "with",
+            "Pancakes"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Sauce",
-                "Served",
-                "with",
-                "Pancakes"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -213,8 +319,7 @@
             "Beef"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -240,7 +345,6 @@
                 "L",
                 "Spicy"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

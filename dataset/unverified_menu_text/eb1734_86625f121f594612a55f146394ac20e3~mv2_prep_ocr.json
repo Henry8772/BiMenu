@@ -1,0 +1,180 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A29"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Double",
+                "Cooked",
+                "Pork",
+                "Slices",
+                "With"
+            ],
+            [
+                "Ory",
+                "Chilli",
+                "In",
+                "Szechuan",
+                "Style",
+                "s",
+                "s"
+            ],
+            [
+                "Stir",
+                "Fried",
+                "Cooked",
+                "Pork",
+                "Slices"
+            ],
+            [
+                "With",
+                "Cucumber",
+                "And",
+                "Fried",
+                "Egg"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "回锅肉"
+        ],
+        "english_name": [
+            "A"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "木",
+            "须",
+            "肉"
+        ],
+        "english_name": [
+            "With",
+            "Cucumber",
+            "And",
+            "Fried",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "飘香",
+            "猪蹄"
+        ],
+        "english_name": [
+            "Chilli",
+            "Pork",
+            "Trotters",
+            "in",
+            "Red",
+            "il",
+            "Iron",
+            "Pot",
+            "s",
+            "s"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A30"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "白肉"
+        ],
+        "english_name": [
+            "Chinese",
+            "Pickled",
+            "Cabbage",
+            "With",
+            "Pork",
+            "Belly",
+            "Casserole"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红烧肉"
+        ],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "In",
+            "Brown",
+            "Sauce",
+            "Served",
+            "With",
+            "Pakchoi"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pork",
+                "slowly",
+                "Braised",
+                "to",
+                "literally",
+                "melt",
+                "In",
+                "your",
+                "mouth"
+            ]
+        ]
+    }
+]

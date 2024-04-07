@@ -8,14 +8,7 @@
             "STARTERS"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Aromatic",
-                "Crispy",
-                "Duck"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -24,10 +17,13 @@
             "大",
             "鴨"
         ],
-        "english_name": [],
+        "english_name": [
+            "Aromatic",
+            "Crispy",
+            "Duck"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -52,8 +48,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -63,8 +58,7 @@
             "Quarter"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -75,8 +69,7 @@
             "Half"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -87,8 +80,7 @@
             "Whole"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -105,8 +97,7 @@
             "Pieces"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -122,8 +113,7 @@
             "Pieces"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -138,8 +128,7 @@
             "Pieces"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -156,24 +145,30 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Fillet",
-                "Steak",
-                "Rolls",
-                "in",
-                "Black",
-                "Pepper",
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "黑椒",
             "牛柳",
             "卷"
+        ],
+        "english_name": [
+            "Fillet",
+            "Steak",
+            "Rolls",
+            "in",
+            "Black",
+            "Pepper",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽",
+            "雞翼"
         ],
         "english_name": [
             "Salt",
@@ -183,12 +178,12 @@
             "Wings"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "椒鹽",
+            "京都",
+            "汁",
             "雞翼"
         ],
         "english_name": [
@@ -198,13 +193,12 @@
             "Wings"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "京都",
-            "汁",
+            "上海",
+            "辣",
             "雞翼"
         ],
         "english_name": [
@@ -215,19 +209,7 @@
             "Wings"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "上海",
-            "辣",
-            "雞翼"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -247,17 +229,7 @@
             "Wrap"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Shanghai",
-                "Minced",
-                "Pork",
-                "with",
-                "Lettuce",
-                "Wrap"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -266,10 +238,16 @@
             "生菜",
             "飽"
         ],
-        "english_name": [],
+        "english_name": [
+            "Shanghai",
+            "Minced",
+            "Pork",
+            "with",
+            "Lettuce",
+            "Wrap"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -288,8 +266,7 @@
             "Wrap"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -310,8 +287,7 @@
             "Vermicelli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -331,8 +307,7 @@
             "Onions"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -352,21 +327,28 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Butterfly",
-                "Tiger",
-                "Prawns",
-                "Pieces"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "炸",
             "蝴蝶",
             "蝦球"
+        ],
+        "english_name": [
+            "Butterfly",
+            "Tiger",
+            "Prawns",
+            "Pieces"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "百花",
+            "釀",
+            "蟹拑"
         ],
         "english_name": [
             "Deep",
@@ -379,19 +361,7 @@
             "Meat"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "百花",
-            "釀",
-            "蟹拑"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -410,19 +380,7 @@
             "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Sliced",
-                "Chicken",
-                "on",
-                "Skewers",
-                "in",
-                "Peanut",
-                "Satay",
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -432,23 +390,30 @@
             "雞柳"
         ],
         "english_name": [
-            "Salt",
-            "and",
-            "Pepper",
-            "Squid"
+            "Sliced",
+            "Chicken",
+            "on",
+            "Skewers",
+            "in",
+            "Peanut",
+            "Satay",
+            "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "椒鹽",
             "鮮魷"
         ],
-        "english_name": [],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Squid"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

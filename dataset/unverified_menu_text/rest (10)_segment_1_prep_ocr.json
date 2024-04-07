@@ -1,0 +1,35 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGFU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "藤",
+            "椒",
+            "鸡"
+        ],
+        "english_name": [
+            "RATTAN",
+            "PEPPER",
+            "CHICKEN",
+            "S"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Small",
+                "Large"
+            ]
+        ]
+    }
+]

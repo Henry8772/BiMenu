@@ -5,26 +5,22 @@
             "牛",
             "丝"
         ],
-        "english_name": [],
+        "english_name": [
+            "Crispy",
+            "Shredded",
+            "Beef"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "椒盐",
             "大虾"
         ],
-        "english_name": [
-            "Salt",
-            "and",
-            "Pepper",
-            "King",
-            "Prawn"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -37,15 +33,7 @@
             "DISHES"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Deep",
-                "Fried",
-                "King",
-                "Prawn"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -53,22 +41,49 @@
             "类"
         ],
         "english_name": [
-            "BEEF",
-            "DISHES"
+            "Crispy",
+            "Shredded",
+            "Beef"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Crispy",
-                "Shredded",
-                "Beef"
+                "BEEF",
+                "DISHES"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
             "酥炸",
+            "大虾"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干",
+            "牛",
+            "丝"
+        ],
+        "english_name": [
+            "Crispy",
+            "Shredded",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
             "大虾"
         ],
         "english_name": [
@@ -77,14 +92,13 @@
             "Satay"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "干",
-            "牛",
-            "丝"
+            "豉",
+            "椒",
+            "牛"
         ],
         "english_name": [
             "Beef",
@@ -100,37 +114,7 @@
             [
                 "Sauce"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "沙爹",
-            "大虾"
-        ],
-        "english_name": [
-            "Kung",
-            "Po",
-            "King",
-            "Prawn"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "豉",
-            "椒",
-            "牛"
-        ],
-        "english_name": [
-            "Beef",
-            "Satay"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -139,18 +123,19 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "沙爹",
             "牛"
         ],
-        "english_name": [],
+        "english_name": [
+            "Beef",
+            "Satay"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -165,8 +150,7 @@
             "Prawn"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -182,8 +166,7 @@
             "Onion"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -201,21 +184,26 @@
             "AVAILABITILY"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Char",
-                "Siu",
-                "with",
-                "Honey",
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "蜜汁",
             "叉烧"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "with",
+            "Honey",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白切鸡"
         ],
         "english_name": [
             "Fragrant",
@@ -224,17 +212,7 @@
             "Half"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "白切鸡"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -242,19 +220,24 @@
             "只"
         ],
         "english_name": [
-            "Half"
+            "Char",
+            "Siu",
+            "with",
+            "Honey",
+            "Sauce"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Roast",
-                "Duck",
-                "Hong",
-                "Kong",
-                "Style"
+                "Fragrant",
+                "Poached",
+                "Chicken",
+                "Half"
+            ],
+            [
+                "Half"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -264,16 +247,7 @@
             "Whole"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Char",
-                "Sui",
-                "with",
-                "Honey",
-                "Sauce"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -281,10 +255,15 @@
             "式",
             "烧鸭"
         ],
-        "english_name": [],
+        "english_name": [
+            "Roast",
+            "Duck",
+            "Hong",
+            "Kong",
+            "Style"
+        ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -292,11 +271,27 @@
             "烧鸭"
         ],
         "english_name": [
-            "and"
+            "Char",
+            "Siu",
+            "and",
+            "Roast",
+            "Duck"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "and"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蜜汁",
+            "叉烧"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -309,29 +304,14 @@
             "and",
             "Fragrant",
             "Poached",
-            "Chicken",
-            "and"
+            "Chicken"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Char",
-                "Siu",
-                "with",
-                "Rice"
+                "and"
             ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "蜜汁",
-            "叉烧"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -340,14 +320,13 @@
             "饭"
         ],
         "english_name": [
-            "Roast",
-            "Duck",
-            "Hong",
-            "Kong"
+            "Char",
+            "Siu",
+            "with",
+            "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -362,14 +341,36 @@
             "Rice"
         ],
         "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "烧鸭",
+            "饭"
+        ],
+        "english_name": [
+            "Char",
+            "Sui",
+            "with",
+            "Honey",
+            "Sauce"
+        ],
+        "chinese_description": [],
         "english_description": [
+            [
+                "Roast",
+                "Duck",
+                "Hong",
+                "Kong"
+            ],
             [
                 "Style",
                 "with",
                 "Rice"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -388,30 +389,7 @@
             "Rice"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Char",
-                "Siu",
-                "and",
-                "Roast",
-                "Duck",
-                "with",
-                "Rice"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "港",
-            "式",
-            "烧鸭",
-            "饭"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -420,22 +398,20 @@
             "饭"
         ],
         "english_name": [
-            "and"
+            "Char",
+            "Siu",
+            "and",
+            "Roast",
+            "Duck",
+            "with",
+            "Rice"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Char",
-                "Siu",
-                "and",
-                "Fragrant",
-                "Poached",
-                "Chicken",
-                "with",
-                "Rice"
+                "and"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -444,10 +420,20 @@
             "饭"
         ],
         "english_name": [
-            "and"
+            "Char",
+            "Siu",
+            "and",
+            "Fragrant",
+            "Poached",
+            "Chicken",
+            "with",
+            "Rice"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "and"
+            ]
+        ]
     }
 ]

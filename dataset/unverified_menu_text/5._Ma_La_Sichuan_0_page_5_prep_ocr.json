@@ -1,0 +1,393 @@
+[
+    {
+        "chinese_name": [
+            "涼菜"
+        ],
+        "english_name": [
+            "Cold",
+            "Appetisers"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "葱油",
+            "腐竹"
+        ],
+        "english_name": [
+            "Yuba",
+            "and",
+            "Spring",
+            "Onions"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Wafer",
+                "thin",
+                "Yuba",
+                "beancurd",
+                "skin",
+                "finely",
+                "sliced",
+                "with"
+            ],
+            [
+                "shredded",
+                "cucumber",
+                "in",
+                "sesame",
+                "oil",
+                "dressing"
+            ],
+            [
+                "Served",
+                "cold"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "麻醬",
+            "時",
+            "菜"
+        ],
+        "english_name": [
+            "Blanched",
+            "Spinach",
+            "with",
+            "Sesame",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Roasted",
+                "sesame",
+                "seed",
+                "paste",
+                "poured",
+                "over"
+            ],
+            [
+                "blanched",
+                "spinach"
+            ],
+            [
+                "Served",
+                "cold"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "爽口",
+            "木耳"
+        ],
+        "english_name": [
+            "Black",
+            "Cloud",
+            "Ear",
+            "Fungus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Black",
+                "cloud",
+                "ear",
+                "fungus",
+                "with",
+                "fresh",
+                "coriander"
+            ],
+            [
+                "garlic",
+                "chilli",
+                "and",
+                "Sichuan",
+                "pepper",
+                "oil"
+            ],
+            [
+                "Served",
+                "cold"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "烤",
+            "椒",
+            "皮蛋"
+        ],
+        "english_name": [
+            "Preserved",
+            "Egg",
+            "with",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Preserved",
+                "duck",
+                "egg",
+                "with",
+                "chili",
+                "and",
+                "Sichuan",
+                "pepper",
+                "oil"
+            ],
+            [
+                "Served",
+                "cold"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "紅油",
+            "耳",
+            "片"
+        ],
+        "english_name": [
+            "Spicy",
+            "Pig's",
+            "Ear",
+            "in",
+            "Sichuan",
+            "Oil"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sliced",
+                "pig's",
+                "ears",
+                "with",
+                "fresh",
+                "garlic",
+                "drizzled",
+                "with",
+                "Sichuan"
+            ],
+            [
+                "chilli",
+                "oil",
+                "dressing"
+            ],
+            [
+                "Served",
+                "cold"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "湯"
+        ],
+        "english_name": [
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雞肉",
+            "栗",
+            "米",
+            "羹"
+        ],
+        "english_name": [
+            "Chicken",
+            "and",
+            "Sweet",
+            "Corn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "contains",
+                "egg"
+            ],
+            [
+                "Vegetarian",
+                "Option",
+                "Available"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "栗",
+            "米",
+            "豆腐",
+            "羹"
+        ],
+        "english_name": [
+            "Sweet",
+            "Corn",
+            "and",
+            "ofu",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "contains",
+                "egg"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "湯"
+        ],
+        "english_name": [
+            "Sichuanese",
+            "Sour",
+            "and",
+            "Hot",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "Sichuan",
+                "classic",
+                "broth",
+                "with",
+                "finely",
+                "sliced",
+                "chicken",
+                "slivers"
+            ],
+            [
+                "cloud",
+                "ears",
+                "diced",
+                "vegetables",
+                "and",
+                "tofu",
+                "in",
+                "a",
+                "warming"
+            ],
+            [
+                "peppery",
+                "hot",
+                "broth",
+                "with",
+                "the",
+                "contrasting",
+                "taste",
+                "of",
+                "sour"
+            ],
+            [
+                "sweet",
+                "vinegar",
+                "contains",
+                "egg"
+            ],
+            [
+                "Vegetarian",
+                "Option",
+                "Available"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "宋",
+            "嫂",
+            "魚羹"
+        ],
+        "english_name": [
+            "Song",
+            "So's",
+            "Fish",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "comforting",
+                "soup",
+                "of",
+                "fresh",
+                "seabass",
+                "and",
+                "shiitake"
+            ],
+            [
+                "mushrooms",
+                "This",
+                "soup",
+                "dates",
+                "back",
+                "to",
+                "the",
+                "Southern"
+            ],
+            [
+                "Song",
+                "Dynasty",
+                "made",
+                "famous",
+                "by",
+                "the",
+                "Song",
+                "Emperor",
+                "Zhao"
+            ],
+            [
+                "who",
+                "came",
+                "across",
+                "it",
+                "during",
+                "his",
+                "travels",
+                "contains",
+                "egg"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "雲吞",
+            "湯"
+        ],
+        "english_name": [
+            "Won",
+            "Ton",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Homemade",
+                "chicken",
+                "and",
+                "vegetable",
+                "dumplings",
+                "served"
+            ],
+            [
+                "in",
+                "a",
+                "light",
+                "broth"
+            ]
+        ]
+    }
+]

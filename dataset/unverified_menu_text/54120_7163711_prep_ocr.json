@@ -1,0 +1,140 @@
+[
+    {
+        "chinese_name": [
+            "各色",
+            "饭",
+            "面",
+            "粉"
+        ],
+        "english_name": [
+            "RICE",
+            "NOODLES",
+            "AND",
+            "PHO",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛",
+            "炒面"
+        ],
+        "english_name": [
+            "Beef",
+            "Chowmein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "炒面"
+        ],
+        "english_name": [
+            "Chicken",
+            "Chowmein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鮮",
+            "炒面"
+        ],
+        "english_name": [
+            "Assorted",
+            "Seafood",
+            "Chowmein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杂",
+            "菜炒",
+            "面"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetables",
+            "Chowmein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "炒面"
+        ],
+        "english_name": [
+            "House",
+            "Special",
+            "Chowmein"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "炒饭"
+        ],
+        "english_name": [
+            "Chicken",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛",
+            "炒饭"
+        ],
+        "english_name": [
+            "Beef",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "大虾",
+            "炒饭"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "牛腩",
+            "米粉"
+        ],
+        "english_name": [
+            "Braised",
+            "Beef",
+            "Belly",
+            "with",
+            "Pho"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Noodles",
+                "Noodles",
+                "in",
+                "Soup"
+            ]
+        ]
+    }
+]

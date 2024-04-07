@@ -6,6 +6,19 @@
             "牛腩"
         ],
         "english_name": [
+            "Live",
+            "Seafood",
+            "Ltd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸汤",
+            "肥牛"
+        ],
+        "english_name": [
             "Braised",
             "Beef",
             "Belly",
@@ -16,13 +29,12 @@
             "Pot"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "酸汤",
-            "肥牛"
+            "水煮",
+            "肥肉"
         ],
         "english_name": [
             "Stir",
@@ -35,25 +47,7 @@
             "Vegetable"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "水煮",
-            "肥肉"
-        ],
-        "english_name": [
-            "Poached",
-            "Beef",
-            "in",
-            "Hot",
-            "Chilli",
-            "Oil"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -61,8 +55,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -74,18 +67,26 @@
             "费"
         ],
         "english_name": [
-            "Corkage",
-            "charge",
-            "applies",
-            "if",
-            "you",
-            "bring",
-            "your",
-            "own",
-            "wines"
+            "Poached",
+            "Beef",
+            "in",
+            "Hot",
+            "Chilli",
+            "Oil"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Corkage",
+                "charge",
+                "applies",
+                "if",
+                "you",
+                "bring",
+                "your",
+                "own",
+                "wines"
+            ]
+        ]
     }
 ]

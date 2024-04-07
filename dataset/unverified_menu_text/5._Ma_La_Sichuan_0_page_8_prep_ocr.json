@@ -1,0 +1,522 @@
+[
+    {
+        "chinese_name": [
+            "牛肉",
+            "類"
+        ],
+        "english_name": [
+            "Beef",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "幹",
+            "煸",
+            "牛肉",
+            "絲"
+        ],
+        "english_name": [
+            "Crispy",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "Sichuan",
+                "Style",
+                "of",
+                "cooking",
+                "where",
+                "the",
+                "ingredients",
+                "are"
+            ],
+            [
+                "continuously",
+                "cooked",
+                "until",
+                "they",
+                "have",
+                "dried",
+                "out",
+                "before"
+            ],
+            [
+                "ices",
+                "and",
+                "flavour",
+                "Dry",
+                "fried",
+                "beef",
+                "slivers",
+                "in",
+                "a",
+                "stick"
+            ],
+            [
+                "sweet",
+                "chilli",
+                "coating"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小碗",
+            "牛腩"
+        ],
+        "english_name": [
+            "Home",
+            "Style",
+            "Beef",
+            "Flank",
+            "in",
+            "Hot",
+            "Pot"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "typical",
+                "Sichuan",
+                "style",
+                "of",
+                "cooking"
+            ],
+            [
+                "Beef",
+                "flank",
+                "slow",
+                "cooked",
+                "with",
+                "shiitake",
+                "mushroom"
+            ],
+            [
+                "until",
+                "tender",
+                "in",
+                "a",
+                "sweet",
+                "savoury",
+                "chilli",
+                "bean",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "牛肉"
+        ],
+        "english_name": [
+            "Aromatic",
+            "Beef",
+            "with",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "sliced",
+                "beef",
+                "with",
+                "mixed",
+                "peppers",
+                "and"
+            ],
+            [
+                "coriander",
+                "infused",
+                "in",
+                "a",
+                "spicy",
+                "cumin",
+                "flavour"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "牛肉"
+        ],
+        "english_name": [
+            "Classic",
+            "Sichuan",
+            "Boiled",
+            "Beef",
+            "in"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sizzling",
+                "Chilli",
+                "Oil"
+            ],
+            [
+                "Tender",
+                "cuts",
+                "of",
+                "boiled",
+                "beef",
+                "in",
+                "hot",
+                "Sichuan",
+                "chilli",
+                "bean"
+            ],
+            [
+                "sauce",
+                "with",
+                "fresh",
+                "garlic",
+                "Garnished",
+                "with",
+                "coriander",
+                "and"
+            ],
+            [
+                "a",
+                "sizzling",
+                "pile",
+                "of",
+                "chillies"
+            ],
+            [
+                "This",
+                "dish",
+                "can",
+                "be",
+                "made",
+                "extra",
+                "spicy",
+                "super",
+                "spicy"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黑椒",
+            "粒粒",
+            "香"
+        ],
+        "english_name": [
+            "Black",
+            "Pepper",
+            "Sirloin",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "warming",
+                "peppery",
+                "hot",
+                "dish",
+                "of",
+                "diced",
+                "sirloin",
+                "beef"
+            ],
+            [
+                "stir",
+                "fried",
+                "with",
+                "carrot",
+                "mixed",
+                "peppers",
+                "and",
+                "broccoli",
+                "stems"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "羊肉",
+            "類"
+        ],
+        "english_name": [
+            "Lamb",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "羊肉"
+        ],
+        "english_name": [
+            "Aromatic",
+            "Lamb",
+            "with",
+            "Cumin"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "sliced",
+                "lamb",
+                "with",
+                "mixed",
+                "peppers",
+                "and",
+                "coriander"
+            ],
+            [
+                "infused",
+                "in",
+                "a",
+                "spicy",
+                "cumin",
+                "flavour"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "薑蔥",
+            "羊肉"
+        ],
+        "english_name": [
+            "Lamb",
+            "with",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "fried",
+                "sliced",
+                "lamb",
+                "with",
+                "ginger",
+                "and",
+                "spring",
+                "onion"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豬肉",
+            "類"
+        ],
+        "english_name": [
+            "Pork",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "回鍋肉"
+        ],
+        "english_name": [
+            "Double",
+            "Cooked",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "Sichuanese",
+                "favourite",
+                "Lean",
+                "double",
+                "cooked"
+            ],
+            [
+                "sliced",
+                "Pork",
+                "Belly",
+                "boiled",
+                "in",
+                "Sichuan",
+                "spices",
+                "and",
+                "then"
+            ],
+            [
+                "stir",
+                "fried",
+                "in",
+                "a",
+                "sweet",
+                "rich",
+                "chilli",
+                "sauce",
+                "with",
+                "mixed",
+                "peppers"
+            ],
+            [
+                "leeks",
+                "and",
+                "fresh",
+                "chilli"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "川",
+            "式",
+            "紅燒肉"
+        ],
+        "english_name": [
+            "Sichuanese",
+            "Red",
+            "Braised",
+            "Pork",
+            "Belly"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A",
+                "dish",
+                "loved",
+                "by",
+                "Chairman",
+                "Mao"
+            ],
+            [
+                "Double",
+                "cooked",
+                "pork",
+                "belly",
+                "braised",
+                "in",
+                "soya",
+                "sugar",
+                "rich"
+            ],
+            [
+                "aromatic",
+                "Sichuan",
+                "spices",
+                "and",
+                "sweet",
+                "fermented",
+                "paste"
+            ],
+            [
+                "with",
+                "shiitake",
+                "mushrooms"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水煮肉片"
+        ],
+        "english_name": [
+            "Classic",
+            "Sichuan",
+            "Boiled",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "Sizzling",
+                "Chilli",
+                "Oil"
+            ],
+            [
+                "Tender",
+                "cuts",
+                "of",
+                "boiled",
+                "pork",
+                "in",
+                "hot",
+                "Sichuan",
+                "chilli",
+                "bean"
+            ],
+            [
+                "sauce",
+                "and",
+                "fresh",
+                "garlic",
+                "Garnished",
+                "with",
+                "coriander",
+                "and"
+            ],
+            [
+                "a",
+                "sizzling",
+                "pile",
+                "of",
+                "chillies"
+            ],
+            [
+                "This",
+                "dish",
+                "can",
+                "be",
+                "made",
+                "extra",
+                "spicy",
+                "super",
+                "spicy"
+            ],
+            [
+                "Suitable",
+                "for",
+                "Vegetarian"
+            ],
+            [
+                "Mild",
+                "Spicy",
+                "Medium",
+                "Spicy",
+                "Very",
+                "Spicy",
+                "Signature",
+                "Dish"
+            ],
+            [
+                "Some",
+                "dishes",
+                "can",
+                "be",
+                "cooked",
+                "less",
+                "spicy",
+                "or",
+                "non",
+                "spicy",
+                "if",
+                "required"
+            ]
+        ]
+    }
+]

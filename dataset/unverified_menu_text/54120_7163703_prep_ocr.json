@@ -1,0 +1,174 @@
+[
+    {
+        "chinese_name": [
+            "时令",
+            "美味",
+            "蔬菜"
+        ],
+        "english_name": [
+            "VEGETARIAN",
+            "HAVEN"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醋溜",
+            "土豆",
+            "丝"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Potato",
+            "Strips"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "Red",
+                "Pepper"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干",
+            "煸",
+            "豆角"
+        ],
+        "english_name": [
+            "Minced",
+            "Pork",
+            "with",
+            "String",
+            "Beansor"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "OR",
+                "without",
+                "Pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "红烧",
+            "芋头"
+        ],
+        "english_name": [
+            "Braised",
+            "Taro",
+            "in",
+            "Chillicothe",
+            "and",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "牙",
+            "白"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Chinese",
+            "Leaves",
+            "with",
+            "Chopped",
+            "Salted",
+            "Chillies"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "青椒",
+            "银芽",
+            "丝"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Beansprouts",
+            "and",
+            "Green",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "青椒",
+            "炒",
+            "茄子"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Green",
+            "Pepper",
+            "and",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咸蛋",
+            "黄",
+            "炒",
+            "黄瓜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Cucumber",
+            "with",
+            "Salted",
+            "Egg",
+            "Yolk"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "虎皮",
+            "青椒"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Green",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "韭菜",
+            "炒蛋"
+        ],
+        "english_name": [
+            "Fried",
+            "Egg",
+            "and",
+            "Chives"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

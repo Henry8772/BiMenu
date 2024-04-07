@@ -1,0 +1,268 @@
+[
+    {
+        "chinese_name": [
+            "素"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "食"
+        ],
+        "english_name": [
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Menu"
+            ],
+            [
+                "Our",
+                "standard",
+                "noodles"
+            ],
+            [
+                "are",
+                "non",
+                "vegetarian"
+            ],
+            [
+                "Please",
+                "specify"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "毛豆",
+            "香菇",
+            "面"
+        ],
+        "english_name": [
+            "Mushroom",
+            "and",
+            "Edamame"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Noodles"
+            ],
+            [
+                "489kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "担",
+            "担",
+            "面"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "夕夕"
+        ],
+        "english_name": [
+            "359kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "a"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "vegetarian",
+            "when"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ordering"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干",
+            "拌面"
+        ],
+        "english_name": [
+            "300kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红油",
+            "燃",
+            "面"
+        ],
+        "english_name": [
+            "Noodles",
+            "in",
+            "Spicy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "322kcal"
+            ],
+            [
+                "Din",
+                "Tai",
+                "Fung's",
+                "signature",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "owes",
+                "its",
+                "popularity",
+                "to",
+                "freshly",
+                "prepared"
+            ],
+            [
+                "ingredients",
+                "and",
+                "a",
+                "skilled",
+                "hand",
+                "Taikeng"
+            ],
+            [
+                "No",
+                "Taiwanese",
+                "Rice",
+                "is",
+                "specially"
+            ],
+            [
+                "imported",
+                "for",
+                "its",
+                "fragrance",
+                "and",
+                "texture"
+            ],
+            [
+                "Free",
+                "range",
+                "eggs",
+                "are",
+                "added",
+                "at",
+                "just",
+                "the"
+            ],
+            [
+                "right",
+                "temperature",
+                "to",
+                "coat",
+                "every",
+                "single"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "一八二"
+        ],
+        "english_name": [
+            "663kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "什",
+            "蔬",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Vegetable",
+            "and",
+            "Mushroom"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Egg",
+                "Fried",
+                "Rice"
+            ],
+            [
+                "604kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣",
+            "素食"
+        ],
+        "english_name": [
+            "Spicy",
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "厨师",
+            "推荐"
+        ],
+        "english_name": [
+            "Chef's",
+            "Recommendation"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "approach",
+                "our",
+                "staff",
+                "for",
+                "preference",
+                "Product",
+                "images",
+                "are",
+                "for",
+                "illustrative",
+                "purposes",
+                "only"
+            ]
+        ]
+    }
+]

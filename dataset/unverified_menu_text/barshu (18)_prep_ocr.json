@@ -1,0 +1,153 @@
+[
+    {
+        "chinese_name": [
+            "小炒",
+            "黄",
+            "牛肉",
+            "付",
+            "炒",
+            "牛肉"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "BEEF",
+            "WITH",
+            "HOT",
+            "PEPPERS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "罐",
+            "烧香",
+            "牛腩",
+            "牛",
+            "湯",
+            "葉",
+            "添",
+            "盟"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "BEEF",
+            "WITH",
+            "GINGER",
+            "AND",
+            "SPRING",
+            "ONION"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "WATER",
+                "BOILED",
+                "BEEF",
+                "SLICES"
+            ],
+            [
+                "THIN",
+                "SLICED",
+                "BEEF",
+                "WITH"
+            ],
+            [
+                "GREEN",
+                "SICHUAN",
+                "PEPPER"
+            ],
+            [
+                "STEWED",
+                "BEEF",
+                "BRISKET"
+            ],
+            [
+                "WITH",
+                "BEANCURD",
+                "SHEET"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "羊肉"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "LAMB",
+            "WITH",
+            "HOT",
+            "PEPPERS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "STIR",
+                "FRIED",
+                "LAMB",
+                "WITH",
+                "CUMIN"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "LAMB",
+            "WITH",
+            "HOT",
+            "PEPPERS"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "STIR",
+                "FRIED",
+                "LAMB",
+                "WITH",
+                "CUMIN"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "秘",
+            "制",
+            "烤羊",
+            "排"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "LAMB",
+            "WITH",
+            "SPRING",
+            "ONION"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ROAST",
+                "LAMB",
+                "RIBS",
+                "WITH",
+                "HOME",
+                "MADE",
+                "RECIPE"
+            ]
+        ]
+    }
+]

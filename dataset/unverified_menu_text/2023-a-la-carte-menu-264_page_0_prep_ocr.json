@@ -1,0 +1,322 @@
+[
+    {
+        "chinese_name": [
+            "点心"
+        ],
+        "english_name": [
+            "Dim",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "煎炸",
+            "点心"
+        ],
+        "english_name": [
+            "Fried",
+            "Dim",
+            "Sum"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "春卷"
+        ],
+        "english_name": [
+            "Pork",
+            "Spring",
+            "Roll",
+            "Crispy",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "粉",
+            "果"
+        ],
+        "english_name": [
+            "Fried",
+            "Fun",
+            "Kuo",
+            "Fried",
+            "Prawn",
+            "Parcels"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "芝士",
+            "鸭",
+            "粉",
+            "果"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Cheesy",
+            "Duck",
+            "Crescent"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "云吞"
+        ],
+        "english_name": [
+            "Fried",
+            "Won",
+            "Ton",
+            "Fried",
+            "Prawn",
+            "Dumplings"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "纸包",
+            "虾"
+        ],
+        "english_name": [
+            "Paper",
+            "Wrapped",
+            "Prawn",
+            "Quick",
+            "Fried"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "煎锅",
+            "贴"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "War",
+            "Tip",
+            "Pork",
+            "Dumpling"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "明虾",
+            "角"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "King",
+            "Prawn",
+            "Dumplings",
+            "with"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mayonnaise",
+                "Dip"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "杏仁",
+            "虾",
+            "丸"
+        ],
+        "english_name": [
+            "Prawn",
+            "Bauble",
+            "with",
+            "Almond",
+            "Flakes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "牛角"
+        ],
+        "english_name": [
+            "Minced",
+            "Beef",
+            "Curried",
+            "Samosa"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香煎",
+            "牛肉",
+            "包"
+        ],
+        "english_name": [
+            "Pan",
+            "Fried",
+            "Beef",
+            "Buns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "金沙",
+            "鸡",
+            "卷"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Chicken",
+            "in",
+            "Rice",
+            "Paper"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椰香",
+            "鸡",
+            "角"
+        ],
+        "english_name": [
+            "Coconut",
+            "Chicken",
+            "Samosa"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸭",
+            "丝",
+            "卷"
+        ],
+        "english_name": [
+            "Fried",
+            "Shredded",
+            "Duck",
+            "Meat",
+            "Roll"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "泰式",
+            "鱼饼"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Thai",
+            "Style",
+            "Fish",
+            "Croquette"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "栗",
+            "米",
+            "黄金",
+            "卷"
+        ],
+        "english_name": [
+            "Chicken",
+            "Sweet",
+            "Corn",
+            "Golden",
+            "Wrap",
+            "Coated"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "With",
+                "Sesame",
+                "Seeds"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "奶",
+            "皇",
+            "包"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Custard",
+            "Bun"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "spicy",
+                "dishes"
+            ],
+            [
+                "nut",
+                "dishes"
+            ],
+            [
+                "ingredient"
+            ],
+            [
+                "special",
+                "dietary",
+                "needs",
+                "please",
+                "notify",
+                "the",
+                "staff",
+                "who",
+                "will",
+                "be",
+                "happy",
+                "to",
+                "help"
+            ],
+            [
+                "LYS",
+                "textindd"
+            ]
+        ]
+    }
+]

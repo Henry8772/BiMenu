@@ -1,0 +1,124 @@
+[
+    {
+        "chinese_name": [
+            "北方",
+            "水饺",
+            "伝",
+            "統",
+            "的",
+            "餃子"
+        ],
+        "english_name": [
+            "STIR",
+            "FRIED",
+            "NOODLES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "IN",
+                "SHANGHAINESE",
+                "STYLE"
+            ],
+            [
+                "TRADITIONAL",
+                "DUMPLINGS"
+            ],
+            [
+                "AVAILABLE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "鸡",
+            "猪",
+            "拼"
+        ],
+        "english_name": [
+            "VEGETABLE",
+            "CHICKEN",
+            "PORK",
+            "MIXED"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红油",
+            "水饺",
+            "伝",
+            "統",
+            "的",
+            "餃子"
+        ],
+        "english_name": [
+            "TRADITIONAL",
+            "DUMPLINGS"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "IN",
+                "CHILLI",
+                "OIL"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "素",
+            "鸡",
+            "猪",
+            "拼"
+        ],
+        "english_name": [
+            "VEGETABLE",
+            "CHICKEN",
+            "PORK",
+            "MIXED"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "AVAILABLE"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "红糖",
+            "糍粑"
+        ],
+        "english_name": [
+            "EP",
+            "FRIED",
+            "GLUTINOUS",
+            "RICE",
+            "CAKE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "WITH",
+                "MELTED",
+                "BROWN",
+                "SUGAR"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "白",
+            "米饭"
+        ],
+        "english_name": [
+            "STEAMED",
+            "RICE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

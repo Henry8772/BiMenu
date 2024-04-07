@@ -1,0 +1,204 @@
+[
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "HONGU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸿福",
+            "酒家"
+        ],
+        "english_name": [
+            "ONGFU",
+            "NLE",
+            "BAR"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "正餐"
+        ],
+        "english_name": [
+            "Dinner"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "苏格兰",
+            "特色",
+            "红焖",
+            "羊肉"
+        ],
+        "english_name": [
+            "Fine",
+            "Special",
+            "Herb"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Basted",
+                "Lamb",
+                "s"
+            ],
+            [
+                "A45"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "羊排"
+        ],
+        "english_name": [
+            "Cummin",
+            "Lamb"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ghops",
+                "s",
+                "s"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芦笋",
+            "虾球"
+        ],
+        "english_name": [
+            "Wok",
+            "Fried",
+            "King",
+            "Prawns",
+            "With",
+            "Asparagus"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A41"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "苏格兰",
+            "龙虾",
+            "面包",
+            "蟹",
+            "姜葱",
+            "香辣"
+        ],
+        "english_name": [
+            "Lobster",
+            "Crab"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion",
+                "Sauce"
+            ],
+            [
+                "Or",
+                "ry",
+                "Chilli",
+                "And",
+                "Leek",
+                "in",
+                "sichuan",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒸",
+            "带子",
+            "豉",
+            "汁",
+            "蒸",
+            "蒜蓉",
+            "粉丝",
+            "姜葱",
+            "蒸",
+            "一例"
+        ],
+        "english_name": [
+            "Steam",
+            "Scallop",
+            "in",
+            "Black",
+            "bean",
+            "sauce",
+            "vermiceli",
+            "and",
+            "garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ginger",
+                "spring",
+                "onion",
+                "each"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "水煮",
+            "鱼",
+            "水煮肉片",
+            "水煮",
+            "牛肉"
+        ],
+        "english_name": [
+            "Fish",
+            "Beef",
+            "Pork",
+            "With",
+            "Chilli"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Pepper",
+                "And",
+                "Red",
+                "Dil",
+                "s"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,343 @@
+[
+    {
+        "chinese_name": [
+            "熱",
+            "盤"
+        ],
+        "english_name": [
+            "HOT",
+            "APPETISERS"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鳳尾",
+            "蝦"
+        ],
+        "english_name": [
+            "Hot",
+            "Mixed",
+            "Hor",
+            "D'oeuvres"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "minimum",
+                "order",
+                "for",
+                "person"
+            ],
+            [
+                "crispy",
+                "seaweed",
+                "deep",
+                "fried",
+                "Vietnamese",
+                "spring",
+                "rolls"
+            ],
+            [
+                "per",
+                "person"
+            ],
+            [
+                "baby",
+                "squid",
+                "with",
+                "garlic",
+                "and",
+                "chilli",
+                "and",
+                "deep",
+                "fried",
+                "prawn",
+                "balls"
+            ],
+            [
+                "Steamed",
+                "Fresh",
+                "Scallop",
+                "with",
+                "Garlic",
+                "Soya",
+                "Sauce"
+            ],
+            [
+                "each"
+            ],
+            [
+                "Steamed",
+                "Razor",
+                "Clam",
+                "with",
+                "Garlic",
+                "Soya",
+                "Sauce"
+            ],
+            [
+                "each"
+            ],
+            [
+                "Mussels",
+                "in",
+                "Black",
+                "Bean",
+                "and",
+                "Chilli",
+                "Sauce"
+            ],
+            [
+                "Deep",
+                "Fried",
+                "Soft",
+                "Shell",
+                "Crab",
+                "with",
+                "Garlic"
+            ],
+            [
+                "in",
+                "Spicy",
+                "Salt",
+                "and",
+                "Pepper"
+            ],
+            [
+                "each"
+            ],
+            [
+                "Sesame",
+                "Prawns",
+                "on",
+                "Toast"
+            ],
+            [
+                "pieces"
+            ],
+            [
+                "Fried",
+                "King",
+                "Prawn",
+                "Wrapped",
+                "with",
+                "Coriander"
+            ],
+            [
+                "E",
+                "Grilled",
+                "Gigantic",
+                "King",
+                "Prawns",
+                "with",
+                "Garlic",
+                "and",
+                "Chilli"
+            ],
+            [
+                "each"
+            ],
+            [
+                "Boiled",
+                "King",
+                "Prawns",
+                "with",
+                "Soya",
+                "Sauce",
+                "Dip",
+                "in",
+                "shell"
+            ],
+            [
+                "Fried",
+                "King",
+                "Prawn",
+                "in",
+                "Spicy",
+                "Salt",
+                "and",
+                "Pepper",
+                "in",
+                "shell"
+            ],
+            [
+                "Butterfly",
+                "King",
+                "Prawns"
+            ],
+            [
+                "pieces"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "串燒",
+            "沙",
+            "嗲",
+            "蝦"
+        ],
+        "english_name": [
+            "Minced",
+            "Seafood",
+            "Wrapped",
+            "in",
+            "Lettuce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Satay",
+                "Prawns"
+            ],
+            [
+                "skewers"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "串燒",
+            "沙",
+            "嗲",
+            "雞",
+            "牛"
+        ],
+        "english_name": [
+            "Satay",
+            "Chicken",
+            "or",
+            "Beef"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "skewers"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "露",
+            "筍"
+        ],
+        "english_name": [
+            "Smoked",
+            "Shredded",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Barbecued",
+                "Pork",
+                "Spare",
+                "Ribs"
+            ],
+            [
+                "Pork",
+                "Spare",
+                "Ribs",
+                "with",
+                "Garlic",
+                "in",
+                "Spicy",
+                "Salt",
+                "and",
+                "Pepper"
+            ],
+            [
+                "Grilled",
+                "Pork",
+                "Dumpling"
+            ],
+            [
+                "pieces"
+            ],
+            [
+                "Minced",
+                "Mixed",
+                "Vegetable",
+                "Wrapped",
+                "in",
+                "Lettuce"
+            ],
+            [
+                "Fried",
+                "Vegetable",
+                "Spring",
+                "Roll"
+            ],
+            [
+                "Vietnamese",
+                "Spring",
+                "Rolls",
+                "with",
+                "minced",
+                "pork",
+                "meat"
+            ],
+            [
+                "Seaweeds",
+                "vegetables"
+            ],
+            [
+                "Prawn",
+                "Flavour",
+                "Cracker"
+            ],
+            [
+                "Selected",
+                "Dish",
+                "cooked",
+                "with",
+                "Garlic",
+                "in",
+                "Spicy",
+                "Salt",
+                "and",
+                "Pepper"
+            ],
+            [
+                "a",
+                "Asparagus"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "茄子"
+        ],
+        "english_name": [
+            "b",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豆腐"
+        ],
+        "english_name": [
+            "Bean",
+            "Curd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "雞翼"
+        ],
+        "english_name": [
+            "d",
+            "Chicken",
+            "Wings"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

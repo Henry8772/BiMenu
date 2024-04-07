@@ -8,8 +8,7 @@
             "Price"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -51,8 +50,7 @@
                 "and",
                 "peppercorn"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -92,8 +90,7 @@
                 "and",
                 "Pepper"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -126,8 +123,7 @@
                 "Chinese",
                 "Mushrooms"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -147,8 +143,7 @@
             "Onion"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -156,8 +151,7 @@
         ],
         "english_name": [],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -174,8 +168,7 @@
             "Oil"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -194,18 +187,22 @@
             "with",
             "Ginger",
             "and",
-            "Spring",
-            "Onion",
-            "with",
-            "Shredded",
-            "Pork",
-            "and",
-            "Chinese",
-            "Mushrooms"
+            "Spring"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": [
+            [
+                "Onion",
+                "with",
+                "Shredded",
+                "Pork",
+                "and",
+                "Chinese"
+            ],
+            [
+                "Mushrooms"
+            ]
+        ]
     },
     {
         "chinese_name": [
@@ -225,20 +222,21 @@
             "Ginger",
             "and",
             "Spring",
-            "Onion",
-            "with",
-            "Shredded",
-            "Pork",
-            "and",
-            "Chinese"
+            "Onion"
         ],
         "chinese_description": [],
         "english_description": [
             [
+                "with",
+                "Shredded",
+                "Pork",
+                "and",
+                "Chinese"
+            ],
+            [
                 "Mushrooms"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -264,7 +262,6 @@
             "person"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

@@ -1,0 +1,107 @@
+[
+    {
+        "chinese_name": [
+            "蒸"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海鲜",
+            "点心",
+            "拼"
+        ],
+        "english_name": [
+            "STEAMED"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seafood",
+                "Dim",
+                "Sum",
+                "Platter"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "斋",
+            "点心",
+            "拼"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Dim"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sum",
+                "Platter"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "小笼",
+            "包"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜茸",
+            "粉丝",
+            "蒸",
+            "带子"
+        ],
+        "english_name": [
+            "Fresh",
+            "Scottish",
+            "Diver"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "caught",
+                "Scallop",
+                "Each"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "位"
+        ],
+        "english_name": [
+            "person"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "考",
+            "出品",
+            "以",
+            "实物",
+            "为准"
+        ],
+        "english_name": [
+            "Classic",
+            "Shanghai",
+            "Pork",
+            "Dumpling",
+            "Siu",
+            "Long",
+            "Bao"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

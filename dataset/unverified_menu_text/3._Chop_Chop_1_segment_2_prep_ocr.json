@@ -1,0 +1,193 @@
+[
+    {
+        "chinese_name": [
+            "黑椒",
+            "蘆筍",
+            "龍蝦",
+            "去殼"
+        ],
+        "english_name": [
+            "Black",
+            "Pepper",
+            "Lobster",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "without",
+                "shell",
+                "with",
+                "asparagus"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "清蒸",
+            "鱸魚"
+        ],
+        "english_name": [
+            "Steamed",
+            "Whole",
+            "SeabasS",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "with",
+                "ginger",
+                "and",
+                "spring",
+                "onions",
+                "in",
+                "soy",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "蒸",
+            "大蝦",
+            "只",
+            "配",
+            "粉絲"
+        ],
+        "english_name": [
+            "Steamed",
+            "Garlic",
+            "Tiger",
+            "Prawns",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "shell",
+                "with",
+                "glass",
+                "noodles"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "天婦羅",
+            "蝦",
+            "配",
+            "芥末",
+            "蛋黃醬",
+            "只"
+        ],
+        "english_name": [
+            "Tempura",
+            "Prawns",
+            "with",
+            "wasabi",
+            "mayonaise",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "醬",
+            "蓮藕",
+            "炒",
+            "海鮮"
+        ],
+        "english_name": [
+            "XO"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Stir",
+                "Fried",
+                "Seafood",
+                "and",
+                "Lotus",
+                "Root",
+                "kcal"
+            ],
+            [
+                "in",
+                "XO",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "火",
+            "腩",
+            "豆腐"
+        ],
+        "english_name": [
+            "Braised",
+            "Tofu",
+            "with",
+            "roast",
+            "pork",
+            "belly",
+            "P",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "柱",
+            "候",
+            "炖",
+            "牛腩"
+        ],
+        "english_name": [
+            "Stewed",
+            "Beef",
+            "Brisket",
+            "in",
+            "Chu",
+            "Hou",
+            "sauce",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "汁",
+            "芥蘭",
+            "豆腐",
+            "纯",
+            "素食"
+        ],
+        "english_name": [
+            "Kai",
+            "Lan",
+            "Chinese",
+            "Broccoli",
+            "and",
+            "Tofu",
+            "kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "in",
+                "black",
+                "bean",
+                "sauce",
+                "VG"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "chinese_name": [
+            "素"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "食"
+        ],
+        "english_name": [
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Menu"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "四季豆"
+        ],
+        "english_name": [
+            "String",
+            "Beans",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "180kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "高丽",
+            "菜"
+        ],
+        "english_name": [
+            "Cabbage",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "166kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Our",
+            "standard",
+            "Stir",
+            "Fries",
+            "are"
+        ],
+        "chinese_description": [
+            []
+        ],
+        "english_description": [
+            [
+                "cooked",
+                "in",
+                "a",
+                "non",
+                "vegan",
+                "broth"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [],
+        "english_name": [
+            "Please",
+            "specify",
+            "Vegan",
+            "when"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "ordering"
+            ],
+            [
+                "Vegan"
+            ],
+            [
+                "a"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "西兰",
+            "花"
+        ],
+        "english_name": [
+            "Broccoli",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "227kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "菠菜"
+        ],
+        "english_name": [
+            "Spinach",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "255kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鼎"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜",
+            "炒",
+            "豆苗"
+        ],
+        "english_name": [
+            "Dou",
+            "Miao",
+            "with",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豆苗"
+        ],
+        "english_name": [
+            "293kcal"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "All",
+                "of",
+                "our",
+                "Dou",
+                "Miao",
+                "is",
+                "specially"
+            ],
+            [
+                "grown",
+                "in",
+                "the",
+                "UK",
+                "for",
+                "Din",
+                "Tai",
+                "Fung"
+            ],
+            [
+                "Every",
+                "batch",
+                "is",
+                "selected",
+                "with",
+                "only"
+            ],
+            [
+                "young",
+                "and",
+                "tender",
+                "shoots",
+                "of",
+                "almost"
+            ],
+            [
+                "identical",
+                "length"
+            ]
+        ]
+    }
+]

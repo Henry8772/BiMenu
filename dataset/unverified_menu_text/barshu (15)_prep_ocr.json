@@ -1,0 +1,92 @@
+[
+    {
+        "chinese_name": [
+            "干锅",
+            "藕片",
+            "鍋炒"
+        ],
+        "english_name": [
+            "v"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "DRY",
+                "WOK",
+                "SLICED",
+                "POTATOES",
+                "WITH",
+                "POR"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "土豆",
+            "片",
+            "仁",
+            "豚",
+            "肉",
+            "术",
+            "卜"
+        ],
+        "english_name": [
+            "DRY",
+            "WOK",
+            "SLICED",
+            "POTATOES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "素",
+            "干锅",
+            "土豆",
+            "片",
+            "犬",
+            "亻",
+            "鍋炒"
+        ],
+        "english_name": [
+            "DRY",
+            "WOK",
+            "BEEF",
+            "TRIPE"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "牛",
+            "百叶",
+            "八",
+            "鍋炒"
+        ],
+        "english_name": [],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "黄",
+            "喉",
+            "牛",
+            "才",
+            "夕",
+            "鍋炒"
+        ],
+        "english_name": [],
+        "chinese_description": [
+            []
+        ],
+        "english_description": []
+    }
+]

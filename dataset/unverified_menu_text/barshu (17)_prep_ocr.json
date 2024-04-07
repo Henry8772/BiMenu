@@ -1,0 +1,125 @@
+[
+    {
+        "chinese_name": [
+            "家乡",
+            "回锅肉",
+            "四川",
+            "風"
+        ],
+        "english_name": [
+            "TWICE",
+            "COOKED",
+            "PORK"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "肉丝",
+            "激",
+            "辛",
+            "豚",
+            "肉",
+            "炒"
+        ],
+        "english_name": [
+            "WATER",
+            "BOILED",
+            "PORK",
+            "SLICES"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "FISH",
+                "FRAGRANT",
+                "PORK",
+                "SLIVERS"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "油",
+            "豆腐",
+            "红烧肉",
+            "豚",
+            "角",
+            "煮",
+            "豆腐",
+            "添",
+            "元"
+        ],
+        "english_name": [
+            "RED",
+            "BRAISED",
+            "PORK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "WITH",
+                "BEANCURD",
+                "PUFFS"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "京",
+            "酱肉",
+            "丝",
+            "細",
+            "切",
+            "豚",
+            "肉"
+        ],
+        "english_name": [
+            "SHREDDED",
+            "PORK",
+            "IN",
+            "SOY",
+            "BEAN",
+            "PASTE"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "WITH",
+                "PANCAKES"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "孜然",
+            "排骨",
+            "列",
+            "風味"
+        ],
+        "english_name": [
+            "SWEE",
+            "AND",
+            "SOUR",
+            "PORK"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "PORK",
+                "SLIVERS",
+                "WITH",
+                "GREEN",
+                "PEPPERS"
+            ],
+            [
+                "PORK",
+                "RIBS",
+                "WITH",
+                "CUMIN"
+            ]
+        ]
+    }
+]

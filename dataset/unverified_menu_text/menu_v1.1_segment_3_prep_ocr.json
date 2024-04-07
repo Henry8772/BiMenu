@@ -1,0 +1,401 @@
+[
+    {
+        "chinese_name": [
+            "鸡汤",
+            "抄手"
+        ],
+        "english_name": [
+            "Pork",
+            "Wonton",
+            "In",
+            "Chicken",
+            "Stock"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "特色",
+            "鸡汤",
+            "米线"
+        ],
+        "english_name": [
+            "House",
+            "Special",
+            "Chicken",
+            "Soup",
+            "With",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Noodle"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鲜味",
+            "小锅",
+            "米线"
+        ],
+        "english_name": [
+            "Xiao",
+            "Guo",
+            "Rice",
+            "Noodle",
+            "Meatballs",
+            "Mushrooms"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Seaweed",
+                "House",
+                "Special",
+                "Broth"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "米饭"
+        ],
+        "english_name": [
+            "Rice",
+            "Dishes"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸菜",
+            "土豆",
+            "炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice",
+            "With",
+            "Pickled"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "With",
+                "minced",
+                "Pork"
+            ],
+            [
+                "Vegetable",
+                "And",
+                "Potato"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "芽菜",
+            "肉",
+            "绍",
+            "炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice",
+            "With",
+            "Preserved",
+            "Vegetable"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "And",
+                "Minced",
+                "Pork"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豆汤",
+            "饭"
+        ],
+        "english_name": [
+            "Rice",
+            "In",
+            "Yellow",
+            "Pea"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "And",
+                "Vegetable",
+                "Soup"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "加",
+            "酥",
+            "肉"
+        ],
+        "english_name": [
+            "With",
+            "Fried",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mama's",
+                "Pig",
+                "Knuckles",
+                "Soup",
+                "With",
+                "White",
+                "Butter"
+            ],
+            [
+                "Braised",
+                "Pork",
+                "Belly",
+                "In",
+                "Soy",
+                "Sauce",
+                "Served"
+            ],
+            [
+                "Sichuan",
+                "Double",
+                "Cooked",
+                "Pork",
+                "Belly",
+                "in",
+                "Chili"
+            ],
+            [
+                "Stir",
+                "Fried",
+                "Rice",
+                "with",
+                "Beef",
+                "cubes",
+                "and",
+                "pickled"
+            ],
+            [
+                "Free",
+                "Of",
+                "Charge"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "鸡汤",
+            "饭"
+        ],
+        "english_name": [
+            "Rice",
+            "In",
+            "House",
+            "Special",
+            "Chicken",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "老妈",
+            "蹄花",
+            "汤",
+            "饭"
+        ],
+        "english_name": [
+            "Mama's",
+            "Pig",
+            "Knuckles",
+            "Soup",
+            "With",
+            "White",
+            "Butter"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Beans",
+                "Served",
+                "With",
+                "Rice",
+                "And",
+                "Spicy",
+                "Dip"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "卤肉",
+            "饭"
+        ],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "Belly",
+            "In",
+            "Soy",
+            "Sauce",
+            "Served"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "With",
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "叉烧",
+            "炒饭"
+        ],
+        "english_name": [
+            "Char",
+            "Siu",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "回锅肉",
+            "盖饭"
+        ],
+        "english_name": [
+            "Sichuan",
+            "Double",
+            "Cooked",
+            "Pork",
+            "Belly",
+            "in",
+            "Chili"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Paste",
+                "with",
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "剁椒",
+            "牛肉",
+            "炒饭"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Rice",
+            "with",
+            "Beef",
+            "cubes",
+            "and",
+            "pickled"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chilies"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "其他"
+        ],
+        "english_name": [
+            "Extras"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "煎蛋"
+        ],
+        "english_name": [
+            "Crispy",
+            "Fried",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "加",
+            "面"
+        ],
+        "english_name": [
+            "Extra",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白饭"
+        ],
+        "english_name": [
+            "Boiled",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "面",
+            "换",
+            "米线"
+        ],
+        "english_name": [
+            "Change",
+            "Noodles",
+            "TO",
+            "Rice",
+            "Noodle"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

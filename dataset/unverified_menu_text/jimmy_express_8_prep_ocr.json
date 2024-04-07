@@ -9,16 +9,32 @@
             "Pork",
             "Belly",
             "with",
-            "Chestnuts"
+            "Soy",
+            "Sauce"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "板栗",
             "红烧肉"
+        ],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "Belly",
+            "with",
+            "Chestnuts"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "湖南",
+            "小",
+            "炒肉"
         ],
         "english_name": [
             "Stir",
@@ -29,14 +45,11 @@
             "Style"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "湖南",
-            "小",
-            "炒肉"
+            "回锅肉"
         ],
         "english_name": [
             "Double",
@@ -44,26 +57,21 @@
             "Pork"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "回锅肉"
-        ],
-        "english_name": [
-            "Aubergines",
-            "Yuxiang",
-            "Style"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "鱼香",
             "茄子"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鱼香",
+            "肉丝"
         ],
         "english_name": [
             "Shredded",
@@ -72,13 +80,13 @@
             "Style"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "鱼香",
-            "肉丝"
+            "香港",
+            "古老",
+            "肉"
         ],
         "english_name": [
             "Sweet",
@@ -87,14 +95,12 @@
             "Pork"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
-            "香港",
-            "古老",
-            "肉"
+            "尖椒",
+            "肉丝"
         ],
         "english_name": [
             "Shredded",
@@ -104,22 +110,7 @@
             "Chilli"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "尖椒",
-            "肉丝"
-        ],
-        "english_name": [
-            "Braised",
-            "Pork",
-            "Intestines"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -127,12 +118,12 @@
             "肥肠"
         ],
         "english_name": [
-            "Mapo",
-            "Tofu"
+            "Braised",
+            "Pork",
+            "Intestines"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
@@ -141,18 +132,30 @@
             "豆腐"
         ],
         "english_name": [
-            "Braised",
-            "Pork",
-            "Shank"
+            "Mapo",
+            "Tofu"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "红烧",
             "猪手"
+        ],
+        "english_name": [
+            "Braised",
+            "Pork",
+            "Shank"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麻辣",
+            "烤猪",
+            "手"
         ],
         "english_name": [
             "Hot",
@@ -162,18 +165,6 @@
             "Shank"
         ],
         "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "麻辣",
-            "烤猪",
-            "手"
-        ],
-        "english_name": [],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
+        "english_description": []
     }
 ]

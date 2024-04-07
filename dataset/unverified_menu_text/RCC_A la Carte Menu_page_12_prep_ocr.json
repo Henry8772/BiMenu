@@ -1,0 +1,205 @@
+[
+    {
+        "chinese_name": [
+            "飯"
+        ],
+        "english_name": [
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮑魚",
+            "撈飯"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "和",
+            "牛",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Chef's",
+            "Special",
+            "Whole",
+            "Abalone",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "A5"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "黃金",
+            "龍蝦",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Diced",
+            "Wagyu",
+            "eef",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "黑",
+            "蒜",
+            "海鮮",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Diced",
+            "Lobster",
+            "Fried",
+            "Rice",
+            "with",
+            "Salted",
+            "Duck",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "金牌",
+            "荷葉",
+            "飯"
+        ],
+        "english_name": [
+            "Diced",
+            "Mixed",
+            "Seafood",
+            "Fried",
+            "Rice",
+            "with",
+            "Black",
+            "Garlic"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "福州",
+            "炒飯"
+        ],
+        "english_name": [
+            "Steamed",
+            "Lotus",
+            "Leaf",
+            "Rice",
+            "with",
+            "Diced",
+            "Roasted",
+            "Duck",
+            "and",
+            "Prawns"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鮑汁",
+            "蛋",
+            "包飯"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice",
+            "topped",
+            "with",
+            "Shrimps",
+            "and",
+            "Diced",
+            "Roasted",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蛋白",
+            "瑤柱",
+            "蝦",
+            "炒飯"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice",
+            "Wrapped",
+            "with",
+            "Egg",
+            "in",
+            "Abalone",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "港",
+            "式",
+            "揚州",
+            "炒飯"
+        ],
+        "english_name": [
+            "Prawn",
+            "Fried",
+            "Rice",
+            "with",
+            "Egg",
+            "White",
+            "and",
+            "Dried",
+            "Scallop"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "櫻花",
+            "蝦",
+            "乾",
+            "雞",
+            "粒",
+            "炒飯"
+        ],
+        "english_name": [
+            "Hong",
+            "Kong",
+            "Fried",
+            "Rice",
+            "with",
+            "Prawn",
+            "and",
+            "Diced",
+            "Roasted",
+            "Duck"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

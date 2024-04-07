@@ -1,0 +1,234 @@
+[
+    {
+        "chinese_name": [
+            "头"
+        ],
+        "english_name": [
+            "APPETIZER"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "海草"
+        ],
+        "english_name": [
+            "Crispy",
+            "Seaweed"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "京",
+            "式",
+            "排骨"
+        ],
+        "english_name": [
+            "Capital",
+            "Spare",
+            "Rib"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "排骨"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Spare",
+            "Rib"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "沙爹",
+            "鸡",
+            "串"
+        ],
+        "english_name": [
+            "Chicken",
+            "Satay",
+            "on",
+            "Stick"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸鸡",
+            "翼"
+        ],
+        "english_name": [
+            "Deep",
+            "Fried",
+            "Chicken",
+            "Wing"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "鲜鱿"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "Squid"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒盐",
+            "大虾"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Pepper",
+            "King",
+            "Prawn"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "虾",
+            "多",
+            "士"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "云吞",
+            "汤"
+        ],
+        "english_name": [
+            "Wonton",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "汤"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酸辣",
+            "汤"
+        ],
+        "english_name": [
+            "Hot",
+            "Sour",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡",
+            "米汤"
+        ],
+        "english_name": [
+            "Chicken",
+            "Sweet",
+            "Corn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "类"
+        ],
+        "english_name": [
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蟹",
+            "米汤"
+        ],
+        "english_name": [
+            "Crabmeat",
+            "Sweet",
+            "Corn",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鸡汤"
+        ],
+        "english_name": [
+            "Chicken",
+            "Noodle",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "杂",
+            "菜汤"
+        ],
+        "english_name": [
+            "Mix",
+            "Vegetable",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Minimum",
+                "Charge",
+                "per",
+                "person"
+            ],
+            [
+                "Debit",
+                "and",
+                "Credit",
+                "Cards",
+                "are",
+                "welcome",
+                "for",
+                "values",
+                "over"
+            ]
+        ]
+    }
+]

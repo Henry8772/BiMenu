@@ -5,27 +5,55 @@
             "干锅",
             "煲仔"
         ],
-        "english_name": [
-            "ZLING",
-            "GRIDDLE",
-            "COOKED",
-            "STEW"
-        ],
+        "english_name": [],
         "chinese_description": [],
-        "english_description": [
-            [
-                "L"
-            ],
-            [
-                "L7"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "干锅",
             "仔鸡"
+        ],
+        "english_name": [
+            "L"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "干锅",
+            "肥肠"
+        ],
+        "english_name": [
+            "L7"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香辣",
+            "猪手",
+            "煲"
+        ],
+        "english_name": [
+            "Griddle",
+            "Cooked",
+            "Pork",
+            "Intestine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "铁板",
+            "牛柳",
+            "黑椒",
+            "豉",
+            "椒",
+            "中式"
         ],
         "english_name": [
             "Griddle",
@@ -37,28 +65,12 @@
             [
                 "L2"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
-            "干锅",
-            "肥肠"
-        ],
-        "english_name": [
-            "Griddle",
-            "Cooked",
-            "Pork",
-            "Intestine"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "香辣",
-            "猪手",
+            "鱼香",
+            "茄子",
             "煲"
         ],
         "english_name": [
@@ -71,22 +83,14 @@
             "Bone"
         ],
         "chinese_description": [],
-        "english_description": [
-            [
-                "Hot",
-                "Pot"
-            ]
-        ],
-        "raw_text": null
+        "english_description": []
     },
     {
         "chinese_name": [
             "铁板",
-            "牛柳",
-            "黑椒",
-            "豉",
-            "椒",
-            "中式"
+            "玉",
+            "子",
+            "豆腐"
         ],
         "english_name": [
             "Sizzling",
@@ -107,13 +111,28 @@
             [
                 "L3"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
-            "鱼香",
-            "茄子",
+            "肥肠",
+            "火锅",
+            "鱼"
+        ],
+        "english_name": [
+            "Sizzling",
+            "Egg",
+            "Tofu",
+            "with",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "萝卜",
+            "牛腩",
             "煲"
         ],
         "english_name": [
@@ -129,32 +148,13 @@
                 "Hot",
                 "Pot"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
-            "铁板",
-            "玉",
-            "子",
-            "豆腐"
-        ],
-        "english_name": [
-            "Sizzling",
-            "Egg",
-            "Tofu",
-            "with",
-            "Pork"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "肥肠",
-            "火锅",
-            "鱼"
+            "梅菜",
+            "扣肉",
+            "煲"
         ],
         "english_name": [
             "Hot",
@@ -167,63 +167,14 @@
         "chinese_description": [],
         "english_description": [
             [
-                "Intestine",
-                "Pot"
-            ],
-            [
-                "L5"
-            ]
-        ],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "萝卜",
-            "牛腩",
-            "煲"
-        ],
-        "english_name": [
-            "Beef",
-            "Brisket",
-            "with",
-            "Mooli",
-            "Hot",
-            "Pot"
-        ],
-        "chinese_description": [],
-        "english_description": [],
-        "raw_text": null
-    },
-    {
-        "chinese_name": [
-            "梅菜",
-            "扣肉",
-            "煲"
-        ],
-        "english_name": [
-            "Pork",
-            "Belly",
-            "with",
-            "Preserved",
-            "Vegetables"
-        ],
-        "chinese_description": [],
-        "english_description": [
-            [
+                "Beef",
+                "Brisket",
+                "with",
+                "Mooli",
                 "Hot",
                 "Pot"
-            ],
-            [
-                "V",
-                "Vegetarian",
-                "VG",
-                "Vegan",
-                "on",
-                "request",
-                "Spicy"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -232,18 +183,19 @@
             "须"
         ],
         "english_name": [
-            "Griddle",
-            "Cooked",
-            "Squid",
-            "Tentacles"
+            "Hot",
+            "and",
+            "Spicy",
+            "Fish",
+            "Fillet",
+            "with"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "L6"
+                "L5"
             ]
-        ],
-        "raw_text": null
+        ]
     },
     {
         "chinese_name": [
@@ -256,17 +208,14 @@
         "english_name": [
             "Griddle",
             "Cooked",
-            "Prawns"
+            "Squid",
+            "Tentacles"
         ],
         "chinese_description": [],
         "english_description": [
             [
-                "Shell",
-                "on",
-                "shell",
-                "off"
+                "L6"
             ]
-        ],
-        "raw_text": null
+        ]
     }
 ]

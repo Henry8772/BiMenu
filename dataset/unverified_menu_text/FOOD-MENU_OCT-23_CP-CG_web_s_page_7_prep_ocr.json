@@ -1,0 +1,230 @@
+[
+    {
+        "chinese_name": [
+            "饭"
+        ],
+        "english_name": [
+            "Fried"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Rice"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "排骨",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Pork",
+            "Chop",
+            "and",
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "965kcal"
+            ],
+            [
+                "Vegan"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "一八二"
+        ],
+        "english_name": [
+            "663kcal"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "白饭"
+        ],
+        "english_name": [
+            "Steamed",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "3llkcal"
+            ],
+            [
+                "Din",
+                "Tai",
+                "Fung's",
+                "signature",
+                "Fried",
+                "Rice",
+                "owes",
+                "its"
+            ],
+            [
+                "popularity",
+                "to",
+                "freshly",
+                "prepared",
+                "ingredients",
+                "and"
+            ],
+            [
+                "a",
+                "skilled",
+                "hand",
+                "Taikeng",
+                "No",
+                "Taiwanese",
+                "Rice",
+                "is"
+            ],
+            [
+                "specially",
+                "imported",
+                "for",
+                "its",
+                "fragrance",
+                "and",
+                "texture"
+            ],
+            [
+                "Free",
+                "range",
+                "eggs",
+                "are",
+                "added",
+                "at",
+                "just",
+                "the",
+                "right"
+            ],
+            [
+                "temperature",
+                "to",
+                "coat",
+                "every",
+                "single",
+                "grain"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "肉丝",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Shredded",
+            "Pork",
+            "and",
+            "Egg"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fried",
+                "Rice"
+            ],
+            [
+                "675kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "什",
+            "蔬",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "604kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "虾仁",
+            "蛋炒饭"
+        ],
+        "english_name": [
+            "Prawn",
+            "and",
+            "Egg",
+            "Fried",
+            "Rice"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "635kcal"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "厨师",
+            "推荐"
+        ],
+        "english_name": [
+            "Chefs",
+            "Recommendation"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Please",
+                "cpproach",
+                "our",
+                "staff",
+                "for",
+                "preference",
+                "Product",
+                "images",
+                "are",
+                "for",
+                "illustrative",
+                "purposes",
+                "only"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "辣",
+            "素食"
+        ],
+        "english_name": [
+            "Spicy",
+            "Vegetarian"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

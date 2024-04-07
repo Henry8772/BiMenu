@@ -1,0 +1,338 @@
+[
+    {
+        "chinese_name": [
+            "雞",
+            "蓉",
+            "蟹肉",
+            "粟米",
+            "羹"
+        ],
+        "english_name": [
+            "SOUP"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "House",
+                "Special",
+                "Soup"
+            ],
+            [
+                "Won",
+                "Ton",
+                "Soup",
+                "pork",
+                "and",
+                "prawn"
+            ],
+            [
+                "Sweet",
+                "Corn",
+                "with",
+                "Chicken",
+                "or",
+                "Crab",
+                "Meat",
+                "Soup"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "兩位",
+            "起"
+        ],
+        "english_name": [
+            "Hot",
+            "and",
+            "Sour",
+            "Soup",
+            "no",
+            "pork"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Fish",
+                "Maw",
+                "with",
+                "Crab",
+                "Meat",
+                "Sou"
+            ],
+            [
+                "Chicken",
+                "and",
+                "Straw",
+                "Mushroom",
+                "Soup"
+            ],
+            [
+                "Fish",
+                "Fillet",
+                "and",
+                "Thousand",
+                "Years",
+                "Egg",
+                "Soup",
+                "with",
+                "Coriander"
+            ],
+            [
+                "min",
+                "people"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "時價",
+            "龍蝦"
+        ],
+        "english_name": [
+            "Beancurd",
+            "Seaweed",
+            "and",
+            "Straw",
+            "Mushroom",
+            "Soup"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Mixed",
+                "Vegetable",
+                "Sou"
+            ],
+            [
+                "Fish",
+                "Ball",
+                "Sou"
+            ],
+            [
+                "Shrimp",
+                "Dumpling",
+                "Soup"
+            ],
+            [
+                "Minced",
+                "Beef",
+                "Soup",
+                "West",
+                "Lake",
+                "Style"
+            ],
+            [
+                "SECONDARY",
+                "COURSE"
+            ],
+            [
+                "BARBECUED",
+                "PEKING",
+                "DUCK"
+            ],
+            [
+                "Whole"
+            ],
+            [
+                "sliced",
+                "of",
+                "skin",
+                "and",
+                "meat",
+                "served"
+            ],
+            [
+                "with",
+                "pancake",
+                "and",
+                "spring",
+                "onion"
+            ],
+            [
+                "AROMATIC",
+                "CRISPY",
+                "DUCK"
+            ],
+            [
+                "deep",
+                "fried",
+                "shredded",
+                "meat",
+                "served"
+            ],
+            [
+                "Whole"
+            ],
+            [
+                "with",
+                "pancake",
+                "and",
+                "spring",
+                "onion"
+            ],
+            [
+                "FRESH",
+                "LOBSTER"
+            ],
+            [
+                "Seasonal",
+                "Price"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "薑蔥"
+        ],
+        "english_name": [
+            "a",
+            "Ginger",
+            "and",
+            "Spring",
+            "Onion"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒"
+        ],
+        "english_name": [
+            "b",
+            "Black",
+            "Bean",
+            "Sauce",
+            "and",
+            "Green",
+            "Pepper",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "麵",
+            "底"
+        ],
+        "english_name": [
+            "bed",
+            "of",
+            "soft",
+            "noodles",
+            "is",
+            "highly",
+            "recommended",
+            "to",
+            "go",
+            "with",
+            "above",
+            "item",
+            "ab"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "清蒸"
+        ],
+        "english_name": [
+            "Steamed",
+            "with",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽"
+        ],
+        "english_name": [
+            "d",
+            "with",
+            "Garlic",
+            "in",
+            "Spicy",
+            "Salt",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "薑蔥"
+        ],
+        "english_name": [
+            "FRESH",
+            "CRAB"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "a",
+                "Ginger",
+                "and",
+                "Spring",
+                "Onion"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "豉",
+            "椒"
+        ],
+        "english_name": [
+            "b",
+            "Black",
+            "Bean",
+            "Sauce",
+            "and",
+            "Green",
+            "Pepper",
+            "Chilli",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "清蒸"
+        ],
+        "english_name": [
+            "Steamed",
+            "with",
+            "Soy",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "椒鹽"
+        ],
+        "english_name": [
+            "d",
+            "with",
+            "Garlic",
+            "in",
+            "Spicy",
+            "Salt",
+            "and",
+            "Pepper"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]

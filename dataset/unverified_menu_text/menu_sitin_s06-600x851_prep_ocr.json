@@ -1,0 +1,389 @@
+[
+    {
+        "chinese_name": [
+            "古老",
+            "类"
+        ],
+        "english_name": [
+            "SWEET",
+            "and",
+            "SOUR",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "古老",
+            "球"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken",
+            "In",
+            "Batter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "古老",
+            "猪肉",
+            "球"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Pork",
+            "In",
+            "Batter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "古老",
+            "大虾",
+            "球"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "King",
+            "Prawn",
+            "In",
+            "Batter"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中古",
+            "鸡"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Chicken",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中古",
+            "猪"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Pork",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "中古",
+            "大虾"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "King",
+            "Prawn",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Sweet",
+                "and",
+                "Sour",
+                "Chicken",
+                "Cantonese",
+                "Style"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "中古"
+        ],
+        "english_name": [
+            "Sweet",
+            "and",
+            "Sour",
+            "Fish",
+            "Fillet",
+            "Cantonese",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "类"
+        ],
+        "english_name": [
+            "CURRY",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "鸡"
+        ],
+        "english_name": [
+            "Chicken",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "牛"
+        ],
+        "english_name": [
+            "Beef",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "大虾"
+        ],
+        "english_name": [
+            "King",
+            "Prawn",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖喱",
+            "叉烧"
+        ],
+        "english_name": [
+            "Roast",
+            "Pork",
+            "Char",
+            "Siu",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Chicken",
+                "Curry"
+            ]
+        ]
+    },
+    {
+        "chinese_name": [
+            "招牌",
+            "咖喱"
+        ],
+        "english_name": [
+            "House",
+            "Special",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "斋菜",
+            "类"
+        ],
+        "english_name": [
+            "VEGETARIAN",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炸",
+            "草"
+        ],
+        "english_name": [
+            "Crispy",
+            "Seaweed"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "什",
+            "才",
+            "米"
+        ],
+        "english_name": [
+            "Vegetarian",
+            "Singapore",
+            "Rice",
+            "Noodles"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "召",
+            "盐",
+            "豆腐"
+        ],
+        "english_name": [
+            "Salt",
+            "and",
+            "Chilli",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "什",
+            "菜",
+            "豆腐"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetable",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "炒",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Stir",
+            "Fried",
+            "Mixed",
+            "Vegetables"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "咖哩",
+            "什",
+            "菜"
+        ],
+        "english_name": [
+            "Mixed",
+            "Vegetable",
+            "Curry"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "四川",
+            "茄子"
+        ],
+        "english_name": [
+            "Aubergine",
+            "Szechuan",
+            "Style"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "士",
+            "召",
+            "豆腐"
+        ],
+        "english_name": [
+            "Tofu",
+            "with",
+            "Green",
+            "Pepper",
+            "in",
+            "Black",
+            "Bean",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蒜蓉",
+            "西兰",
+            "花"
+        ],
+        "english_name": [
+            "Broccoli",
+            "in",
+            "Garlic",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "耗油",
+            "小白菜"
+        ],
+        "english_name": [
+            "Pak",
+            "Choi",
+            "in",
+            "Oyster",
+            "Sauce"
+        ],
+        "chinese_description": [],
+        "english_description": [
+            [
+                "Salt",
+                "and",
+                "Chill",
+                "Tofu"
+            ]
+        ]
+    }
+]

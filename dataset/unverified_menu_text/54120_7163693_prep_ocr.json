@@ -1,0 +1,140 @@
+[
+    {
+        "chinese_name": [
+            "煲仔",
+            "浓",
+            "菜"
+        ],
+        "english_name": [
+            "CLAY",
+            "POT",
+            "DISHES"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "蟹黄",
+            "茄子",
+            "煲"
+        ],
+        "english_name": [],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "酱香",
+            "鸡",
+            "仔",
+            "煲"
+        ],
+        "english_name": [
+            "Duck",
+            "Yolk",
+            "with",
+            "Aubergine"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "红",
+            "酱",
+            "羊",
+            "腩",
+            "煲"
+        ],
+        "english_name": [
+            "Tender",
+            "Lamb",
+            "Belly"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "家常",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "Home",
+            "Style",
+            "Tofu",
+            "with",
+            "Minced",
+            "Pork"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "香干",
+            "腊肉",
+            "煲"
+        ],
+        "english_name": [
+            "Smoked",
+            "Hunan",
+            "Bacon",
+            "and",
+            "Dry",
+            "Tofu"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "五味",
+            "鸡煲"
+        ],
+        "english_name": [
+            "Five",
+            "Flavour",
+            "Spring",
+            "Chicken"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "鱼头",
+            "豆腐",
+            "煲"
+        ],
+        "english_name": [
+            "Diced",
+            "Salmon",
+            "Head",
+            "with",
+            "Beancurd"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    },
+    {
+        "chinese_name": [
+            "农家",
+            "香干",
+            "煲"
+        ],
+        "english_name": [
+            "Pork",
+            "and",
+            "Smoked",
+            "Beancurd",
+            "with",
+            "Green",
+            "Chili"
+        ],
+        "chinese_description": [],
+        "english_description": []
+    }
+]
