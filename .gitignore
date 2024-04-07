@@ -1,3 +1,5 @@
 .DS_Store
 utils/__pycache__
 menu-ocr-390814-99b5549068a5.json
+menu_parser/clean_menu_text.ipynb
+dataset/cleaned_menu_text/original_combined_dish.csv
