@@ -229,7 +229,7 @@ chinese_name,english_name,chinese_description,english_description,quality
 干贝扒芦笋,braised asparagus with scallops  ,[],[],high
 冬笋炒肉丝,sauteed shredded pork with bamboo shoots,[],[],high
 斑腩豆腐煲,monk fish fried bean curd and vegetables in clay pot,[],[],medium
-素春卷素云吞椒盐斋鸡椒盐豆腐海草,vegetarian mapo tofu in sichuan sauce,[],[],high
+苏麻婆豆腐,vegetarian mapo tofu in sichuan sauce,[],[],high
 清蒸多佛龙利鱼,steamed dover sole,[],[],high
 凉拌香酥鸭沙律,crispy aromatic duck salad,[],[],high
 椒盐软壳蟹,deep fried soft shell crab with garlic in spicy salt and pepper,[],[],medium
@@ -2326,7 +2326,7 @@ chinese_name,english_name,chinese_description,english_description,quality
 葱烧带子,sauteed scallop with spring onion,[],[],high
 鱼香牛肉,yuxiang beef sauteed in spicy garlic sauce,[],[],high
 酥炸鱿鱼圈,crispy pastry savoury meat croquette contain shrimp,[],['ORIENT'],high
-供参考出品以实物为准,the fictures are or reerence only subject to the actual rouct,[],[],high
+美点映双辉,chinese petit fours,[],[],high
 叉烧包,bbq pork bun,[],[],medium
 斋饺,vegetable dumpling,[],[],medium
 湘味回锅肉,"hot and spicy pork slices, hunan style",[],[],high

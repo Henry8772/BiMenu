@@ -259,7 +259,7 @@ def draw_boxes_2_points(image, bounds, outer_color):
 
 
         # Draw the bounding box with the semi-transparent fill and opaque border
-        draw.polygon(corners, outline=outer_color, width=2)
+        draw.polygon(corners, outline=outer_color, width=5)
 
     return image
 
