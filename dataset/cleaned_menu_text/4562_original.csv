@@ -32,7 +32,7 @@ chinese_name,english_name,chinese_description,english_description,quality
 西芹炒鲈鱼球,sea bream steamed braised in soy sauce deep fried with soy sauce,[],[],high
 红烧狮子头,braised pork ball in brown sauce,[],[],high
 番茄疙瘩汤,dough drop tomato soup,[],[],medium
-佛跳墙位用需提前五日预定,buddha jumps over the wall,[],['For people need to book five days in advance'],high
+佛跳墙,buddha jumps over the wall,[],['For people need to book five days in advance'],high
 凉拌牛肚,spicy beef tripe,[],[],medium
 煎什菜粉果,pan-fried vegetable dumplings,[],[],high
 红糖糍粑,deep fried glutinous rice cake with melted brown sugar,[],[],high
@@ -163,7 +163,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 浓汁四宝鱼翅,shark fin soup with four delicacies,[],[],high
 清蒸全鸭,steamed whole duck ,[],[],high
 冰镇芥兰,iced chinese broccoli,[],[],high
-请在点餐前告知我们任何过敏或不耐受情况,please inform us of any allergies or intolerances prior to ordering,[],['Genetically modified oil may be used'],high
 鲍汁扣东坡肉,braised dongpo pork with abalone sauce,[],[],high
 豉椒羊肉,sliced lamb with green pepper in black bean sauce,[],[],medium
 百花酿鸭片,pak far roasted duck with prawn meat stuffing,[],[],medium
@@ -313,12 +312,10 @@ chinese_name,english_name,chinese_description,english_description,quality
 油酱毛蟹,braised river crab with soy bean paste,[],[],high
 豉椒牛肉,beef with green pepper and black bean,[],[],medium
 四川大虾球,stir fried scallops and,[],['Cuttlefish with Broccoli'],high
-毛血旺鸭血金钱肚牛柏叶肥肠午餐肉等等,assorted meats in fiery sauce,[],"[""DUCK BLOOD HONEYCOMB BEEF TRIPE BEEF TRIPE PIG'S INTESTINE LUNCHEON PORK ETC""]",high
 飘香榴莲酥,durian crisp v,[],[],medium
 明炉烧鸭全去骨,roast duck whole boneless,[],[],medium
 蜜汁叉烧,char siu bbq pork,[],[],high
 铁板黑椒羊肉,sizzling sliced lamb in black pepper sauce,[],[],medium
-巴山冒菜鱼丸虾牛柏叶午餐肉肥牛等等,barshu special maocai,[],['FISH BALL PRAWN BEEF TRIPE LUNCHEON PORK THIN SLICED BEEF ETC'],high
 斋饺,veg dumpling,[],[],high
 干锅藕片,dry wok sliced lotus root,[],['Stir fried crunchy sliced lotus roots with fresh garlic mixed peppers chilli and celery in spicy Sichuan sauce'],high
 炸烹虾球,fried prawn,[],[],high
@@ -436,7 +433,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 丝苗白饭,steamed jasmine rice,[],['(v)'],high
 杨枝甘露,mango pomelo sago v,[],[],medium
 砂锅萝卜羊排,stewed lamb chops and turnip in casserole ,[],[],high
-饼,with pancake）,[],[],high
 白切鸡饭,fragrant poached chicken with rice,[],[],medium
 雪豆虾,sauteed shrimp with snow peas,[],[],high
 黄金豆腐粒,golden crispy tofu cubes v,[],[],high
@@ -803,7 +799,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 凉拌麻辣牛柳丝,ma la beef tenderloin salad,[],[],high
 蒜炒四季豆,string beans with garlic,[],"['Original 180kcal', 'Vegan']",high
 酱料火锅酱油生蒜蓉尖辣椒海鲜酱香菜,sauce hot pot soy sauce raw garlic,[],['Mix Chop Chilli Seafood Sauce Coriander'],high
-非本店出售的食品酒水谢绝带入餐厅用,outside food and beverages are not permitted to be brought inside the restaurant,[],[],high
 肉饼,minced pork meatpie,[],[],high
 红烧毛芋头,braised taro in brown sauce,[],[],high
 紫菜海鲜汤,mixed seafood seaweed soup,[],[],medium
@@ -832,7 +827,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 椒盐鲜鱿,fried squids with chilli and salt,[],[],medium
 雷沙汤圆,black sesame dumplings in peanut crumbs,[],[],high
 蟹米汤,crab sweetcorn soup,[],[],medium
-我们会加收服务费,wecharge a service charge on all customers,[],[],high
 宫爆鸡,kung po chicken,[],[],medium
 糖糟鱼块,sweet and sour fish fillet,[],[],medium
 松软香甜豆沙包,home-made style steamed buns with sweet red bean paste filling,[],"['Red Bean, Dough']",high
@@ -1081,7 +1075,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 上海粗炒,stir-fried noodles in shanghainese style,[''],[],high
 周公三鲜浓汤面,"noodle soup with fish maw, abalone and sea cucumber",[],[],high
 蟹肉粟米羹,crab meat thick soup with sweet corn,[],[],high
-人点心炸拼墨鱼饼鲜虾炸腐皮卷南瓜饼明虾饺海草,and meat dumplings grilled pork dumplings mixed vegetable dumplings,[''],"['Crispy Seaweed', 'C3', 'per head', 'Home Fried Dim Sum Appetizer Minimum persons Deep Fried']",high
 芒果布丁,mango pudding,[],"['Mango, Pudding Powder']",high
 铁板中式牛柳,sizzling fillet steak in cantonese style,[],[],medium
 干拌顺风,pig ear in chili sauce,[],[],high
@@ -1114,7 +1107,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 煎酿三宝,grilled stuffed beancurd green pepper and aubergine,[],['with prawn paste'],medium
 鲍汁花菇烧鹅掌,braised goose webs and mushrooms in abalone sauce,[],[],high
 上海小笼包,shanghai xiao long bao,[],[],high
-喝中国茶的客人们茶位是每位,chinese tea will be charged at per person,[],[],high
 银芽豉油皇炒面,soft noodles with silver sprouts,[],[],medium
 辣子鸡,fragrant chilli chicken,[],['Stir fried tender chicken pieces with dried hot red chillies garlic Sichuan peppercorns and red chilli oil until spicy and fragrant'],high
 吉鱼鳟鱼,bull trout）,[],[],high
@@ -1545,7 +1537,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 辣子软壳蟹,crispy soft shell crab with fragrant chopped red chillies,[],[],high
 豉椒蒸鳝,steamed eel in chilli and black bean sauce,[],[],medium
 跳水木耳,black fungus with pickled capsicum,[],[],high
-在营业过程中地面或许会撒上汤汁或油污请你小心以免发生任何意外,is the ideal venu for an important lunch,[],"['meeting tranquil afternoon ea or fun filled', 'During the business hour oil stains and soup may be spilled on the ground plase be cautious', 'dinner party Opened in autumn we']",high
 陈皮牛肉丸,chinese style beef ball,[],[],medium
 虾球炒面,king prawn chow mein with crispy or soft noodle,[],[],high
 香煎锅貼,grilled dumplings,[],[],medium
@@ -1560,7 +1551,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 冬草花炖海星,stewed starish with aweto,[],[],high
 川味麻婆豆腐,ma po tofu,[],[],high
 棒渣粥,minced corner congee,[],[],high
-饼,"turtle（steamed with chinese wolfberry, stewed, griddled/ served ",[],[],high
 清蒸姜葱避风塘椒盐香辣麻辣,blue crab one portion,[],"['Steamed Ginger and Spring Onion Deep Fried with Dried', 'Shallots Salt and Pepper with Dried Spicy Chilli In Spicy', 'Chilli Sauce with Sichuan Peppercorn']",high
 荷香蒸乳鸽,steamed pigeon wrapped in lotus leaves,[],[],high
 干蒸烧卖皇,sui mai prawn and pork meat dumplings pieces,[],[],medium
@@ -1578,7 +1568,7 @@ chinese_name,english_name,chinese_description,english_description,quality
 当归鸭卷,duck rolls with angelica,[],[],high
 宫廷酱烤骨,salt and chilli squid braised spare ribs,[],[],high
 土豆炒牛柳条,stir-fry beef tenderloin with potatoes,[],[],high
-花蛤白蛤豉汁炒姜葱辣炒啤酒凉拌,stir fried clams surf clams with black bean sauce ginger and spring onion,[],['Spicy Chilli Sauce In Spicy Beer Sauce Blanched with Soy Sauce'],high
+花蛤白蛤豉汁姜葱辣炒,stir fried clams surf clams with black bean sauce ginger and spring onion,[],['Spicy Chilli Sauce In Spicy Beer Sauce Blanched with Soy Sauce'],high
 蛋炒饭,egg fried rice,[],[],high
 姜葱大虾,king prawns with ginger and spring onions,[],[],medium
 火龙燕液翅,stewed shark fin and bird’s nest served in dragon fruit,[],[],high
@@ -1902,7 +1892,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 四川牛肉,fried sliced beef in szechwan sauce,[],[],medium
 软溜肥肠,quick-fried pork intestines with brown sauce,[],[],high
 滑溜里脊片,stir-fried sliced pork tenderloin,[],[],high
-如有任何过敏或不耐受请在点餐前咨询我们的工作人员,please kindly speak to our staff for food allergen and intolerance before you place your order,[],[],high
 豉汁煎焗塘虱,pan-fried catish with black bean sauce,[],[],high
 老干妈香辣鸡,spicy chicken with laoganma hot dry chilli,[],[],high
 干炸多春鱼,deep-fried shisamo,[],[],high
@@ -2001,7 +1990,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 瓦窑鸡,barbecued chicken,[],[],high
 辔椒鸡杂面,chicken giblets with pickled chillis served with soup noodle,[],[],medium
 麻辣小龙虾,spicy crayfish in hunan style,[],[],high
-喝中国茶的客人们茶位是每位,chinese tea will be charged at per person,[],[],high
 猪肉虾仁云吞,pork and prawn wontons,[],['P'],high
 春卷炸粉果烧卖姜葱牛肉饺海草酸菜,spring roll prawn parcel sui mai beef dumpling with ginger and spring onion,[],['Seaweed and Pickled Vegetables'],high
 叉烧包,char siu bun,[],[],high
@@ -2257,7 +2245,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 鸡球炒饭,sliced chicken fried rice,[],[],medium
 香椿煎蛋,fried eggs with chopped chinese toon leaves,[],[],high
 酥炸鲜虾饺,crispy prawn wonton,[],[],high
-在你的账单总额中会加入的服务费,please talk with our sta about food allergy and intolerance and avoid them before ordering,[],[],high
 上汤芥菜胆,chinese mustard green in chicken soup,[],[],high
 白灵菇牛柳,sauteed beef fillet with mushroom,[],[],high
 鸽蛋烧裙边,braised turtle rim with pigeon eggs,[],[],high
@@ -3028,7 +3015,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 尖椒皮蛋,preserved egg with hot pepper serve chilled v s,[],[],high
 四川汤圆,"tangyuan, sichuan style",[],[],high
 椒盐大虾球,salt and pepper king prawns,[],[],medium
-喝中国茶的客人们茶位是每位,chinese tea will be charged at per person,[],[],high
 青椒银芽丝,stir fried beansprouts and green pepper,[],[],high
 炸鸡肝,fried chicken gizzards,[],[],high
 咖喱鸡排,deep-fried chicken breast fillet with curry sauce,[],"['Chicken Breast, Curry Sauce']",high
@@ -3397,7 +3383,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 椒盐茄子丁,deep-fried diced eggplant with spiced salt,[],[],high
 辔椒凤爪,chicken feet with pickled chilli peppers,[],[],medium
 杂烩福建炒拉面,mixed meat and seafood fujian pull noodle,[],[],high
-最少种起做锅底费以上免锅底费,minimum items per pot,[],['R26'],high
 鸡肝炒蛋,scrambled eggs with chicken liver,[],[],high
 夏果海鲜,stir-fry seafood with macadamia nuts,[],[],high
 羊宝,sheep’s testicle,[],[],high
@@ -3483,7 +3468,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 酱炒豆,french beans wasabi soy and osmanthus jelly,[],[],high
 酸辣鸳鸯茄,golden aubergine with osmanthus and cherry tomato,[],['(v)'],high
 洋葱牛肉,b beef with onions,[],[],high
-以下蔬菜均可选择做法清炒蒜蓉马来盏椒丝腐乳,the following vegetables are available in the following options,[],"['Stir Fried Garlic Shrimp Paste Preserved Tofu', 'M1']",high
 香糟鸭卷,duck rolls marinated in rice wine,[],[],high
 兰花双味虾仁,sauteed shelled shrimp with broccoli in two flavors,[],[],high
 浓汁鲍鱼,braised shredded abalone in thick soup,[],[],high
@@ -3763,7 +3747,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 酥皮鲍鱼挞,abalone flaky tart with aged balsamic vinegar,[],[],high
 唐舍明炉烧鸭,gouqi's signature roast duck,[],[],high
 桃胶杞子饺,peach gum yam and goji dumpling,[],['(v)'],high
-咖喱鸡角海南辣虾角香辣鱼饼葱油饼海草香辣酸菜,curried chicken samosa spicy hoi lam parcel chilli fish cake spring onion pancake,[],['Seaweed and Spicy Pickled Vegetables'],high
 茄丁面,noodle with diced eggplant,[],[],high
 凉拌芹菜根,celery root salad,[],[],medium
 土豆焖牛腩,stewed beef brisket and potato,[],[],medium
@@ -3805,7 +3788,7 @@ chinese_name,english_name,chinese_description,english_description,quality
 油辔海中宝,quick fried sea treasures,[],[],medium
 爽口白菜丝,shredded chinese cabbage,[],[],high
 椒盐头爪,lobster head and claws with spiced salt,[],[],high
-姜葱龙虾可加伊面脆面底,deep fried lobster with ginger and spring onion sauce,[],['Can Add Egg Noodle Crispy Noodle'],high
+姜葱龙虾,deep fried lobster with ginger and spring onion sauce,[],['Can Add Egg Noodle Crispy Noodle'],high
 烩滑籽菇,braised mushrooms,[],[],high
 兔肉咸水角,rabbit and carrot glutinous puff,[],[],high
 糖醋鲈鱼,sea bass cooked with sweet and sour sauce,[],[],medium
@@ -4055,7 +4038,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 蜜糖柠檬鸡,lemon and honey chicken,[],[],high
 冬菇酸辣羹,vegetarian hot and sour soup,[],[],medium
 咖喱肉,curry pork,[],[],high
-人点心拼盘笋尖虾饺皇黄蒸烧卖香煎锅贴翡翠罗汉斋饺海草,crispy spring rolls sesame prawn toast crispy seaweed salt and pepper,[],"['Chicken', 'C2', 'per head']",high
 农家酱油炒饭,farmhouse fried rice,[],[],high
 家乡红烧肉,braised pork belly with soy sauce,[],[],medium
 香菇粟米饺,chinese mushroom and corn dumplings v vg,[],[],medium
@@ -4093,7 +4075,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 流沙包,steamed duck yolk custard bun,[],[],high
 葱花炸两肠粉,royal china club mixed seafood cheung fun,[],[],high
 鸡球炒饭,sliced chicken fried rice,[],[],medium
-本厅将不容忍任何的暴力行为违者将会报警处理,oer our guests an all day grazing experi,[],"['ence specialising in authentic dim sum', 'Any form of violence will not be prmitted in the restaurant', 'modern Cantonese and traditional Shanghai']",high
 姜葱肉片,pork with ginger and spring onion,[],[],high
 星洲炒米粉,singapore vermicelli,[],[],medium
 川式红烧鱼翅,"braised shark fin, sichuan style",[],[],high
@@ -4288,7 +4269,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 大虾干扣娃娃菜,poached chinese cabbage with superior dried shrimps in superior stock,[],[],high
 叉烧汤面,char siu and vegetable with noodle,[],['Soup'],high
 椒丝炒通菜,stir fried morning glory with chilli,[],[],medium
-喝中国茶的客人们茶位是每位,chinese tea will be charged at per person,[],[],high
 五香大排,multi-spiced pork ribs,[],[],high
 酱鸭,duck in brown sauce,[],[],high
 铁板吊烧茄子,sizzling braised aubergine in garlic sauce,[],[],high
@@ -4553,7 +4533,6 @@ chinese_name,english_name,chinese_description,english_description,quality
 酸菜,pickled vegetables,[],[],medium
 斋麻婆豆腐,ma po tofu bean curd with chilli and pepper,[],[],medium
 四川担担面四川担麺,the legendary dan dan noodles with minced pork,[''],[],high
-请在本餐厅内时刻照看好小朋友本餐厅将不负责如有任何的意外,kindly supervise your children a all times during your visit a our restaurant,[],"['We will not be liable or responsible for any accident occurred with any unatended children in', 'our resaurant']",high
 豆酱炒珍宝蟹,sauteed jumbo crab with soy bean paste,[],[],high
 锅仔鱼肚浸围虾,stewed fish maw with shrimps,[],[],high
 川味红汤鸡,"braised chicken in spicy sauce, sichuan style",[],[],high
@@ -4561,3 +4540,23 @@ chinese_name,english_name,chinese_description,english_description,quality
 各色饭面粉,rice noodles and pho noodles,[],[],high
 碧绿香肘扣鲍片,braised sliced abalone with pig knuckle and green vegetables,[],[],high
 家常烧豆腐,homemade sauteed tofu with sliced pork,[],[],medium
+泡参桂圆炖雪蛤,Double-boiled Hashima with America Ginseng and Dried Longan,[],[],high
+燕窝椰子布丁,Almond Pudding topped with Bird’s Nest served in Young Coconut; Coconut Fantasy,[],[],high
+冰糖金丝燕窝,Double-boiled Superior Bird’s Nest with Rock Sugar,[],[],high
+四川钟水饺,Szechwan-Style Poached Pork Dumpling,[],[],high
+水晶鲜虾饺,Steamed Crystal Prawn Dumpling,[],[],high
+鱼子蒸烧卖,Steamed 'Siew Mai' with Tobiko,[],[],high
+波菜虾蒸饺,Steamed Spinach Shrimp Dumpling,[],[],high
+野菌松露饺,Steamed Assorted Mushroom Truffle Dumpling,[],[],high
+红油海鲜饺,Poached Seafood Dumpling in Spicy and Sour Dressing,[],[],high
+麻辣蒸粉果,Steamed Mala Pork Dumpling,[],[],high
+密汁叉烧包,Steamed Honey Glazed Barbecued Pork Bun,[],[],high
+酸辣鲜竹卷,Steamed Beancurd Skin Roll with Prawn in Spicy and Sour Sauce,[],[],high
+炭粉流沙包,Steamed Charcoal Custard Bun,[],[],high
+双味小龙包,Duo Flavour Xiao Long Bao,[],[],high
+芦笋虾肠粉,Steamed Rice Roll with Prawn and Asparagus,[],[],high
+叉烧蒸肠粉,Steamed Rice Roll with Roasted Barbecued Pork,[],[],high
+紫菜腐皮卷,Deep-fried Beancurd Skin Seaweed Roll,[],[],high
+金露酥蛋达,Flaky Baked Egg Tart,[],[],high
+孜然和牛肉,Sautéed Sliced Wagyu Beef with Cumin,[],[],high
+黑醋咕咾肉,Sweet and Sour Pork with Black Vinegar,[],[],high
